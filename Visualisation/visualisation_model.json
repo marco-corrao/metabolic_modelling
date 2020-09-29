@@ -1,0 +1,9326 @@
+{
+"metabolites":[
+{
+"id":"dhap_c",
+"name":"Dihydroxyacetone phosphate",
+"compartment":"c",
+"charge":-2,
+"formula":"C3H5O6P"
+},
+{
+"id":"prbatp_c",
+"name":"1-(5-Phosphoribosyl)-ATP",
+"compartment":"c",
+"charge":-6,
+"formula":"C15H19N5O20P4"
+},
+{
+"id":"10fthf_c",
+"name":"10-Formyltetrahydrofolate",
+"compartment":"c",
+"charge":-2,
+"formula":"C20H21N7O7"
+},
+{
+"id":"co2_e",
+"name":"CO2 CO2",
+"compartment":"e",
+"charge":0,
+"formula":"CO2"
+},
+{
+"id":"akg_e",
+"name":"2-Oxoglutarate",
+"compartment":"e",
+"charge":-2,
+"formula":"C5H4O5"
+},
+{
+"id":"2pg_c",
+"name":"D-Glycerate 2-phosphate",
+"compartment":"c",
+"charge":-3,
+"formula":"C3H4O7P"
+},
+{
+"id":"13dpg_c",
+"name":"3-Phospho-D-glyceroyl phosphate",
+"compartment":"c",
+"charge":-4,
+"formula":"C3H4O10P2"
+},
+{
+"id":"prbamp_c",
+"name":"1-(5-Phosphoribosyl)-AMP",
+"compartment":"c",
+"charge":-4,
+"formula":"C15H19N5O14P2"
+},
+{
+"id":"fpram_c",
+"name":"2-(Formamido)-N1-(5-phospho-D-ribosyl)acetamidine",
+"compartment":"c",
+"charge":-1,
+"formula":"C8H15N3O8P"
+},
+{
+"id":"thr__L_c",
+"name":"L-Threonine",
+"compartment":"c",
+"charge":0,
+"formula":"C4H9NO3"
+},
+{
+"id":"fum_p",
+"name":"Fumarate",
+"compartment":"p",
+"charge":-2,
+"formula":"C4H2O4"
+},
+{
+"id":"flxr_c",
+"name":"Flavodoxin reduced",
+"compartment":"c",
+"charge":-1,
+"formula":"XH"
+},
+{
+"id":"gln__L_e",
+"name":"L-Glutamine",
+"compartment":"e",
+"charge":0,
+"formula":"C5H10N2O3"
+},
+{
+"id":"3ohexACP_c",
+"name":"3-Oxohexanoyl-[acyl-carrier protein]",
+"compartment":"c",
+"charge":-1,
+"formula":"C17H29N2O9PRS"
+},
+{
+"id":"3ocddec5eACP_c",
+"name":"3-oxo-cis-dodec-5-enoyl-[acyl-carrier protein]",
+"compartment":"c",
+"charge":-1,
+"formula":"C23H39N2O9PRS"
+},
+{
+"id":"r5p_c",
+"name":"Alpha-D-Ribose 5-phosphate",
+"compartment":"c",
+"charge":-2,
+"formula":"C5H9O8P"
+},
+{
+"id":"akg_c",
+"name":"2-Oxoglutarate",
+"compartment":"c",
+"charge":-2,
+"formula":"C5H4O5"
+},
+{
+"id":"ac_c",
+"name":"Acetate",
+"compartment":"c",
+"charge":-1,
+"formula":"C2H3O2"
+},
+{
+"id":"dca_c",
+"name":"Decanoate (n-C10:0)",
+"compartment":"c",
+"charge":-1,
+"formula":"C10H19O2"
+},
+{
+"id":"citr__L_c",
+"name":"L-Citrulline",
+"compartment":"c",
+"charge":0,
+"formula":"C6H13N3O3"
+},
+{
+"id":"34hpp_c",
+"name":"3-(4-Hydroxyphenyl)pyruvate",
+"compartment":"c",
+"charge":-1,
+"formula":"C9H7O4"
+},
+{
+"id":"pep_c",
+"name":"Phosphoenolpyruvate",
+"compartment":"c",
+"charge":-3,
+"formula":"C3H2O6P"
+},
+{
+"id":"h_c",
+"name":"H+",
+"compartment":"c",
+"charge":1,
+"formula":"H"
+},
+{
+"id":"rib__D_c",
+"name":"D-Ribose",
+"compartment":"c",
+"charge":0,
+"formula":"C5H10O5"
+},
+{
+"id":"gthrd_c",
+"name":"Reduced glutathione",
+"compartment":"c",
+"charge":-1,
+"formula":"C10H16N3O6S"
+},
+{
+"id":"actACP_c",
+"name":"Acetoacetyl-ACP",
+"compartment":"c",
+"charge":-1,
+"formula":"C15H25N2O9PRS"
+},
+{
+"id":"hdcea_c",
+"name":"Hexadecenoate (n-C16:1)",
+"compartment":"c",
+"charge":-1,
+"formula":"C16H29O2"
+},
+{
+"id":"actp_c",
+"name":"Acetyl phosphate",
+"compartment":"c",
+"charge":-2,
+"formula":"C2H3O5P"
+},
+{
+"id":"pyr_p",
+"name":"Pyruvate",
+"compartment":"p",
+"charge":-1,
+"formula":"C3H3O3"
+},
+{
+"id":"cyst__L_c",
+"name":"L-Cystathionine",
+"compartment":"c",
+"charge":0,
+"formula":"C7H14N2O4S"
+},
+{
+"id":"dutp_c",
+"name":"DUTP C9H11N2O14P3",
+"compartment":"c",
+"charge":-4,
+"formula":"C9H11N2O14P3"
+},
+{
+"id":"octa_c",
+"name":"Octanoate (n-C8:0)",
+"compartment":"c",
+"charge":-1,
+"formula":"C8H15O2"
+},
+{
+"id":"h2o_p",
+"name":"H2O H2O",
+"compartment":"p",
+"charge":0,
+"formula":"H2O"
+},
+{
+"id":"glyc3p_c",
+"name":"Glycerol 3-phosphate",
+"compartment":"c",
+"charge":-2,
+"formula":"C3H7O6P"
+},
+{
+"id":"2ahbut_c",
+"name":"(S)-2-Aceto-2-hydroxybutanoate",
+"compartment":"c",
+"charge":-1,
+"formula":"C6H9O4"
+},
+{
+"id":"ser__L_c",
+"name":"L-Serine",
+"compartment":"c",
+"charge":0,
+"formula":"C3H7NO3"
+},
+{
+"id":"toct2eACP_c",
+"name":"Trans-Oct-2-enoyl-[acyl-carrier protein]",
+"compartment":"c",
+"charge":-1,
+"formula":"C19H33N2O8PRS"
+},
+{
+"id":"ump_c",
+"name":"UMP C9H11N2O9P",
+"compartment":"c",
+"charge":-2,
+"formula":"C9H11N2O9P"
+},
+{
+"id":"hdceap_c",
+"name":"Hexadecanoyl-phosphate (n-C16:1)",
+"compartment":"c",
+"charge":-1,
+"formula":"C16H30O5P"
+},
+{
+"id":"3pg_c",
+"name":"3-Phospho-D-glycerate",
+"compartment":"c",
+"charge":-3,
+"formula":"C3H4O7P"
+},
+{
+"id":"ctp_c",
+"name":"CTP C9H12N3O14P3",
+"compartment":"c",
+"charge":-4,
+"formula":"C9H12N3O14P3"
+},
+{
+"id":"dadp_c",
+"name":"DADP C10H12N5O9P2",
+"compartment":"c",
+"charge":-3,
+"formula":"C10H12N5O9P2"
+},
+{
+"id":"xu5p__D_c",
+"name":"D-Xylulose 5-phosphate",
+"compartment":"c",
+"charge":-2,
+"formula":"C5H9O8P"
+},
+{
+"id":"aspsa_c",
+"name":"L-Aspartate 4-semialdehyde",
+"compartment":"c",
+"charge":0,
+"formula":"C4H7NO3"
+},
+{
+"id":"thex2eACP_c",
+"name":"Trans-Hex-2-enoyl-[acyl-carrier protein]",
+"compartment":"c",
+"charge":-1,
+"formula":"C17H29N2O8PRS"
+},
+{
+"id":"t3c9palmeACP_c",
+"name":"Trans-3-cis-9-palmitoleoyl-[acyl-carrier protein]",
+"compartment":"c",
+"charge":-1,
+"formula":"C27H47N2O8PRS"
+},
+{
+"id":"accoa_c",
+"name":"Acetyl-CoA",
+"compartment":"c",
+"charge":-4,
+"formula":"C23H34N7O17P3S"
+},
+{
+"id":"arg__L_c",
+"name":"L-Arginine",
+"compartment":"c",
+"charge":1,
+"formula":"C6H15N4O2"
+},
+{
+"id":"26dap_LL_c",
+"name":"LL-2,6-Diaminoheptanedioate",
+"compartment":"c",
+"charge":0,
+"formula":"C7H14N2O4"
+},
+{
+"id":"asp__L_c",
+"name":"L-Aspartate",
+"compartment":"c",
+"charge":-1,
+"formula":"C4H6NO4"
+},
+{
+"id":"acg5sa_c",
+"name":"N-Acetyl-L-glutamate 5-semialdehyde",
+"compartment":"c",
+"charge":-1,
+"formula":"C7H10NO4"
+},
+{
+"id":"hexACP_c",
+"name":"Hexanoyl-ACP (n-C6:0ACP)",
+"compartment":"c",
+"charge":-1,
+"formula":"C17H31N2O8PRS"
+},
+{
+"id":"skm_c",
+"name":"Shikimate",
+"compartment":"c",
+"charge":-1,
+"formula":"C7H9O5"
+},
+{
+"id":"imp_c",
+"name":"IMP C10H11N4O8P",
+"compartment":"c",
+"charge":-2,
+"formula":"C10H11N4O8P"
+},
+{
+"id":"o2_c",
+"name":"O2 O2",
+"compartment":"c",
+"charge":0,
+"formula":"O2"
+},
+{
+"id":"ocdcea_c",
+"name":"Octadecenoate (n-C18:1)",
+"compartment":"c",
+"charge":-1,
+"formula":"C18H33O2"
+},
+{
+"id":"h_p",
+"name":"H+",
+"compartment":"p",
+"charge":1,
+"formula":"H"
+},
+{
+"id":"succ_p",
+"name":"Succinate",
+"compartment":"p",
+"charge":-2,
+"formula":"C4H4O4"
+},
+{
+"id":"phpyr_c",
+"name":"Phenylpyruvate",
+"compartment":"c",
+"charge":-1,
+"formula":"C9H7O3"
+},
+{
+"id":"fru_e",
+"name":"D-Fructose",
+"compartment":"e",
+"charge":0,
+"formula":"C6H12O6"
+},
+{
+"id":"pyr_e",
+"name":"Pyruvate",
+"compartment":"e",
+"charge":-1,
+"formula":"C3H3O3"
+},
+{
+"id":"5mthf_c",
+"name":"5-Methyltetrahydrofolate",
+"compartment":"c",
+"charge":-1,
+"formula":"C20H24N7O6"
+},
+{
+"id":"nad_c",
+"name":"Nicotinamide adenine dinucleotide",
+"compartment":"c",
+"charge":-1,
+"formula":"C21H26N7O14P2"
+},
+{
+"id":"tdeACP_c",
+"name":"Cis-tetradec-7-enoyl-[acyl-carrier protein] (n-C14:1)",
+"compartment":"c",
+"charge":-1,
+"formula":"C25H45N2O8PRS"
+},
+{
+"id":"3ocvac11eACP_c",
+"name":"3-oxo-cis-vacc-11-enoyl-[acyl-carrier protein]",
+"compartment":"c",
+"charge":-1,
+"formula":"C29H51N2O9PRS"
+},
+{
+"id":"3hoctaACP_c",
+"name":"(R)-3-Hydroxyoctadecanoyl-[acyl-carrier protein]",
+"compartment":"c",
+"charge":-1,
+"formula":"C29H55N2O9PRS"
+},
+{
+"id":"ocdca_c",
+"name":"Octadecanoate (n-C18:0)",
+"compartment":"c",
+"charge":-1,
+"formula":"C18H35O2"
+},
+{
+"id":"adp_c",
+"name":"ADP C10H12N5O10P2",
+"compartment":"c",
+"charge":-3,
+"formula":"C10H12N5O10P2"
+},
+{
+"id":"mal__L_c",
+"name":"L-Malate",
+"compartment":"c",
+"charge":-2,
+"formula":"C4H4O5"
+},
+{
+"id":"g3p_c",
+"name":"Glyceraldehyde 3-phosphate",
+"compartment":"c",
+"charge":-2,
+"formula":"C3H5O6P"
+},
+{
+"id":"etoh_c",
+"name":"Ethanol",
+"compartment":"c",
+"charge":0,
+"formula":"C2H6O"
+},
+{
+"id":"so3_c",
+"name":"Sulfite",
+"compartment":"c",
+"charge":-2,
+"formula":"O3S"
+},
+{
+"id":"met__L_c",
+"name":"L-Methionine",
+"compartment":"c",
+"charge":0,
+"formula":"C5H11NO2S"
+},
+{
+"id":"aicar_c",
+"name":"5-Amino-1-(5-Phospho-D-ribosyl)imidazole-4-carboxamide",
+"compartment":"c",
+"charge":-2,
+"formula":"C9H13N4O8P"
+},
+{
+"id":"5aizc_c",
+"name":"5-amino-1-(5-phospho-D-ribosyl)imidazole-4-carboxylate",
+"compartment":"c",
+"charge":-3,
+"formula":"C9H11N3O9P"
+},
+{
+"id":"ac_e",
+"name":"Acetate",
+"compartment":"e",
+"charge":-1,
+"formula":"C2H3O2"
+},
+{
+"id":"glx_c",
+"name":"Glyoxylate",
+"compartment":"c",
+"charge":-1,
+"formula":"C2H1O3"
+},
+{
+"id":"etoh_e",
+"name":"Ethanol",
+"compartment":"e",
+"charge":0,
+"formula":"C2H6O"
+},
+{
+"id":"glcn_p",
+"name":"D-Gluconate",
+"compartment":"p",
+"charge":-1,
+"formula":"C6H11O7"
+},
+{
+"id":"air_c",
+"name":"5-amino-1-(5-phospho-D-ribosyl)imidazole",
+"compartment":"c",
+"charge":-2,
+"formula":"C8H12N3O7P"
+},
+{
+"id":"6pgc_c",
+"name":"6-Phospho-D-gluconate",
+"compartment":"c",
+"charge":-3,
+"formula":"C6H10O10P"
+},
+{
+"id":"nh4_c",
+"name":"Ammonium",
+"compartment":"c",
+"charge":1,
+"formula":"H4N"
+},
+{
+"id":"tdec2eACP_c",
+"name":"Trans-Dec-2-enoyl-[acyl-carrier protein]",
+"compartment":"c",
+"charge":-1,
+"formula":"C21H37N2O8PRS"
+},
+{
+"id":"hdeACP_c",
+"name":"Cis-hexadec-9-enoyl-[acyl-carrier protein] (n-C16:1)",
+"compartment":"c",
+"charge":-1,
+"formula":"C27H49N2O8PRS"
+},
+{
+"id":"pi_c",
+"name":"Phosphate",
+"compartment":"c",
+"charge":-2,
+"formula":"HO4P"
+},
+{
+"id":"argsuc_c",
+"name":"N(omega)-(L-Arginino)succinate",
+"compartment":"c",
+"charge":-1,
+"formula":"C10H17N4O6"
+},
+{
+"id":"nh4_p",
+"name":"Ammonium",
+"compartment":"p",
+"charge":1,
+"formula":"H4N"
+},
+{
+"id":"chor_c",
+"name":"Chorismate",
+"compartment":"c",
+"charge":-2,
+"formula":"C10H8O6"
+},
+{
+"id":"hom__L_c",
+"name":"L-Homoserine",
+"compartment":"c",
+"charge":0,
+"formula":"C4H9NO3"
+},
+{
+"id":"dgdp_c",
+"name":"DGDP C10H12N5O10P2",
+"compartment":"c",
+"charge":-3,
+"formula":"C10H12N5O10P2"
+},
+{
+"id":"q8h2_c",
+"name":"Ubiquinol-8",
+"compartment":"c",
+"charge":0,
+"formula":"C49H76O4"
+},
+{
+"id":"3odecACP_c",
+"name":"3-Oxodecanoyl-[acyl-carrier protein]",
+"compartment":"c",
+"charge":-1,
+"formula":"C21H37N2O9PRS"
+},
+{
+"id":"tyr__L_c",
+"name":"L-Tyrosine",
+"compartment":"c",
+"charge":0,
+"formula":"C9H11NO3"
+},
+{
+"id":"cys__L_c",
+"name":"L-Cysteine",
+"compartment":"c",
+"charge":0,
+"formula":"C3H7NO2S"
+},
+{
+"id":"xylu__D_c",
+"name":"D-Xylulose",
+"compartment":"c",
+"charge":0,
+"formula":"C5H10O5"
+},
+{
+"id":"h2s_c",
+"name":"Hydrogen sulfide",
+"compartment":"c",
+"charge":0,
+"formula":"H2S"
+},
+{
+"id":"e4p_c",
+"name":"D-Erythrose 4-phosphate",
+"compartment":"c",
+"charge":-2,
+"formula":"C4H7O7P"
+},
+{
+"id":"trp__L_c",
+"name":"L-Tryptophan",
+"compartment":"c",
+"charge":0,
+"formula":"C11H12N2O2"
+},
+{
+"id":"acser_c",
+"name":"O-Acetyl-L-serine",
+"compartment":"c",
+"charge":0,
+"formula":"C5H9NO4"
+},
+{
+"id":"lys__L_c",
+"name":"L-Lysine",
+"compartment":"c",
+"charge":1,
+"formula":"C6H15N2O2"
+},
+{
+"id":"dudp_c",
+"name":"DUDP C9H11N2O11P2",
+"compartment":"c",
+"charge":-3,
+"formula":"C9H11N2O11P2"
+},
+{
+"id":"atp_c",
+"name":"ATP C10H12N5O13P3",
+"compartment":"c",
+"charge":-4,
+"formula":"C10H12N5O13P3"
+},
+{
+"id":"indole_c",
+"name":"Indole",
+"compartment":"c",
+"charge":0,
+"formula":"C8H7N"
+},
+{
+"id":"eig3p_c",
+"name":"D-erythro-1-(Imidazol-4-yl)glycerol 3-phosphate",
+"compartment":"c",
+"charge":-2,
+"formula":"C6H9N2O6P"
+},
+{
+"id":"26dap__M_c",
+"name":"Meso-2,6-Diaminoheptanedioate",
+"compartment":"c",
+"charge":0,
+"formula":"C7H14N2O4"
+},
+{
+"id":"thf_c",
+"name":"5,6,7,8-Tetrahydrofolate",
+"compartment":"c",
+"charge":-2,
+"formula":"C19H21N7O6"
+},
+{
+"id":"orot5p_c",
+"name":"Orotidine 5'-phosphate",
+"compartment":"c",
+"charge":-3,
+"formula":"C10H10N2O11P"
+},
+{
+"id":"h_e",
+"name":"H+",
+"compartment":"e",
+"charge":1,
+"formula":"H"
+},
+{
+"id":"gln__L_p",
+"name":"L-Glutamine",
+"compartment":"p",
+"charge":0,
+"formula":"C5H10N2O3"
+},
+{
+"id":"glyc_p",
+"name":"Glycerol",
+"compartment":"p",
+"charge":0,
+"formula":"C3H8O3"
+},
+{
+"id":"5caiz_c",
+"name":"5-phosphoribosyl-5-carboxyaminoimidazole",
+"compartment":"c",
+"charge":-3,
+"formula":"C9H11N3O9P"
+},
+{
+"id":"mal__L_p",
+"name":"L-Malate",
+"compartment":"p",
+"charge":-2,
+"formula":"C4H4O5"
+},
+{
+"id":"3hcpalm9eACP_c",
+"name":"(R)-3-hydroxy-cis-palm-9-eoyl-[acyl-carrier protein]",
+"compartment":"c",
+"charge":-1,
+"formula":"C27H49N2O9PRS"
+},
+{
+"id":"3ocpalm9eACP_c",
+"name":"3-oxo-cis-palm-9-eoyl-[acyl-carrier protein]",
+"compartment":"c",
+"charge":-1,
+"formula":"C27H47N2O9PRS"
+},
+{
+"id":"butACP_c",
+"name":"Butyryl-ACP (n-C4:0ACP)",
+"compartment":"c",
+"charge":-1,
+"formula":"C15H27N2O8PRS"
+},
+{
+"id":"dttp_c",
+"name":"DTTP C10H13N2O14P3",
+"compartment":"c",
+"charge":-4,
+"formula":"C10H13N2O14P3"
+},
+{
+"id":"ttdca_c",
+"name":"Tetradecanoate (n-C14:0)",
+"compartment":"c",
+"charge":-1,
+"formula":"C14H27O2"
+},
+{
+"id":"lac__D_e",
+"name":"D-Lactate",
+"compartment":"e",
+"charge":-1,
+"formula":"C3H5O3"
+},
+{
+"id":"trdox_c",
+"name":"Oxidized thioredoxin",
+"compartment":"c",
+"charge":0,
+"formula":"X"
+},
+{
+"id":"3ig3p_c",
+"name":"C'-(3-Indolyl)-glycerol 3-phosphate",
+"compartment":"c",
+"charge":-2,
+"formula":"C11H12NO6P"
+},
+{
+"id":"sl26da_c",
+"name":"N-Succinyl-LL-2,6-diaminoheptanedioate",
+"compartment":"c",
+"charge":-2,
+"formula":"C11H16N2O7"
+},
+{
+"id":"3hoctACP_c",
+"name":"(R)-3-Hydroxyoctanoyl-[acyl-carrier protein]",
+"compartment":"c",
+"charge":-1,
+"formula":"C19H35N2O9PRS"
+},
+{
+"id":"dctp_c",
+"name":"DCTP C9H12N3O13P3",
+"compartment":"c",
+"charge":-4,
+"formula":"C9H12N3O13P3"
+},
+{
+"id":"toctd2eACP_c",
+"name":"Trans-octadec-2-enoyl-[acyl-carrier protein]",
+"compartment":"c",
+"charge":-1,
+"formula":"C29H53N2O8PRS"
+},
+{
+"id":"grxrd_c",
+"name":"Glutaredoxin (reduced)",
+"compartment":"c",
+"charge":0,
+"formula":"XH2"
+},
+{
+"id":"ru5p__D_c",
+"name":"D-Ribulose 5-phosphate",
+"compartment":"c",
+"charge":-2,
+"formula":"C5H9O8P"
+},
+{
+"id":"23dhmb_c",
+"name":"(R)-2,3-Dihydroxy-3-methylbutanoate",
+"compartment":"c",
+"charge":-1,
+"formula":"C5H9O4"
+},
+{
+"id":"pran_c",
+"name":"N-(5-Phospho-D-ribosyl)anthranilate",
+"compartment":"c",
+"charge":-3,
+"formula":"C12H13NO9P"
+},
+{
+"id":"glcn_c",
+"name":"D-Gluconate",
+"compartment":"c",
+"charge":-1,
+"formula":"C6H11O7"
+},
+{
+"id":"paps_c",
+"name":"3'-Phosphoadenylyl sulfate",
+"compartment":"c",
+"charge":-4,
+"formula":"C10H11N5O13P2S"
+},
+{
+"id":"utp_c",
+"name":"UTP C9H11N2O15P3",
+"compartment":"c",
+"charge":-4,
+"formula":"C9H11N2O15P3"
+},
+{
+"id":"dhor__S_c",
+"name":"(S)-Dihydroorotate",
+"compartment":"c",
+"charge":-1,
+"formula":"C5H5N2O4"
+},
+{
+"id":"glyc_e",
+"name":"Glycerol",
+"compartment":"e",
+"charge":0,
+"formula":"C3H8O3"
+},
+{
+"id":"4mop_c",
+"name":"4-Methyl-2-oxopentanoate",
+"compartment":"c",
+"charge":-1,
+"formula":"C6H9O3"
+},
+{
+"id":"fdp_c",
+"name":"D-Fructose 1,6-bisphosphate",
+"compartment":"c",
+"charge":-4,
+"formula":"C6H10O12P2"
+},
+{
+"id":"dtmp_c",
+"name":"DTMP C10H13N2O8P",
+"compartment":"c",
+"charge":-2,
+"formula":"C10H13N2O8P"
+},
+{
+"id":"gdp_c",
+"name":"GDP C10H12N5O11P2",
+"compartment":"c",
+"charge":-3,
+"formula":"C10H12N5O11P2"
+},
+{
+"id":"o2_p",
+"name":"O2 O2",
+"compartment":"p",
+"charge":0,
+"formula":"O2"
+},
+{
+"id":"datp_c",
+"name":"DATP C10H12N5O12P3",
+"compartment":"c",
+"charge":-4,
+"formula":"C10H12N5O12P3"
+},
+{
+"id":"ppi_c",
+"name":"Diphosphate",
+"compartment":"c",
+"charge":-3,
+"formula":"HO7P2"
+},
+{
+"id":"nadp_c",
+"name":"Nicotinamide adenine dinucleotide phosphate",
+"compartment":"c",
+"charge":-3,
+"formula":"C21H25N7O17P3"
+},
+{
+"id":"glu__L_c",
+"name":"L-Glutamate",
+"compartment":"c",
+"charge":-1,
+"formula":"C5H8NO4"
+},
+{
+"id":"fum_c",
+"name":"Fumarate",
+"compartment":"c",
+"charge":-2,
+"formula":"C4H2O4"
+},
+{
+"id":"akg_p",
+"name":"2-Oxoglutarate",
+"compartment":"p",
+"charge":-2,
+"formula":"C5H4O5"
+},
+{
+"id":"acorn_c",
+"name":"N2-Acetyl-L-ornithine",
+"compartment":"c",
+"charge":0,
+"formula":"C7H14N2O3"
+},
+{
+"id":"glu5sa_c",
+"name":"L-Glutamate 5-semialdehyde",
+"compartment":"c",
+"charge":0,
+"formula":"C5H9NO3"
+},
+{
+"id":"ile__L_c",
+"name":"L-Isoleucine",
+"compartment":"c",
+"charge":0,
+"formula":"C6H13NO2"
+},
+{
+"id":"ocACP_c",
+"name":"Octanoyl-ACP (n-C8:0ACP)",
+"compartment":"c",
+"charge":-1,
+"formula":"C19H35N2O8PRS"
+},
+{
+"id":"3dhq_c",
+"name":"3-Dehydroquinate",
+"compartment":"c",
+"charge":-1,
+"formula":"C7H9O6"
+},
+{
+"id":"hisp_c",
+"name":"L-Histidinol phosphate",
+"compartment":"c",
+"charge":-1,
+"formula":"C6H11N3O4P"
+},
+{
+"id":"so4_e",
+"name":"Sulfate",
+"compartment":"e",
+"charge":-2,
+"formula":"O4S"
+},
+{
+"id":"glu__L_e",
+"name":"L-Glutamate",
+"compartment":"e",
+"charge":-1,
+"formula":"C5H8NO4"
+},
+{
+"id":"cbp_c",
+"name":"Carbamoyl phosphate",
+"compartment":"c",
+"charge":-2,
+"formula":"CH2NO5P"
+},
+{
+"id":"3mob_c",
+"name":"3-Methyl-2-oxobutanoate",
+"compartment":"c",
+"charge":-1,
+"formula":"C5H7O3"
+},
+{
+"id":"suchms_c",
+"name":"O-Succinyl-L-homoserine",
+"compartment":"c",
+"charge":-1,
+"formula":"C8H12NO6"
+},
+{
+"id":"tpalm2eACP_c",
+"name":"Trans-Hexadec-2-enoyl-[acyl-carrier protein]",
+"compartment":"c",
+"charge":-1,
+"formula":"C27H49N2O8PRS"
+},
+{
+"id":"3hpalmACP_c",
+"name":"R-3-hydroxypalmitoyl-[acyl-carrier protein]",
+"compartment":"c",
+"charge":-1,
+"formula":"C27H51N2O9PRS"
+},
+{
+"id":"gln__L_c",
+"name":"L-Glutamine",
+"compartment":"c",
+"charge":0,
+"formula":"C5H10N2O3"
+},
+{
+"id":"3c3hmp_c",
+"name":"3-Carboxy-3-hydroxy-4-methylpentanoate",
+"compartment":"c",
+"charge":-2,
+"formula":"C7H10O5"
+},
+{
+"id":"anth_c",
+"name":"Anthranilate",
+"compartment":"c",
+"charge":-1,
+"formula":"C7H6NO2"
+},
+{
+"id":"pap_c",
+"name":"Adenosine 3',5'-bisphosphate",
+"compartment":"c",
+"charge":-4,
+"formula":"C10H11N5O10P2"
+},
+{
+"id":"xmp_c",
+"name":"Xanthosine 5'-phosphate",
+"compartment":"c",
+"charge":-2,
+"formula":"C10H11N4O9P"
+},
+{
+"id":"2cpr5p_c",
+"name":"1-(2-Carboxyphenylamino)-1-deoxy-D-ribulose 5-phosphate",
+"compartment":"c",
+"charge":-3,
+"formula":"C12H13NO9P"
+},
+{
+"id":"rib__D_p",
+"name":"D-Ribose",
+"compartment":"p",
+"charge":0,
+"formula":"C5H10O5"
+},
+{
+"id":"xyl__D_p",
+"name":"D-Xylose",
+"compartment":"p",
+"charge":0,
+"formula":"C5H10O5"
+},
+{
+"id":"octeACP_c",
+"name":"Cis-octadec-11-enoyl-[acyl-carrier protein] (n-C18:1)",
+"compartment":"c",
+"charge":-1,
+"formula":"C29H53N2O8PRS"
+},
+{
+"id":"3hhexACP_c",
+"name":"(R)-3-Hydroxyhexanoyl-[acyl-carrier protein]",
+"compartment":"c",
+"charge":-1,
+"formula":"C17H31N2O9PRS"
+},
+{
+"id":"t3c5ddeceACP_c",
+"name":"Trans-3-cis-5-dodecenoyl-[acyl-carrier protein]",
+"compartment":"c",
+"charge":-1,
+"formula":"C23H39N2O8PRS"
+},
+{
+"id":"co2_p",
+"name":"CO2 CO2",
+"compartment":"p",
+"charge":0,
+"formula":"CO2"
+},
+{
+"id":"ala__L_c",
+"name":"L-Alanine",
+"compartment":"c",
+"charge":0,
+"formula":"C3H7NO2"
+},
+{
+"id":"hco3_c",
+"name":"Bicarbonate",
+"compartment":"c",
+"charge":-1,
+"formula":"CHO3"
+},
+{
+"id":"phe__L_c",
+"name":"L-Phenylalanine",
+"compartment":"c",
+"charge":0,
+"formula":"C9H11NO2"
+},
+{
+"id":"mlthf_c",
+"name":"5,10-Methylenetetrahydrofolate",
+"compartment":"c",
+"charge":-2,
+"formula":"C20H21N7O6"
+},
+{
+"id":"t3c7mrseACP_c",
+"name":"Trans-3-cis-7-myristoleoyl-[acyl-carrier protein]",
+"compartment":"c",
+"charge":-1,
+"formula":"C25H43N2O8PRS"
+},
+{
+"id":"t3c11vaceACP_c",
+"name":"Trans-3-cis-11-vacceoyl-[acyl-carrier protein]",
+"compartment":"c",
+"charge":-1,
+"formula":"C29H51N2O8PRS"
+},
+{
+"id":"1pyr5c_c",
+"name":"1-Pyrroline-5-carboxylate",
+"compartment":"c",
+"charge":-1,
+"formula":"C5H6NO2"
+},
+{
+"id":"acald_p",
+"name":"Acetaldehyde",
+"compartment":"p",
+"charge":0,
+"formula":"C2H4O"
+},
+{
+"id":"2ippm_c",
+"name":"2-Isopropylmaleate",
+"compartment":"c",
+"charge":-2,
+"formula":"C7H8O4"
+},
+{
+"id":"3psme_c",
+"name":"5-O-(1-Carboxyvinyl)-3-phosphoshikimate",
+"compartment":"c",
+"charge":-4,
+"formula":"C10H9O10P"
+},
+{
+"id":"imacp_c",
+"name":"3-(Imidazol-4-yl)-2-oxopropyl phosphate",
+"compartment":"c",
+"charge":-2,
+"formula":"C6H7N2O5P"
+},
+{
+"id":"3c2hmp_c",
+"name":"3-Carboxy-2-hydroxy-4-methylpentanoate",
+"compartment":"c",
+"charge":-2,
+"formula":"C7H10O5"
+},
+{
+"id":"pser__L_c",
+"name":"O-Phospho-L-serine",
+"compartment":"c",
+"charge":-2,
+"formula":"C3H6NO6P"
+},
+{
+"id":"ocdcaACP_c",
+"name":"Octadecanoyl-ACP (n-C18:0ACP)",
+"compartment":"c",
+"charge":-1,
+"formula":"C29H55N2O8PRS"
+},
+{
+"id":"gmp_c",
+"name":"GMP C10H12N5O8P",
+"compartment":"c",
+"charge":-2,
+"formula":"C10H12N5O8P"
+},
+{
+"id":"3dhsk_c",
+"name":"3-Dehydroshikimate",
+"compartment":"c",
+"charge":-1,
+"formula":"C7H7O5"
+},
+{
+"id":"acACP_c",
+"name":"Acetyl-ACP",
+"compartment":"c",
+"charge":-1,
+"formula":"C13H23N2O8PRS"
+},
+{
+"id":"h2o_c",
+"name":"H2O H2O",
+"compartment":"c",
+"charge":0,
+"formula":"H2O"
+},
+{
+"id":"alac__S_c",
+"name":"(S)-2-Acetolactate",
+"compartment":"c",
+"charge":-1,
+"formula":"C5H7O4"
+},
+{
+"id":"dcdp_c",
+"name":"DCDP C9H12N3O10P2",
+"compartment":"c",
+"charge":-3,
+"formula":"C9H12N3O10P2"
+},
+{
+"id":"gly_c",
+"name":"Glycine",
+"compartment":"c",
+"charge":0,
+"formula":"C2H5NO2"
+},
+{
+"id":"flxso_c",
+"name":"Flavodoxin semi oxidized",
+"compartment":"c",
+"charge":0,
+"formula":"XH"
+},
+{
+"id":"malcoa_c",
+"name":"Malonyl CoA C24H33N7O19P3S",
+"compartment":"c",
+"charge":-5,
+"formula":"C24H33N7O19P3S"
+},
+{
+"id":"fru_p",
+"name":"D-Fructose",
+"compartment":"p",
+"charge":0,
+"formula":"C6H12O6"
+},
+{
+"id":"xyl__D_e",
+"name":"D-Xylose",
+"compartment":"e",
+"charge":0,
+"formula":"C5H10O5"
+},
+{
+"id":"phom_c",
+"name":"O-Phospho-L-homoserine",
+"compartment":"c",
+"charge":-2,
+"formula":"C4H8NO6P"
+},
+{
+"id":"glc__D_e",
+"name":"D-Glucose",
+"compartment":"e",
+"charge":0,
+"formula":"C6H12O6"
+},
+{
+"id":"nh4_e",
+"name":"Ammonium",
+"compartment":"e",
+"charge":1,
+"formula":"H4N"
+},
+{
+"id":"f6p_c",
+"name":"D-Fructose 6-phosphate",
+"compartment":"c",
+"charge":-2,
+"formula":"C6H11O9P"
+},
+{
+"id":"pphn_c",
+"name":"Prephenate",
+"compartment":"c",
+"charge":-2,
+"formula":"C10H8O6"
+},
+{
+"id":"prlp_c",
+"name":"5-[(5-phospho-1-deoxyribulos-1-ylamino)methylideneamino]-1-(5-phosphoribosyl)imidazole-4-carboxamide",
+"compartment":"c",
+"charge":-4,
+"formula":"C15H21N5O15P2"
+},
+{
+"id":"s7p_c",
+"name":"Sedoheptulose 7-phosphate",
+"compartment":"c",
+"charge":-2,
+"formula":"C7H13O10P"
+},
+{
+"id":"prfp_c",
+"name":"1-(5-Phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino]imidazole-4-carboxamide",
+"compartment":"c",
+"charge":-4,
+"formula":"C15H21N5O15P2"
+},
+{
+"id":"tmrs2eACP_c",
+"name":"Trans-Tetradec-2-enoyl-[acyl-carrier protein]",
+"compartment":"c",
+"charge":-1,
+"formula":"C25H45N2O8PRS"
+},
+{
+"id":"o2_e",
+"name":"O2 O2",
+"compartment":"e",
+"charge":0,
+"formula":"O2"
+},
+{
+"id":"succ_e",
+"name":"Succinate",
+"compartment":"e",
+"charge":-2,
+"formula":"C4H4O4"
+},
+{
+"id":"mql8_c",
+"name":"Menaquinol 8",
+"compartment":"c",
+"charge":0,
+"formula":"C51H74O2"
+},
+{
+"id":"glyc__R_c",
+"name":"(R)-Glycerate",
+"compartment":"c",
+"charge":-1,
+"formula":"C3H5O4"
+},
+{
+"id":"g6p_c",
+"name":"D-Glucose 6-phosphate",
+"compartment":"c",
+"charge":-2,
+"formula":"C6H11O9P"
+},
+{
+"id":"trdrd_c",
+"name":"Reduced thioredoxin",
+"compartment":"c",
+"charge":0,
+"formula":"XH2"
+},
+{
+"id":"methf_c",
+"name":"5,10-Methenyltetrahydrofolate",
+"compartment":"c",
+"charge":-1,
+"formula":"C20H20N7O6"
+},
+{
+"id":"ddcaACP_c",
+"name":"Dodecanoyl-ACP (n-C12:0ACP)",
+"compartment":"c",
+"charge":-1,
+"formula":"C23H43N2O8PRS"
+},
+{
+"id":"prpp_c",
+"name":"5-Phospho-alpha-D-ribose 1-diphosphate",
+"compartment":"c",
+"charge":-5,
+"formula":"C5H8O14P3"
+},
+{
+"id":"histd_c",
+"name":"L-Histidinol",
+"compartment":"c",
+"charge":1,
+"formula":"C6H12N3O"
+},
+{
+"id":"for_p",
+"name":"Formate",
+"compartment":"p",
+"charge":-1,
+"formula":"CH1O2"
+},
+{
+"id":"orot_c",
+"name":"Orotate C5H3N2O4",
+"compartment":"c",
+"charge":-1,
+"formula":"C5H3N2O4"
+},
+{
+"id":"glc__D_p",
+"name":"D-Glucose",
+"compartment":"p",
+"charge":0,
+"formula":"C6H12O6"
+},
+{
+"id":"q8_c",
+"name":"Ubiquinone-8",
+"compartment":"c",
+"charge":0,
+"formula":"C49H74O4"
+},
+{
+"id":"orn_c",
+"name":"Ornithine",
+"compartment":"c",
+"charge":1,
+"formula":"C5H13N2O2"
+},
+{
+"id":"dcaACP_c",
+"name":"Decanoyl-ACP (n-C10:0ACP)",
+"compartment":"c",
+"charge":-1,
+"formula":"C21H39N2O8PRS"
+},
+{
+"id":"3hcddec5eACP_c",
+"name":"(R)-3-hydroxy-cis-dodec-5-enoyl-[acyl-carrier protein]",
+"compartment":"c",
+"charge":-1,
+"formula":"C23H41N2O9PRS"
+},
+{
+"id":"tddec2eACP_c",
+"name":"Trans-Dodec-2-enoyl-[acyl-carrier protein]",
+"compartment":"c",
+"charge":-1,
+"formula":"C23H41N2O8PRS"
+},
+{
+"id":"hdca_c",
+"name":"Hexadecanoate (n-C16:0)",
+"compartment":"c",
+"charge":-1,
+"formula":"C16H31O2"
+},
+{
+"id":"fgam_c",
+"name":"N2-Formyl-N1-(5-phospho-D-ribosyl)glycinamide",
+"compartment":"c",
+"charge":-2,
+"formula":"C8H13N2O9P"
+},
+{
+"id":"cit_c",
+"name":"Citrate",
+"compartment":"c",
+"charge":-3,
+"formula":"C6H5O7"
+},
+{
+"id":"skm5p_c",
+"name":"Shikimate 5-phosphate",
+"compartment":"c",
+"charge":-3,
+"formula":"C7H8O8P"
+},
+{
+"id":"oaa_c",
+"name":"Oxaloacetate",
+"compartment":"c",
+"charge":-2,
+"formula":"C4H2O5"
+},
+{
+"id":"23dhmp_c",
+"name":"(R)-2,3-Dihydroxy-3-methylpentanoate",
+"compartment":"c",
+"charge":-1,
+"formula":"C6H11O4"
+},
+{
+"id":"fprica_c",
+"name":"5-Formamido-1-(5-phospho-D-ribosyl)imidazole-4-carboxamide",
+"compartment":"c",
+"charge":-2,
+"formula":"C10H13N4O9P"
+},
+{
+"id":"glcn_e",
+"name":"D-Gluconate",
+"compartment":"e",
+"charge":-1,
+"formula":"C6H11O7"
+},
+{
+"id":"ac_p",
+"name":"Acetate",
+"compartment":"p",
+"charge":-1,
+"formula":"C2H3O2"
+},
+{
+"id":"his__L_c",
+"name":"L-Histidine",
+"compartment":"c",
+"charge":0,
+"formula":"C6H9N3O2"
+},
+{
+"id":"so4_c",
+"name":"Sulfate",
+"compartment":"c",
+"charge":-2,
+"formula":"O4S"
+},
+{
+"id":"6pgl_c",
+"name":"6-phospho-D-glucono-1,5-lactone",
+"compartment":"c",
+"charge":-2,
+"formula":"C6H9O9P"
+},
+{
+"id":"2dda7p_c",
+"name":"2-Dehydro-3-deoxy-D-arabino-heptonate 7-phosphate",
+"compartment":"c",
+"charge":-3,
+"formula":"C7H10O10P"
+},
+{
+"id":"sl2a6o_c",
+"name":"N-Succinyl-2-L-amino-6-oxoheptanedioate",
+"compartment":"c",
+"charge":-3,
+"formula":"C11H12NO8"
+},
+{
+"id":"gtp_c",
+"name":"GTP C10H12N5O14P3",
+"compartment":"c",
+"charge":-4,
+"formula":"C10H12N5O14P3"
+},
+{
+"id":"so4_p",
+"name":"Sulfate",
+"compartment":"p",
+"charge":-2,
+"formula":"O4S"
+},
+{
+"id":"succ_c",
+"name":"Succinate",
+"compartment":"c",
+"charge":-2,
+"formula":"C4H4O4"
+},
+{
+"id":"aps_c",
+"name":"Adenosine 5'-phosphosulfate",
+"compartment":"c",
+"charge":-2,
+"formula":"C10H12N5O10PS"
+},
+{
+"id":"thdp_c",
+"name":"2,3,4,5-Tetrahydrodipicolinate",
+"compartment":"c",
+"charge":-2,
+"formula":"C7H7NO4"
+},
+{
+"id":"cdp_c",
+"name":"CDP C9H12N3O11P2",
+"compartment":"c",
+"charge":-3,
+"formula":"C9H12N3O11P2"
+},
+{
+"id":"glyc__R_e",
+"name":"(R)-Glycerate",
+"compartment":"e",
+"charge":-1,
+"formula":"C3H5O4"
+},
+{
+"id":"nadph_c",
+"name":"Nicotinamide adenine dinucleotide phosphate - reduced",
+"compartment":"c",
+"charge":-4,
+"formula":"C21H26N7O17P3"
+},
+{
+"id":"acglu_c",
+"name":"N-Acetyl-L-glutamate",
+"compartment":"c",
+"charge":-2,
+"formula":"C7H9NO5"
+},
+{
+"id":"3hddecACP_c",
+"name":"(R)-3-Hydroxydodecanoyl-[acyl-carrier protein]",
+"compartment":"c",
+"charge":-1,
+"formula":"C23H43N2O9PRS"
+},
+{
+"id":"2obut_c",
+"name":"2-Oxobutanoate",
+"compartment":"c",
+"charge":-1,
+"formula":"C4H5O3"
+},
+{
+"id":"cddec5eACP_c",
+"name":"Cis-dodec-5-enoyl-[acyl-carrier protein] (n-C12:1)",
+"compartment":"c",
+"charge":-1,
+"formula":"C23H41N2O8PRS"
+},
+{
+"id":"glyc_c",
+"name":"Glycerol",
+"compartment":"c",
+"charge":0,
+"formula":"C3H8O3"
+},
+{
+"id":"val__L_c",
+"name":"L-Valine",
+"compartment":"c",
+"charge":0,
+"formula":"C5H11NO2"
+},
+{
+"id":"pro__L_c",
+"name":"L-Proline",
+"compartment":"c",
+"charge":0,
+"formula":"C5H9NO2"
+},
+{
+"id":"cbasp_c",
+"name":"N-Carbamoyl-L-aspartate",
+"compartment":"c",
+"charge":-2,
+"formula":"C5H6N2O5"
+},
+{
+"id":"mqn8_c",
+"name":"Menaquinone 8",
+"compartment":"c",
+"charge":0,
+"formula":"C51H72O2"
+},
+{
+"id":"lac__D_p",
+"name":"D-Lactate",
+"compartment":"p",
+"charge":-1,
+"formula":"C3H5O3"
+},
+{
+"id":"malACP_c",
+"name":"Malonyl-[acyl-carrier protein]",
+"compartment":"c",
+"charge":-2,
+"formula":"C14H22N2O10PRS"
+},
+{
+"id":"3hdecACP_c",
+"name":"(R)-3-Hydroxydecanoyl-[acyl-carrier protein]",
+"compartment":"c",
+"charge":-1,
+"formula":"C21H39N2O9PRS"
+},
+{
+"id":"cdec3eACP_c",
+"name":"Cis-dec-3-enoyl-[acyl-carrier protein] (n-C10:1)",
+"compartment":"c",
+"charge":-1,
+"formula":"C21H37N2O8PRS"
+},
+{
+"id":"3hcmrs7eACP_c",
+"name":"(R)-3-hydroxy-cis-myristol-7-eoyl-[acyl-carrier protein]",
+"compartment":"c",
+"charge":-1,
+"formula":"C25H45N2O9PRS"
+},
+{
+"id":"glu__L_p",
+"name":"L-Glutamate",
+"compartment":"p",
+"charge":-1,
+"formula":"C5H8NO4"
+},
+{
+"id":"3oddecACP_c",
+"name":"3-Oxododecanoyl-[acyl-carrier protein]",
+"compartment":"c",
+"charge":-1,
+"formula":"C23H41N2O9PRS"
+},
+{
+"id":"glyc__R_p",
+"name":"(R)-Glycerate",
+"compartment":"p",
+"charge":-1,
+"formula":"C3H5O4"
+},
+{
+"id":"3ooctdACP_c",
+"name":"3-Oxooctadecanoyl-[acyl-carrier protein]",
+"compartment":"c",
+"charge":-1,
+"formula":"C29H53N2O9PRS"
+},
+{
+"id":"but2eACP_c",
+"name":"But-2-enoyl-[acyl-carrier protein]",
+"compartment":"c",
+"charge":-1,
+"formula":"C15H25N2O8PRS"
+},
+{
+"id":"ddca_c",
+"name":"Dodecanoate (n-C12:0)",
+"compartment":"c",
+"charge":-1,
+"formula":"C12H23O2"
+},
+{
+"id":"pyr_c",
+"name":"Pyruvate",
+"compartment":"c",
+"charge":-1,
+"formula":"C3H3O3"
+},
+{
+"id":"dump_c",
+"name":"DUMP C9H11N2O8P",
+"compartment":"c",
+"charge":-2,
+"formula":"C9H11N2O8P"
+},
+{
+"id":"acon_C_c",
+"name":"Cis-Aconitate",
+"compartment":"c",
+"charge":-3,
+"formula":"C6H3O6"
+},
+{
+"id":"ocdcap_c",
+"name":"Octadecanoyl-phosphate (n-C18:0)",
+"compartment":"c",
+"charge":-1,
+"formula":"C18H36O5P"
+},
+{
+"id":"grxox_c",
+"name":"Glutaredoxin (oxidized)",
+"compartment":"c",
+"charge":0,
+"formula":"X"
+},
+{
+"id":"icit_c",
+"name":"Isocitrate",
+"compartment":"c",
+"charge":-3,
+"formula":"C6H5O7"
+},
+{
+"id":"lac__D_c",
+"name":"D-Lactate",
+"compartment":"c",
+"charge":-1,
+"formula":"C3H5O3"
+},
+{
+"id":"nadh_c",
+"name":"Nicotinamide adenine dinucleotide - reduced",
+"compartment":"c",
+"charge":-2,
+"formula":"C21H27N7O14P2"
+},
+{
+"id":"amp_c",
+"name":"AMP C10H12N5O7P",
+"compartment":"c",
+"charge":-2,
+"formula":"C10H12N5O7P"
+},
+{
+"id":"3php_c",
+"name":"3-Phosphohydroxypyruvate",
+"compartment":"c",
+"charge":-3,
+"formula":"C3H2O7P"
+},
+{
+"id":"dtdp_c",
+"name":"DTDP C10H13N2O11P2",
+"compartment":"c",
+"charge":-3,
+"formula":"C10H13N2O11P2"
+},
+{
+"id":"dhf_c",
+"name":"7,8-Dihydrofolate",
+"compartment":"c",
+"charge":-2,
+"formula":"C19H19N7O6"
+},
+{
+"id":"for_c",
+"name":"Formate",
+"compartment":"c",
+"charge":-1,
+"formula":"CH1O2"
+},
+{
+"id":"pi_e",
+"name":"Phosphate",
+"compartment":"e",
+"charge":-2,
+"formula":"HO4P"
+},
+{
+"id":"3opalmACP_c",
+"name":"3-Oxohexadecanoyl-[acyl-carrier protein]",
+"compartment":"c",
+"charge":-1,
+"formula":"C27H49N2O9PRS"
+},
+{
+"id":"3hcvac11eACP_c",
+"name":"(R)-3-hydroxy-cis-vacc-11-enoyl-[acyl-carrier protein]",
+"compartment":"c",
+"charge":-1,
+"formula":"C29H53N2O9PRS"
+},
+{
+"id":"coa_c",
+"name":"Coenzyme A",
+"compartment":"c",
+"charge":-4,
+"formula":"C21H32N7O16P3S"
+},
+{
+"id":"asn__L_c",
+"name":"L-Asparagine",
+"compartment":"c",
+"charge":0,
+"formula":"C4H8N2O3"
+},
+{
+"id":"udp_c",
+"name":"UDP C9H11N2O12P2",
+"compartment":"c",
+"charge":-3,
+"formula":"C9H11N2O12P2"
+},
+{
+"id":"leu__L_c",
+"name":"L-Leucine",
+"compartment":"c",
+"charge":0,
+"formula":"C6H13NO2"
+},
+{
+"id":"25aics_c",
+"name":"(S)-2-[5-Amino-1-(5-phospho-D-ribosyl)imidazole-4-carboxamido]succinate",
+"compartment":"c",
+"charge":-4,
+"formula":"C13H15N4O12P"
+},
+{
+"id":"3omrsACP_c",
+"name":"3-Oxotetradecanoyl-[acyl-carrier protein]",
+"compartment":"c",
+"charge":-1,
+"formula":"C25H45N2O9PRS"
+},
+{
+"id":"acald_c",
+"name":"Acetaldehyde",
+"compartment":"c",
+"charge":0,
+"formula":"C2H4O"
+},
+{
+"id":"3hmrsACP_c",
+"name":"(R)-3-Hydroxytetradecanoyl-[acyl-carrier protein]",
+"compartment":"c",
+"charge":-1,
+"formula":"C25H47N2O9PRS"
+},
+{
+"id":"pram_c",
+"name":"5-Phospho-beta-D-ribosylamine",
+"compartment":"c",
+"charge":-1,
+"formula":"C5H11NO7P"
+},
+{
+"id":"ocdceap_c",
+"name":"Octadecanoyl-phosphate (n-C18:1)",
+"compartment":"c",
+"charge":-1,
+"formula":"C18H34O5P"
+},
+{
+"id":"3c4mop_c",
+"name":"3-Carboxy-4-methyl-2-oxopentanoate",
+"compartment":"c",
+"charge":-2,
+"formula":"C7H8O5"
+},
+{
+"id":"hcys__L_c",
+"name":"L-Homocysteine",
+"compartment":"c",
+"charge":0,
+"formula":"C4H9NO2S"
+},
+{
+"id":"mal__L_e",
+"name":"L-Malate",
+"compartment":"e",
+"charge":-2,
+"formula":"C4H4O5"
+},
+{
+"id":"co2_c",
+"name":"CO2 CO2",
+"compartment":"c",
+"charge":0,
+"formula":"CO2"
+},
+{
+"id":"pi_p",
+"name":"Phosphate",
+"compartment":"p",
+"charge":-2,
+"formula":"HO4P"
+},
+{
+"id":"fum_e",
+"name":"Fumarate",
+"compartment":"e",
+"charge":-2,
+"formula":"C4H2O4"
+},
+{
+"id":"acald_e",
+"name":"Acetaldehyde",
+"compartment":"e",
+"charge":0,
+"formula":"C2H4O"
+},
+{
+"id":"etoh_p",
+"name":"Ethanol",
+"compartment":"p",
+"charge":0,
+"formula":"C2H6O"
+},
+{
+"id":"gthox_c",
+"name":"Oxidized glutathione",
+"compartment":"c",
+"charge":-2,
+"formula":"C20H30N6O12S2"
+},
+{
+"id":"gar_c",
+"name":"N1-(5-Phospho-D-ribosyl)glycinamide",
+"compartment":"c",
+"charge":-1,
+"formula":"C7H14N2O8P"
+},
+{
+"id":"3haACP_c",
+"name":"(3R)-3-Hydroxyacyl-[acyl-carrier protein]",
+"compartment":"c",
+"charge":-1,
+"formula":"C15H27N2O9PRS"
+},
+{
+"id":"3ooctACP_c",
+"name":"3-Oxooctanoyl-[acyl-carrier protein]",
+"compartment":"c",
+"charge":-1,
+"formula":"C19H33N2O9PRS"
+},
+{
+"id":"3ocmrs7eACP_c",
+"name":"3-oxo-cis-myristol-7-eoyl-[acyl-carrier protein]",
+"compartment":"c",
+"charge":-1,
+"formula":"C25H43N2O9PRS"
+},
+{
+"id":"acg5p_c",
+"name":"N-Acetyl-L-glutamyl 5-phosphate",
+"compartment":"c",
+"charge":-3,
+"formula":"C7H9NO8P"
+},
+{
+"id":"4pasp_c",
+"name":"4-Phospho-L-aspartate",
+"compartment":"c",
+"charge":-2,
+"formula":"C4H6NO7P"
+},
+{
+"id":"glu5p_c",
+"name":"L-Glutamate 5-phosphate",
+"compartment":"c",
+"charge":-2,
+"formula":"C5H8NO7P"
+},
+{
+"id":"h2o_e",
+"name":"H2O H2O",
+"compartment":"e",
+"charge":0,
+"formula":"H2O"
+},
+{
+"id":"23dhdp_c",
+"name":"2,3-Dihydrodipicolinate",
+"compartment":"c",
+"charge":-2,
+"formula":"C7H5NO4"
+},
+{
+"id":"3mop_c",
+"name":"(S)-3-Methyl-2-oxopentanoate",
+"compartment":"c",
+"charge":-1,
+"formula":"C6H9O3"
+},
+{
+"id":"dgtp_c",
+"name":"DGTP C10H12N5O13P3",
+"compartment":"c",
+"charge":-4,
+"formula":"C10H12N5O13P3"
+},
+{
+"id":"rib__D_e",
+"name":"D-Ribose",
+"compartment":"e",
+"charge":0,
+"formula":"C5H10O5"
+},
+{
+"id":"dcamp_c",
+"name":"N6-(1,2-Dicarboxyethyl)-AMP",
+"compartment":"c",
+"charge":-4,
+"formula":"C14H14N5O11P"
+},
+{
+"id":"myrsACP_c",
+"name":"Myristoyl-ACP (n-C14:0ACP)",
+"compartment":"c",
+"charge":-1,
+"formula":"C25H47N2O8PRS"
+},
+{
+"id":"ACP_c",
+"name":"Acyl carrier protein",
+"compartment":"c",
+"charge":-1,
+"formula":"C11H21N2O7PRS"
+},
+{
+"id":"palmACP_c",
+"name":"Palmitoyl-ACP (n-C16:0ACP)",
+"compartment":"c",
+"charge":-1,
+"formula":"C27H51N2O8PRS"
+},
+{
+"id":"succoa_c",
+"name":"Succinyl-CoA",
+"compartment":"c",
+"charge":-5,
+"formula":"C25H35N7O19P3S"
+},
+{
+"id":"xyl__D_c",
+"name":"D-Xylose",
+"compartment":"c",
+"charge":0,
+"formula":"C5H10O5"
+},
+{
+"id":"for_e",
+"name":"Formate",
+"compartment":"e",
+"charge":-1,
+"formula":"CH1O2"
+}
+],
+"reactions":[
+{
+"id":"NDPK5",
+"name":"Nucleoside-diphosphate kinase (ATP:dGDP)",
+"metabolites":{
+"adp_c":1.0,
+"atp_c":-1.0,
+"dgdp_c":-1.0,
+"dgtp_c":1.0
+},
+"lower_bound":-1000.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b0474 or b2518",
+"subsystem":"Nucleotide Salvage Pathway"
+},
+{
+"id":"SHK3Dr",
+"name":"Shikimate dehydrogenase",
+"metabolites":{
+"3dhsk_c":-1.0,
+"h_c":-1.0,
+"nadp_c":1.0,
+"nadph_c":-1.0,
+"skm_c":1.0
+},
+"lower_bound":-1000.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b3281 or b1692",
+"subsystem":"Tyrosine, Tryptophan, and Phenylalanine Metabolism"
+},
+{
+"id":"NDPK6",
+"name":"Nucleoside-diphosphate kinase (ATP:dUDP)",
+"metabolites":{
+"adp_c":1.0,
+"atp_c":-1.0,
+"dudp_c":-1.0,
+"dutp_c":1.0
+},
+"lower_bound":-1000.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b0474 or b2518",
+"subsystem":"Nucleotide Salvage Pathway"
+},
+{
+"id":"NDPK8",
+"name":"Nucleoside-diphosphate kinase (ATP:dADP)",
+"metabolites":{
+"adp_c":1.0,
+"atp_c":-1.0,
+"dadp_c":-1.0,
+"datp_c":1.0
+},
+"lower_bound":-1000.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b0474 or b2518",
+"subsystem":"Nucleotide Salvage Pathway"
+},
+{
+"id":"DHORTS",
+"name":"Dihydroorotase",
+"metabolites":{
+"cbasp_c":1.0,
+"dhor__S_c":-1.0,
+"h2o_c":-1.0,
+"h_c":1.0
+},
+"lower_bound":-1000.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b1062",
+"subsystem":"Purine and Pyrimidine Biosynthesis"
+},
+{
+"id":"OMPDC",
+"name":"Orotidine-5'-phosphate decarboxylase",
+"metabolites":{
+"co2_c":1.0,
+"h_c":-1.0,
+"orot5p_c":-1.0,
+"ump_c":1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b1281",
+"subsystem":"Purine and Pyrimidine Biosynthesis"
+},
+{
+"id":"G5SD",
+"name":"Glutamate-5-semialdehyde dehydrogenase",
+"metabolites":{
+"glu5p_c":-1.0,
+"glu5sa_c":1.0,
+"h_c":-1.0,
+"nadp_c":1.0,
+"nadph_c":-1.0,
+"pi_c":1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b0243",
+"subsystem":"Arginine and Proline Metabolism"
+},
+{
+"id":"CS",
+"name":"Citrate synthase",
+"metabolites":{
+"accoa_c":-1.0,
+"cit_c":1.0,
+"coa_c":1.0,
+"h2o_c":-1.0,
+"h_c":1.0,
+"oaa_c":-1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b0720",
+"subsystem":"Citric Acid Cycle"
+},
+{
+"id":"ICDHyr",
+"name":"Isocitrate dehydrogenase (NADP)",
+"metabolites":{
+"akg_c":1.0,
+"co2_c":1.0,
+"icit_c":-1.0,
+"nadp_c":-1.0,
+"nadph_c":1.0
+},
+"lower_bound":-1000.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b1136",
+"subsystem":"Citric Acid Cycle"
+},
+{
+"id":"ACALD",
+"name":"Acetaldehyde dehydrogenase (acetylating)",
+"metabolites":{
+"acald_c":-1.0,
+"accoa_c":1.0,
+"coa_c":-1.0,
+"h_c":1.0,
+"nad_c":-1.0,
+"nadh_c":1.0
+},
+"lower_bound":-1000.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b0351 or b1241",
+"subsystem":"Pyruvate Metabolism"
+},
+{
+"id":"PPA",
+"name":"Inorganic diphosphatase",
+"metabolites":{
+"h2o_c":-1.0,
+"h_c":1.0,
+"pi_c":2.0,
+"ppi_c":-1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b2744 or b2502 or b4226",
+"subsystem":"Anaplerotic Reactions"
+},
+{
+"id":"PPCK",
+"name":"Phosphoenolpyruvate carboxykinase",
+"metabolites":{
+"adp_c":1.0,
+"atp_c":-1.0,
+"co2_c":1.0,
+"oaa_c":-1.0,
+"pep_c":1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b3403",
+"subsystem":"Anaplerotic Reactions"
+},
+{
+"id":"ME1",
+"name":"Malic enzyme (NAD)",
+"metabolites":{
+"co2_c":1.0,
+"mal__L_c":-1.0,
+"nad_c":-1.0,
+"nadh_c":1.0,
+"pyr_c":1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b1479",
+"subsystem":"Anaplerotic Reactions"
+},
+{
+"id":"ALATA_L",
+"name":"L-alanine transaminase",
+"metabolites":{
+"akg_c":-1.0,
+"ala__L_c":-1.0,
+"glu__L_c":1.0,
+"pyr_c":1.0
+},
+"lower_bound":-1000.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b2290 or b2379",
+"subsystem":"Alanine and Aspartate Metabolism"
+},
+{
+"id":"XYLK",
+"name":"Xylulokinase",
+"metabolites":{
+"adp_c":1.0,
+"atp_c":-1.0,
+"h_c":1.0,
+"xu5p__D_c":1.0,
+"xylu__D_c":-1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b0063 or b3564",
+"subsystem":"Alternate Carbon Metabolism"
+},
+{
+"id":"RBK",
+"name":"Ribokinase",
+"metabolites":{
+"adp_c":1.0,
+"atp_c":-1.0,
+"h_c":1.0,
+"r5p_c":1.0,
+"rib__D_c":-1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b3752",
+"subsystem":"Alternate Carbon Metabolism"
+},
+{
+"id":"GLYK",
+"name":"Glycerol kinase",
+"metabolites":{
+"adp_c":1.0,
+"atp_c":-1.0,
+"glyc3p_c":1.0,
+"glyc_c":-1.0,
+"h_c":1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b3926",
+"subsystem":"Alternate Carbon Metabolism"
+},
+{
+"id":"ASPTA",
+"name":"Aspartate transaminase",
+"metabolites":{
+"akg_c":-1.0,
+"asp__L_c":-1.0,
+"glu__L_c":1.0,
+"oaa_c":1.0
+},
+"lower_bound":-1000.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b0928 or b4054",
+"subsystem":"Alanine and Aspartate Metabolism"
+},
+{
+"id":"FBP",
+"name":"Fructose-bisphosphatase",
+"metabolites":{
+"f6p_c":1.0,
+"fdp_c":-1.0,
+"h2o_c":-1.0,
+"pi_c":1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b4232 or b3925 or b2930 or b3697",
+"subsystem":"Glycolysis/Gluconeogenesis"
+},
+{
+"id":"EX_pi_e",
+"name":"Phosphate exchange",
+"metabolites":{
+"pi_e":-1.0
+},
+"lower_bound":-1000.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"",
+"subsystem":"Extracellular exchange"
+},
+{
+"id":"PYK",
+"name":"Pyruvate kinase",
+"metabolites":{
+"adp_c":-1.0,
+"atp_c":1.0,
+"h_c":-1.0,
+"pep_c":-1.0,
+"pyr_c":1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b1854 or b1676",
+"subsystem":"Glycolysis/Gluconeogenesis"
+},
+{
+"id":"EX_co2_e",
+"name":"CO2 exchange",
+"metabolites":{
+"co2_e":-1.0
+},
+"lower_bound":-1000.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"",
+"subsystem":"Extracellular exchange"
+},
+{
+"id":"GTHOr",
+"name":"Glutathione oxidoreductase",
+"metabolites":{
+"gthox_c":-1.0,
+"gthrd_c":2.0,
+"h_c":-1.0,
+"nadp_c":1.0,
+"nadph_c":-1.0
+},
+"lower_bound":-1000.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b3500",
+"subsystem":"Cofactor and Prosthetic Group Biosynthesis"
+},
+{
+"id":"ILETA",
+"name":"Isoleucine transaminase",
+"metabolites":{
+"3mop_c":1.0,
+"akg_c":-1.0,
+"glu__L_c":1.0,
+"ile__L_c":-1.0
+},
+"lower_bound":-1000.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b3770",
+"subsystem":"Valine, Leucine, and Isoleucine Metabolism"
+},
+{
+"id":"DHORD5",
+"name":"Dihydroorotic acid (menaquinone-8)",
+"metabolites":{
+"dhor__S_c":-1.0,
+"mql8_c":1.0,
+"mqn8_c":-1.0,
+"orot_c":1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b0945",
+"subsystem":"Purine and Pyrimidine Biosynthesis"
+},
+{
+"id":"VALTA",
+"name":"Valine transaminase",
+"metabolites":{
+"3mob_c":1.0,
+"akg_c":-1.0,
+"glu__L_c":1.0,
+"val__L_c":-1.0
+},
+"lower_bound":-1000.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b3770",
+"subsystem":"Valine, Leucine, and Isoleucine Metabolism"
+},
+{
+"id":"IPPMIb",
+"name":"2-isopropylmalate hydratase",
+"metabolites":{
+"2ippm_c":-1.0,
+"3c3hmp_c":1.0,
+"h2o_c":-1.0
+},
+"lower_bound":-1000.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b0071 and b0072",
+"subsystem":"Valine, Leucine, and Isoleucine Metabolism"
+},
+{
+"id":"ORPT",
+"name":"Orotate phosphoribosyltransferase",
+"metabolites":{
+"orot5p_c":-1.0,
+"orot_c":1.0,
+"ppi_c":-1.0,
+"prpp_c":1.0
+},
+"lower_bound":-1000.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b3642",
+"subsystem":"Purine and Pyrimidine Biosynthesis"
+},
+{
+"id":"ACHBS",
+"name":"2-aceto-2-hydroxybutanoate synthase",
+"metabolites":{
+"2ahbut_c":1.0,
+"2obut_c":-1.0,
+"co2_c":1.0,
+"h_c":-1.0,
+"pyr_c":-1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"(b3670 and b3671) or (b0077 and b0078)",
+"subsystem":"Valine, Leucine, and Isoleucine Metabolism"
+},
+{
+"id":"DHAD2",
+"name":"Dihydroxy-acid dehydratase (2,3-dihydroxy-3-methylpentanoate)",
+"metabolites":{
+"23dhmp_c":-1.0,
+"3mop_c":1.0,
+"h2o_c":1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b3771",
+"subsystem":"Valine, Leucine, and Isoleucine Metabolism"
+},
+{
+"id":"ACLS",
+"name":"Acetolactate synthase",
+"metabolites":{
+"alac__S_c":1.0,
+"co2_c":1.0,
+"h_c":-1.0,
+"pyr_c":-2.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"(b0077 and b0078) or (b3670 and b3671)",
+"subsystem":"Valine, Leucine, and Isoleucine Metabolism"
+},
+{
+"id":"TRPS2",
+"name":"Tryptophan synthase (indole)",
+"metabolites":{
+"h2o_c":1.0,
+"indole_c":-1.0,
+"ser__L_c":-1.0,
+"trp__L_c":1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b1260 and b1261",
+"subsystem":"Tyrosine, Tryptophan, and Phenylalanine Metabolism"
+},
+{
+"id":"PSCVT",
+"name":"3-phosphoshikimate 1-carboxyvinyltransferase",
+"metabolites":{
+"3psme_c":1.0,
+"pep_c":-1.0,
+"pi_c":1.0,
+"skm5p_c":-1.0
+},
+"lower_bound":-1000.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b0908",
+"subsystem":"Tyrosine, Tryptophan, and Phenylalanine Metabolism"
+},
+{
+"id":"PFL",
+"name":"Pyruvate formate lyase",
+"metabolites":{
+"accoa_c":1.0,
+"coa_c":-1.0,
+"for_c":1.0,
+"pyr_c":-1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"(b0902 and b0903) or (b0902 and b3114) or (b3951 and b3952) or ((b0902 and b0903) and b2579)",
+"subsystem":"Pyruvate Metabolism"
+},
+{
+"id":"ANS",
+"name":"Anthranilate synthase",
+"metabolites":{
+"anth_c":1.0,
+"chor_c":-1.0,
+"gln__L_c":-1.0,
+"glu__L_c":1.0,
+"h_c":1.0,
+"pyr_c":1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b1263 and b1264",
+"subsystem":"Tyrosine, Tryptophan, and Phenylalanine Metabolism"
+},
+{
+"id":"FRD2",
+"name":"Fumarate reductase",
+"metabolites":{
+"fum_c":-1.0,
+"mql8_c":-1.0,
+"mqn8_c":1.0,
+"succ_c":1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b4152 and b4151 and b4153 and b4154",
+"subsystem":"Citric Acid Cycle"
+},
+{
+"id":"ANPRT",
+"name":"Anthranilate phosphoribosyltransferase",
+"metabolites":{
+"anth_c":-1.0,
+"ppi_c":1.0,
+"pran_c":1.0,
+"prpp_c":-1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b1263",
+"subsystem":"Tyrosine, Tryptophan, and Phenylalanine Metabolism"
+},
+{
+"id":"CHORM",
+"name":"Chorismate mutase",
+"metabolites":{
+"chor_c":-1.0,
+"pphn_c":1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b2599 or b2600",
+"subsystem":"Tyrosine, Tryptophan, and Phenylalanine Metabolism"
+},
+{
+"id":"PTAr",
+"name":"Phosphotransacetylase",
+"metabolites":{
+"accoa_c":-1.0,
+"actp_c":1.0,
+"coa_c":1.0,
+"pi_c":-1.0
+},
+"lower_bound":-1000.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b2297 or b2458",
+"subsystem":"Pyruvate Metabolism"
+},
+{
+"id":"CHORS",
+"name":"Chorismate synthase",
+"metabolites":{
+"3psme_c":-1.0,
+"chor_c":1.0,
+"pi_c":1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b2329",
+"subsystem":"Tyrosine, Tryptophan, and Phenylalanine Metabolism"
+},
+{
+"id":"IGPS",
+"name":"Indole-3-glycerol-phosphate synthase",
+"metabolites":{
+"2cpr5p_c":-1.0,
+"3ig3p_c":1.0,
+"co2_c":1.0,
+"h2o_c":1.0,
+"h_c":-1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b1262",
+"subsystem":"Tyrosine, Tryptophan, and Phenylalanine Metabolism"
+},
+{
+"id":"ACKr",
+"name":"Acetate kinase",
+"metabolites":{
+"ac_c":-1.0,
+"actp_c":1.0,
+"adp_c":1.0,
+"atp_c":-1.0
+},
+"lower_bound":-1000.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b2296 or b1849 or b3115",
+"subsystem":"Pyruvate Metabolism"
+},
+{
+"id":"LEUTAi",
+"name":"Leucine transaminase (irreversible)",
+"metabolites":{
+"4mop_c":-1.0,
+"akg_c":1.0,
+"glu__L_c":-1.0,
+"leu__L_c":1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b3770 or b4054",
+"subsystem":"Valine, Leucine, and Isoleucine Metabolism"
+},
+{
+"id":"EX_glcn_e",
+"name":"D-Gluconate exchange",
+"metabolites":{
+"glcn_e":-1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"",
+"subsystem":"Extracellular exchange"
+},
+{
+"id":"EX_h_e",
+"name":"H+ exchange",
+"metabolites":{
+"h_e":-1.0
+},
+"lower_bound":-1000.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"",
+"subsystem":"Extracellular exchange"
+},
+{
+"id":"EX_gln__L_e",
+"name":"L-Glutamine exchange",
+"metabolites":{
+"gln__L_e":-1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"",
+"subsystem":"Extracellular exchange"
+},
+{
+"id":"EX_glyc_e",
+"name":"Glycerol exchange",
+"metabolites":{
+"glyc_e":-1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"",
+"subsystem":"Extracellular exchange"
+},
+{
+"id":"EX_ac_e",
+"name":"Acetate exchange",
+"metabolites":{
+"ac_e":-1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"",
+"subsystem":"Extracellular exchange"
+},
+{
+"id":"EX_akg_e",
+"name":"2-Oxoglutarate exchange",
+"metabolites":{
+"akg_e":-1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"",
+"subsystem":"Extracellular exchange"
+},
+{
+"id":"EX_pyr_e",
+"name":"Pyruvate exchange",
+"metabolites":{
+"pyr_e":-1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"",
+"subsystem":"Extracellular exchange"
+},
+{
+"id":"EX_succ_e",
+"name":"Succinate exchange",
+"metabolites":{
+"succ_e":-1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"",
+"subsystem":"Extracellular exchange"
+},
+{
+"id":"EX_rib__D_e",
+"name":"D-Ribose exchange",
+"metabolites":{
+"rib__D_e":-1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"",
+"subsystem":"Extracellular exchange"
+},
+{
+"id":"EX_fum_e",
+"name":"Fumarate exchange",
+"metabolites":{
+"fum_e":-1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"",
+"subsystem":"Extracellular exchange"
+},
+{
+"id":"EX_glu__L_e",
+"name":"L-Glutamate exchange",
+"metabolites":{
+"glu__L_e":-1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"",
+"subsystem":"Extracellular exchange"
+},
+{
+"id":"ENO",
+"name":"Enolase",
+"metabolites":{
+"2pg_c":-1.0,
+"h2o_c":1.0,
+"pep_c":1.0
+},
+"lower_bound":-1000.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b2779",
+"subsystem":"Glycolysis/Gluconeogenesis"
+},
+{
+"id":"FBA",
+"name":"Fructose-bisphosphate aldolase",
+"metabolites":{
+"dhap_c":1.0,
+"fdp_c":-1.0,
+"g3p_c":1.0
+},
+"lower_bound":-1000.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b2925 or b2097",
+"subsystem":"Glycolysis/Gluconeogenesis"
+},
+{
+"id":"HCO3E",
+"name":"HCO3 equilibration reaction",
+"metabolites":{
+"co2_c":-1.0,
+"h2o_c":-1.0,
+"h_c":1.0,
+"hco3_c":1.0
+},
+"lower_bound":-1000.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b0126 or b0339",
+"subsystem":"Unassigned"
+},
+{
+"id":"IMPC",
+"name":"IMP cyclohydrolase",
+"metabolites":{
+"fprica_c":1.0,
+"h2o_c":-1.0,
+"imp_c":-1.0
+},
+"lower_bound":-1000.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b4006",
+"subsystem":"Purine and Pyrimidine Biosynthesis"
+},
+{
+"id":"IMPD",
+"name":"IMP dehydrogenase",
+"metabolites":{
+"h2o_c":-1.0,
+"h_c":1.0,
+"imp_c":-1.0,
+"nad_c":-1.0,
+"nadh_c":1.0,
+"xmp_c":1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b2508",
+"subsystem":"Purine and Pyrimidine Biosynthesis"
+},
+{
+"id":"PPS",
+"name":"Phosphoenolpyruvate synthase",
+"metabolites":{
+"amp_c":1.0,
+"atp_c":-1.0,
+"h2o_c":-1.0,
+"h_c":2.0,
+"pep_c":1.0,
+"pi_c":1.0,
+"pyr_c":-1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b1702",
+"subsystem":"Glycolysis/Gluconeogenesis"
+},
+{
+"id":"PGI",
+"name":"Glucose-6-phosphate isomerase",
+"metabolites":{
+"f6p_c":1.0,
+"g6p_c":-1.0
+},
+"lower_bound":-1000.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b4025",
+"subsystem":"Glycolysis/Gluconeogenesis"
+},
+{
+"id":"PGK",
+"name":"Phosphoglycerate kinase",
+"metabolites":{
+"13dpg_c":1.0,
+"3pg_c":-1.0,
+"adp_c":1.0,
+"atp_c":-1.0
+},
+"lower_bound":-1000.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b2926",
+"subsystem":"Glycolysis/Gluconeogenesis"
+},
+{
+"id":"PGL",
+"name":"6-phosphogluconolactonase",
+"metabolites":{
+"6pgc_c":1.0,
+"6pgl_c":-1.0,
+"h2o_c":-1.0,
+"h_c":1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b0767",
+"subsystem":"Pentose Phosphate Pathway"
+},
+{
+"id":"RPE",
+"name":"Ribulose 5-phosphate 3-epimerase",
+"metabolites":{
+"ru5p__D_c":-1.0,
+"xu5p__D_c":1.0
+},
+"lower_bound":-1000.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b3386",
+"subsystem":"Pentose Phosphate Pathway"
+},
+{
+"id":"DHQTi",
+"name":"3-dehydroquinate dehydratase, irreversible",
+"metabolites":{
+"3dhq_c":-1.0,
+"3dhsk_c":1.0,
+"h2o_c":1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b1693",
+"subsystem":"Tyrosine, Tryptophan, and Phenylalanine Metabolism"
+},
+{
+"id":"IPMD",
+"name":"3-isopropylmalate dehydrogenase",
+"metabolites":{
+"3c2hmp_c":-1.0,
+"3c4mop_c":1.0,
+"h_c":1.0,
+"nad_c":-1.0,
+"nadh_c":1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b0073 or b1800",
+"subsystem":"Valine, Leucine, and Isoleucine Metabolism"
+},
+{
+"id":"AIRC3",
+"name":"Phosphoribosylaminoimidazole carboxylase (mutase rxn)",
+"metabolites":{
+"5aizc_c":-1.0,
+"5caiz_c":1.0
+},
+"lower_bound":-1000.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b0523",
+"subsystem":"Purine and Pyrimidine Biosynthesis"
+},
+{
+"id":"TALA",
+"name":"Transaldolase",
+"metabolites":{
+"e4p_c":1.0,
+"f6p_c":1.0,
+"g3p_c":-1.0,
+"s7p_c":-1.0
+},
+"lower_bound":-1000.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b0008 or b2464",
+"subsystem":"Pentose Phosphate Pathway"
+},
+{
+"id":"ADSL2r",
+"name":"Adenylosuccinate lyase",
+"metabolites":{
+"25aics_c":-1.0,
+"aicar_c":1.0,
+"fum_c":1.0
+},
+"lower_bound":-1000.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b1131",
+"subsystem":"Purine and Pyrimidine Biosynthesis"
+},
+{
+"id":"TKT1",
+"name":"Transketolase",
+"metabolites":{
+"g3p_c":1.0,
+"r5p_c":-1.0,
+"s7p_c":1.0,
+"xu5p__D_c":-1.0
+},
+"lower_bound":-1000.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b2935 or b2465",
+"subsystem":"Pentose Phosphate Pathway"
+},
+{
+"id":"RNDR1",
+"name":"Ribonucleoside-diphosphate reductase (ADP)",
+"metabolites":{
+"adp_c":-1.0,
+"dadp_c":1.0,
+"h2o_c":1.0,
+"trdox_c":1.0,
+"trdrd_c":-1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"(b2582 and (b2234 and b2235)) or (b3781 and (b2234 and b2235))",
+"subsystem":"Nucleotide Salvage Pathway"
+},
+{
+"id":"ALCD2x",
+"name":"Alcohol dehydrogenase (ethanol)",
+"metabolites":{
+"acald_c":1.0,
+"etoh_c":-1.0,
+"h_c":1.0,
+"nad_c":-1.0,
+"nadh_c":1.0
+},
+"lower_bound":-1000.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b1241 or b1478",
+"subsystem":"Pyruvate Metabolism"
+},
+{
+"id":"RNDR3",
+"name":"Ribonucleoside-diphosphate reductase (CDP)",
+"metabolites":{
+"cdp_c":-1.0,
+"dcdp_c":1.0,
+"h2o_c":1.0,
+"trdox_c":1.0,
+"trdrd_c":-1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"(b3781 and (b2234 and b2235)) or (b2582 and (b2234 and b2235))",
+"subsystem":"Nucleotide Salvage Pathway"
+},
+{
+"id":"RNDR4",
+"name":"Ribonucleoside-diphosphate reductase (UDP)",
+"metabolites":{
+"dudp_c":1.0,
+"h2o_c":1.0,
+"trdox_c":1.0,
+"trdrd_c":-1.0,
+"udp_c":-1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"(b3781 and (b2234 and b2235)) or ((b2234 and b2235) and b2582)",
+"subsystem":"Nucleotide Salvage Pathway"
+},
+{
+"id":"TMDS",
+"name":"Thymidylate synthase",
+"metabolites":{
+"dhf_c":1.0,
+"dtmp_c":1.0,
+"dump_c":-1.0,
+"mlthf_c":-1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b2827",
+"subsystem":"Nucleotide Salvage Pathway"
+},
+{
+"id":"EX_glc__D_e",
+"name":"D-Glucose exchange",
+"metabolites":{
+"glc__D_e":-1.0
+},
+"lower_bound":-10.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"",
+"subsystem":"Extracellular exchange"
+},
+{
+"id":"DHAD1",
+"name":"Dihydroxy-acid dehydratase (2,3-dihydroxy-3-methylbutanoate)",
+"metabolites":{
+"23dhmb_c":-1.0,
+"3mob_c":1.0,
+"h2o_c":1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b3771",
+"subsystem":"Valine, Leucine, and Isoleucine Metabolism"
+},
+{
+"id":"IPPMIa",
+"name":"3-isopropylmalate dehydratase",
+"metabolites":{
+"2ippm_c":1.0,
+"3c2hmp_c":-1.0,
+"h2o_c":1.0
+},
+"lower_bound":-1000.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b0071 and b0072",
+"subsystem":"Valine, Leucine, and Isoleucine Metabolism"
+},
+{
+"id":"MDH",
+"name":"Malate dehydrogenase",
+"metabolites":{
+"h_c":1.0,
+"mal__L_c":-1.0,
+"nad_c":-1.0,
+"nadh_c":1.0,
+"oaa_c":1.0
+},
+"lower_bound":-1000.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b3236",
+"subsystem":"Citric Acid Cycle"
+},
+{
+"id":"FUM",
+"name":"Fumarase",
+"metabolites":{
+"fum_c":-1.0,
+"h2o_c":-1.0,
+"mal__L_c":1.0
+},
+"lower_bound":-1000.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b1612 or b4122 or b1611",
+"subsystem":"Citric Acid Cycle"
+},
+{
+"id":"EX_fru_e",
+"name":"D-Fructose exchange",
+"metabolites":{
+"fru_e":-1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"",
+"subsystem":"Extracellular exchange"
+},
+{
+"id":"EX_xyl__D_e",
+"name":"D-Xylose exchange",
+"metabolites":{
+"xyl__D_e":-1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"",
+"subsystem":"Extracellular exchange"
+},
+{
+"id":"KARA1",
+"name":"Ketol-acid reductoisomerase (2,3-dihydroxy-3-methylbutanoate)",
+"metabolites":{
+"23dhmb_c":-1.0,
+"alac__S_c":1.0,
+"h_c":1.0,
+"nadp_c":-1.0,
+"nadph_c":1.0
+},
+"lower_bound":-1000.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b3774",
+"subsystem":"Valine, Leucine, and Isoleucine Metabolism"
+},
+{
+"id":"KARA2",
+"name":"Ketol-acid reductoisomerase (2-Acetolactate)",
+"metabolites":{
+"23dhmp_c":1.0,
+"2ahbut_c":-1.0,
+"h_c":-1.0,
+"nadp_c":1.0,
+"nadph_c":-1.0
+},
+"lower_bound":-1000.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b3774",
+"subsystem":"Valine, Leucine, and Isoleucine Metabolism"
+},
+{
+"id":"EX_for_e",
+"name":"Formate exchange",
+"metabolites":{
+"for_e":-1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"",
+"subsystem":"Extracellular exchange"
+},
+{
+"id":"ACCOAC",
+"name":"Acetyl-CoA carboxylase",
+"metabolites":{
+"accoa_c":-1.0,
+"adp_c":1.0,
+"atp_c":-1.0,
+"h_c":1.0,
+"hco3_c":-1.0,
+"malcoa_c":1.0,
+"pi_c":1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b2316 and b3255 and b3256 and b0185",
+"subsystem":"Membrane Lipid Metabolism"
+},
+{
+"id":"KAS14",
+"name":"Beta-ketoacyl-ACP synthase",
+"metabolites":{
+"ACP_c":1.0,
+"acACP_c":-1.0,
+"actACP_c":1.0,
+"co2_c":1.0,
+"h_c":-1.0,
+"malACP_c":-1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b2323 or b1095",
+"subsystem":"Membrane Lipid Metabolism"
+},
+{
+"id":"ARGSS",
+"name":"Argininosuccinate synthase",
+"metabolites":{
+"amp_c":1.0,
+"argsuc_c":1.0,
+"asp__L_c":-1.0,
+"atp_c":-1.0,
+"citr__L_c":-1.0,
+"h_c":1.0,
+"ppi_c":1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b3172",
+"subsystem":"Arginine and Proline Metabolism"
+},
+{
+"id":"AGPR",
+"name":"N-acetyl-g-glutamyl-phosphate reductase",
+"metabolites":{
+"acg5p_c":1.0,
+"acg5sa_c":-1.0,
+"h_c":1.0,
+"nadp_c":-1.0,
+"nadph_c":1.0,
+"pi_c":-1.0
+},
+"lower_bound":-1000.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b3958",
+"subsystem":"Arginine and Proline Metabolism"
+},
+{
+"id":"ICL",
+"name":"Isocitrate lyase",
+"metabolites":{
+"glx_c":1.0,
+"icit_c":-1.0,
+"succ_c":1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b4015",
+"subsystem":"Anaplerotic Reactions"
+},
+{
+"id":"EX_acald_e",
+"name":"Acetaldehyde exchange",
+"metabolites":{
+"acald_e":-1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"",
+"subsystem":"Extracellular exchange"
+},
+{
+"id":"GLYCL",
+"name":"Glycine Cleavage System",
+"metabolites":{
+"co2_c":1.0,
+"gly_c":-1.0,
+"mlthf_c":1.0,
+"nad_c":-1.0,
+"nadh_c":1.0,
+"nh4_c":1.0,
+"thf_c":-1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b2904 and b2903 and b0116 and b2905",
+"subsystem":"Folate Metabolism"
+},
+{
+"id":"XYLI1",
+"name":"Xylose isomerase",
+"metabolites":{
+"xyl__D_c":-1.0,
+"xylu__D_c":1.0
+},
+"lower_bound":-1000.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b3565",
+"subsystem":"Alternate Carbon Metabolism"
+},
+{
+"id":"PPC",
+"name":"Phosphoenolpyruvate carboxylase",
+"metabolites":{
+"co2_c":-1.0,
+"h2o_c":-1.0,
+"h_c":1.0,
+"oaa_c":1.0,
+"pep_c":-1.0,
+"pi_c":1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b3956",
+"subsystem":"Anaplerotic Reactions"
+},
+{
+"id":"G3PT",
+"name":"Glycerol-3-phosphatase",
+"metabolites":{
+"glyc3p_c":-1.0,
+"glyc_c":1.0,
+"h2o_c":-1.0,
+"pi_c":1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b0822 or b0675",
+"subsystem":"Alternate Carbon Metabolism"
+},
+{
+"id":"SADT2",
+"name":"Sulfate adenyltransferase",
+"metabolites":{
+"aps_c":1.0,
+"atp_c":-1.0,
+"gdp_c":1.0,
+"gtp_c":-1.0,
+"h2o_c":-1.0,
+"pi_c":1.0,
+"ppi_c":1.0,
+"so4_c":-1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b2752 and b2751",
+"subsystem":"Cysteine Metabolism"
+},
+{
+"id":"AACPS1",
+"name":"Acyl-[acyl-carrier-protein] synthetase (n-C14:0)",
+"metabolites":{
+"ACP_c":-1.0,
+"amp_c":1.0,
+"atp_c":-1.0,
+"myrsACP_c":1.0,
+"ppi_c":1.0,
+"ttdca_c":-1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b1094 and b2836",
+"subsystem":"Cell Envelope Biosynthesis"
+},
+{
+"id":"GHMT2r",
+"name":"Glycine hydroxymethyltransferase, reversible",
+"metabolites":{
+"gly_c":1.0,
+"h2o_c":1.0,
+"mlthf_c":1.0,
+"ser__L_c":-1.0,
+"thf_c":-1.0
+},
+"lower_bound":-1000.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b2551",
+"subsystem":"Glycine and Serine Metabolism"
+},
+{
+"id":"DHORD2",
+"name":"Dihydoorotic acid dehydrogenase (quinone8)",
+"metabolites":{
+"dhor__S_c":-1.0,
+"orot_c":1.0,
+"q8_c":-1.0,
+"q8h2_c":1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b0945",
+"subsystem":"Purine and Pyrimidine Biosynthesis"
+},
+{
+"id":"SDPDS",
+"name":"Succinyl-diaminopimelate desuccinylase",
+"metabolites":{
+"26dap_LL_c":1.0,
+"h2o_c":-1.0,
+"sl26da_c":-1.0,
+"succ_c":1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b2472",
+"subsystem":"Threonine and Lysine Metabolism"
+},
+{
+"id":"EX_lac__D_e",
+"name":"D-lactate exchange",
+"metabolites":{
+"lac__D_e":-1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"",
+"subsystem":"Extracellular exchange"
+},
+{
+"id":"UMPK",
+"name":"UMP kinase",
+"metabolites":{
+"adp_c":1.0,
+"atp_c":-1.0,
+"udp_c":1.0,
+"ump_c":-1.0
+},
+"lower_bound":-1000.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b0910 or b0171",
+"subsystem":"Nucleotide Salvage Pathway"
+},
+{
+"id":"CTPS2",
+"name":"CTP synthase (glutamine)",
+"metabolites":{
+"adp_c":1.0,
+"atp_c":-1.0,
+"ctp_c":1.0,
+"gln__L_c":-1.0,
+"glu__L_c":1.0,
+"h2o_c":-1.0,
+"h_c":2.0,
+"pi_c":1.0,
+"utp_c":-1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b2780",
+"subsystem":"Purine and Pyrimidine Biosynthesis"
+},
+{
+"id":"NDPK7",
+"name":"Nucleoside-diphosphate kinase (ATP:dCDP)",
+"metabolites":{
+"adp_c":1.0,
+"atp_c":-1.0,
+"dcdp_c":-1.0,
+"dctp_c":1.0
+},
+"lower_bound":-1000.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b0474 or b2518",
+"subsystem":"Nucleotide Salvage Pathway"
+},
+{
+"id":"TRPS3",
+"name":"Tryptophan synthase (indoleglycerol phosphate)",
+"metabolites":{
+"3ig3p_c":-1.0,
+"g3p_c":1.0,
+"indole_c":1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b1260 and b1261",
+"subsystem":"Tyrosine, Tryptophan, and Phenylalanine Metabolism"
+},
+{
+"id":"ADK1",
+"name":"Adenylate kinase",
+"metabolites":{
+"adp_c":2.0,
+"amp_c":-1.0,
+"atp_c":-1.0
+},
+"lower_bound":-1000.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b0474",
+"subsystem":"Nucleotide Salvage Pathway"
+},
+{
+"id":"NDPK2",
+"name":"Nucleoside-diphosphate kinase (ATP:UDP)",
+"metabolites":{
+"adp_c":1.0,
+"atp_c":-1.0,
+"udp_c":-1.0,
+"utp_c":1.0
+},
+"lower_bound":-1000.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b0474 or b2518",
+"subsystem":"Nucleotide Salvage Pathway"
+},
+{
+"id":"NDPK4",
+"name":"Nucleoside-diphosphate kinase (ATP:dTDP)",
+"metabolites":{
+"adp_c":1.0,
+"atp_c":-1.0,
+"dtdp_c":-1.0,
+"dttp_c":1.0
+},
+"lower_bound":-1000.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b0474 or b2518",
+"subsystem":"Nucleotide Salvage Pathway"
+},
+{
+"id":"ACODA",
+"name":"Acetylornithine deacetylase",
+"metabolites":{
+"ac_c":1.0,
+"acorn_c":-1.0,
+"h2o_c":-1.0,
+"orn_c":1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b3957",
+"subsystem":"Arginine and Proline Metabolism"
+},
+{
+"id":"ADSS",
+"name":"Adenylosuccinate synthase",
+"metabolites":{
+"asp__L_c":-1.0,
+"dcamp_c":1.0,
+"gdp_c":1.0,
+"gtp_c":-1.0,
+"h_c":2.0,
+"imp_c":-1.0,
+"pi_c":1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b4177",
+"subsystem":"Purine and Pyrimidine Biosynthesis"
+},
+{
+"id":"ASNS2",
+"name":"Asparagine synthetase",
+"metabolites":{
+"amp_c":1.0,
+"asn__L_c":1.0,
+"asp__L_c":-1.0,
+"atp_c":-1.0,
+"h_c":1.0,
+"nh4_c":-1.0,
+"ppi_c":1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b3744 or b0674",
+"subsystem":"Alanine and Aspartate Metabolism"
+},
+{
+"id":"ASPCT",
+"name":"Aspartate carbamoyltransferase",
+"metabolites":{
+"asp__L_c":-1.0,
+"cbasp_c":1.0,
+"cbp_c":-1.0,
+"h_c":1.0,
+"pi_c":1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"(b4244 and b4245) or b4245",
+"subsystem":"Purine and Pyrimidine Biosynthesis"
+},
+{
+"id":"MCOATA",
+"name":"Malonyl-CoA-ACP transacylase",
+"metabolites":{
+"ACP_c":-1.0,
+"coa_c":1.0,
+"malACP_c":1.0,
+"malcoa_c":-1.0
+},
+"lower_bound":-1000.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b1094 and b1092",
+"subsystem":"Membrane Lipid Metabolism"
+},
+{
+"id":"DAPE",
+"name":"Diaminopimelate epimerase",
+"metabolites":{
+"26dap_LL_c":-1.0,
+"26dap__M_c":1.0
+},
+"lower_bound":-1000.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b3809",
+"subsystem":"Threonine and Lysine Metabolism"
+},
+{
+"id":"DHDPRy",
+"name":"Dihydrodipicolinate reductase (NADPH)",
+"metabolites":{
+"23dhdp_c":-1.0,
+"h_c":-1.0,
+"nadp_c":1.0,
+"nadph_c":-1.0,
+"thdp_c":1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b0031",
+"subsystem":"Threonine and Lysine Metabolism"
+},
+{
+"id":"HSK",
+"name":"Homoserine kinase",
+"metabolites":{
+"adp_c":1.0,
+"atp_c":-1.0,
+"h_c":1.0,
+"hom__L_c":-1.0,
+"phom_c":1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b0003",
+"subsystem":"Threonine and Lysine Metabolism"
+},
+{
+"id":"SDPTA",
+"name":"Succinyldiaminopimelate transaminase",
+"metabolites":{
+"akg_c":-1.0,
+"glu__L_c":1.0,
+"sl26da_c":-1.0,
+"sl2a6o_c":1.0
+},
+"lower_bound":-1000.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b3359 or b1302 or b1748 or b2662 or b0907",
+"subsystem":"Threonine and Lysine Metabolism"
+},
+{
+"id":"THRS",
+"name":"Threonine synthase",
+"metabolites":{
+"h2o_c":-1.0,
+"phom_c":-1.0,
+"pi_c":1.0,
+"thr__L_c":1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b0004",
+"subsystem":"Threonine and Lysine Metabolism"
+},
+{
+"id":"HSST",
+"name":"Homoserine O-succinyltransferase",
+"metabolites":{
+"coa_c":1.0,
+"hom__L_c":-1.0,
+"succoa_c":-1.0,
+"suchms_c":1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b4013",
+"subsystem":"Methionine Metabolism"
+},
+{
+"id":"PPNDH",
+"name":"Prephenate dehydratase",
+"metabolites":{
+"co2_c":1.0,
+"h2o_c":1.0,
+"h_c":-1.0,
+"phpyr_c":1.0,
+"pphn_c":-1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b2599",
+"subsystem":"Tyrosine, Tryptophan, and Phenylalanine Metabolism"
+},
+{
+"id":"DTMPK",
+"name":"DTMP kinase",
+"metabolites":{
+"adp_c":1.0,
+"atp_c":-1.0,
+"dtdp_c":1.0,
+"dtmp_c":-1.0
+},
+"lower_bound":-1000.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b1098",
+"subsystem":"Nucleotide Salvage Pathway"
+},
+{
+"id":"NDPK1",
+"name":"Nucleoside-diphosphate kinase (ATP:GDP)",
+"metabolites":{
+"adp_c":1.0,
+"atp_c":-1.0,
+"gdp_c":-1.0,
+"gtp_c":1.0
+},
+"lower_bound":-1000.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b0474 or b2518",
+"subsystem":"Nucleotide Salvage Pathway"
+},
+{
+"id":"TRDR",
+"name":"Thioredoxin reductase (NADPH)",
+"metabolites":{
+"h_c":-1.0,
+"nadp_c":1.0,
+"nadph_c":-1.0,
+"trdox_c":-1.0,
+"trdrd_c":1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"(b0888 and b3781) or (b2582 and b0888)",
+"subsystem":"Oxidative Phosphorylation"
+},
+{
+"id":"DDPA",
+"name":"3-deoxy-D-arabino-heptulosonate 7-phosphate synthetase",
+"metabolites":{
+"2dda7p_c":1.0,
+"e4p_c":-1.0,
+"h2o_c":-1.0,
+"pep_c":-1.0,
+"pi_c":1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b2601 or b0754 or b1704",
+"subsystem":"Tyrosine, Tryptophan, and Phenylalanine Metabolism"
+},
+{
+"id":"MALS",
+"name":"Malate synthase",
+"metabolites":{
+"accoa_c":-1.0,
+"coa_c":1.0,
+"glx_c":-1.0,
+"h2o_c":-1.0,
+"h_c":1.0,
+"mal__L_c":1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b4014 or b2976",
+"subsystem":"Anaplerotic Reactions"
+},
+{
+"id":"NADTRHD",
+"name":"NAD transhydrogenase",
+"metabolites":{
+"nad_c":-1.0,
+"nadh_c":1.0,
+"nadp_c":1.0,
+"nadph_c":-1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b3962",
+"subsystem":"Oxidative Phosphorylation"
+},
+{
+"id":"G3PD2",
+"name":"Glycerol-3-phosphate dehydrogenase (NADP)",
+"metabolites":{
+"dhap_c":1.0,
+"glyc3p_c":-1.0,
+"h_c":1.0,
+"nadp_c":-1.0,
+"nadph_c":1.0
+},
+"lower_bound":-1000.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b3608",
+"subsystem":"Alternate Carbon Metabolism"
+},
+{
+"id":"GMPS2",
+"name":"GMP synthase",
+"metabolites":{
+"amp_c":1.0,
+"atp_c":-1.0,
+"gln__L_c":-1.0,
+"glu__L_c":1.0,
+"gmp_c":1.0,
+"h2o_c":-1.0,
+"h_c":2.0,
+"ppi_c":1.0,
+"xmp_c":-1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b2507",
+"subsystem":"Purine and Pyrimidine Biosynthesis"
+},
+{
+"id":"AACPS3",
+"name":"Acyl-[acyl-carrier-protein] synthetase  (n-C16:0)",
+"metabolites":{
+"ACP_c":-1.0,
+"amp_c":1.0,
+"atp_c":-1.0,
+"hdca_c":-1.0,
+"palmACP_c":1.0,
+"ppi_c":1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b1094 and b2836",
+"subsystem":"Cell Envelope Biosynthesis"
+},
+{
+"id":"P5CR",
+"name":"Pyrroline-5-carboxylate reductase",
+"metabolites":{
+"1pyr5c_c":-1.0,
+"h_c":-2.0,
+"nadp_c":1.0,
+"nadph_c":-1.0,
+"pro__L_c":1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b0386",
+"subsystem":"Arginine and Proline Metabolism"
+},
+{
+"id":"G5SADs",
+"name":"L-glutamate 5-semialdehyde dehydratase (spontaneous)",
+"metabolites":{
+"1pyr5c_c":1.0,
+"glu5sa_c":-1.0,
+"h2o_c":1.0,
+"h_c":1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"s0001",
+"subsystem":"Arginine and Proline Metabolism"
+},
+{
+"id":"AKGDH",
+"name":"2-Oxogluterate dehydrogenase",
+"metabolites":{
+"akg_c":-1.0,
+"co2_c":1.0,
+"coa_c":-1.0,
+"nad_c":-1.0,
+"nadh_c":1.0,
+"succoa_c":1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b0727 and b0116 and b0726",
+"subsystem":"Citric Acid Cycle"
+},
+{
+"id":"ATPPRT",
+"name":"ATP phosphoribosyltransferase",
+"metabolites":{
+"atp_c":-1.0,
+"ppi_c":1.0,
+"prbatp_c":1.0,
+"prpp_c":-1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b2019",
+"subsystem":"Histidine Metabolism"
+},
+{
+"id":"HISTD",
+"name":"Histidinol dehydrogenase",
+"metabolites":{
+"h2o_c":-1.0,
+"h_c":3.0,
+"his__L_c":1.0,
+"histd_c":-1.0,
+"nad_c":-2.0,
+"nadh_c":2.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b2020",
+"subsystem":"Histidine Metabolism"
+},
+{
+"id":"DHDPS",
+"name":"Dihydrodipicolinate synthase",
+"metabolites":{
+"23dhdp_c":1.0,
+"aspsa_c":-1.0,
+"h2o_c":2.0,
+"h_c":1.0,
+"pyr_c":-1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b2478",
+"subsystem":"Threonine and Lysine Metabolism"
+},
+{
+"id":"IGPDH",
+"name":"Imidazoleglycerol-phosphate dehydratase",
+"metabolites":{
+"eig3p_c":-1.0,
+"h2o_c":1.0,
+"imacp_c":1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b2022",
+"subsystem":"Histidine Metabolism"
+},
+{
+"id":"PRPPS",
+"name":"Phosphoribosylpyrophosphate synthetase",
+"metabolites":{
+"amp_c":1.0,
+"atp_c":-1.0,
+"h_c":1.0,
+"prpp_c":1.0,
+"r5p_c":-1.0
+},
+"lower_bound":-1000.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b1207",
+"subsystem":"Histidine Metabolism"
+},
+{
+"id":"PRATPP",
+"name":"Phosphoribosyl-ATP pyrophosphatase",
+"metabolites":{
+"h2o_c":-1.0,
+"h_c":1.0,
+"ppi_c":1.0,
+"prbamp_c":1.0,
+"prbatp_c":-1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b2026",
+"subsystem":"Histidine Metabolism"
+},
+{
+"id":"GLUN",
+"name":"Glutaminase",
+"metabolites":{
+"gln__L_c":-1.0,
+"glu__L_c":1.0,
+"h2o_c":-1.0,
+"nh4_c":1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b0485 or b1524",
+"subsystem":"Glutamate Metabolism"
+},
+{
+"id":"PRMICI",
+"name":"1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino)imidazole-4-carboxamide isomerase",
+"metabolites":{
+"prfp_c":-1.0,
+"prlp_c":1.0
+},
+"lower_bound":-1000.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b2024",
+"subsystem":"Histidine Metabolism"
+},
+{
+"id":"GLUPRT",
+"name":"Glutamine phosphoribosyldiphosphate amidotransferase",
+"metabolites":{
+"gln__L_c":-1.0,
+"glu__L_c":1.0,
+"h2o_c":-1.0,
+"ppi_c":1.0,
+"pram_c":1.0,
+"prpp_c":-1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b2312",
+"subsystem":"Purine and Pyrimidine Biosynthesis"
+},
+{
+"id":"SERAT",
+"name":"Serine O-acetyltransferase",
+"metabolites":{
+"accoa_c":-1.0,
+"acser_c":1.0,
+"coa_c":1.0,
+"ser__L_c":-1.0
+},
+"lower_bound":-1000.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b3607",
+"subsystem":"Cysteine Metabolism"
+},
+{
+"id":"CYSS",
+"name":"Cysteine synthase",
+"metabolites":{
+"ac_c":1.0,
+"acser_c":-1.0,
+"cys__L_c":1.0,
+"h2s_c":-1.0,
+"h_c":1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b2421 or b2414",
+"subsystem":"Cysteine Metabolism"
+},
+{
+"id":"BPNT",
+"name":"3',5'-bisphosphate nucleotidase",
+"metabolites":{
+"amp_c":1.0,
+"h2o_c":-1.0,
+"pap_c":-1.0,
+"pi_c":1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b4214",
+"subsystem":"Cysteine Metabolism"
+},
+{
+"id":"PAPSR",
+"name":"Phosphoadenylyl-sulfate reductase (thioredoxin)",
+"metabolites":{
+"h_c":2.0,
+"pap_c":1.0,
+"paps_c":-1.0,
+"so3_c":1.0,
+"trdox_c":1.0,
+"trdrd_c":-1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"(b2582 and b2762) or (b3781 and b2762)",
+"subsystem":"Cysteine Metabolism"
+},
+{
+"id":"ASPK",
+"name":"Aspartate kinase",
+"metabolites":{
+"4pasp_c":1.0,
+"adp_c":1.0,
+"asp__L_c":-1.0,
+"atp_c":-1.0
+},
+"lower_bound":-1000.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b0002 or b3940 or b4024",
+"subsystem":"Threonine and Lysine Metabolism"
+},
+{
+"id":"ASAD",
+"name":"Aspartate-semialdehyde dehydrogenase",
+"metabolites":{
+"4pasp_c":1.0,
+"aspsa_c":-1.0,
+"h_c":1.0,
+"nadp_c":-1.0,
+"nadph_c":1.0,
+"pi_c":-1.0
+},
+"lower_bound":-1000.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b3433",
+"subsystem":"Threonine and Lysine Metabolism"
+},
+{
+"id":"DAPDC",
+"name":"Diaminopimelate decarboxylase",
+"metabolites":{
+"26dap__M_c":-1.0,
+"co2_c":1.0,
+"h_c":-1.0,
+"lys__L_c":1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b2838",
+"subsystem":"Threonine and Lysine Metabolism"
+},
+{
+"id":"OCBT",
+"name":"Ornithine carbamoyltransferase",
+"metabolites":{
+"cbp_c":-1.0,
+"citr__L_c":1.0,
+"h_c":1.0,
+"orn_c":-1.0,
+"pi_c":1.0
+},
+"lower_bound":-1000.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b4254 or b0273",
+"subsystem":"Arginine and Proline Metabolism"
+},
+{
+"id":"GARFT",
+"name":"Phosphoribosylglycinamide formyltransferase",
+"metabolites":{
+"10fthf_c":-1.0,
+"fgam_c":1.0,
+"gar_c":-1.0,
+"h_c":1.0,
+"thf_c":1.0
+},
+"lower_bound":-1000.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b2500",
+"subsystem":"Purine and Pyrimidine Biosynthesis"
+},
+{
+"id":"PHETA1",
+"name":"Phenylalanine transaminase",
+"metabolites":{
+"akg_c":-1.0,
+"glu__L_c":1.0,
+"phe__L_c":-1.0,
+"phpyr_c":1.0
+},
+"lower_bound":-1000.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b4054 or b0928 or b3770",
+"subsystem":"Tyrosine, Tryptophan, and Phenylalanine Metabolism"
+},
+{
+"id":"PPND",
+"name":"Prephenate dehydrogenase",
+"metabolites":{
+"34hpp_c":1.0,
+"co2_c":1.0,
+"nad_c":-1.0,
+"nadh_c":1.0,
+"pphn_c":-1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b2600",
+"subsystem":"Tyrosine, Tryptophan, and Phenylalanine Metabolism"
+},
+{
+"id":"PRAMPC",
+"name":"Phosphoribosyl-AMP cyclohydrolase",
+"metabolites":{
+"h2o_c":-1.0,
+"prbamp_c":-1.0,
+"prfp_c":1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b2026",
+"subsystem":"Histidine Metabolism"
+},
+{
+"id":"GLYCK2",
+"name":"Glycerate kinase",
+"metabolites":{
+"2pg_c":1.0,
+"adp_c":1.0,
+"atp_c":-1.0,
+"glyc__R_c":-1.0,
+"h_c":1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b3124",
+"subsystem":"Glycine and Serine Metabolism"
+},
+{
+"id":"ACOTA",
+"name":"Acetylornithine transaminase",
+"metabolites":{
+"acg5sa_c":1.0,
+"acorn_c":-1.0,
+"akg_c":-1.0,
+"glu__L_c":1.0
+},
+"lower_bound":-1000.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b1748 or b3359 or b2662 or b1302",
+"subsystem":"Arginine and Proline Metabolism"
+},
+{
+"id":"SULR",
+"name":"Sulfite reductase (NADPH2)",
+"metabolites":{
+"h2o_c":3.0,
+"h2s_c":1.0,
+"h_c":-5.0,
+"nadp_c":3.0,
+"nadph_c":-3.0,
+"so3_c":-1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b2764 and b2763",
+"subsystem":"Cysteine Metabolism"
+},
+{
+"id":"PRAGSr",
+"name":"Phosphoribosylglycinamide synthase",
+"metabolites":{
+"adp_c":1.0,
+"atp_c":-1.0,
+"gar_c":1.0,
+"gly_c":-1.0,
+"h_c":1.0,
+"pi_c":1.0,
+"pram_c":-1.0
+},
+"lower_bound":-1000.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b4005",
+"subsystem":"Purine and Pyrimidine Biosynthesis"
+},
+{
+"id":"PRFGS",
+"name":"Phosphoribosylformylglycinamidine synthase",
+"metabolites":{
+"adp_c":1.0,
+"atp_c":-1.0,
+"fgam_c":-1.0,
+"fpram_c":1.0,
+"gln__L_c":-1.0,
+"glu__L_c":1.0,
+"h2o_c":-1.0,
+"h_c":1.0,
+"pi_c":1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b2557",
+"subsystem":"Purine and Pyrimidine Biosynthesis"
+},
+{
+"id":"PSERT",
+"name":"Phosphoserine transaminase",
+"metabolites":{
+"3php_c":-1.0,
+"akg_c":1.0,
+"glu__L_c":-1.0,
+"pser__L_c":1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b0907",
+"subsystem":"Glycine and Serine Metabolism"
+},
+{
+"id":"AIRC2",
+"name":"Phosphoribosylaminoimidazole carboxylase",
+"metabolites":{
+"5caiz_c":1.0,
+"adp_c":1.0,
+"air_c":-1.0,
+"atp_c":-1.0,
+"h_c":1.0,
+"hco3_c":-1.0,
+"pi_c":1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b0522",
+"subsystem":"Purine and Pyrimidine Biosynthesis"
+},
+{
+"id":"GAPD",
+"name":"Glyceraldehyde-3-phosphate dehydrogenase",
+"metabolites":{
+"13dpg_c":1.0,
+"g3p_c":-1.0,
+"h_c":1.0,
+"nad_c":-1.0,
+"nadh_c":1.0,
+"pi_c":-1.0
+},
+"lower_bound":-1000.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b1779",
+"subsystem":"Glycolysis/Gluconeogenesis"
+},
+{
+"id":"GND",
+"name":"Phosphogluconate dehydrogenase",
+"metabolites":{
+"6pgc_c":-1.0,
+"co2_c":1.0,
+"nadp_c":-1.0,
+"nadph_c":1.0,
+"ru5p__D_c":1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b2029",
+"subsystem":"Pentose Phosphate Pathway"
+},
+{
+"id":"G6PDH2r",
+"name":"Glucose 6-phosphate dehydrogenase",
+"metabolites":{
+"6pgl_c":1.0,
+"g6p_c":-1.0,
+"h_c":1.0,
+"nadp_c":-1.0,
+"nadph_c":1.0
+},
+"lower_bound":-1000.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b1852",
+"subsystem":"Pentose Phosphate Pathway"
+},
+{
+"id":"ME2",
+"name":"Malic enzyme (NADP)",
+"metabolites":{
+"co2_c":1.0,
+"mal__L_c":-1.0,
+"nadp_c":-1.0,
+"nadph_c":1.0,
+"pyr_c":1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b2463",
+"subsystem":"Anaplerotic Reactions"
+},
+{
+"id":"ARGSL",
+"name":"Argininosuccinate lyase",
+"metabolites":{
+"arg__L_c":1.0,
+"argsuc_c":-1.0,
+"fum_c":1.0
+},
+"lower_bound":-1000.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b3960",
+"subsystem":"Arginine and Proline Metabolism"
+},
+{
+"id":"CBPS",
+"name":"Carbamoyl-phosphate synthase (glutamine-hydrolysing)",
+"metabolites":{
+"adp_c":2.0,
+"atp_c":-2.0,
+"cbp_c":1.0,
+"gln__L_c":-1.0,
+"glu__L_c":1.0,
+"h2o_c":-2.0,
+"h_c":3.0,
+"co2_c":-1.0,
+"pi_c":1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b0032 and b0033",
+"subsystem":"Arginine and Proline Metabolism"
+},
+{
+"id":"GLU5K",
+"name":"Glutamate 5-kinase",
+"metabolites":{
+"adp_c":1.0,
+"atp_c":-1.0,
+"glu5p_c":1.0,
+"glu__L_c":-1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b0242",
+"subsystem":"Arginine and Proline Metabolism"
+},
+{
+"id":"IPPS",
+"name":"2-isopropylmalate synthase",
+"metabolites":{
+"3c3hmp_c":1.0,
+"3mob_c":-1.0,
+"accoa_c":-1.0,
+"coa_c":1.0,
+"h2o_c":-1.0,
+"h_c":1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b0074",
+"subsystem":"Valine, Leucine, and Isoleucine Metabolism"
+},
+{
+"id":"ACOATA",
+"name":"Acetyl-CoA ACP transacylase",
+"metabolites":{
+"ACP_c":-1.0,
+"acACP_c":1.0,
+"accoa_c":-1.0,
+"coa_c":1.0
+},
+"lower_bound":-1000.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b1094 and b1091",
+"subsystem":"Membrane Lipid Metabolism"
+},
+{
+"id":"ACtex",
+"name":"Acetate transport via diffusion (extracellular to periplasm)",
+"metabolites":{
+"ac_e":-1.0,
+"ac_p":1.0
+},
+"lower_bound":-1000.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b0241 or b0929 or b1377 or b2215",
+"subsystem":"Transport, Outer Membrane Porin"
+},
+{
+"id":"ACALDtex",
+"name":"Acetaldehyde transport via diffusion (extracellular to periplasm)",
+"metabolites":{
+"acald_e":-1.0,
+"acald_p":1.0
+},
+"lower_bound":-1000.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b0241 or b0929 or b1377 or b2215",
+"subsystem":"Transport, Outer Membrane Porin"
+},
+{
+"id":"PSP_L",
+"name":"Phosphoserine phosphatase (L-serine)",
+"metabolites":{
+"h2o_c":-1.0,
+"pi_c":1.0,
+"pser__L_c":-1.0,
+"ser__L_c":1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b4388",
+"subsystem":"Glycine and Serine Metabolism"
+},
+{
+"id":"ADSK",
+"name":"Adenylyl-sulfate kinase",
+"metabolites":{
+"adp_c":1.0,
+"aps_c":-1.0,
+"atp_c":-1.0,
+"h_c":1.0,
+"paps_c":1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b2750",
+"subsystem":"Cysteine Metabolism"
+},
+{
+"id":"SUCCt2_2pp",
+"name":"Succinate transport via proton symport (2 H) (periplasm)",
+"metabolites":{
+"h_c":2.0,
+"h_p":-2.0,
+"succ_c":1.0,
+"succ_p":-1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b3528 or b0010",
+"subsystem":"Transport, Inner Membrane"
+},
+{
+"id":"HSDy",
+"name":"Homoserine dehydrogenase (NADPH)",
+"metabolites":{
+"aspsa_c":1.0,
+"h_c":1.0,
+"hom__L_c":-1.0,
+"nadp_c":-1.0,
+"nadph_c":1.0
+},
+"lower_bound":-1000.0,
+"upper_bound":0.0,
+"gene_reaction_rule":"b3940 or b0002",
+"subsystem":"Threonine and Lysine Metabolism"
+},
+{
+"id":"CYSTL",
+"name":"Cystathionine b-lyase",
+"metabolites":{
+"cyst__L_c":-1.0,
+"h2o_c":-1.0,
+"hcys__L_c":1.0,
+"nh4_c":1.0,
+"pyr_c":1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b3008 or b1622",
+"subsystem":"Methionine Metabolism"
+},
+{
+"id":"SHSL1",
+"name":"O-succinylhomoserine lyase (L-cysteine)",
+"metabolites":{
+"cys__L_c":-1.0,
+"cyst__L_c":1.0,
+"h_c":1.0,
+"succ_c":1.0,
+"suchms_c":-1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b3939",
+"subsystem":"Methionine Metabolism"
+},
+{
+"id":"SULabcpp",
+"name":"Sulfate transport via ABC system (periplasm)",
+"metabolites":{
+"adp_c":1.0,
+"atp_c":-1.0,
+"h2o_c":-1.0,
+"h_c":1.0,
+"pi_c":1.0,
+"so4_c":1.0,
+"so4_p":-1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"(b2423 and b2424 and b2422 and b2425) or (b0764 and b0765 and b0763) or (b2422 and b2423 and b2424 and b3917)",
+"subsystem":"Inorganic Ion Transport and Metabolism"
+},
+{
+"id":"GLUtex",
+"name":"L-glutamate transport via diffusion (extracellular to periplasm)",
+"metabolites":{
+"glu__L_e":-1.0,
+"glu__L_p":1.0
+},
+"lower_bound":-1000.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b0241 or b0929 or b1377 or b2215",
+"subsystem":"Transport, Outer Membrane Porin"
+},
+{
+"id":"AKGt2rpp",
+"name":"2-oxoglutarate reversible transport via symport (periplasm)",
+"metabolites":{
+"akg_c":1.0,
+"akg_p":-1.0,
+"h_c":1.0,
+"h_p":-1.0
+},
+"lower_bound":-1000.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b2587",
+"subsystem":"Transport, Inner Membrane"
+},
+{
+"id":"XYLt2pp",
+"name":"D-xylose transport in via proton symport (periplasm)",
+"metabolites":{
+"h_c":1.0,
+"h_p":-1.0,
+"xyl__D_c":1.0,
+"xyl__D_p":-1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b4031",
+"subsystem":"Transport, Inner Membrane"
+},
+{
+"id":"GLYCtex",
+"name":"Glycerol transport via diffusion (extracellular to periplasm)",
+"metabolites":{
+"glyc_e":-1.0,
+"glyc_p":1.0
+},
+"lower_bound":-1000.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b0241 or b0929 or b1377 or b2215",
+"subsystem":"Transport, Outer Membrane Porin"
+},
+{
+"id":"Htex",
+"name":"Proton transport via diffusion (extracellular to periplasm)",
+"metabolites":{
+"h_e":-1.0,
+"h_p":1.0
+},
+"lower_bound":-1000.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b0241 or b0929 or b1377 or b2215",
+"subsystem":"Transport, Outer Membrane Porin"
+},
+{
+"id":"H2Otex",
+"name":"H2O transport via diffusion (extracellular to periplasm)",
+"metabolites":{
+"h2o_e":-1.0,
+"h2o_p":1.0
+},
+"lower_bound":-1000.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b3875 or s0001 or b1319 or b0957 or b2215 or b0241 or b1377 or b0929",
+"subsystem":"Transport, Outer Membrane Porin"
+},
+{
+"id":"O2tpp",
+"name":"O2 transport via diffusion (periplasm)",
+"metabolites":{
+"o2_c":1.0,
+"o2_p":-1.0
+},
+"lower_bound":-1000.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"s0001",
+"subsystem":"Inorganic Ion Transport and Metabolism"
+},
+{
+"id":"PYRt2rpp",
+"name":"Pyruvate reversible transport via proton symport (periplasm)",
+"metabolites":{
+"h_c":1.0,
+"h_p":-1.0,
+"pyr_c":1.0,
+"pyr_p":-1.0
+},
+"lower_bound":-1000.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"",
+"subsystem":"Transport, Inner Membrane"
+},
+{
+"id":"THD2pp",
+"name":"NAD(P) transhydrogenase (periplasm)",
+"metabolites":{
+"h_c":1.0,
+"h_p":-1.0,
+"nad_c":1.0,
+"nadh_c":-1.0,
+"nadp_c":-1.0,
+"nadph_c":1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b1602 and b1603",
+"subsystem":"Oxidative Phosphorylation"
+},
+{
+"id":"TKT2",
+"name":"Transketolase",
+"metabolites":{
+"e4p_c":-1.0,
+"f6p_c":1.0,
+"g3p_c":1.0,
+"xu5p__D_c":-1.0
+},
+"lower_bound":-1000.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b2935 or b2465",
+"subsystem":"Pentose Phosphate Pathway"
+},
+{
+"id":"ATPS4rpp",
+"name":"ATP synthase (four protons for one ATP) (periplasm)",
+"metabolites":{
+"adp_c":-1.0,
+"atp_c":1.0,
+"h2o_c":1.0,
+"h_c":3.0,
+"h_p":-4.0,
+"pi_c":-1.0
+},
+"lower_bound":-1000.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"(b3739 and (b3731 and b3733 and b3735 and b3734 and b3732) and (b3738 and b3736 and b3737)) or ((b3731 and b3733 and b3735 and b3734 and b3732) and (b3738 and b3736 and b3737))",
+"subsystem":"Oxidative Phosphorylation"
+},
+{
+"id":"CO2tpp",
+"name":"CO2 transporter via diffusion (periplasm)",
+"metabolites":{
+"co2_c":1.0,
+"co2_p":-1.0
+},
+"lower_bound":-1000.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"s0001",
+"subsystem":"Transport, Inner Membrane"
+},
+{
+"id":"GK1",
+"name":"Guanylate kinase (GMP:ATP)",
+"metabolites":{
+"adp_c":1.0,
+"atp_c":-1.0,
+"gdp_c":1.0,
+"gmp_c":-1.0
+},
+"lower_bound":-1000.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b3648",
+"subsystem":"Nucleotide Salvage Pathway"
+},
+{
+"id":"GLCNtex",
+"name":"D-gluconate transport via diffusion (extracellular to periplasm)",
+"metabolites":{
+"glcn_e":-1.0,
+"glcn_p":1.0
+},
+"lower_bound":-1000.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b0241 or b0929 or b1377 or b2215",
+"subsystem":"Transport, Outer Membrane Porin"
+},
+{
+"id":"GLNtex",
+"name":"L-glutamine transport via diffusion (extracellular to periplasm)",
+"metabolites":{
+"gln__L_e":-1.0,
+"gln__L_p":1.0
+},
+"lower_bound":-1000.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b0929 or b1377 or b2215 or b0241",
+"subsystem":"Transport, Outer Membrane Porin"
+},
+{
+"id":"O2tex",
+"name":"Oxygen transport via diffusion (extracellular to periplasm)",
+"metabolites":{
+"o2_e":-1.0,
+"o2_p":1.0
+},
+"lower_bound":-1000.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b0241 or b0929 or b1377 or b2215",
+"subsystem":"Transport, Outer Membrane Porin"
+},
+{
+"id":"D_LACtex",
+"name":"D-lactate transport via diffusion (extracellular to periplasm)",
+"metabolites":{
+"lac__D_e":-1.0,
+"lac__D_p":1.0
+},
+"lower_bound":-1000.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b0241 or b0929 or b1377 or b2215",
+"subsystem":"Transport, Outer Membrane Porin"
+},
+{
+"id":"GLCtex_copy1",
+"name":"Glucose transport via diffusion (extracellular to periplasm)",
+"metabolites":{
+"glc__D_e":-1.0,
+"glc__D_p":1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b4036",
+"subsystem":"Transport, Outer Membrane"
+},
+{
+"id":"FUMt2_2pp",
+"name":"Fumarate transport via proton symport (2 H) (periplasm)",
+"metabolites":{
+"fum_c":1.0,
+"fum_p":-1.0,
+"h_c":2.0,
+"h_p":-2.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b3528",
+"subsystem":"Transport, Inner Membrane"
+},
+{
+"id":"PItex",
+"name":"Phosphate transport via diffusion (extracellular to periplasm)",
+"metabolites":{
+"pi_e":-1.0,
+"pi_p":1.0
+},
+"lower_bound":-1000.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b0241 or b0929 or b1377 or b2215",
+"subsystem":"Transport, Outer Membrane Porin"
+},
+{
+"id":"CYTBDpp",
+"name":"Cytochrome oxidase bd (ubiquinol-8: 2 protons) (periplasm)",
+"metabolites":{
+"h2o_c":1.0,
+"h_c":-2.0,
+"h_p":2.0,
+"o2_c":-0.5,
+"q8_c":1.0,
+"q8h2_c":-1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"(b0978 and b0979) or (b0734 and b0733 and b4515)",
+"subsystem":"Oxidative Phosphorylation"
+},
+{
+"id":"CYTBD2pp",
+"name":"Cytochrome oxidase bd (menaquinol-8: 2 protons) (periplasm)",
+"metabolites":{
+"h2o_c":1.0,
+"h_c":-2.0,
+"h_p":2.0,
+"mql8_c":-1.0,
+"mqn8_c":1.0,
+"o2_c":-0.5
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b0978 and b0979",
+"subsystem":"Oxidative Phosphorylation"
+},
+{
+"id":"ACALDtpp",
+"name":"Acetaldehyde reversible transport (periplasm)",
+"metabolites":{
+"acald_c":1.0,
+"acald_p":-1.0
+},
+"lower_bound":-1000.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"s0001",
+"subsystem":"Transport, Inner Membrane"
+},
+{
+"id":"ACt2rpp",
+"name":"Acetate reversible transport via proton symport (periplasm)",
+"metabolites":{
+"ac_c":1.0,
+"ac_p":-1.0,
+"h_c":1.0,
+"h_p":-1.0
+},
+"lower_bound":-1000.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b0010",
+"subsystem":"Transport, Inner Membrane"
+},
+{
+"id":"METS",
+"name":"Methionine synthase",
+"metabolites":{
+"5mthf_c":-1.0,
+"h_c":1.0,
+"hcys__L_c":-1.0,
+"met__L_c":1.0,
+"thf_c":1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b4019 or b3829",
+"subsystem":"Methionine Metabolism"
+},
+{
+"id":"EX_glyc__R_e",
+"name":"(R)-Glycerate exchange",
+"metabolites":{
+"glyc__R_e":-1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"",
+"subsystem":"Extracellular exchange"
+},
+{
+"id":"FRUtex",
+"name":"D-fructose transport via diffusion (extracellular to periplasm)",
+"metabolites":{
+"fru_e":-1.0,
+"fru_p":1.0
+},
+"lower_bound":-1000.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b0241 or b0929 or b1377 or b2215",
+"subsystem":"Transport, Outer Membrane Porin"
+},
+{
+"id":"FUMtex",
+"name":"Fumarate transport via diffusion (extracellular to periplasm)",
+"metabolites":{
+"fum_e":-1.0,
+"fum_p":1.0
+},
+"lower_bound":-1000.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b0241 or b0929 or b1377 or b2215",
+"subsystem":"Transport, Outer Membrane Porin"
+},
+{
+"id":"PRASCSi",
+"name":"Phosphoribosylaminoimidazolesuccinocarboxamide synthase",
+"metabolites":{
+"25aics_c":1.0,
+"5aizc_c":-1.0,
+"adp_c":1.0,
+"asp__L_c":-1.0,
+"atp_c":-1.0,
+"h_c":1.0,
+"pi_c":1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b2476",
+"subsystem":"Purine and Pyrimidine Biosynthesis"
+},
+{
+"id":"MTHFC",
+"name":"Methenyltetrahydrofolate cyclohydrolase",
+"metabolites":{
+"10fthf_c":1.0,
+"h2o_c":-1.0,
+"h_c":1.0,
+"methf_c":-1.0
+},
+"lower_bound":-1000.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b0529",
+"subsystem":"Folate Metabolism"
+},
+{
+"id":"MTHFD",
+"name":"Methylenetetrahydrofolate dehydrogenase (NADP)",
+"metabolites":{
+"methf_c":1.0,
+"mlthf_c":-1.0,
+"nadp_c":-1.0,
+"nadph_c":1.0
+},
+"lower_bound":-1000.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b0529",
+"subsystem":"Folate Metabolism"
+},
+{
+"id":"XYLtex",
+"name":"D-xylose transport via diffusion (extracellular to periplasm)",
+"metabolites":{
+"xyl__D_e":-1.0,
+"xyl__D_p":1.0
+},
+"lower_bound":-1000.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b0241 or b0929 or b1377 or b2215",
+"subsystem":"Transport, Outer Membrane Porin"
+},
+{
+"id":"FORtppi",
+"name":"Formate transport via diffusion (cytoplasm to periplasm)",
+"metabolites":{
+"for_c":-1.0,
+"for_p":1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b0904 or b2492",
+"subsystem":"Transport, Inner Membrane"
+},
+{
+"id":"PYRtex",
+"name":"Pyruvate transport via diffusion (extracellular to periplasm)",
+"metabolites":{
+"pyr_e":-1.0,
+"pyr_p":1.0
+},
+"lower_bound":-1000.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b0241 or b0929 or b1377 or b2215",
+"subsystem":"Transport, Outer Membrane Porin"
+},
+{
+"id":"SO4tex",
+"name":"Sulfate transport via diffusion (extracellular to periplasm)",
+"metabolites":{
+"so4_e":-1.0,
+"so4_p":1.0
+},
+"lower_bound":-1000.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b0241 or b0929 or b1377 or b2215",
+"subsystem":"Transport, Outer Membrane Porin"
+},
+{
+"id":"SUCCtex",
+"name":"Succinate transport via diffusion (extracellular to periplasm)",
+"metabolites":{
+"succ_e":-1.0,
+"succ_p":1.0
+},
+"lower_bound":-1000.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b0241 or b0929 or b1377 or b2215",
+"subsystem":"Transport, Outer Membrane Porin"
+},
+{
+"id":"GRXR",
+"name":"Glutaredoxin reductase",
+"metabolites":{
+"grxox_c":-1.0,
+"grxrd_c":1.0,
+"gthox_c":1.0,
+"gthrd_c":-2.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b1064 or b3610 or b1654 or b0849",
+"subsystem":"Unassigned"
+},
+{
+"id":"RNDR1b",
+"name":"Ribonucleoside-diphosphate reductase (ADP) (glutaredoxin)",
+"metabolites":{
+"adp_c":-1.0,
+"dadp_c":1.0,
+"grxox_c":1.0,
+"grxrd_c":-1.0,
+"h2o_c":1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"((b2675 and b2676) and b1064) or ((b2675 and b2676) and b3610) or (b0849 and (b2675 and b2676)) or ((b2675 and b2676) and b1654)",
+"subsystem":"Nucleotide Salvage Pathway"
+},
+{
+"id":"RNDR2b",
+"name":"Ribonucleoside-diphosphate reductase (GDP) (glutaredoxin)",
+"metabolites":{
+"dgdp_c":1.0,
+"gdp_c":-1.0,
+"grxox_c":1.0,
+"grxrd_c":-1.0,
+"h2o_c":1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"(b0849 and (b2675 and b2676)) or ((b2675 and b2676) and b1064) or ((b2675 and b2676) and b1654) or ((b2675 and b2676) and b3610)",
+"subsystem":"Nucleotide Salvage Pathway"
+},
+{
+"id":"MALt2_2pp",
+"name":"Malate transport via proton symport (2 H) (periplasm)",
+"metabolites":{
+"h_c":2.0,
+"h_p":-2.0,
+"mal__L_c":1.0,
+"mal__L_p":-1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b3528",
+"subsystem":"Transport, Inner Membrane"
+},
+{
+"id":"NH4tpp",
+"name":"Ammonia reversible transport (periplasm)",
+"metabolites":{
+"nh4_c":1.0,
+"nh4_p":-1.0
+},
+"lower_bound":-1000.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"s0001 or b0451",
+"subsystem":"Inorganic Ion Transport and Metabolism"
+},
+{
+"id":"NH4tex",
+"name":"Ammonia transport via diffusion (extracellular to periplasm)",
+"metabolites":{
+"nh4_e":-1.0,
+"nh4_p":1.0
+},
+"lower_bound":-1000.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b1377 or b2215 or b0241 or b0929",
+"subsystem":"Transport, Outer Membrane Porin"
+},
+{
+"id":"RIBabcpp",
+"name":"D-ribose transport via ABC system (periplasm)",
+"metabolites":{
+"adp_c":1.0,
+"atp_c":-1.0,
+"h2o_c":-1.0,
+"h_c":1.0,
+"pi_c":1.0,
+"rib__D_c":1.0,
+"rib__D_p":-1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"(b4230 and b4227 and b4485 and b4231) or (b3750 and b3751 and b3749 and b3748) or (b4088 and b4086 and b4087)",
+"subsystem":"Transport, Inner Membrane"
+},
+{
+"id":"GLYCAt2rpp",
+"name":"D-glycerate transport via proton symport, reversible (periplasm)",
+"metabolites":{
+"glyc__R_c":1.0,
+"glyc__R_p":-1.0,
+"h_c":1.0,
+"h_p":-1.0
+},
+"lower_bound":-1000.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b3127 or b2789",
+"subsystem":"Transport, Inner Membrane"
+},
+{
+"id":"GLYCAtex",
+"name":"D-glycerate transport via diffusion (extracellular to periplasm)",
+"metabolites":{
+"glyc__R_e":-1.0,
+"glyc__R_p":1.0
+},
+"lower_bound":-1000.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b0241 or b0929 or b1377 or b2215",
+"subsystem":"Transport, Outer Membrane Porin"
+},
+{
+"id":"GLYCtpp",
+"name":"Glycerol transport via channel (periplasm)",
+"metabolites":{
+"glyc_c":-1.0,
+"glyc_p":1.0
+},
+"lower_bound":-1000.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"s0001 or b3927",
+"subsystem":"Transport, Inner Membrane"
+},
+{
+"id":"H2Otpp",
+"name":"H2O transport via diffusion (periplasm)",
+"metabolites":{
+"h2o_c":1.0,
+"h2o_p":-1.0
+},
+"lower_bound":-1000.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"s0001 or b0875",
+"subsystem":"Transport, Inner Membrane"
+},
+{
+"id":"GLNabcpp",
+"name":"L-glutamine transport via ABC system (periplasm)",
+"metabolites":{
+"adp_c":1.0,
+"atp_c":-1.0,
+"gln__L_c":1.0,
+"gln__L_p":-1.0,
+"h2o_c":-1.0,
+"h_c":1.0,
+"pi_c":1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b0811 and b0809 and b0810",
+"subsystem":"Transport, Inner Membrane"
+},
+{
+"id":"CO2tex",
+"name":"CO2 transport via diffusion (extracellular to periplasm)",
+"metabolites":{
+"co2_e":-1.0,
+"co2_p":1.0
+},
+"lower_bound":-1000.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b0241 or b0929 or b1377 or b2215",
+"subsystem":"Transport, Outer Membrane Porin"
+},
+{
+"id":"GLUt2rpp",
+"name":"L-glutamate transport via proton symport, reversible (periplasm)",
+"metabolites":{
+"glu__L_c":1.0,
+"glu__L_p":-1.0,
+"h_c":1.0,
+"h_p":-1.0
+},
+"lower_bound":-1000.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b4077",
+"subsystem":"Transport, Inner Membrane"
+},
+{
+"id":"ACGK",
+"name":"Acetylglutamate kinase",
+"metabolites":{
+"acg5p_c":1.0,
+"acglu_c":-1.0,
+"adp_c":1.0,
+"atp_c":-1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b3959",
+"subsystem":"Arginine and Proline Metabolism"
+},
+{
+"id":"GNK",
+"name":"Gluconokinase",
+"metabolites":{
+"6pgc_c":1.0,
+"adp_c":1.0,
+"atp_c":-1.0,
+"glcn_c":-1.0,
+"h_c":1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b3437 or b4268",
+"subsystem":"Alternate Carbon Metabolism"
+},
+{
+"id":"GLUDy",
+"name":"Glutamate dehydrogenase (NADP)",
+"metabolites":{
+"akg_c":1.0,
+"glu__L_c":-1.0,
+"h2o_c":-1.0,
+"h_c":1.0,
+"nadp_c":-1.0,
+"nadph_c":1.0,
+"nh4_c":1.0
+},
+"lower_bound":-1000.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b1761 or (b3213 and b3212)",
+"subsystem":"Glutamate Metabolism"
+},
+{
+"id":"GLCNt2rpp",
+"name":"D-gluconate transport via proton symport, reversible (periplasm)",
+"metabolites":{
+"glcn_c":1.0,
+"glcn_p":-1.0,
+"h_c":1.0,
+"h_p":-1.0
+},
+"lower_bound":-1000.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b4321 or b4476 or b3415 or b4265",
+"subsystem":"Transport, Inner Membrane"
+},
+{
+"id":"GLCptspp",
+"name":"D-glucose transport via PEP:Pyr PTS (periplasm)",
+"metabolites":{
+"g6p_c":1.0,
+"glc__D_p":-1.0,
+"pep_c":-1.0,
+"pyr_c":1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"(b1621 and b2415 and b2417 and b2416) or (b1101 and b2416 and b2415 and b2417) or (b1819 and b2415 and b1818 and b1817 and b2416)",
+"subsystem":"Transport, Inner Membrane"
+},
+{
+"id":"EX_h2o_e",
+"name":"H2O exchange",
+"metabolites":{
+"h2o_e":-1.0
+},
+"lower_bound":-1000.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"",
+"subsystem":"Extracellular exchange"
+},
+{
+"id":"HSTPT",
+"name":"Histidinol-phosphate transaminase",
+"metabolites":{
+"akg_c":1.0,
+"glu__L_c":-1.0,
+"hisp_c":1.0,
+"imacp_c":-1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b2021",
+"subsystem":"Histidine Metabolism"
+},
+{
+"id":"THDPS",
+"name":"Tetrahydrodipicolinate succinylase",
+"metabolites":{
+"coa_c":1.0,
+"h2o_c":-1.0,
+"sl2a6o_c":1.0,
+"succoa_c":-1.0,
+"thdp_c":-1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b0166",
+"subsystem":"Threonine and Lysine Metabolism"
+},
+{
+"id":"ATPM",
+"name":"ATP maintenance requirement",
+"metabolites":{
+"adp_c":1.0,
+"atp_c":-1.0,
+"h2o_c":-1.0,
+"h_c":1.0,
+"pi_c":1.0
+},
+"lower_bound":6.86,
+"upper_bound":1000.0,
+"gene_reaction_rule":"",
+"subsystem":"Biomass and maintenance functions"
+},
+{
+"id":"THRD_L",
+"name":"L-threonine deaminase",
+"metabolites":{
+"2obut_c":1.0,
+"nh4_c":1.0,
+"thr__L_c":-1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b3772 or b3117",
+"subsystem":"Valine, Leucine, and Isoleucine Metabolism"
+},
+{
+"id":"ETOHtex",
+"name":"Ethanol transport via diffusion (extracellular to periplasm)",
+"metabolites":{
+"etoh_e":-1.0,
+"etoh_p":1.0
+},
+"lower_bound":-1000.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b0241 or b0929 or b1377 or b2215",
+"subsystem":"Transport, Outer Membrane Porin"
+},
+{
+"id":"RNDR2",
+"name":"Ribonucleoside-diphosphate reductase (GDP)",
+"metabolites":{
+"dgdp_c":1.0,
+"gdp_c":-1.0,
+"h2o_c":1.0,
+"trdox_c":1.0,
+"trdrd_c":-1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"(b3781 and (b2234 and b2235)) or (b2582 and (b2234 and b2235))",
+"subsystem":"Nucleotide Salvage Pathway"
+},
+{
+"id":"DHFR",
+"name":"Dihydrofolate reductase",
+"metabolites":{
+"dhf_c":-1.0,
+"h_c":-1.0,
+"nadp_c":1.0,
+"nadph_c":-1.0,
+"thf_c":1.0
+},
+"lower_bound":-1000.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b1606 or b0048",
+"subsystem":"Cofactor and Prosthetic Group Biosynthesis"
+},
+{
+"id":"PRAIi",
+"name":"Phosphoribosylanthranilate isomerase (irreversible)",
+"metabolites":{
+"2cpr5p_c":1.0,
+"pran_c":-1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b1262",
+"subsystem":"Tyrosine, Tryptophan, and Phenylalanine Metabolism"
+},
+{
+"id":"EX_mal__L_e",
+"name":"L-Malate exchange",
+"metabolites":{
+"mal__L_e":-1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"",
+"subsystem":"Extracellular exchange"
+},
+{
+"id":"TYRTA",
+"name":"Tyrosine transaminase",
+"metabolites":{
+"34hpp_c":1.0,
+"akg_c":-1.0,
+"glu__L_c":1.0,
+"tyr__L_c":-1.0
+},
+"lower_bound":-1000.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b4054 or b0928 or b3770",
+"subsystem":"Tyrosine, Tryptophan, and Phenylalanine Metabolism"
+},
+{
+"id":"SHKK",
+"name":"Shikimate kinase",
+"metabolites":{
+"adp_c":1.0,
+"atp_c":-1.0,
+"h_c":1.0,
+"skm5p_c":1.0,
+"skm_c":-1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b3390 or b0388",
+"subsystem":"Tyrosine, Tryptophan, and Phenylalanine Metabolism"
+},
+{
+"id":"EX_so4_e",
+"name":"Sulfate exchange",
+"metabolites":{
+"so4_e":-1.0
+},
+"lower_bound":-1000.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"",
+"subsystem":"Extracellular exchange"
+},
+{
+"id":"GLUSy",
+"name":"Glutamate synthase (NADPH)",
+"metabolites":{
+"akg_c":-1.0,
+"gln__L_c":-1.0,
+"glu__L_c":2.0,
+"h_c":-1.0,
+"nadp_c":1.0,
+"nadph_c":-1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b3213 and b3212",
+"subsystem":"Glutamate Metabolism"
+},
+{
+"id":"OMCDC",
+"name":"2-Oxo-4-methyl-3-carboxypentanoate decarboxylation",
+"metabolites":{
+"3c4mop_c":-1.0,
+"4mop_c":1.0,
+"co2_c":1.0,
+"h_c":-1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"s0001",
+"subsystem":"Valine, Leucine, and Isoleucine Metabolism"
+},
+{
+"id":"IG3PS",
+"name":"Imidazole-glycerol-3-phosphate synthase",
+"metabolites":{
+"aicar_c":1.0,
+"eig3p_c":1.0,
+"gln__L_c":-1.0,
+"glu__L_c":1.0,
+"h_c":1.0,
+"prlp_c":-1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b2023 and b2025",
+"subsystem":"Histidine Metabolism"
+},
+{
+"id":"PDH",
+"name":"Pyruvate dehydrogenase",
+"metabolites":{
+"accoa_c":1.0,
+"co2_c":1.0,
+"coa_c":-1.0,
+"nad_c":-1.0,
+"nadh_c":1.0,
+"pyr_c":-1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b0115 and b0116 and b0114",
+"subsystem":"Glycolysis/Gluconeogenesis"
+},
+{
+"id":"MTHFR2",
+"name":"5,10-methylenetetrahydrofolate reductase (NADH)",
+"metabolites":{
+"5mthf_c":1.0,
+"h_c":-2.0,
+"mlthf_c":-1.0,
+"nad_c":1.0,
+"nadh_c":-1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b3941",
+"subsystem":"Folate Metabolism"
+},
+{
+"id":"EX_nh4_e",
+"name":"Ammonia exchange",
+"metabolites":{
+"nh4_e":-1.0
+},
+"lower_bound":-1000.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"",
+"subsystem":"Extracellular exchange"
+},
+{
+"id":"DUTPDP",
+"name":"DUTP diphosphatase",
+"metabolites":{
+"dump_c":1.0,
+"dutp_c":-1.0,
+"h2o_c":-1.0,
+"h_c":1.0,
+"ppi_c":1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b3640 or b2251",
+"subsystem":"Nucleotide Salvage Pathway"
+},
+{
+"id":"NTP5",
+"name":"Nucleoside-triphosphatase (CTP)",
+"metabolites":{
+"cdp_c":1.0,
+"ctp_c":-1.0,
+"h2o_c":-1.0,
+"h_c":1.0,
+"pi_c":1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b4161",
+"subsystem":"Nucleotide Salvage Pathway"
+},
+{
+"id":"FORt2pp",
+"name":"Formate transport via proton symport (uptake only, periplasm)",
+"metabolites":{
+"for_c":1.0,
+"for_p":-1.0,
+"h_c":1.0,
+"h_p":-1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b0904 or b2492",
+"subsystem":"Transport, Inner Membrane"
+},
+{
+"id":"EX_etoh_e",
+"name":"Ethanol exchange",
+"metabolites":{
+"etoh_e":-1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"",
+"subsystem":"Extracellular exchange"
+},
+{
+"id":"GLNS",
+"name":"Glutamine synthetase",
+"metabolites":{
+"adp_c":1.0,
+"atp_c":-1.0,
+"gln__L_c":1.0,
+"glu__L_c":-1.0,
+"h_c":1.0,
+"nh4_c":-1.0,
+"pi_c":1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b3870",
+"subsystem":"Glutamate Metabolism"
+},
+{
+"id":"ACGS",
+"name":"N-acetylglutamate synthase",
+"metabolites":{
+"accoa_c":-1.0,
+"acglu_c":1.0,
+"coa_c":1.0,
+"glu__L_c":-1.0,
+"h_c":1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b2818",
+"subsystem":"Arginine and Proline Metabolism"
+},
+{
+"id":"SUCOAS",
+"name":"Succinyl-CoA synthetase (ADP-forming)",
+"metabolites":{
+"adp_c":1.0,
+"atp_c":-1.0,
+"coa_c":-1.0,
+"pi_c":1.0,
+"succ_c":-1.0,
+"succoa_c":1.0
+},
+"lower_bound":-1000.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b0729 and b0728",
+"subsystem":"Citric Acid Cycle"
+},
+{
+"id":"PRAIS",
+"name":"Phosphoribosylaminoimidazole synthase",
+"metabolites":{
+"adp_c":1.0,
+"air_c":1.0,
+"atp_c":-1.0,
+"fpram_c":-1.0,
+"h_c":2.0,
+"pi_c":1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b2499",
+"subsystem":"Purine and Pyrimidine Biosynthesis"
+},
+{
+"id":"AACPS8",
+"name":"Acyl-[acyl-carrier-protein] synthetase  (n-C10:0)",
+"metabolites":{
+"ACP_c":-1.0,
+"amp_c":1.0,
+"atp_c":-1.0,
+"dcaACP_c":1.0,
+"dca_c":-1.0,
+"ppi_c":1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b1094 and b2836",
+"subsystem":"Cell Envelope Biosynthesis"
+},
+{
+"id":"AACPS9",
+"name":"Acyl-[acyl-carrier-protein] synthetase  (n-C8:0)",
+"metabolites":{
+"ACP_c":-1.0,
+"amp_c":1.0,
+"atp_c":-1.0,
+"ocACP_c":1.0,
+"octa_c":-1.0,
+"ppi_c":1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b1094 and b2836",
+"subsystem":"Cell Envelope Biosynthesis"
+},
+{
+"id":"AACPS6",
+"name":"Acyl-[acyl-carrier-protein] synthetase  (n-C18:0)",
+"metabolites":{
+"ACP_c":-1.0,
+"amp_c":1.0,
+"atp_c":-1.0,
+"ocdcaACP_c":1.0,
+"ocdca_c":-1.0,
+"ppi_c":1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b1094 and b2836",
+"subsystem":"Cell Envelope Biosynthesis"
+},
+{
+"id":"AACPS7",
+"name":"Acyl-[acyl-carrier-protein] synthetase  (n-C12:0)",
+"metabolites":{
+"ACP_c":-1.0,
+"amp_c":1.0,
+"atp_c":-1.0,
+"ddcaACP_c":1.0,
+"ddca_c":-1.0,
+"ppi_c":1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b1094 and b2836",
+"subsystem":"Cell Envelope Biosynthesis"
+},
+{
+"id":"HISTP",
+"name":"Histidinol-phosphatase",
+"metabolites":{
+"h2o_c":-1.0,
+"hisp_c":-1.0,
+"histd_c":1.0,
+"pi_c":1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b2022",
+"subsystem":"Histidine Metabolism"
+},
+{
+"id":"LDH_D",
+"name":"D-lactate dehydrogenase",
+"metabolites":{
+"h_c":1.0,
+"lac__D_c":-1.0,
+"nad_c":-1.0,
+"nadh_c":1.0,
+"pyr_c":1.0
+},
+"lower_bound":-1000.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b1380",
+"subsystem":"Pyruvate Metabolism"
+},
+{
+"id":"KAS15",
+"name":"Beta-ketoacyl-ACP synthase (2)",
+"metabolites":{
+"accoa_c":-1.0,
+"actACP_c":1.0,
+"co2_c":1.0,
+"coa_c":1.0,
+"h_c":-1.0,
+"malACP_c":-1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b1091",
+"subsystem":"Membrane Lipid Metabolism"
+},
+{
+"id":"T2DECAI",
+"name":"Trans-2-decenoyl-ACP isomerase",
+"metabolites":{
+"cdec3eACP_c":1.0,
+"tdec2eACP_c":-1.0
+},
+"lower_bound":-1000.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b0954",
+"subsystem":"Cell Envelope Biosynthesis"
+},
+{
+"id":"3OAS161",
+"name":"3-oxoacyl-[acyl-carrier-protein] synthase (n-C16:1)",
+"metabolites":{
+"3ocpalm9eACP_c":1.0,
+"ACP_c":1.0,
+"co2_c":1.0,
+"h_c":-1.0,
+"malACP_c":-1.0,
+"tdeACP_c":-1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b2323",
+"subsystem":"Cell Envelope Biosynthesis"
+},
+{
+"id":"DHQS",
+"name":"3-dehydroquinate synthase",
+"metabolites":{
+"2dda7p_c":-1.0,
+"3dhq_c":1.0,
+"pi_c":1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b3389",
+"subsystem":"Tyrosine, Tryptophan, and Phenylalanine Metabolism"
+},
+{
+"id":"EAR161x",
+"name":"Enoyl-[acyl-carrier-protein] reductase (NADH) (n-C16:1)",
+"metabolites":{
+"h_c":-1.0,
+"hdeACP_c":1.0,
+"nad_c":1.0,
+"nadh_c":-1.0,
+"t3c9palmeACP_c":-1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b1288",
+"subsystem":"Cell Envelope Biosynthesis"
+},
+{
+"id":"PGCD",
+"name":"Phosphoglycerate dehydrogenase",
+"metabolites":{
+"3pg_c":-1.0,
+"3php_c":1.0,
+"h_c":1.0,
+"nad_c":-1.0,
+"nadh_c":1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b2913",
+"subsystem":"Glycine and Serine Metabolism"
+},
+{
+"id":"MALtex",
+"name":"Malate transport via diffusion (extracellular to periplasm)",
+"metabolites":{
+"mal__L_e":-1.0,
+"mal__L_p":1.0
+},
+"lower_bound":-1000.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b0241 or b0929 or b1377 or b2215",
+"subsystem":"Transport, Outer Membrane Porin"
+},
+{
+"id":"3OAS141",
+"name":"3-oxoacyl-[acyl-carrier-protein] synthase (n-C14:1)",
+"metabolites":{
+"3ocmrs7eACP_c":1.0,
+"ACP_c":1.0,
+"cddec5eACP_c":-1.0,
+"co2_c":1.0,
+"h_c":-1.0,
+"malACP_c":-1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b2323",
+"subsystem":"Cell Envelope Biosynthesis"
+},
+{
+"id":"3OAR121",
+"name":"3-oxoacyl-[acyl-carrier-protein] reductase (n-C12:1)",
+"metabolites":{
+"3hcddec5eACP_c":1.0,
+"3ocddec5eACP_c":-1.0,
+"h_c":-1.0,
+"nadp_c":1.0,
+"nadph_c":-1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b1093",
+"subsystem":"Cell Envelope Biosynthesis"
+},
+{
+"id":"ADSL1r",
+"name":"Adenylsuccinate lyase",
+"metabolites":{
+"amp_c":1.0,
+"dcamp_c":-1.0,
+"fum_c":1.0
+},
+"lower_bound":-1000.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b1131",
+"subsystem":"Purine and Pyrimidine Biosynthesis"
+},
+{
+"id":"AICART",
+"name":"Phosphoribosylaminoimidazolecarboxamide formyltransferase",
+"metabolites":{
+"10fthf_c":-1.0,
+"aicar_c":-1.0,
+"fprica_c":1.0,
+"thf_c":1.0
+},
+"lower_bound":-1000.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b4006",
+"subsystem":"Purine and Pyrimidine Biosynthesis"
+},
+{
+"id":"D_LACt2pp",
+"name":"D-lactate transport via proton symport (periplasm)",
+"metabolites":{
+"h_c":1.0,
+"h_p":-1.0,
+"lac__D_c":1.0,
+"lac__D_p":-1.0
+},
+"lower_bound":-1000.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b3603 or b2975",
+"subsystem":"Transport, Inner Membrane"
+},
+{
+"id":"RIBtex",
+"name":"Ribose transport via diffusion (extracellular to periplasm)",
+"metabolites":{
+"rib__D_e":-1.0,
+"rib__D_p":1.0
+},
+"lower_bound":-1000.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b0241 or b0929 or b1377 or b2215",
+"subsystem":"Transport, Outer Membrane Porin"
+},
+{
+"id":"FRUpts2pp",
+"name":"Fructose transport via PEP:Pyr PTS (f6p generating) (periplasm)",
+"metabolites":{
+"f6p_c":1.0,
+"fru_p":-1.0,
+"pep_c":-1.0,
+"pyr_c":1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b1818 and b1817 and b2416 and b1819 and b2415",
+"subsystem":"Transport, Inner Membrane"
+},
+{
+"id":"FORtex",
+"name":"Formate transport via diffusion (extracellular to periplasm)",
+"metabolites":{
+"for_e":-1.0,
+"for_p":1.0
+},
+"lower_bound":-1000.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b0241 or b0929 or b1377 or b2215",
+"subsystem":"Transport, Outer Membrane Porin"
+},
+{
+"id":"PFK",
+"name":"Phosphofructokinase",
+"metabolites":{
+"adp_c":1.0,
+"atp_c":-1.0,
+"f6p_c":-1.0,
+"fdp_c":1.0,
+"h_c":1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b3916 or b1723",
+"subsystem":"Glycolysis/Gluconeogenesis"
+},
+{
+"id":"PGM",
+"name":"Phosphoglycerate mutase",
+"metabolites":{
+"2pg_c":-1.0,
+"3pg_c":1.0
+},
+"lower_bound":-1000.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b0755 or b3612",
+"subsystem":"Glycolysis/Gluconeogenesis"
+},
+{
+"id":"CYTBO3_4pp",
+"name":"Cytochrome oxidase bo3 (ubiquinol-8: 4 protons) (periplasm)",
+"metabolites":{
+"h2o_c":1.0,
+"h_c":-4.0,
+"h_p":4.0,
+"o2_c":-0.5,
+"q8_c":1.0,
+"q8h2_c":-1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b0432 and b0431 and b0429 and b0430",
+"subsystem":"Oxidative Phosphorylation"
+},
+{
+"id":"EAR141x",
+"name":"Enoyl-[acyl-carrier-protein] reductase (NADH) (n-C14:1)",
+"metabolites":{
+"h_c":-1.0,
+"nad_c":1.0,
+"nadh_c":-1.0,
+"t3c7mrseACP_c":-1.0,
+"tdeACP_c":1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b1288",
+"subsystem":"Cell Envelope Biosynthesis"
+},
+{
+"id":"EAR181x",
+"name":"Enoyl-[acyl-carrier-protein] reductase (NADH) (n-C18:1)",
+"metabolites":{
+"h_c":-1.0,
+"nad_c":1.0,
+"nadh_c":-1.0,
+"octeACP_c":1.0,
+"t3c11vaceACP_c":-1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b1288",
+"subsystem":"Cell Envelope Biosynthesis"
+},
+{
+"id":"TPI",
+"name":"Triose-phosphate isomerase",
+"metabolites":{
+"dhap_c":-1.0,
+"g3p_c":1.0
+},
+"lower_bound":-1000.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b3919",
+"subsystem":"Glycolysis/Gluconeogenesis"
+},
+{
+"id":"RPI",
+"name":"Ribose-5-phosphate isomerase",
+"metabolites":{
+"r5p_c":-1.0,
+"ru5p__D_c":1.0
+},
+"lower_bound":-1000.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b2914 or b4090",
+"subsystem":"Pentose Phosphate Pathway"
+},
+{
+"id":"3OAR120",
+"name":"3-oxoacyl-[acyl-carrier-protein] reductase (n-C12:0)",
+"metabolites":{
+"3hddecACP_c":1.0,
+"3oddecACP_c":-1.0,
+"h_c":-1.0,
+"nadp_c":1.0,
+"nadph_c":-1.0
+},
+"lower_bound":-1000.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b1093",
+"subsystem":"Cell Envelope Biosynthesis"
+},
+{
+"id":"3HAD80",
+"name":"3-hydroxyacyl-[acyl-carrier-protein] dehydratase (n-C8:0)",
+"metabolites":{
+"3hoctACP_c":-1.0,
+"h2o_c":1.0,
+"toct2eACP_c":1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b0954 or b0180",
+"subsystem":"Cell Envelope Biosynthesis"
+},
+{
+"id":"3HAD120",
+"name":"3-hydroxyacyl-[acyl-carrier-protein] dehydratase (n-C12:0)",
+"metabolites":{
+"3hddecACP_c":-1.0,
+"h2o_c":1.0,
+"tddec2eACP_c":1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b0180 or b0954",
+"subsystem":"Cell Envelope Biosynthesis"
+},
+{
+"id":"EAR180x",
+"name":"Enoyl-[acyl-carrier-protein] reductase (NADH) (n-C18:0)",
+"metabolites":{
+"h_c":-1.0,
+"nad_c":1.0,
+"nadh_c":-1.0,
+"ocdcaACP_c":1.0,
+"toctd2eACP_c":-1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b1288",
+"subsystem":"Cell Envelope Biosynthesis"
+},
+{
+"id":"AKGtex",
+"name":"Alpha-ketoglutarate transport via diffusion (extracellular to periplasm)",
+"metabolites":{
+"akg_e":-1.0,
+"akg_p":1.0
+},
+"lower_bound":-1000.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b0241 or b0929 or b1377 or b2215",
+"subsystem":"Transport, Outer Membrane Porin"
+},
+{
+"id":"SO4t2pp",
+"name":"Sulfate transport in via proton symport (periplasm to cytoplasm)",
+"metabolites":{
+"h_c":1.0,
+"h_p":-1.0,
+"so4_c":1.0,
+"so4_p":-1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b2413",
+"subsystem":"Inorganic Ion Transport and Metabolism"
+},
+{
+"id":"EAR180y",
+"name":"Enoyl-[acyl-carrier-protein] reductase (NADPH) (n-C18:0)",
+"metabolites":{
+"h_c":-1.0,
+"nadp_c":1.0,
+"nadph_c":-1.0,
+"ocdcaACP_c":1.0,
+"toctd2eACP_c":-1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b1288",
+"subsystem":"Cell Envelope Biosynthesis"
+},
+{
+"id":"ACONTb",
+"name":"Aconitase (half-reaction B, Isocitrate hydro-lyase)",
+"metabolites":{
+"acon_C_c":-1.0,
+"h2o_c":-1.0,
+"icit_c":1.0
+},
+"lower_bound":-1000.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b0118 or b1276",
+"subsystem":"Citric Acid Cycle"
+},
+{
+"id":"3HAD161",
+"name":"3-hydroxyacyl-[acyl-carrier-protein] dehydratase (n-C16:1)",
+"metabolites":{
+"3hcpalm9eACP_c":-1.0,
+"h2o_c":1.0,
+"t3c9palmeACP_c":1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b0954 or b0180",
+"subsystem":"Cell Envelope Biosynthesis"
+},
+{
+"id":"SUCDi",
+"name":"Succinate dehydrogenase (irreversible)",
+"metabolites":{
+"fum_c":1.0,
+"q8_c":-1.0,
+"q8h2_c":1.0,
+"succ_c":-1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b0721 and b0722 and b0723 and b0724",
+"subsystem":"Oxidative Phosphorylation"
+},
+{
+"id":"ASNS1",
+"name":"Asparagine synthase (glutamine-hydrolysing)",
+"metabolites":{
+"amp_c":1.0,
+"asn__L_c":1.0,
+"asp__L_c":-1.0,
+"atp_c":-1.0,
+"gln__L_c":-1.0,
+"glu__L_c":1.0,
+"h2o_c":-1.0,
+"h_c":1.0,
+"ppi_c":1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b0674",
+"subsystem":"Alanine and Aspartate Metabolism"
+},
+{
+"id":"EAR80y",
+"name":"Enoyl-[acyl-carrier-protein] reductase (NADPH) (n-C8:0)",
+"metabolites":{
+"h_c":-1.0,
+"nadp_c":1.0,
+"nadph_c":-1.0,
+"ocACP_c":1.0,
+"toct2eACP_c":-1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b1288",
+"subsystem":"Cell Envelope Biosynthesis"
+},
+{
+"id":"EAR120y",
+"name":"Enoyl-[acyl-carrier-protein] reductase (NADPH) (n-C12:0)",
+"metabolites":{
+"ddcaACP_c":1.0,
+"h_c":-1.0,
+"nadp_c":1.0,
+"nadph_c":-1.0,
+"tddec2eACP_c":-1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b1288",
+"subsystem":"Cell Envelope Biosynthesis"
+},
+{
+"id":"3OAR181",
+"name":"3-oxoacyl-[acyl-carrier-protein] reductase (n-C18:1)",
+"metabolites":{
+"3hcvac11eACP_c":1.0,
+"3ocvac11eACP_c":-1.0,
+"h_c":-1.0,
+"nadp_c":1.0,
+"nadph_c":-1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b1093",
+"subsystem":"Cell Envelope Biosynthesis"
+},
+{
+"id":"3HAD121",
+"name":"3-hydroxyacyl-[acyl-carrier-protein] dehydratase (n-C12:1)",
+"metabolites":{
+"3hcddec5eACP_c":-1.0,
+"h2o_c":1.0,
+"t3c5ddeceACP_c":1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b0954 or b0180",
+"subsystem":"Cell Envelope Biosynthesis"
+},
+{
+"id":"EX_o2_e",
+"name":"O2 exchange",
+"metabolites":{
+"o2_e":-1.0
+},
+"lower_bound":-1000.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"",
+"subsystem":"Extracellular exchange"
+},
+{
+"id":"EAR140x",
+"name":"Enoyl-[acyl-carrier-protein] reductase (NADH) (n-C14:0)",
+"metabolites":{
+"h_c":-1.0,
+"myrsACP_c":1.0,
+"nad_c":1.0,
+"nadh_c":-1.0,
+"tmrs2eACP_c":-1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b1288",
+"subsystem":"Cell Envelope Biosynthesis"
+},
+{
+"id":"3OAS181",
+"name":"3-oxoacyl-[acyl-carrier-protein] synthase (n-C18:1)",
+"metabolites":{
+"3ocvac11eACP_c":1.0,
+"ACP_c":1.0,
+"co2_c":1.0,
+"h_c":-1.0,
+"hdeACP_c":-1.0,
+"malACP_c":-1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b1095",
+"subsystem":"Cell Envelope Biosynthesis"
+},
+{
+"id":"3OAS140",
+"name":"3-oxoacyl-[acyl-carrier-protein] synthase (n-C14:0)",
+"metabolites":{
+"3omrsACP_c":1.0,
+"ACP_c":1.0,
+"co2_c":1.0,
+"ddcaACP_c":-1.0,
+"h_c":-1.0,
+"malACP_c":-1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b2323 or b1095",
+"subsystem":"Cell Envelope Biosynthesis"
+},
+{
+"id":"3OAR140",
+"name":"3-oxoacyl-[acyl-carrier-protein] reductase (n-C14:0)",
+"metabolites":{
+"3hmrsACP_c":1.0,
+"3omrsACP_c":-1.0,
+"h_c":-1.0,
+"nadp_c":1.0,
+"nadph_c":-1.0
+},
+"lower_bound":-1000.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b1093",
+"subsystem":"Cell Envelope Biosynthesis"
+},
+{
+"id":"EAR160y",
+"name":"Enoyl-[acyl-carrier-protein] reductase (NADPH) (n-C16:0)",
+"metabolites":{
+"h_c":-1.0,
+"nadp_c":1.0,
+"nadph_c":-1.0,
+"palmACP_c":1.0,
+"tpalm2eACP_c":-1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b1288",
+"subsystem":"Cell Envelope Biosynthesis"
+},
+{
+"id":"3OAR160",
+"name":"3-oxoacyl-[acyl-carrier-protein] reductase (n-C16:0)",
+"metabolites":{
+"3hpalmACP_c":1.0,
+"3opalmACP_c":-1.0,
+"h_c":-1.0,
+"nadp_c":1.0,
+"nadph_c":-1.0
+},
+"lower_bound":-1000.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b1093",
+"subsystem":"Cell Envelope Biosynthesis"
+},
+{
+"id":"3HAD181",
+"name":"3-hydroxyacyl-[acyl-carrier-protein] dehydratase (n-C18:1)",
+"metabolites":{
+"3hcvac11eACP_c":-1.0,
+"h2o_c":1.0,
+"t3c11vaceACP_c":1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b0954 or b0180",
+"subsystem":"Cell Envelope Biosynthesis"
+},
+{
+"id":"EAR100y",
+"name":"Enoyl-[acyl-carrier-protein] reductase (NADPH) (n-C10:0)",
+"metabolites":{
+"dcaACP_c":1.0,
+"h_c":-1.0,
+"nadp_c":1.0,
+"nadph_c":-1.0,
+"tdec2eACP_c":-1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b1288",
+"subsystem":"Cell Envelope Biosynthesis"
+},
+{
+"id":"3OAR141",
+"name":"3-oxoacyl-[acyl-carrier-protein] reductase (n-C14:1)",
+"metabolites":{
+"3hcmrs7eACP_c":1.0,
+"3ocmrs7eACP_c":-1.0,
+"h_c":-1.0,
+"nadp_c":1.0,
+"nadph_c":-1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b1093",
+"subsystem":"Cell Envelope Biosynthesis"
+},
+{
+"id":"3OAR161",
+"name":"3-oxoacyl-[acyl-carrier-protein] reductase (n-C16:1)",
+"metabolites":{
+"3hcpalm9eACP_c":1.0,
+"3ocpalm9eACP_c":-1.0,
+"h_c":-1.0,
+"nadp_c":1.0,
+"nadph_c":-1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b1093",
+"subsystem":"Cell Envelope Biosynthesis"
+},
+{
+"id":"3HAD141",
+"name":"3-hydroxyacyl-[acyl-carrier-protein] dehydratase (n-C14:1)",
+"metabolites":{
+"3hcmrs7eACP_c":-1.0,
+"h2o_c":1.0,
+"t3c7mrseACP_c":1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b0954 or b0180",
+"subsystem":"Cell Envelope Biosynthesis"
+},
+{
+"id":"EAR121x",
+"name":"Enoyl-[acyl-carrier-protein] reductase (NADH) (n-C12:1)",
+"metabolites":{
+"cddec5eACP_c":1.0,
+"h_c":-1.0,
+"nad_c":1.0,
+"nadh_c":-1.0,
+"t3c5ddeceACP_c":-1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b1288",
+"subsystem":"Cell Envelope Biosynthesis"
+},
+{
+"id":"ACONTa",
+"name":"Aconitase (half-reaction A, Citrate hydro-lyase)",
+"metabolites":{
+"acon_C_c":1.0,
+"cit_c":-1.0,
+"h2o_c":1.0
+},
+"lower_bound":-1000.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b0118 or b1276",
+"subsystem":"Citric Acid Cycle"
+},
+{
+"id":"3HAD40",
+"name":"3-hydroxyacyl-[acyl-carrier-protein] dehydratase (n-C4:0)",
+"metabolites":{
+"3haACP_c":-1.0,
+"but2eACP_c":1.0,
+"h2o_c":1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b0954 or b0180",
+"subsystem":"Cell Envelope Biosynthesis"
+},
+{
+"id":"3OAS60",
+"name":"3-oxoacyl-[acyl-carrier-protein] synthase (n-C6:0)",
+"metabolites":{
+"3ohexACP_c":1.0,
+"ACP_c":1.0,
+"butACP_c":-1.0,
+"co2_c":1.0,
+"h_c":-1.0,
+"malACP_c":-1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b1095 or b2323",
+"subsystem":"Cell Envelope Biosynthesis"
+},
+{
+"id":"3OAS160",
+"name":"3-oxoacyl-[acyl-carrier-protein] synthase (n-C16:0)",
+"metabolites":{
+"3opalmACP_c":1.0,
+"ACP_c":1.0,
+"co2_c":1.0,
+"h_c":-1.0,
+"malACP_c":-1.0,
+"myrsACP_c":-1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b2323 or b1095",
+"subsystem":"Cell Envelope Biosynthesis"
+},
+{
+"id":"3OAR60",
+"name":"3-oxoacyl-[acyl-carrier-protein] reductase (n-C6:0)",
+"metabolites":{
+"3hhexACP_c":1.0,
+"3ohexACP_c":-1.0,
+"h_c":-1.0,
+"nadp_c":1.0,
+"nadph_c":-1.0
+},
+"lower_bound":-1000.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b1093",
+"subsystem":"Cell Envelope Biosynthesis"
+},
+{
+"id":"3OAR80",
+"name":"3-oxoacyl-[acyl-carrier-protein] reductase (n-C8:0)",
+"metabolites":{
+"3hoctACP_c":1.0,
+"3ooctACP_c":-1.0,
+"h_c":-1.0,
+"nadp_c":1.0,
+"nadph_c":-1.0
+},
+"lower_bound":-1000.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b1093",
+"subsystem":"Cell Envelope Biosynthesis"
+},
+{
+"id":"EAR100x",
+"name":"Enoyl-[acyl-carrier-protein] reductase (NADH) (n-C10:0)",
+"metabolites":{
+"dcaACP_c":1.0,
+"h_c":-1.0,
+"nad_c":1.0,
+"nadh_c":-1.0,
+"tdec2eACP_c":-1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b1288",
+"subsystem":"Cell Envelope Biosynthesis"
+},
+{
+"id":"EAR120x",
+"name":"Enoyl-[acyl-carrier-protein] reductase (NADH) (n-C12:0)",
+"metabolites":{
+"ddcaACP_c":1.0,
+"h_c":-1.0,
+"nad_c":1.0,
+"nadh_c":-1.0,
+"tddec2eACP_c":-1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b1288",
+"subsystem":"Cell Envelope Biosynthesis"
+},
+{
+"id":"EAR160x",
+"name":"Enoyl-[acyl-carrier-protein] reductase (NADH) (n-C16:0)",
+"metabolites":{
+"h_c":-1.0,
+"nad_c":1.0,
+"nadh_c":-1.0,
+"palmACP_c":1.0,
+"tpalm2eACP_c":-1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b1288",
+"subsystem":"Cell Envelope Biosynthesis"
+},
+{
+"id":"EAR140y",
+"name":"Enoyl-[acyl-carrier-protein] reductase (NADPH) (n-C14:0)",
+"metabolites":{
+"h_c":-1.0,
+"myrsACP_c":1.0,
+"nadp_c":1.0,
+"nadph_c":-1.0,
+"tmrs2eACP_c":-1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b1288",
+"subsystem":"Cell Envelope Biosynthesis"
+},
+{
+"id":"3OAS121",
+"name":"3-oxoacyl-[acyl-carrier-protein] synthase (n-C12:1)",
+"metabolites":{
+"3ocddec5eACP_c":1.0,
+"ACP_c":1.0,
+"cdec3eACP_c":-1.0,
+"co2_c":1.0,
+"h_c":-1.0,
+"malACP_c":-1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b2323",
+"subsystem":"Cell Envelope Biosynthesis"
+},
+{
+"id":"3OAS80",
+"name":"3-oxoacyl-[acyl-carrier-protein] synthase (n-C8:0)",
+"metabolites":{
+"3ooctACP_c":1.0,
+"ACP_c":1.0,
+"co2_c":1.0,
+"h_c":-1.0,
+"hexACP_c":-1.0,
+"malACP_c":-1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b2323 or b1095",
+"subsystem":"Cell Envelope Biosynthesis"
+},
+{
+"id":"3OAS100",
+"name":"3-oxoacyl-[acyl-carrier-protein] synthase (n-C10:0)",
+"metabolites":{
+"3odecACP_c":1.0,
+"ACP_c":1.0,
+"co2_c":1.0,
+"h_c":-1.0,
+"malACP_c":-1.0,
+"ocACP_c":-1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b2323 or b1095",
+"subsystem":"Cell Envelope Biosynthesis"
+},
+{
+"id":"3OAS120",
+"name":"3-oxoacyl-[acyl-carrier-protein] synthase (n-C12:0)",
+"metabolites":{
+"3oddecACP_c":1.0,
+"ACP_c":1.0,
+"co2_c":1.0,
+"dcaACP_c":-1.0,
+"h_c":-1.0,
+"malACP_c":-1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b1095 or b2323",
+"subsystem":"Cell Envelope Biosynthesis"
+},
+{
+"id":"3OAR40",
+"name":"3-oxoacyl-[acyl-carrier-protein] reductase (n-C4:0)",
+"metabolites":{
+"3haACP_c":1.0,
+"actACP_c":-1.0,
+"h_c":-1.0,
+"nadp_c":1.0,
+"nadph_c":-1.0
+},
+"lower_bound":-1000.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b1093",
+"subsystem":"Cell Envelope Biosynthesis"
+},
+{
+"id":"3OAR100",
+"name":"3-oxoacyl-[acyl-carrier-protein] reductase (n-C10:0)",
+"metabolites":{
+"3hdecACP_c":1.0,
+"3odecACP_c":-1.0,
+"h_c":-1.0,
+"nadp_c":1.0,
+"nadph_c":-1.0
+},
+"lower_bound":-1000.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b1093",
+"subsystem":"Cell Envelope Biosynthesis"
+},
+{
+"id":"3HAD60",
+"name":"3-hydroxyacyl-[acyl-carrier-protein] dehydratase (n-C6:0)",
+"metabolites":{
+"3hhexACP_c":-1.0,
+"h2o_c":1.0,
+"thex2eACP_c":1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b0954 or b0180",
+"subsystem":"Cell Envelope Biosynthesis"
+},
+{
+"id":"3HAD100",
+"name":"3-hydroxyacyl-[acyl-carrier-protein] dehydratase (n-C10:0)",
+"metabolites":{
+"3hdecACP_c":-1.0,
+"h2o_c":1.0,
+"tdec2eACP_c":1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b0954 or b0180",
+"subsystem":"Cell Envelope Biosynthesis"
+},
+{
+"id":"3HAD140",
+"name":"3-hydroxyacyl-[acyl-carrier-protein] dehydratase (n-C14:0)",
+"metabolites":{
+"3hmrsACP_c":-1.0,
+"h2o_c":1.0,
+"tmrs2eACP_c":1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b0954 or b0180",
+"subsystem":"Cell Envelope Biosynthesis"
+},
+{
+"id":"3HAD160",
+"name":"3-hydroxyacyl-[acyl-carrier-protein] dehydratase (n-C16:0)",
+"metabolites":{
+"3hpalmACP_c":-1.0,
+"h2o_c":1.0,
+"tpalm2eACP_c":1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b0954 or b0180",
+"subsystem":"Cell Envelope Biosynthesis"
+},
+{
+"id":"EAR40x",
+"name":"Enoyl-[acyl-carrier-protein] reductase (NADH) (n-C4:0)",
+"metabolites":{
+"but2eACP_c":-1.0,
+"butACP_c":1.0,
+"h_c":-1.0,
+"nad_c":1.0,
+"nadh_c":-1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b1288",
+"subsystem":"Cell Envelope Biosynthesis"
+},
+{
+"id":"EAR60y",
+"name":"Enoyl-[acyl-carrier-protein] reductase (NADPH) (n-C6:0)",
+"metabolites":{
+"h_c":-1.0,
+"hexACP_c":1.0,
+"nadp_c":1.0,
+"nadph_c":-1.0,
+"thex2eACP_c":-1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b1288",
+"subsystem":"Cell Envelope Biosynthesis"
+},
+{
+"id":"EAR60x",
+"name":"Enoyl-[acyl-carrier-protein] reductase (NADH) (n-C6:0)",
+"metabolites":{
+"h_c":-1.0,
+"hexACP_c":1.0,
+"nad_c":1.0,
+"nadh_c":-1.0,
+"thex2eACP_c":-1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b1288",
+"subsystem":"Cell Envelope Biosynthesis"
+},
+{
+"id":"EAR80x",
+"name":"Enoyl-[acyl-carrier-protein] reductase (NADH) (n-C8:0)",
+"metabolites":{
+"h_c":-1.0,
+"nad_c":1.0,
+"nadh_c":-1.0,
+"ocACP_c":1.0,
+"toct2eACP_c":-1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b1288",
+"subsystem":"Cell Envelope Biosynthesis"
+},
+{
+"id":"3OAR180",
+"name":"3-oxoacyl-[acyl-carrier-protein] reductase (n-C18:0)",
+"metabolites":{
+"3hoctaACP_c":1.0,
+"3ooctdACP_c":-1.0,
+"h_c":-1.0,
+"nadp_c":1.0,
+"nadph_c":-1.0
+},
+"lower_bound":-1000.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b1093",
+"subsystem":"Cell Envelope Biosynthesis"
+},
+{
+"id":"3OAS180",
+"name":"3-oxoacyl-[acyl-carrier-protein] synthase (n-C18:0)",
+"metabolites":{
+"3ooctdACP_c":1.0,
+"ACP_c":1.0,
+"co2_c":1.0,
+"h_c":-1.0,
+"malACP_c":-1.0,
+"palmACP_c":-1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b1095 or b2323",
+"subsystem":"Cell Envelope Biosynthesis"
+},
+{
+"id":"3HAD180",
+"name":"3-hydroxyacyl-[acyl-carrier-protein] dehydratase (n-C18:0)",
+"metabolites":{
+"3hoctaACP_c":-1.0,
+"h2o_c":1.0,
+"toctd2eACP_c":1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b0954 or b0180",
+"subsystem":"Cell Envelope Biosynthesis"
+},
+{
+"id":"NADH16pp",
+"name":"NADH dehydrogenase (ubiquinone-8 & 3 protons) (periplasm)",
+"metabolites":{
+"h_c":-4.0,
+"h_p":3.0,
+"nad_c":1.0,
+"nadh_c":-1.0,
+"q8_c":-1.0,
+"q8h2_c":1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b2279 and b2277 and b2284 and b2282 and b2278 and b2288 and b2276 and b2287 and b2283 and b2281 and b2286 and b2280 and b2285",
+"subsystem":"Oxidative Phosphorylation"
+},
+{
+"id":"FA160ACPHi",
+"name":"Fatty-acyl-ACP hydrolase",
+"metabolites":{
+"ACP_c":1.0,
+"h2o_c":-1.0,
+"h_c":1.0,
+"hdca_c":1.0,
+"palmACP_c":-1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b0404",
+"subsystem":"Cell Envelope Biosynthesis"
+},
+{
+"id":"FA120ACPHi",
+"name":"Fatty-acyl-ACP hydrolase",
+"metabolites":{
+"ACP_c":1.0,
+"ddcaACP_c":-1.0,
+"ddca_c":1.0,
+"h2o_c":-1.0,
+"h_c":1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b0404",
+"subsystem":"Cell Envelope Biosynthesis"
+},
+{
+"id":"FA80ACPHi",
+"name":"Fatty-acyl-ACP hydrolase",
+"metabolites":{
+"ACP_c":1.0,
+"h2o_c":-1.0,
+"h_c":1.0,
+"ocACP_c":-1.0,
+"octa_c":1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b0404",
+"subsystem":"Cell Envelope Biosynthesis"
+},
+{
+"id":"FA140ACPHi",
+"name":"Fatty-acyl-ACP hydrolase",
+"metabolites":{
+"ACP_c":1.0,
+"h2o_c":-1.0,
+"h_c":1.0,
+"myrsACP_c":-1.0,
+"ttdca_c":1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b0404",
+"subsystem":"Cell Envelope Biosynthesis"
+},
+{
+"id":"FA100ACPHi",
+"name":"Fatty-acyl-ACP hydrolase",
+"metabolites":{
+"ACP_c":1.0,
+"dcaACP_c":-1.0,
+"dca_c":1.0,
+"h2o_c":-1.0,
+"h_c":1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b0404",
+"subsystem":"Cell Envelope Biosynthesis"
+},
+{
+"id":"ETOHtrpp",
+"name":"Ethanol reversible transport via diffusion (periplasm)",
+"metabolites":{
+"etoh_c":1.0,
+"etoh_p":-1.0
+},
+"lower_bound":-1000.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"s0001",
+"subsystem":"Transport, Inner Membrane"
+},
+{
+"id":"ACPPAT161",
+"name":"Acyl-(acyl carrier protein):phosphate acyltransferase (C16:1)",
+"metabolites":{
+"ACP_c":1.0,
+"h_c":-1.0,
+"hdceap_c":1.0,
+"hdeACP_c":-1.0,
+"pi_c":-1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b1094 and b1090",
+"subsystem":"Glycerophospholipid Metabolism"
+},
+{
+"id":"ACPPAT180",
+"name":"Acyl-(acyl carrier protein):phosphate acyltransferase (C18:0)",
+"metabolites":{
+"ACP_c":1.0,
+"h_c":-1.0,
+"ocdcaACP_c":-1.0,
+"ocdcap_c":1.0,
+"pi_c":-1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b1094 and b1090",
+"subsystem":"Glycerophospholipid Metabolism"
+},
+{
+"id":"RNTR1c2",
+"name":"Ribonucleoside-triphosphate reductase (ATP) (flavodoxin)",
+"metabolites":{
+"atp_c":-1.0,
+"datp_c":1.0,
+"flxr_c":-2.0,
+"flxso_c":2.0,
+"h2o_c":1.0,
+"h_c":-2.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"(b3924 and b0684 and b4238 and b4237) or (b3924 and b2895 and b4238 and b4237) or (b0684 and b4238) or (b2895 and b4238)",
+"subsystem":"Nucleotide Salvage Pathway"
+},
+{
+"id":"RNTR2c2",
+"name":"Ribonucleoside-triphosphate reductase (GTP) (flavodoxin)",
+"metabolites":{
+"dgtp_c":1.0,
+"flxr_c":-2.0,
+"flxso_c":2.0,
+"gtp_c":-1.0,
+"h2o_c":1.0,
+"h_c":-2.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"(b3924 and b2895 and b4238 and b4237) or (b2895 and b4238) or (b3924 and b0684 and b4238 and b4237) or (b0684 and b4238)",
+"subsystem":"Nucleotide Salvage Pathway"
+},
+{
+"id":"FLDR2",
+"name":"Flavodoxin reductase (NADPH)",
+"metabolites":{
+"flxr_c":2.0,
+"flxso_c":-2.0,
+"h_c":1.0,
+"nadp_c":1.0,
+"nadph_c":-1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"(b3924 and b2895) or (b3924 and b0684)",
+"subsystem":"Unassigned"
+},
+{
+"id":"VPAMTr",
+"name":"Valine-pyruvate aminotransferase",
+"metabolites":{
+"3mob_c":-1.0,
+"ala__L_c":-1.0,
+"pyr_c":1.0,
+"val__L_c":1.0
+},
+"lower_bound":-1000.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b3572",
+"subsystem":"Valine, Leucine, and Isoleucine Metabolism"
+},
+{
+"id":"ACPPAT181",
+"name":"Acyl-(acyl carrier protein):phosphate acyltransferase (C18:1)",
+"metabolites":{
+"ACP_c":1.0,
+"h_c":-1.0,
+"ocdceap_c":1.0,
+"octeACP_c":-1.0,
+"pi_c":-1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b1094 and b1090",
+"subsystem":"Glycerophospholipid Metabolism"
+},
+{
+"id":"APH161",
+"name":"Acylphosphatase (C16:1)",
+"metabolites":{
+"h2o_c":-1.0,
+"h_c":2.0,
+"hdcea_c":1.0,
+"hdceap_c":-1.0,
+"pi_c":1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b0968",
+"subsystem":"Glycerophospholipid Metabolism"
+},
+{
+"id":"APH180",
+"name":"Acylphosphatase (C18:0)",
+"metabolites":{
+"h2o_c":-1.0,
+"h_c":2.0,
+"ocdca_c":1.0,
+"ocdcap_c":-1.0,
+"pi_c":1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b0968",
+"subsystem":"Glycerophospholipid Metabolism"
+},
+{
+"id":"APH181",
+"name":"Acylphosphatase (C18:1)",
+"metabolites":{
+"h2o_c":-1.0,
+"h_c":2.0,
+"ocdcea_c":1.0,
+"ocdceap_c":-1.0,
+"pi_c":1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b0968",
+"subsystem":"Glycerophospholipid Metabolism"
+},
+{
+"id":"PIt2rpp",
+"name":"Phosphate reversible transport via symport (periplasm)",
+"metabolites":{
+"h_c":1.0,
+"h_p":-1.0,
+"pi_c":1.0,
+"pi_p":-1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b3493 or b2987",
+"subsystem":"Inorganic Ion Transport and Metabolism"
+},
+{
+"id":"PItpp",
+"name":"Phosphate export via facillated diffusion (periplasm)",
+"metabolites":{
+"pi_c":-1.0,
+"pi_p":1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b4020",
+"subsystem":"Inorganic Ion Transport and Metabolism"
+},
+{
+"id":"SUCCt1pp",
+"name":"Succinate transport via diffusion in (periplasm)",
+"metabolites":{
+"succ_c":1.0,
+"succ_p":-1.0
+},
+"lower_bound":-1000.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b1206",
+"subsystem":"Transport, Inner Membrane"
+},
+{
+"id":"RBIONEW",
+"name":"RBIONEW",
+"metabolites":{
+"26dap__M_c":-0.027787999999999972,
+"3hmrsACP_c":-0.077824,
+"3mob_c":-0.0005760000000021466,
+"ACP_c":0.3558800000000002,
+"ac_c":0.03891200000000003,
+"accoa_c":-0.09448800000000082,
+"adp_c":76.05321800000002,
+"ala__L_c":-0.5831589999999999,
+"amp_c":0.0028540000000022736,
+"arg__L_c":-0.295792,
+"asn__L_c":-0.241055,
+"asp__L_c":-0.24390900000000298,
+"atp_c":-76.234149,
+"cdp_c":0.027017,
+"co2_c":0.1424580000000104,
+"coa_c":0.0944880000000023,
+"ctp_c":-0.16052499999999997,
+"cys__L_c":-0.09215600000000226,
+"datp_c":-0.026166000000000002,
+"dctp_c":-0.027017,
+"dgtp_c":-0.027017,
+"dhap_c":-0.00227799999999994,
+"dttp_c":-0.026166000000000002,
+"f6p_c":-0.09448799999999988,
+"for_c":0.000669,
+"fum_c":-0.002277999999999441,
+"gln__L_c":-0.3576479999999999,
+"glu__L_c":-0.196459999999998,
+"gly_c":-0.6126379999999999,
+"glyc3p_c":-0.139028,
+"gtp_c":-0.21531899999999995,
+"h2o_c":-70.37473399999998,
+"h_c":75.96447299999984,
+"h_p":-0.1917369999999039,
+"hdeACP_c":-0.150428,
+"his__L_c":-0.094738,
+"ile__L_c":-0.290529,
+"leu__L_c":-0.450531,
+"lys__L_c":-0.343161,
+"met__L_c":-0.15368600000000002,
+"mlthf_c":-0.0005760000000023025,
+"nadp_c":0.028587000000002145,
+"nadph_c":-0.028587000000002145,
+"nh4_c":-0.015067999999998851,
+"palmACP_c":-0.127628,
+"pep_c":-0.06670000000000059,
+"phe__L_c":-0.185265,
+"pi_c":75.83427200000004,
+"ppi_c":1.0553390000000067,
+"pro__L_c":-0.221055,
+"prpp_c":-0.0022779999999998773,
+"ru5p__D_c":-0.03935799999999994,
+"ser__L_c":-0.3548199999999999,
+"so4_c":-0.0043379999999999955,
+"succ_c":0.002277999999999441,
+"thf_c":0.0005760000000020843,
+"thr__L_c":-0.25368700000000005,
+"trp__L_c":-0.056843,
+"tyr__L_c":-0.137896,
+"udp_c":0.047244,
+"ump_c":0.04724399999999994,
+"utp_c":-0.238592,
+"val__L_c":-0.423162
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"",
+"objective_coefficient":1.0,
+"subsystem":"[array([], dtype='<U1')]"
+},
+{
+"id":"Chorismate_Biosynthesis(CP)",
+"name":"Chorismate_Biosynthesis(CP)",
+"metabolites":{
+"adp_c":1.0,
+"atp_c":-1.0,
+"chor_c":1.0,
+"e4p_c":-1.0,
+"nadp_c":1.0,
+"nadph_c":-1.0,
+"pep_c":-2.0,
+"pi_c":4.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"",
+"subsystem":"[array([], dtype='<U1')]"
+},
+{
+"id":"Histidine_biosynthesis(CP)",
+"name":"Histidine_biosynthesis(CP)",
+"metabolites":{
+"aicar_c":1.0,
+"akg_c":1.0,
+"atp_c":-1.0,
+"gln__L_c":-1.0,
+"h2o_c":-3.0,
+"h_c":5.0,
+"his__L_c":1.0,
+"nad_c":-2.0,
+"nadh_c":2.0,
+"pi_c":1.0,
+"ppi_c":2.0,
+"prpp_c":-1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"",
+"subsystem":"[array([], dtype='<U1')]"
+},
+{
+"id":"Tryptophan_Biosynthesis(CP)",
+"name":"Tryptophan_Biosynthesis(CP)",
+"metabolites":{
+"co2_c":1.0,
+"g3p_c":1.0,
+"h2o_c":2.0,
+"h_c":-1.0,
+"pran_c":-1.0,
+"ser__L_c":-1.0,
+"trp__L_c":1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"",
+"subsystem":"[array([], dtype='<U1')]"
+},
+{
+"id":"3mob_Biosynthesis(CP)",
+"name":"3mob_Biosynthesis(CP)",
+"metabolites":{
+"3mob_c":1.0,
+"co2_c":1.0,
+"h2o_c":1.0,
+"h_c":-2.0,
+"nadp_c":1.0,
+"nadph_c":-1.0,
+"pyr_c":-2.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"",
+"subsystem":"[array([], dtype='<U1')]"
+},
+{
+"id":"Leucine_Biosynthesis(CP)",
+"name":"Leucine_Biosynthesis(CP)",
+"metabolites":{
+"3mob_c":-1.0,
+"accoa_c":-1.0,
+"akg_c":1.0,
+"co2_c":1.0,
+"coa_c":1.0,
+"glu__L_c":-1.0,
+"h2o_c":-1.0,
+"h_c":1.0,
+"leu__L_c":1.0,
+"nad_c":-1.0,
+"nadh_c":1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"",
+"subsystem":"[array([], dtype='<U1')]"
+},
+{
+"id":"Lysine_Biosynthesis(CP)",
+"name":"Lysine_Biosynthesis(CP)",
+"metabolites":{
+"akg_c":1.0,
+"aspsa_c":-1.0,
+"co2_c":1.0,
+"coa_c":1.0,
+"glu__L_c":-1.0,
+"h_c":-1.0,
+"lys__L_c":1.0,
+"nadp_c":1.0,
+"nadph_c":-1.0,
+"pyr_c":-1.0,
+"succ_c":1.0,
+"succoa_c":-1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"",
+"subsystem":"[array([], dtype='<U1')]"
+},
+{
+"id":"Isoleucine_Biosynthesis(CP)",
+"name":"Isoleucine_Biosynthesis(CP)",
+"metabolites":{
+"akg_c":1.0,
+"co2_c":1.0,
+"glu__L_c":-1.0,
+"h2o_c":1.0,
+"h_c":-2.0,
+"ile__L_c":1.0,
+"nadp_c":1.0,
+"nadph_c":-1.0,
+"nh4_c":1.0,
+"pyr_c":-1.0,
+"thr__L_c":-1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"",
+"subsystem":"[array([], dtype='<U1')]"
+},
+{
+"id":"Methionine_Biosynthesis(CP)",
+"name":"Methionine_Biosynthesis(CP)",
+"metabolites":{
+"5mthf_c":-1.0,
+"coa_c":1.0,
+"cys__L_c":-1.0,
+"h2o_c":-1.0,
+"h_c":2.0,
+"hom__L_c":-1.0,
+"met__L_c":1.0,
+"nh4_c":1.0,
+"pyr_c":1.0,
+"succ_c":1.0,
+"succoa_c":-1.0,
+"thf_c":1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"",
+"subsystem":"[array([], dtype='<U1')]"
+},
+{
+"id":"H2S_Biosynthesis(CP)",
+"name":"H2S_Biosynthesis(CP)",
+"metabolites":{
+"adp_c":1.0,
+"amp_c":1.0,
+"atp_c":-2.0,
+"gdp_c":1.0,
+"gtp_c":-1.0,
+"h2o_c":1.0,
+"h2s_c":1.0,
+"h_c":-2.0,
+"nadp_c":3.0,
+"nadph_c":-3.0,
+"pi_c":2.0,
+"ppi_c":1.0,
+"so4_c":-1.0,
+"trdox_c":1.0,
+"trdrd_c":-1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"",
+"subsystem":"[array([], dtype='<U1')]"
+},
+{
+"id":"Proline_Biosynthesis(CP)",
+"name":"Proline_Biosynthesis(CP)",
+"metabolites":{
+"adp_c":1.0,
+"atp_c":-1.0,
+"glu__L_c":-1.0,
+"h2o_c":1.0,
+"h_c":-2.0,
+"nadp_c":2.0,
+"nadph_c":-2.0,
+"pi_c":1.0,
+"pro__L_c":1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"",
+"subsystem":"[array([], dtype='<U1')]"
+},
+{
+"id":"Arginine_Biosynthesis(CP)",
+"name":"Arginine_Biosynthesis(CP)",
+"metabolites":{
+"ac_c":1.0,
+"accoa_c":-1.0,
+"adp_c":1.0,
+"akg_c":1.0,
+"amp_c":1.0,
+"arg__L_c":1.0,
+"asp__L_c":-1.0,
+"atp_c":-2.0,
+"cbp_c":-1.0,
+"coa_c":1.0,
+"fum_c":1.0,
+"glu__L_c":-2.0,
+"h2o_c":-1.0,
+"h_c":2.0,
+"nadp_c":1.0,
+"nadph_c":-1.0,
+"pi_c":2.0,
+"ppi_c":1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"",
+"subsystem":"[array([], dtype='<U1')]"
+},
+{
+"id":"UDP_Biosynthesis(CP)",
+"name":"UDP_Biosynthesis(CP)",
+"metabolites":{
+"adp_c":1.0,
+"asp__L_c":-1.0,
+"atp_c":-1.0,
+"cbp_c":-1.0,
+"co2_c":1.0,
+"h2o_c":1.0,
+"h_c":-1.0,
+"mql8_c":1.0,
+"mqn8_c":-1.0,
+"pi_c":1.0,
+"ppi_c":1.0,
+"prpp_c":-1.0,
+"udp_c":1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"",
+"subsystem":"[array([], dtype='<U1')]"
+},
+{
+"id":"dCTP_Biosynthesis(CP)",
+"name":"dCTP_Biosynthesis(CP)",
+"metabolites":{
+"adp_c":1.0,
+"atp_c":-1.0,
+"ctp_c":-1.0,
+"dctp_c":1.0,
+"h_c":1.0,
+"pi_c":1.0,
+"trdox_c":1.0,
+"trdrd_c":-1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"",
+"subsystem":"[array([], dtype='<U1')]"
+},
+{
+"id":"dTTP_Biosynthesis(CP)",
+"name":"dTTP_Biosynthesis(CP)",
+"metabolites":{
+"adp_c":3.0,
+"atp_c":-3.0,
+"dhf_c":1.0,
+"dttp_c":1.0,
+"h_c":1.0,
+"mlthf_c":-1.0,
+"ppi_c":1.0,
+"trdox_c":1.0,
+"trdrd_c":-1.0,
+"udp_c":-1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"",
+"subsystem":"[array([], dtype='<U1')]"
+},
+{
+"id":"Aicar_Biosynthesis(CP)",
+"name":"Aicar_Biosynthesis(CP)",
+"metabolites":{
+"10fthf_c":-1.0,
+"adp_c":5.0,
+"aicar_c":1.0,
+"asp__L_c":-1.0,
+"atp_c":-5.0,
+"fum_c":1.0,
+"gln__L_c":-2.0,
+"glu__L_c":2.0,
+"gly_c":-1.0,
+"h2o_c":-2.0,
+"h_c":7.0,
+"hco3_c":-1.0,
+"pi_c":5.0,
+"ppi_c":1.0,
+"prpp_c":-1.0,
+"thf_c":1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"",
+"subsystem":"[array([], dtype='<U1')]"
+},
+{
+"id":"tdec2eACP_Biosynthesis(CP)",
+"name":"tdec2eACP_Biosynthesis(CP)",
+"metabolites":{
+"ACP_c":3.0,
+"actACP_c":-1.0,
+"co2_c":3.0,
+"h2o_c":4.0,
+"h_c":-10.0,
+"malACP_c":-3.0,
+"nad_c":3.0,
+"nadh_c":-3.0,
+"nadp_c":4.0,
+"nadph_c":-4.0,
+"tdec2eACP_c":1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"",
+"subsystem":"[array([], dtype='<U1')]"
+},
+{
+"id":"hdeACP_Biosynthesis(CP)",
+"name":"hdeACP_Biosynthesis(CP)",
+"metabolites":{
+"ACP_c":3.0,
+"co2_c":3.0,
+"h2o_c":3.0,
+"h_c":-9.0,
+"hdeACP_c":1.0,
+"malACP_c":-3.0,
+"nad_c":3.0,
+"nadh_c":-3.0,
+"nadp_c":3.0,
+"nadph_c":-3.0,
+"tdec2eACP_c":-1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"",
+"subsystem":"[array([], dtype='<U1')]"
+},
+{
+"id":"3hmrsACP_Biosynthesis(CP)",
+"name":"3hmrsACP_Biosynthesis(CP)",
+"metabolites":{
+"3hmrsACP_c":1.0,
+"ACP_c":2.0,
+"co2_c":2.0,
+"h2o_c":1.0,
+"h_c":-6.0,
+"malACP_c":-2.0,
+"nad_c":2.0,
+"nadh_c":-2.0,
+"nadp_c":2.0,
+"nadph_c":-2.0,
+"tdec2eACP_c":-1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"",
+"subsystem":"[array([], dtype='<U1')]"
+},
+{
+"id":"Palmitoyl_ACP_Biosynthesis(CP)",
+"name":"Palmitoyl_ACP_Biosynthesis(CP)",
+"metabolites":{
+"3hmrsACP_c":-1.0,
+"ACP_c":1.0,
+"co2_c":1.0,
+"h2o_c":2.0,
+"h_c":-4.0,
+"malACP_c":-1.0,
+"nad_c":2.0,
+"nadh_c":-2.0,
+"nadp_c":1.0,
+"nadph_c":-1.0,
+"palmACP_c":1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"",
+"subsystem":"[array([], dtype='<U1')]"
+},
+{
+"id":"NADH17pp",
+"name":"NADH dehydrogenase (menaquinone-8 & 3 protons) (periplasm)",
+"metabolites":{
+"h_c":-4.0,
+"h_p":3.0,
+"mql8_c":1.0,
+"mqn8_c":-1.0,
+"nad_c":1.0,
+"nadh_c":-1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b2279 and b2277 and b2284 and b2282 and b2278 and b2288 and b2276 and b2287 and b2283 and b2281 and b2286 and b2280 and b2285",
+"subsystem":"Oxidative Phosphorylation",
+"notes":{
+"original_bigg_ids":[
+"NADH17pp"
+]
+},
+"annotation":{
+"bigg.reaction":[
+"NADH17pp"
+],
+"ec-code":[
+"1.6.5.3"
+],
+"metanetx.reaction":[
+"MNXR101865"
+],
+"sbo":"SBO:0000185",
+"seed.reaction":[
+"rxn08973"
+]
+}
+}
+],
+"genes":[
+{
+"id":"b0474",
+"name":""
+},
+{
+"id":"b2518",
+"name":""
+},
+{
+"id":"b3281",
+"name":""
+},
+{
+"id":"b1692",
+"name":""
+},
+{
+"id":"b1062",
+"name":""
+},
+{
+"id":"b1281",
+"name":""
+},
+{
+"id":"b0243",
+"name":""
+},
+{
+"id":"b0720",
+"name":""
+},
+{
+"id":"b1136",
+"name":""
+},
+{
+"id":"b1241",
+"name":""
+},
+{
+"id":"b0351",
+"name":""
+},
+{
+"id":"b2744",
+"name":""
+},
+{
+"id":"b4226",
+"name":""
+},
+{
+"id":"b2502",
+"name":""
+},
+{
+"id":"b3403",
+"name":""
+},
+{
+"id":"b1479",
+"name":""
+},
+{
+"id":"b2290",
+"name":""
+},
+{
+"id":"b2379",
+"name":""
+},
+{
+"id":"b0063",
+"name":""
+},
+{
+"id":"b3564",
+"name":""
+},
+{
+"id":"b3752",
+"name":""
+},
+{
+"id":"b3926",
+"name":""
+},
+{
+"id":"b0928",
+"name":""
+},
+{
+"id":"b4054",
+"name":""
+},
+{
+"id":"b3925",
+"name":""
+},
+{
+"id":"b3697",
+"name":""
+},
+{
+"id":"b2930",
+"name":""
+},
+{
+"id":"b4232",
+"name":""
+},
+{
+"id":"b1854",
+"name":""
+},
+{
+"id":"b1676",
+"name":""
+},
+{
+"id":"b3500",
+"name":""
+},
+{
+"id":"b3770",
+"name":""
+},
+{
+"id":"b0945",
+"name":""
+},
+{
+"id":"b0071",
+"name":""
+},
+{
+"id":"b0072",
+"name":""
+},
+{
+"id":"b3642",
+"name":""
+},
+{
+"id":"b0078",
+"name":""
+},
+{
+"id":"b3670",
+"name":""
+},
+{
+"id":"b3671",
+"name":""
+},
+{
+"id":"b0077",
+"name":""
+},
+{
+"id":"b3771",
+"name":""
+},
+{
+"id":"b1260",
+"name":""
+},
+{
+"id":"b1261",
+"name":""
+},
+{
+"id":"b0908",
+"name":""
+},
+{
+"id":"b3951",
+"name":""
+},
+{
+"id":"b3952",
+"name":""
+},
+{
+"id":"b3114",
+"name":""
+},
+{
+"id":"b0903",
+"name":""
+},
+{
+"id":"b2579",
+"name":""
+},
+{
+"id":"b0902",
+"name":""
+},
+{
+"id":"b1264",
+"name":""
+},
+{
+"id":"b1263",
+"name":""
+},
+{
+"id":"b4154",
+"name":""
+},
+{
+"id":"b4153",
+"name":""
+},
+{
+"id":"b4152",
+"name":""
+},
+{
+"id":"b4151",
+"name":""
+},
+{
+"id":"b2600",
+"name":""
+},
+{
+"id":"b2599",
+"name":""
+},
+{
+"id":"b2458",
+"name":""
+},
+{
+"id":"b2297",
+"name":""
+},
+{
+"id":"b2329",
+"name":""
+},
+{
+"id":"b1262",
+"name":""
+},
+{
+"id":"b1849",
+"name":""
+},
+{
+"id":"b3115",
+"name":""
+},
+{
+"id":"b2296",
+"name":""
+},
+{
+"id":"b2779",
+"name":""
+},
+{
+"id":"b2097",
+"name":""
+},
+{
+"id":"b2925",
+"name":""
+},
+{
+"id":"b0126",
+"name":""
+},
+{
+"id":"b0339",
+"name":""
+},
+{
+"id":"b4006",
+"name":""
+},
+{
+"id":"b2508",
+"name":""
+},
+{
+"id":"b1702",
+"name":""
+},
+{
+"id":"b4025",
+"name":""
+},
+{
+"id":"b2926",
+"name":""
+},
+{
+"id":"b0767",
+"name":""
+},
+{
+"id":"b3386",
+"name":""
+},
+{
+"id":"b1693",
+"name":""
+},
+{
+"id":"b0073",
+"name":""
+},
+{
+"id":"b1800",
+"name":""
+},
+{
+"id":"b0523",
+"name":""
+},
+{
+"id":"b2464",
+"name":""
+},
+{
+"id":"b0008",
+"name":""
+},
+{
+"id":"b1131",
+"name":""
+},
+{
+"id":"b2935",
+"name":""
+},
+{
+"id":"b2465",
+"name":""
+},
+{
+"id":"b2582",
+"name":""
+},
+{
+"id":"b3781",
+"name":""
+},
+{
+"id":"b2234",
+"name":""
+},
+{
+"id":"b2235",
+"name":""
+},
+{
+"id":"b1478",
+"name":""
+},
+{
+"id":"b2827",
+"name":""
+},
+{
+"id":"b3236",
+"name":""
+},
+{
+"id":"b4122",
+"name":""
+},
+{
+"id":"b1611",
+"name":""
+},
+{
+"id":"b1612",
+"name":""
+},
+{
+"id":"b3774",
+"name":""
+},
+{
+"id":"b0185",
+"name":""
+},
+{
+"id":"b3256",
+"name":""
+},
+{
+"id":"b2316",
+"name":""
+},
+{
+"id":"b3255",
+"name":""
+},
+{
+"id":"b1095",
+"name":""
+},
+{
+"id":"b2323",
+"name":""
+},
+{
+"id":"b3172",
+"name":""
+},
+{
+"id":"b3958",
+"name":""
+},
+{
+"id":"b4015",
+"name":""
+},
+{
+"id":"b2903",
+"name":""
+},
+{
+"id":"b2904",
+"name":""
+},
+{
+"id":"b0116",
+"name":""
+},
+{
+"id":"b2905",
+"name":""
+},
+{
+"id":"b3565",
+"name":""
+},
+{
+"id":"b3956",
+"name":""
+},
+{
+"id":"b0822",
+"name":""
+},
+{
+"id":"b0675",
+"name":""
+},
+{
+"id":"b2751",
+"name":""
+},
+{
+"id":"b2752",
+"name":""
+},
+{
+"id":"b1094",
+"name":""
+},
+{
+"id":"b2836",
+"name":""
+},
+{
+"id":"b2551",
+"name":""
+},
+{
+"id":"b2472",
+"name":""
+},
+{
+"id":"b0910",
+"name":""
+},
+{
+"id":"b0171",
+"name":""
+},
+{
+"id":"b2780",
+"name":""
+},
+{
+"id":"b3957",
+"name":""
+},
+{
+"id":"b4177",
+"name":""
+},
+{
+"id":"b3744",
+"name":""
+},
+{
+"id":"b0674",
+"name":""
+},
+{
+"id":"b4244",
+"name":""
+},
+{
+"id":"b4245",
+"name":""
+},
+{
+"id":"b1092",
+"name":""
+},
+{
+"id":"b3809",
+"name":""
+},
+{
+"id":"b0031",
+"name":""
+},
+{
+"id":"b0003",
+"name":""
+},
+{
+"id":"b0907",
+"name":""
+},
+{
+"id":"b3359",
+"name":""
+},
+{
+"id":"b1302",
+"name":""
+},
+{
+"id":"b1748",
+"name":""
+},
+{
+"id":"b2662",
+"name":""
+},
+{
+"id":"b0004",
+"name":""
+},
+{
+"id":"b4013",
+"name":""
+},
+{
+"id":"b1098",
+"name":""
+},
+{
+"id":"b0888",
+"name":""
+},
+{
+"id":"b1704",
+"name":""
+},
+{
+"id":"b0754",
+"name":""
+},
+{
+"id":"b2601",
+"name":""
+},
+{
+"id":"b2976",
+"name":""
+},
+{
+"id":"b4014",
+"name":""
+},
+{
+"id":"b3962",
+"name":""
+},
+{
+"id":"b3608",
+"name":""
+},
+{
+"id":"b2507",
+"name":""
+},
+{
+"id":"b0386",
+"name":""
+},
+{
+"id":"s0001",
+"name":""
+},
+{
+"id":"b0727",
+"name":""
+},
+{
+"id":"b0726",
+"name":""
+},
+{
+"id":"b2019",
+"name":""
+},
+{
+"id":"b2020",
+"name":""
+},
+{
+"id":"b2478",
+"name":""
+},
+{
+"id":"b2022",
+"name":""
+},
+{
+"id":"b1207",
+"name":""
+},
+{
+"id":"b2026",
+"name":""
+},
+{
+"id":"b1524",
+"name":""
+},
+{
+"id":"b0485",
+"name":""
+},
+{
+"id":"b2024",
+"name":""
+},
+{
+"id":"b2312",
+"name":""
+},
+{
+"id":"b3607",
+"name":""
+},
+{
+"id":"b2421",
+"name":""
+},
+{
+"id":"b2414",
+"name":""
+},
+{
+"id":"b4214",
+"name":""
+},
+{
+"id":"b2762",
+"name":""
+},
+{
+"id":"b4024",
+"name":""
+},
+{
+"id":"b3940",
+"name":""
+},
+{
+"id":"b0002",
+"name":""
+},
+{
+"id":"b3433",
+"name":""
+},
+{
+"id":"b2838",
+"name":""
+},
+{
+"id":"b4254",
+"name":""
+},
+{
+"id":"b0273",
+"name":""
+},
+{
+"id":"b2500",
+"name":""
+},
+{
+"id":"b3124",
+"name":""
+},
+{
+"id":"b2764",
+"name":""
+},
+{
+"id":"b2763",
+"name":""
+},
+{
+"id":"b4005",
+"name":""
+},
+{
+"id":"b2557",
+"name":""
+},
+{
+"id":"b0522",
+"name":""
+},
+{
+"id":"b1779",
+"name":""
+},
+{
+"id":"b2029",
+"name":""
+},
+{
+"id":"b1852",
+"name":""
+},
+{
+"id":"b2463",
+"name":""
+},
+{
+"id":"b3960",
+"name":""
+},
+{
+"id":"b0033",
+"name":""
+},
+{
+"id":"b0032",
+"name":""
+},
+{
+"id":"b0242",
+"name":""
+},
+{
+"id":"b0074",
+"name":""
+},
+{
+"id":"b1091",
+"name":""
+},
+{
+"id":"b0241",
+"name":""
+},
+{
+"id":"b2215",
+"name":""
+},
+{
+"id":"b1377",
+"name":""
+},
+{
+"id":"b0929",
+"name":""
+},
+{
+"id":"b4388",
+"name":""
+},
+{
+"id":"b2750",
+"name":""
+},
+{
+"id":"b0010",
+"name":""
+},
+{
+"id":"b3528",
+"name":""
+},
+{
+"id":"b3008",
+"name":""
+},
+{
+"id":"b1622",
+"name":""
+},
+{
+"id":"b3939",
+"name":""
+},
+{
+"id":"b0765",
+"name":""
+},
+{
+"id":"b2425",
+"name":""
+},
+{
+"id":"b2424",
+"name":""
+},
+{
+"id":"b3917",
+"name":""
+},
+{
+"id":"b0763",
+"name":""
+},
+{
+"id":"b2423",
+"name":""
+},
+{
+"id":"b2422",
+"name":""
+},
+{
+"id":"b0764",
+"name":""
+},
+{
+"id":"b2587",
+"name":""
+},
+{
+"id":"b4031",
+"name":""
+},
+{
+"id":"b3875",
+"name":""
+},
+{
+"id":"b1319",
+"name":""
+},
+{
+"id":"b0957",
+"name":""
+},
+{
+"id":"b1602",
+"name":""
+},
+{
+"id":"b1603",
+"name":""
+},
+{
+"id":"b3738",
+"name":""
+},
+{
+"id":"b3733",
+"name":""
+},
+{
+"id":"b3736",
+"name":""
+},
+{
+"id":"b3737",
+"name":""
+},
+{
+"id":"b3739",
+"name":""
+},
+{
+"id":"b3734",
+"name":""
+},
+{
+"id":"b3735",
+"name":""
+},
+{
+"id":"b3732",
+"name":""
+},
+{
+"id":"b3731",
+"name":""
+},
+{
+"id":"b3648",
+"name":""
+},
+{
+"id":"b4036",
+"name":""
+},
+{
+"id":"b4515",
+"name":""
+},
+{
+"id":"b0978",
+"name":""
+},
+{
+"id":"b0734",
+"name":""
+},
+{
+"id":"b0733",
+"name":""
+},
+{
+"id":"b0979",
+"name":""
+},
+{
+"id":"b4019",
+"name":""
+},
+{
+"id":"b3829",
+"name":""
+},
+{
+"id":"b2476",
+"name":""
+},
+{
+"id":"b0529",
+"name":""
+},
+{
+"id":"b2492",
+"name":""
+},
+{
+"id":"b0904",
+"name":""
+},
+{
+"id":"b0849",
+"name":""
+},
+{
+"id":"b1654",
+"name":""
+},
+{
+"id":"b1064",
+"name":""
+},
+{
+"id":"b3610",
+"name":""
+},
+{
+"id":"b2676",
+"name":""
+},
+{
+"id":"b2675",
+"name":""
+},
+{
+"id":"b0451",
+"name":""
+},
+{
+"id":"b3748",
+"name":""
+},
+{
+"id":"b4485",
+"name":""
+},
+{
+"id":"b3749",
+"name":""
+},
+{
+"id":"b4088",
+"name":""
+},
+{
+"id":"b4227",
+"name":""
+},
+{
+"id":"b4230",
+"name":""
+},
+{
+"id":"b4086",
+"name":""
+},
+{
+"id":"b4231",
+"name":""
+},
+{
+"id":"b4087",
+"name":""
+},
+{
+"id":"b3750",
+"name":""
+},
+{
+"id":"b3751",
+"name":""
+},
+{
+"id":"b3127",
+"name":""
+},
+{
+"id":"b2789",
+"name":""
+},
+{
+"id":"b3927",
+"name":""
+},
+{
+"id":"b0875",
+"name":""
+},
+{
+"id":"b0809",
+"name":""
+},
+{
+"id":"b0811",
+"name":""
+},
+{
+"id":"b0810",
+"name":""
+},
+{
+"id":"b4077",
+"name":""
+},
+{
+"id":"b3959",
+"name":""
+},
+{
+"id":"b4268",
+"name":""
+},
+{
+"id":"b3437",
+"name":""
+},
+{
+"id":"b1761",
+"name":""
+},
+{
+"id":"b3212",
+"name":""
+},
+{
+"id":"b3213",
+"name":""
+},
+{
+"id":"b4476",
+"name":""
+},
+{
+"id":"b3415",
+"name":""
+},
+{
+"id":"b4321",
+"name":""
+},
+{
+"id":"b4265",
+"name":""
+},
+{
+"id":"b1818",
+"name":""
+},
+{
+"id":"b1819",
+"name":""
+},
+{
+"id":"b1817",
+"name":""
+},
+{
+"id":"b2416",
+"name":""
+},
+{
+"id":"b1621",
+"name":""
+},
+{
+"id":"b2415",
+"name":""
+},
+{
+"id":"b2417",
+"name":""
+},
+{
+"id":"b1101",
+"name":""
+},
+{
+"id":"b2021",
+"name":""
+},
+{
+"id":"b0166",
+"name":""
+},
+{
+"id":"b3772",
+"name":""
+},
+{
+"id":"b3117",
+"name":""
+},
+{
+"id":"b0048",
+"name":""
+},
+{
+"id":"b1606",
+"name":""
+},
+{
+"id":"b3390",
+"name":""
+},
+{
+"id":"b0388",
+"name":""
+},
+{
+"id":"b2023",
+"name":""
+},
+{
+"id":"b2025",
+"name":""
+},
+{
+"id":"b0115",
+"name":""
+},
+{
+"id":"b0114",
+"name":""
+},
+{
+"id":"b3941",
+"name":""
+},
+{
+"id":"b3640",
+"name":""
+},
+{
+"id":"b2251",
+"name":""
+},
+{
+"id":"b4161",
+"name":""
+},
+{
+"id":"b3870",
+"name":""
+},
+{
+"id":"b2818",
+"name":""
+},
+{
+"id":"b0728",
+"name":""
+},
+{
+"id":"b0729",
+"name":""
+},
+{
+"id":"b2499",
+"name":""
+},
+{
+"id":"b1380",
+"name":""
+},
+{
+"id":"b0954",
+"name":""
+},
+{
+"id":"b3389",
+"name":""
+},
+{
+"id":"b1288",
+"name":""
+},
+{
+"id":"b2913",
+"name":""
+},
+{
+"id":"b1093",
+"name":""
+},
+{
+"id":"b3603",
+"name":""
+},
+{
+"id":"b2975",
+"name":""
+},
+{
+"id":"b3916",
+"name":""
+},
+{
+"id":"b1723",
+"name":""
+},
+{
+"id":"b0755",
+"name":""
+},
+{
+"id":"b3612",
+"name":""
+},
+{
+"id":"b0430",
+"name":""
+},
+{
+"id":"b0431",
+"name":""
+},
+{
+"id":"b0429",
+"name":""
+},
+{
+"id":"b0432",
+"name":""
+},
+{
+"id":"b3919",
+"name":""
+},
+{
+"id":"b4090",
+"name":""
+},
+{
+"id":"b2914",
+"name":""
+},
+{
+"id":"b0180",
+"name":""
+},
+{
+"id":"b2413",
+"name":""
+},
+{
+"id":"b1276",
+"name":""
+},
+{
+"id":"b0118",
+"name":""
+},
+{
+"id":"b0724",
+"name":""
+},
+{
+"id":"b0721",
+"name":""
+},
+{
+"id":"b0723",
+"name":""
+},
+{
+"id":"b0722",
+"name":""
+},
+{
+"id":"b2282",
+"name":""
+},
+{
+"id":"b2276",
+"name":""
+},
+{
+"id":"b2288",
+"name":""
+},
+{
+"id":"b2278",
+"name":""
+},
+{
+"id":"b2277",
+"name":""
+},
+{
+"id":"b2281",
+"name":""
+},
+{
+"id":"b2285",
+"name":""
+},
+{
+"id":"b2284",
+"name":""
+},
+{
+"id":"b2286",
+"name":""
+},
+{
+"id":"b2287",
+"name":""
+},
+{
+"id":"b2280",
+"name":""
+},
+{
+"id":"b2283",
+"name":""
+},
+{
+"id":"b2279",
+"name":""
+},
+{
+"id":"b0404",
+"name":""
+},
+{
+"id":"b1090",
+"name":""
+},
+{
+"id":"b4238",
+"name":""
+},
+{
+"id":"b4237",
+"name":""
+},
+{
+"id":"b2895",
+"name":""
+},
+{
+"id":"b3924",
+"name":""
+},
+{
+"id":"b0684",
+"name":""
+},
+{
+"id":"b3572",
+"name":""
+},
+{
+"id":"b0968",
+"name":""
+},
+{
+"id":"b3493",
+"name":""
+},
+{
+"id":"b2987",
+"name":""
+},
+{
+"id":"b4020",
+"name":""
+},
+{
+"id":"b1206",
+"name":""
+}
+],
+"id":"m",
+"compartments":{
+"c":"",
+"e":"",
+"p":""
+},
+"version":"1"
+}
