@@ -1,0 +1,10 @@
+kapp and protein abundance data taken from Heckman et al(2020) and Davidi et al.
+id= BIGG ID of the reaction
+dir=direction in which the kapp was measured
+gene=gene associated to the reaction in EColi (only homomeric enzymes considered)
+kapp: apparent kcat in (1/s)
+kapp source: Source of the kapp
+pp_mass: MW of the polypeptide in Daltons
+pp_abundance: Measured concentration of the polypeptide (in fmol/gDW)
+pp_abundance source: source of the abundance data
+pp_abundance mass: calculated  concentration of the polypeptide (in g/gDW)
