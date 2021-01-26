@@ -1,0 +1,6 @@
+equilibrator-pathway==0.4.1b1
+jupyter
+jupyterlab
+escher
+cobra
+
