@@ -1,0 +1,1 @@
+Calculations of Standard Free Energies of Reaction and Min-max Driving Forece (MDF) using EQuilibrator API(http://equilibrator.weizmann.ac.il/)
