@@ -1,7 +1,7 @@
 metabolic_modelling
 ==================
 
-Code to accompaniy the publication of the iCH360 model.
+Code to accompany the publication of the iCH360 model.
 
 To install the dependencies in a virtual environment run:
 ```bash

@@ -1,0 +1,1 @@
+Application of the FBA with Molecular Crowding framework to iCH360. Apparent turnover numbers were collected from work by Davidi et al. (2016) and Heckman et al (2020).
