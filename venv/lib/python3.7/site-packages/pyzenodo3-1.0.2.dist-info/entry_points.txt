@@ -1,0 +1,4 @@
+[console_scripts]
+search_zenodo = search_zenodo:main
+upload_zenodo = upload_zenodo:main
+

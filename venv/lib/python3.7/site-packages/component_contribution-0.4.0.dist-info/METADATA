@@ -1,0 +1,106 @@
+Metadata-Version: 2.1
+Name: component-contribution
+Version: 0.4.0
+Summary: Standard reaction Gibbs energy estimation for biochemical reactions.
+Home-page: https://gitlab.com/equilibrator/component-contribution
+Author: Elad Noor, Moritz E. Beber
+Author-email: eladn@weizmann.ac.il, midnighter@posteo.net
+License: MIT
+Download-URL: https://pypi.org/project/component-contribution/
+Project-URL: Source Code, https://gitlab.com/equilibrator/component-contribution
+Project-URL: Bug Tracker, https://gitlab.com/equilibrator/component-contribution/-/issues
+Keywords: component contribution,Gibbs energy,biochemical reaction,eQuilibrator,cache
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Science/Research
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Natural Language :: English
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 3 :: Only
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Topic :: Scientific/Engineering :: Bio-Informatics
+Classifier: Topic :: Scientific/Engineering :: Chemistry
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+Requires-Dist: equilibrator-cache (~=0.4.0)
+Requires-Dist: path (~=15.0)
+Requires-Dist: periodictable (~=1.5)
+Requires-Dist: pyzenodo3 (~=1.0)
+Requires-Dist: uncertainties (~=3.1)
+Requires-Dist: appdirs (~=1.4)
+Requires-Dist: diskcache (~=5.0)
+Requires-Dist: httpx (~=0.16)
+Requires-Dist: tenacity (~=6.2)
+Provides-Extra: deployment
+Requires-Dist: click ; extra == 'deployment'
+Requires-Dist: click-log ; extra == 'deployment'
+Requires-Dist: python-dateutil ; extra == 'deployment'
+Requires-Dist: requests ; extra == 'deployment'
+Requires-Dist: openbabel (>=3.0.0) ; extra == 'deployment'
+Requires-Dist: equilibrator-assets ; extra == 'deployment'
+Provides-Extra: development
+Requires-Dist: black ; extra == 'development'
+Requires-Dist: isort ; extra == 'development'
+Requires-Dist: tox ; extra == 'development'
+Requires-Dist: twine ; extra == 'development'
+Provides-Extra: test
+Requires-Dist: pytest ; extra == 'test'
+Requires-Dist: pytest-cov ; extra == 'test'
+Requires-Dist: pytest-raises ; extra == 'test'
+
+# Component Contribution
+
+[![pipeline status](https://gitlab.com/elad.noor/component-contribution/badges/develop/pipeline.svg)](https://gitlab.com/elad.noor/component-contribution/commits/develop)
+
+[![coverage report](https://gitlab.com/elad.noor/component-contribution/badges/develop/coverage.svg)](https://gitlab.com/elad.noor/component-contribution/commits/develop)
+
+[![Join the chat at https://gitter.im/equilibrator-devs/component-contribution](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/equilibrator-devs/component-contribution?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
+A method for estimating the standard reaction Gibbs energy of biochemical reactions. 
+
+## Cite us
+
+For more information on the method behind component-contribution, please view our open
+access paper:
+
+Noor E, Haraldsdóttir HS, Milo R, Fleming RMT (2013)
+[Consistent Estimation of Gibbs Energy Using Component Contributions](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003098),
+PLoS Comput Biol 9:e1003098, DOI: 10.1371/journal.pcbi.1003098
+
+Please, cite this paper if you publish work that uses `component-contribution`.
+
+## Installation
+
+* `pip install component-contribution`
+
+## Dependencies
+
+* Python 3.6+
+* PyPI dependencies for prediction:
+  - equilibrator-cache
+  - numpy
+  - scipy
+  - pandas
+  - python-Levenshtein-wheels
+  - pint
+  - path
+  - appdirs
+  - diskcache
+  - httpx
+  - tenacity
+  - periodictable
+  - uncertainties
+  - pyzenodo3
+* PyPI dependencies for training a new model:
+  - openbabel
+  - equilibrator-assets
+
+## Data sources
+
+* [Training data for the component contribution method](https://zenodo.org/record/3978440)
+* [Chemical group definitions for the component-contribution method](https://zenodo.org/record/4010930)
+
+
