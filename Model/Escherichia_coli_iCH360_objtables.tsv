@@ -1,11 +1,11 @@
-!!!ObjTables Document='' Name='' ObjTablesVersion='1.0' Date='2020-10-8' schema='SBtab' objTablesVersion='1.0.1'
-!!ObjTables TableID='compartment' Document='redmod' TableType='Compartment' TableName='Compartment' SBtabVersion='1.0' Date='2020-10-8' schema='SBtab' type='Data' tableFormat='row' class='Compartment' name='Compartment' objTablesVersion='1.0.1'
+!!!ObjTables DocumentName='' Name='' ObjTablesVersion='1.0' Date='2021-2-8' schema='SBtab' objTablesVersion='1.0.1'
+!!ObjTables TableID='compartment' Document='Escherichia_coli_iCH360' TableType='Compartment' SBtabVersion='1.0' schema='SBtab' type='Data' tableFormat='row' class='Compartment' name='Compartment' objTablesVersion='1.0.1'
 !ID	!Name	!Size	!Unit	!SBOTerm
 c	cytosol	nan		
 e	extracellular space	nan		
 p	periplasm	nan		
 
-!!ObjTables TableID='compound' Document='redmod' TableType='Compound' TableName='Compound' SBtabVersion='1.0' Date='2020-10-8' schema='SBtab' type='Data' tableFormat='row' class='Compound' name='Compound' objTablesVersion='1.0.1'
+!!ObjTables TableID='compound' Document='Escherichia_coli_iCH360' TableType='Compound' SBtabVersion='1.0' schema='SBtab' type='Data' tableFormat='row' class='Compound' name='Compound' objTablesVersion='1.0.1'
 !ID	!Name	!Location	!IsConstant	!SBOTerm	!InitialConcentration	!hasOnlySubstanceUnits	!SBML:fbc:chemicalFormula	!SBML:fbc:charge	!Identifiers:bigg.metabolite	!Identifiers:biocyc	!Identifiers:obo.chebi	!Identifiers:hmdb	!Identifiers:inchi.key	!Identifiers:kegg.compound	!Identifiers:metanetx.chemical	!Identifiers:reactome.compound	!Identifiers:sabiork	!Identifiers:seed.compound	!Identifiers:envipath/650babc9-9d68-4b73-9332-11972ca26f7b/compound	!Identifiers:envipath/32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound	!Identifiers:kegg_drug	!Identifiers:envipath/4fd7f3e0-dd25-43ac-9453-dda3e52396e4/compound	!Identifiers:lipidmaps	!Identifiers:envipath/5882df9c-dae1-4d80-a40e-db4724271456/compound	!Identifiers:slm	!Identifiers:kegg_glycan
 M_dhap_c	Dihydroxyacetone phosphate	c	False	SBO:0000247	nan	False	C3H5O6P	-2	dhap	META:DIHYDROXY-ACETONE-PHOSPHATE	CHEBI:57642	HMDB01473	GNGACRATGGDKBX-UHFFFAOYSA-L	C00111	MNXM77	188451	28	cpd00095								
 M_prbatp_c	1-(5-Phosphoribosyl)-ATP	c	False	SBO:0000247	nan	False	C15H19N5O20P4	-6	prbatp	META:PHOSPHORIBOSYL-ATP	CHEBI:11192	HMDB03665	RKNHJBVBFHDXGR-KEOHHSTQSA-H	C02739	MNXM1351			cpd01775								
@@ -325,7 +325,7 @@ M_succoa_c	Succinyl-CoA	c	False	SBO:0000247	nan	False	C25H35N7O19P3S	-5	succoa	M
 M_xyl__D_c	D-Xylose	c	False	SBO:0000247	nan	False	C5H10O5	0	xyl__D	META:D-Xylopyranose	CHEBI:53455	HMDB03763	SRBFZHDQGSBBOR-IOVATXLUSA-N	C00181	MNXM348	2090063		cpd00154			D06346					
 M_for_e	Formate	e	False	SBO:0000247	nan	False	CH1O2	-1	for	META:CPD1G-1533	CHEBI:24082	HMDB00142	BDAGIHXWWSANSR-UHFFFAOYSA-M	C00058	MNXM39	6801451	1285	cpd22511	1d077cf2-3f9f-4163-aa49-0fca1b2b3ab3	09c1ad08-016e-4477-8840-b97a031eae23		bf16ab32-cb3c-4427-a65a-089ab754823e		34fe3cd9-9b0b-46b0-a1c5-8a66509f1919		
 
-!!ObjTables TableID='reaction' Document='redmod' TableType='Reaction' TableName='Reaction' SBtabVersion='1.0' Date='2020-10-8' schema='SBtab' type='Data' tableFormat='row' class='Reaction' name='Reaction' objTablesVersion='1.0.1'
+!!ObjTables TableID='reaction' Document='Escherichia_coli_iCH360' TableType='Reaction' SBtabVersion='1.0' schema='SBtab' type='Data' tableFormat='row' class='Reaction' name='Reaction' objTablesVersion='1.0.1'
 !ID	!Name	!ReactionFormula	!Location	!Regulator	!KineticLaw	!SBOTerm	!IsReversible	!SBML:fbc:GeneAssociation	!SBML:fbc:LowerBound	!SBML:fbc:UpperBound	!Identifiers:bigg.reaction	!Identifiers:biocyc	!Identifiers:ec.code	!Identifiers:kegg.reaction	!Identifiers:metanetx_reaction	!Identifiers:rhea	!Identifiers:sabiork	!Identifiers:seed.reaction	!Identifiers:reactome.reaction
 R_NDPK5	Nucleoside-diphosphate kinase (ATP:dGDP)	M_atp_c + M_dgdp_c <=> M_adp_c + M_dgtp_c				SBO:0000176	True	(G_b0474 or G_b2518)	cobra_default_lb	cobra_default_ub	NDPK5	META:DGDPKIN-RXN	2.7.4.6	R01857	MNXR96118	27693	183	rxn01353	
 R_SHK3Dr	Shikimate dehydrogenase	M_3dhsk_c + M_h_c + M_nadph_c <=> M_nadp_c + M_skm_c				SBO:0000176	True	(G_b3281 or G_b1692)	cobra_default_lb	cobra_default_ub	SHK3Dr	META:SHIKIMATE-5-DEHYDROGENASE-RXN	1.1.1.282	R02413	MNXR104378	17740	2351	rxn01740	R-MTU-964842
@@ -692,7 +692,7 @@ R_PItpp	Phosphate export via facillated diffusion (periplasm)	M_pi_c <=> M_pi_p	
 R_SUCCt1pp	Succinate transport via diffusion in (periplasm)	M_succ_p <=> M_succ_c				SBO:0000185	True	G_b1206	cobra_default_lb	cobra_default_ub	SUCCt1pp								
 R_RBIO	Reduced Biomass from iML1515	0.00227799999999994 M_dhap_c + 0.253687 M_thr__L_c + 0.0667000000000006 M_pep_c + 0.139028 M_glyc3p_c + 0.35482 M_ser__L_c + 0.160525 M_ctp_c + 0.0944880000000008 M_accoa_c + 0.295792 M_arg__L_c + 0.243909000000003 M_asp__L_c + 0.191736999999904 M_h_p + 0.153686 M_met__L_c + 0.0150679999999989 M_nh4_c + 0.150428 M_hdeACP_c + 0.137896 M_tyr__L_c + 0.0921560000000023 M_cys__L_c + 0.056843 M_trp__L_c + 0.343161 M_lys__L_c + 76.234149 M_atp_c + 0.026166 M_dttp_c + 0.027017 M_dctp_c + 0.0393579999999999 M_ru5p__D_c + 0.238592 M_utp_c + 0.026166 M_datp_c + 0.196459999999998 M_glu__L_c + 0.00227799999999944 M_fum_c + 0.290529 M_ile__L_c + 0.357648 M_gln__L_c + 0.583159 M_ala__L_c + 0.185265 M_phe__L_c + 0.000576000000002303 M_mlthf_c + 70.374734 M_h2o_c + 0.612638 M_gly_c + 0.0944879999999999 M_f6p_c + 0.00227799999999988 M_prpp_c + 0.094738 M_his__L_c + 0.004338 M_so4_c + 0.215319 M_gtp_c + 0.0285870000000021 M_nadph_c + 0.423162 M_val__L_c + 0.221055 M_pro__L_c + 0.241055 M_asn__L_c + 0.450531 M_leu__L_c + 0.027017 M_dgtp_c + 0.127628 M_palmACP_c + 0.077824 M_3hmrsACP_c + 0.000576000000002147 M_3mob_c + 0.027788 M_26dap__M_c <=> 0.038912 M_ac_c + 75.9644729999998 M_h_c + 0.0472439999999999 M_ump_c + 76.053218 M_adp_c + 75.834272 M_pi_c + 0.000576000000002084 M_thf_c + 1.05533900000001 M_ppi_c + 0.0285870000000021 M_nadp_c + 0.00227799999999944 M_succ_c + 0.027017 M_cdp_c + 0.00285400000000227 M_amp_c + 0.000669 M_for_c + 0.0944880000000023 M_coa_c + 0.047244 M_udp_c + 0.14245800000001 M_co2_c + 0.35588 M_ACP_c					False		cobra_0_bound	cobra_default_ub									
 
-!!ObjTables TableID='parameter' Document='redmod' TableType='Quantity' TableName='Quantity' SBtabVersion='1.0' Date='2020-10-8' schema='SBtab' type='Data' tableFormat='row' class='Quantity' name='Quantity' objTablesVersion='1.0.1'
+!!ObjTables TableID='parameter' Document='Escherichia_coli_iCH360' TableType='Quantity' SBtabVersion='1.0' schema='SBtab' type='Data' tableFormat='row' class='Quantity' name='Quantity' objTablesVersion='1.0.1'
 !ID	!Parameter:SBML:parameter:id	!Value	!Unit	!Type	!SBOTerm
 cobra_default_lb	cobra_default_lb	-1000.0		global parameter	SBO:0000626
 cobra_default_ub	cobra_default_ub	1000.0		global parameter	SBO:0000626
@@ -702,11 +702,11 @@ plus_inf	plus_inf	inf		global parameter	SBO:0000625
 R_EX_glc__D_e_lower_bound	R_EX_glc__D_e_lower_bound	-10.0	mmol_per_gDW_per_hr	global parameter	SBO:0000625
 R_ATPM_lower_bound	R_ATPM_lower_bound	6.86	mmol_per_gDW_per_hr	global parameter	SBO:0000625
 
-!!ObjTables TableID='fbcobj' Document='redmod' TableType='FbcObjective' TableName='FBC Objective' SBtabVersion='1.0' Date='2020-10-8' schema='SBtab' type='Data' tableFormat='row' class='FbcObjective' name='FBC Objective' objTablesVersion='1.0.1'
+!!ObjTables TableID='fbcobj' Document='Escherichia_coli_iCH360' TableType='FbcObjective' SBtabVersion='1.0' schema='SBtab' type='Data' tableFormat='row' class='FbcObjective' name='FBC Objective' objTablesVersion='1.0.1'
 !ID	!Name	!SBML:fbc:type	!SBML:fbc:active	!SBML:fbc:objective
 obj		maximize	True	1.0 * R_RBIO
 
-!!ObjTables TableID='gene' Document='redmod' TableType='Gene' TableName='FBC Gene' SBtabVersion='1.0' Date='2020-10-8' schema='SBtab' type='Data' tableFormat='row' class='Gene' name='FBC Gene' objTablesVersion='1.0.1'
+!!ObjTables TableID='gene' Document='Escherichia_coli_iCH360' TableType='Gene' SBtabVersion='1.0' schema='SBtab' type='Data' tableFormat='row' class='Gene' name='FBC Gene' objTablesVersion='1.0.1'
 !ID	!SBML:fbc:ID	!SBML:fbc:Name	!SBML:fbc:geneProduct	!SBML:fbc:label	!Identifiers:asap	!Identifiers:ecogene	!Identifiers:ncbigene	!Identifiers:ncbigi	!Identifiers:refseq_locus_tag	!Identifiers:refseq_name	!Identifiers:refseq_synonym	!Identifiers:uniprot
 G_b2551	G_b2551	glyA	True	G_b2551	ABE-0008389	EG10408	947022	16130476	b2551	glyA	JW2535	P0A825
 G_b0008	G_b0008	talB	True	G_b0008	ABE-0000027	EG11556	944748	16128002	b0008	talB	ECK0008	P0A870
