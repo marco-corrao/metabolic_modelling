@@ -1,0 +1,370 @@
+"!QuantityType	"	!Compound	!Reaction	!Unit	!Mean	!Std	!Compound:Identifiers:kegg.compound	!Reaction:Identifiers:kegg.reaction
+product catalytic rate constant		R_NDPK5	1/s	5.00431842758334	NaN		R01857
+substrate catalytic rate constant		R_NDPK5	1/s	3.7609137738525	NaN		R01857
+product catalytic rate constant		R_SHK3Dr	1/s	14.0212825297704	NaN		R02413
+substrate catalytic rate constant		R_SHK3Dr	1/s	3.46166351361112	NaN		R02413
+product catalytic rate constant		R_NDPK6	1/s	0.0962113235024591	NaN		R02331
+substrate catalytic rate constant		R_NDPK6	1/s	4.99780049239237	NaN		R02331
+product catalytic rate constant		R_NDPK8	1/s	3.94856841844601	NaN		R01137
+substrate catalytic rate constant		R_NDPK8	1/s	2.49346855422433	NaN		R01137
+product catalytic rate constant		R_DHORTS	1/s	5.28456661531429	NaN		R01993
+substrate catalytic rate constant		R_DHORTS	1/s	14.3002400767693	NaN		R01993
+product catalytic rate constant		R_OMPDC	1/s	58.9910628293098	NaN		R00965
+product catalytic rate constant		R_G5SD	1/s	9.68192474118907	NaN		R03313
+product catalytic rate constant		R_CS	1/s	31.4913433767798	NaN		R00351
+product catalytic rate constant		R_ICDHyr	1/s	10.0848967320766	NaN		R00267
+substrate catalytic rate constant		R_ICDHyr	1/s	3.74750967137207	NaN		R00267
+product catalytic rate constant		R_ACALD	1/s	16.370943793886	NaN		R00228
+substrate catalytic rate constant		R_ACALD	1/s	8.19452345164255	NaN		R00228
+product catalytic rate constant		R_PPA	1/s	28.4366570900938	NaN		R00004
+product catalytic rate constant		R_PPCK	1/s	35.587293063962	NaN		R00341
+product catalytic rate constant		R_ME1	1/s	82.029514720553	NaN		R00214
+product catalytic rate constant		R_ALATA_L	1/s	32.7122406320375	NaN		R00258
+substrate catalytic rate constant		R_ALATA_L	1/s	12.1988681743575	NaN		R00258
+product catalytic rate constant		R_XYLK	1/s	2.52822542686949	NaN		R01639
+product catalytic rate constant		R_RBK	1/s	2.89024628988296	NaN		
+product catalytic rate constant		R_GLYK	1/s	1.42274572189134	NaN		R00847
+product catalytic rate constant		R_ASPTA	1/s	3.50242927528108	NaN		R00355
+substrate catalytic rate constant		R_ASPTA	1/s	21.5778026792875	NaN		R00355
+product catalytic rate constant		R_FBP	1/s	104.90782631666	NaN		
+product catalytic rate constant		R_PYK	1/s	60.9955643127855	NaN		R00200
+product catalytic rate constant		R_GTHOr	1/s	3.41978411729473	NaN		R00115
+substrate catalytic rate constant		R_GTHOr	1/s	2.28720726634714	NaN		R00115
+product catalytic rate constant		R_ILETA	1/s	6.93049972028169	NaN		R02199
+substrate catalytic rate constant		R_ILETA	1/s	8.45874420054375	NaN		R02199
+product catalytic rate constant		R_DHORD5	1/s	0.00266836643542162	NaN		
+product catalytic rate constant		R_VALTA	1/s	3.40552600451716	NaN		R01214
+substrate catalytic rate constant		R_VALTA	1/s	19.0532877363441	NaN		R01214
+product catalytic rate constant		R_IPPMIb	1/s	3.65918729423289	NaN		R03968
+substrate catalytic rate constant		R_IPPMIb	1/s	8.52315462273109	NaN		R03968
+product catalytic rate constant		R_ORPT	1/s	5.58594459777186	NaN		R01870
+substrate catalytic rate constant		R_ORPT	1/s	80.8575378141401	NaN		R01870
+product catalytic rate constant		R_ACHBS	1/s	7.39598742300197	NaN		R08648
+product catalytic rate constant		R_DHAD2	1/s	12.7664883998379	NaN		R05070
+product catalytic rate constant		R_ACLS	1/s	29.7963679724139	NaN		R00226
+product catalytic rate constant		R_TRPS2	1/s	4.79727888903391	NaN		R00674
+product catalytic rate constant		R_PSCVT	1/s	8.65994864208381	NaN		R03460
+substrate catalytic rate constant		R_PSCVT	1/s	3.52097503874276	NaN		R03460
+product catalytic rate constant		R_PFL	1/s	12.6110345608035	NaN		R00212
+product catalytic rate constant		R_ANS	1/s	3.65552348894893	NaN		R00986
+product catalytic rate constant		R_FRD2	1/s	7.85393704675326	NaN		
+product catalytic rate constant		R_ANPRT	1/s	3.17338205641757	NaN		R01073
+product catalytic rate constant		R_CHORM	1/s	13.0116763768099	NaN		R01715
+product catalytic rate constant		R_PTAr	1/s	46.4459265343548	NaN		R00230
+substrate catalytic rate constant		R_PTAr	1/s	27.5564088075945	NaN		R00230
+product catalytic rate constant		R_CHORS	1/s	32.6496299070737	NaN		R01714
+product catalytic rate constant		R_IGPS	1/s	3.3782204712377	NaN		R03508
+product catalytic rate constant		R_ACKr	1/s	57.6480788258165	NaN		R00315
+substrate catalytic rate constant		R_ACKr	1/s	139.780070170674	NaN		R00315
+product catalytic rate constant		R_LEUTAi	1/s	16.0854015399696	NaN		R01090
+product catalytic rate constant		R_ENO	1/s	58.1848761721395	NaN		R00658
+substrate catalytic rate constant		R_ENO	1/s	53.8145353220004	NaN		R00658
+product catalytic rate constant		R_FBA	1/s	63.4163125546283	NaN		R01068
+substrate catalytic rate constant		R_FBA	1/s	42.1200361300216	NaN		R01068
+product catalytic rate constant		R_HCO3E	1/s	62.0239021864702	NaN		R10092
+substrate catalytic rate constant		R_HCO3E	1/s	6.09910261546728	NaN		R10092
+product catalytic rate constant		R_IMPC	1/s	4.27778442438626	NaN		R01127
+substrate catalytic rate constant		R_IMPC	1/s	11.8847026786785	NaN		R01127
+product catalytic rate constant		R_IMPD	1/s	1.3996236645257	NaN		R01130
+product catalytic rate constant		R_PPS	1/s	41.2332643931583	NaN		R00199
+product catalytic rate constant		R_PGI	1/s	129.94468556604	NaN		
+substrate catalytic rate constant		R_PGI	1/s	85.4624318386641	NaN		
+product catalytic rate constant		R_PGK	1/s	19.8400176172734	NaN		R01512
+substrate catalytic rate constant		R_PGK	1/s	114.571049242897	NaN		R01512
+product catalytic rate constant		R_PGL	1/s	588.747629875143	NaN		R02035
+product catalytic rate constant		R_RPE	1/s	70.0209263106985	NaN		R01529
+substrate catalytic rate constant		R_RPE	1/s	4.62928619064774	NaN		R01529
+product catalytic rate constant		R_DHQTi	1/s	40.3147109944244	NaN		R03084
+product catalytic rate constant		R_IPMD	1/s	9.64357492966325	NaN		R04426
+product catalytic rate constant		R_AIRC3	1/s	7.51607060264252	NaN		R07405
+substrate catalytic rate constant		R_AIRC3	1/s	30.1326412593048	NaN		R07405
+product catalytic rate constant		R_TALA	1/s	39.8354070365591	NaN		R01827
+substrate catalytic rate constant		R_TALA	1/s	3.30274872857859	NaN		R01827
+product catalytic rate constant		R_ADSL2r	1/s	10.2418654294629	NaN		R04559
+substrate catalytic rate constant		R_ADSL2r	1/s	3.19339342452988	NaN		R04559
+product catalytic rate constant		R_TKT1	1/s	66.2379265801991	NaN		
+substrate catalytic rate constant		R_TKT1	1/s	6.07989957898194	NaN		
+product catalytic rate constant		R_RNDR1	1/s	0.923363998995599	NaN		R02017
+product catalytic rate constant		R_ALCD2x	1/s	2.79577791442476	NaN		R00754
+substrate catalytic rate constant		R_ALCD2x	1/s	3.61105120912694	NaN		R00754
+product catalytic rate constant		R_RNDR3	1/s	1.48247793905371	NaN		R02024
+product catalytic rate constant		R_RNDR4	1/s	0.0094097112465078	NaN		R02018
+product catalytic rate constant		R_TMDS	1/s	4.6398850905372	NaN		R02101
+product catalytic rate constant		R_DHAD1	1/s	38.4179472067832	NaN		R04441
+product catalytic rate constant		R_IPPMIa	1/s	3.33618686018532	NaN		R04001
+substrate catalytic rate constant		R_IPPMIa	1/s	8.23008259668299	NaN		R04001
+product catalytic rate constant		R_MDH	1/s	95.5484573348072	NaN		R00342
+substrate catalytic rate constant		R_MDH	1/s	4.95038768907278	NaN		R00342
+product catalytic rate constant		R_FUM	1/s	92.3349582664103	NaN		R01082
+substrate catalytic rate constant		R_FUM	1/s	4.47600024219245	NaN		R01082
+product catalytic rate constant		R_KARA1	1/s	6.41473324432736	NaN		R04439
+substrate catalytic rate constant		R_KARA1	1/s	3.78736509301032	NaN		R04439
+product catalytic rate constant		R_KARA2	1/s	1.25856158095846	NaN		
+substrate catalytic rate constant		R_KARA2	1/s	2.60786941209761	NaN		
+product catalytic rate constant		R_ACCOAC	1/s	3.95537952771034	NaN		R00742
+product catalytic rate constant		R_KAS14	1/s	2.63598512051591	NaN		R04355
+product catalytic rate constant		R_ARGSS	1/s	1.75443596723675	NaN		R01954
+product catalytic rate constant		R_AGPR	1/s	3.58285755068993	NaN		R03443
+substrate catalytic rate constant		R_AGPR	1/s	12.4035235393377	NaN		R03443
+product catalytic rate constant		R_ICL	1/s	4.84920199788896	NaN		R00479
+product catalytic rate constant		R_GLYCL	1/s	8.97003071010088	NaN		R01221
+product catalytic rate constant		R_XYLI1	1/s	3.27099976956117	NaN		R01432
+substrate catalytic rate constant		R_XYLI1	1/s	3.27099976956117	NaN		R01432
+product catalytic rate constant		R_PPC	1/s	61.3139604630342	NaN		R00345
+product catalytic rate constant		R_G3PT	1/s	6.87960846149541	NaN		R00841
+product catalytic rate constant		R_SADT2	1/s	4.71147363729629	NaN		
+product catalytic rate constant		R_AACPS1	1/s	0.473364780846464	NaN		
+product catalytic rate constant		R_GHMT2r	1/s	4.43933684472924	NaN		R00945
+substrate catalytic rate constant		R_GHMT2r	1/s	4.71663882239812	NaN		R00945
+product catalytic rate constant		R_DHORD2	1/s	38.5306805462644	NaN		
+product catalytic rate constant		R_SDPDS	1/s	102.228594566651	NaN		R02734
+product catalytic rate constant		R_UMPK	1/s	16.583270877796	NaN		R00158
+substrate catalytic rate constant		R_UMPK	1/s	4.60132075952737	NaN		R00158
+product catalytic rate constant		R_CTPS2	1/s	4.25878177372141	NaN		R00573
+product catalytic rate constant		R_NDPK7	1/s	4.98181882630153	NaN		R02326
+substrate catalytic rate constant		R_NDPK7	1/s	4.99780049239237	NaN		R02326
+product catalytic rate constant		R_TRPS3	1/s	4.11282222064388	NaN		R02340
+product catalytic rate constant		R_ADK1	1/s	35.460023618225	NaN		R00127
+substrate catalytic rate constant		R_ADK1	1/s	4.20068518837763	NaN		R00127
+product catalytic rate constant		R_NDPK2	1/s	19.1075559853829	NaN		R00156
+substrate catalytic rate constant		R_NDPK2	1/s	6.49011258781044	NaN		R00156
+product catalytic rate constant		R_NDPK4	1/s	6.29197607194518	NaN		R02093
+substrate catalytic rate constant		R_NDPK4	1/s	4.99780049239237	NaN		R02093
+product catalytic rate constant		R_ACODA	1/s	10.9791125730085	NaN		R00669
+product catalytic rate constant		R_ADSS	1/s	1.84018956986626	NaN		R01135
+product catalytic rate constant		R_ASNS2	1/s	8.97253368157073	NaN		R00483
+product catalytic rate constant		R_ASPCT	1/s	12.1373668119836	NaN		R01397
+product catalytic rate constant		R_MCOATA	1/s	1.83257492046749	NaN		R01626
+substrate catalytic rate constant		R_MCOATA	1/s	2.62202436101299	NaN		R01626
+product catalytic rate constant		R_DAPE	1/s	55.5416508536572	NaN		R02735
+substrate catalytic rate constant		R_DAPE	1/s	6.14198615580896	NaN		R02735
+product catalytic rate constant		R_DHDPRy	1/s	8.85922216462127	NaN		
+product catalytic rate constant		R_HSK	1/s	151.868642334337	NaN		R01771
+product catalytic rate constant		R_SDPTA	1/s	4.12005600692011	NaN		R04475
+substrate catalytic rate constant		R_SDPTA	1/s	6.69848860758136	NaN		R04475
+product catalytic rate constant		R_THRS	1/s	28.6460085431503	NaN		R01466
+product catalytic rate constant		R_HSST	1/s	8.53911941823882	NaN		R01777
+product catalytic rate constant		R_PPNDH	1/s	17.8653110991477	NaN		R01373
+product catalytic rate constant		R_DTMPK	1/s	7.94475986159112	NaN		R02094
+substrate catalytic rate constant		R_DTMPK	1/s	3.42168466058422	NaN		R02094
+product catalytic rate constant		R_NDPK1	1/s	29.6032129075311	NaN		R00330
+substrate catalytic rate constant		R_NDPK1	1/s	3.29259780853089	NaN		R00330
+product catalytic rate constant		R_TRDR	1/s	7.08749013158889	NaN		R02016
+product catalytic rate constant		R_DDPA	1/s	10.9566616252276	NaN		R01826
+product catalytic rate constant		R_MALS	1/s	32.5593334564113	NaN		R00472
+product catalytic rate constant		R_NADTRHD	1/s	24.5158574723498	NaN		R00112
+product catalytic rate constant		R_G3PD2	1/s	82.3250918856161	NaN		R00844
+substrate catalytic rate constant		R_G3PD2	1/s	42.9726094350002	NaN		R00844
+product catalytic rate constant		R_GMPS2	1/s	2.39595062156227	NaN		R01231
+product catalytic rate constant		R_AACPS3	1/s	1.47061548763832	NaN		
+product catalytic rate constant		R_P5CR	1/s	23.6602708992869	NaN		R01251
+product catalytic rate constant		R_AKGDH	1/s	40.8831446060835	NaN		R08549
+product catalytic rate constant		R_ATPPRT	1/s	3.7544744728258	NaN		R01071
+product catalytic rate constant		R_HISTD	1/s	3.1795960845827	NaN		R01158
+product catalytic rate constant		R_DHDPS	1/s	7.12621732261443	NaN		
+product catalytic rate constant		R_IGPDH	1/s	3.33369150802907	NaN		R03457
+product catalytic rate constant		R_PRPPS	1/s	17.0332729614286	NaN		
+substrate catalytic rate constant		R_PRPPS	1/s	16.7752872836879	NaN		
+product catalytic rate constant		R_PRATPP	1/s	9.31903097116646	NaN		R04035
+product catalytic rate constant		R_GLUN	1/s	5.00005103333138	NaN		R00256
+product catalytic rate constant		R_PRMICI	1/s	13.4800577512757	NaN		R04640
+substrate catalytic rate constant		R_PRMICI	1/s	3.6765234108211	NaN		R04640
+product catalytic rate constant		R_GLUPRT	1/s	18.6528441729059	NaN		R01072
+product catalytic rate constant		R_SERAT	1/s	21.2156661255808	NaN		R00586
+substrate catalytic rate constant		R_SERAT	1/s	6.0437595011504	NaN		R00586
+product catalytic rate constant		R_CYSS	1/s	11.8765275886208	NaN		R00897
+product catalytic rate constant		R_BPNT	1/s	84.8451257345241	NaN		R00188
+product catalytic rate constant		R_PAPSR	1/s	10.1249025294284	NaN		R02021
+product catalytic rate constant		R_ASPK	1/s	13.5749408431289	NaN		R00480
+substrate catalytic rate constant		R_ASPK	1/s	3.32231556414097	NaN		R00480
+product catalytic rate constant		R_ASAD	1/s	3.79101687091351	NaN		R02291
+substrate catalytic rate constant		R_ASAD	1/s	18.6337640884861	NaN		R02291
+product catalytic rate constant		R_DAPDC	1/s	55.7009974553855	NaN		R00451
+product catalytic rate constant		R_OCBT	1/s	11.4368439073993	NaN		R01398
+substrate catalytic rate constant		R_OCBT	1/s	3.8902575242417	NaN		R01398
+product catalytic rate constant		R_GARFT	1/s	57.1662035523635	NaN		R04325
+substrate catalytic rate constant		R_GARFT	1/s	13.4584910957608	NaN		R04325
+product catalytic rate constant		R_PHETA1	1/s	4.26968832562401	NaN		R00694
+substrate catalytic rate constant		R_PHETA1	1/s	11.5965589399559	NaN		R00694
+product catalytic rate constant		R_PPND	1/s	19.9767127958197	NaN		R01728
+product catalytic rate constant		R_PRAMPC	1/s	9.31903097116646	NaN		R04037
+product catalytic rate constant		R_GLYCK2	1/s	3.37365485387144	NaN		R08572
+product catalytic rate constant		R_ACOTA	1/s	13.3069959506178	NaN		R02283
+substrate catalytic rate constant		R_ACOTA	1/s	6.93605394448492	NaN		R02283
+product catalytic rate constant		R_SULR	1/s	4.39503323136229	NaN		R00858
+product catalytic rate constant		R_PRAGSr	1/s	13.6898473497048	NaN		R04144
+substrate catalytic rate constant		R_PRAGSr	1/s	4.62882362857386	NaN		R04144
+product catalytic rate constant		R_PRFGS	1/s	10.2302193425557	NaN		
+product catalytic rate constant		R_PSERT	1/s	37.4134199559911	NaN		R04173
+product catalytic rate constant		R_AIRC2	1/s	48.1710466113289	NaN		
+product catalytic rate constant		R_GAPD	1/s	35.7649614246495	NaN		R01061
+substrate catalytic rate constant		R_GAPD	1/s	31.4972936084691	NaN		R01061
+product catalytic rate constant		R_GND	1/s	66.7611983218546	NaN		R01528
+product catalytic rate constant		R_G6PDH2r	1/s	163.678729835396	NaN		R00835
+substrate catalytic rate constant		R_G6PDH2r	1/s	7.32202599858373	NaN		R00835
+product catalytic rate constant		R_ME2	1/s	20.8905462009082	NaN		R00216
+product catalytic rate constant		R_ARGSL	1/s	8.56786575709911	NaN		R01086
+substrate catalytic rate constant		R_ARGSL	1/s	5.95747949796351	NaN		R01086
+product catalytic rate constant		R_CBPS	1/s	2.65017997433225	NaN		R00575
+product catalytic rate constant		R_GLU5K	1/s	12.2219245741267	NaN		R00239
+product catalytic rate constant		R_IPPS	1/s	8.60686706920375	NaN		R01213
+product catalytic rate constant		R_ACOATA	1/s	2.66105992730809	NaN		R01624
+substrate catalytic rate constant		R_ACOATA	1/s	2.66105992730809	NaN		R01624
+product catalytic rate constant		R_PSP_L	1/s	2693.14210994718	NaN		R00582
+product catalytic rate constant		R_ADSK	1/s	85.0720534858788	NaN		R00509
+product catalytic rate constant		R_HSDy	1/s	3.07355564669199	NaN		R01775
+substrate catalytic rate constant		R_HSDy	1/s	10.5605389805061	NaN		R01775
+product catalytic rate constant		R_CYSTL	1/s	6.47745038529771	NaN		R01286
+product catalytic rate constant		R_SHSL1	1/s	7.32262960834817	NaN		R03260
+product catalytic rate constant		R_THD2pp	1/s	3.84083241779726	NaN		
+product catalytic rate constant		R_TKT2	1/s	32.2780254754625	NaN		R01830
+substrate catalytic rate constant		R_TKT2	1/s	3.04933639576167	NaN		R01830
+product catalytic rate constant		R_ATPS4rpp	1/s	251.91568917966	NaN		
+substrate catalytic rate constant		R_ATPS4rpp	1/s	9.23452646768522	NaN		
+product catalytic rate constant		R_GK1	1/s	37.5362994835745	NaN		R00332
+substrate catalytic rate constant		R_GK1	1/s	5.6792186294654	NaN		R00332
+product catalytic rate constant		R_CYTBDpp	1/s	2.54015100963198	NaN		
+product catalytic rate constant		R_CYTBD2pp	1/s	3.52714995698814	NaN		
+product catalytic rate constant		R_METS	1/s	5.10275366474256	NaN		R00946
+product catalytic rate constant		R_PRASCSi	1/s	5.51462248092798	NaN		R04591
+product catalytic rate constant		R_MTHFC	1/s	40.9179055518934	NaN		R01655
+substrate catalytic rate constant		R_MTHFC	1/s	10.2408562348246	NaN		R01655
+product catalytic rate constant		R_MTHFD	1/s	40.9179055518934	NaN		R01220
+substrate catalytic rate constant		R_MTHFD	1/s	8.1147720294708	NaN		R01220
+product catalytic rate constant		R_GRXR	1/s	6.53234101016794	NaN		
+product catalytic rate constant		R_RNDR1b	1/s	0.292833268948748	NaN		
+product catalytic rate constant		R_RNDR2b	1/s	0.890564856384955	NaN		
+product catalytic rate constant		R_ACGK	1/s	6.48212821323525	NaN		R02649
+product catalytic rate constant		R_GNK	1/s	26.65476051773	NaN		R01737
+product catalytic rate constant		R_GLUDy	1/s	2.76251429399887	NaN		R00248
+substrate catalytic rate constant		R_GLUDy	1/s	73.6723861331866	NaN		R00248
+product catalytic rate constant		R_HSTPT	1/s	5.95604008098527	NaN		R03243
+product catalytic rate constant		R_THDPS	1/s	1.67766321744612	NaN		R04365
+product catalytic rate constant		R_THRD_L	1/s	27.9180832027581	NaN		R00996
+product catalytic rate constant		R_RNDR2	1/s	1.81006811784821	NaN		R02019
+product catalytic rate constant		R_DHFR	1/s	2.90061019080615	NaN		R00939
+substrate catalytic rate constant		R_DHFR	1/s	2.44839118615962	NaN		R00939
+product catalytic rate constant		R_PRAIi	1/s	3.3782204712377	NaN		R03509
+product catalytic rate constant		R_TYRTA	1/s	3.16687227344071	NaN		R00734
+substrate catalytic rate constant		R_TYRTA	1/s	7.25480859173671	NaN		R00734
+product catalytic rate constant		R_SHKK	1/s	12.9343442798416	NaN		R02412
+product catalytic rate constant		R_GLUSy	1/s	2.65221345400859	NaN		R00114
+product catalytic rate constant		R_IG3PS	1/s	5.01309001891081	NaN		R04558
+product catalytic rate constant		R_PDH	1/s	71.8999038314613	NaN		R00209
+product catalytic rate constant		R_MTHFR2	1/s	3.72011217539015	NaN		R07168
+product catalytic rate constant		R_DUTPDP	1/s	0.0256586672596037	NaN		R02100
+product catalytic rate constant		R_NTP5	1/s	8.87224563595125	NaN		R00569
+product catalytic rate constant		R_GLNS	1/s	14.6228727970929	NaN		R00253
+product catalytic rate constant		R_ACGS	1/s	25.9221785816804	NaN		R00259
+product catalytic rate constant		R_SUCOAS	1/s	4.19871463441526	NaN		R00405
+substrate catalytic rate constant		R_SUCOAS	1/s	61.7010992525447	NaN		R00405
+product catalytic rate constant		R_PRAIS	1/s	14.5830301099742	NaN		
+product catalytic rate constant		R_AACPS8	1/s	2.00440558897423	NaN		
+product catalytic rate constant		R_AACPS9	1/s	0.0069399937015198	NaN		
+product catalytic rate constant		R_AACPS6	1/s	2.00440558897423	NaN		
+product catalytic rate constant		R_AACPS7	1/s	0.900429350378871	NaN		
+product catalytic rate constant		R_HISTP	1/s	3.33369150802907	NaN		R03013
+product catalytic rate constant		R_LDH_D	1/s	5.60187181883392	NaN		R00704
+substrate catalytic rate constant		R_LDH_D	1/s	11.5637911006675	NaN		R00704
+product catalytic rate constant		R_KAS15	1/s	14.9841776036285	NaN		R10707
+product catalytic rate constant		R_T2DECAI	1/s	2.04743283973816	NaN		
+substrate catalytic rate constant		R_T2DECAI	1/s	2.65329094242641	NaN		
+product catalytic rate constant		R_3OAS161	1/s	1.87647496051425	NaN		
+product catalytic rate constant		R_DHQS	1/s	38.124802408187	NaN		R03083
+product catalytic rate constant		R_EAR161x	1/s	1.49190406602306	NaN		
+product catalytic rate constant		R_PGCD	1/s	37.464286427222	NaN		R01513
+product catalytic rate constant		R_3OAS141	1/s	1.87647496051425	NaN		
+product catalytic rate constant		R_3OAR121	1/s	3.76323216049135	NaN		
+product catalytic rate constant		R_ADSL1r	1/s	4.03656199673189	NaN		R01083
+substrate catalytic rate constant		R_ADSL1r	1/s	3.15405021774824	NaN		R01083
+product catalytic rate constant		R_AICART	1/s	11.8847026786785	NaN		R04560
+substrate catalytic rate constant		R_AICART	1/s	3.40653355146525	NaN		R04560
+product catalytic rate constant		R_PFK	1/s	82.5718700845639	NaN		
+product catalytic rate constant		R_PGM	1/s	65.5660929763939	NaN		R01518
+substrate catalytic rate constant		R_PGM	1/s	127.719945620252	NaN		R01518
+product catalytic rate constant		R_CYTBO3_4pp	1/s	231.866104193224	NaN		
+product catalytic rate constant		R_EAR141x	1/s	1.49190406602306	NaN		
+product catalytic rate constant		R_EAR181x	1/s	0.507402231738151	NaN		
+product catalytic rate constant		R_TPI	1/s	193.906572544439	NaN		R01015
+substrate catalytic rate constant		R_TPI	1/s	80.254876804397	NaN		R01015
+product catalytic rate constant		R_RPI	1/s	3.44715903870091	NaN		
+substrate catalytic rate constant		R_RPI	1/s	51.7085083213736	NaN		
+product catalytic rate constant		R_3OAR120	1/s	4.4800608462323	NaN		R04964
+substrate catalytic rate constant		R_3OAR120	1/s	3.96741055037907	NaN		R04964
+product catalytic rate constant		R_3HAD80	1/s	2.40749402726052	NaN		R04537
+product catalytic rate constant		R_3HAD120	1/s	2.40749402726052	NaN		R04965
+product catalytic rate constant		R_EAR180x	1/s	2.29088602673159	NaN		
+product catalytic rate constant		R_EAR180y	1/s	2.08745482863002	NaN		
+product catalytic rate constant		R_ACONTb	1/s	46.7619680706142	NaN		R01900
+substrate catalytic rate constant		R_ACONTb	1/s	14.1251914179772	NaN		R01900
+product catalytic rate constant		R_3HAD161	1/s	2.40749402726052	NaN		
+product catalytic rate constant		R_SUCDi	1/s	91.6139639993793	NaN		
+product catalytic rate constant		R_ASNS1	1/s	3.64088864694953	NaN		R00578
+product catalytic rate constant		R_EAR80y	1/s	2.33507712266043	NaN		
+product catalytic rate constant		R_EAR120y	1/s	2.33507712266043	NaN		
+product catalytic rate constant		R_3OAR181	1/s	1.27988953981167	NaN		
+product catalytic rate constant		R_3HAD121	1/s	2.40749402726052	NaN		
+product catalytic rate constant		R_EAR140x	1/s	1.35081523236687	NaN		
+product catalytic rate constant		R_3OAS181	1/s	1.31640661008089	NaN		
+product catalytic rate constant		R_3OAS140	1/s	1.51896359918247	NaN		
+product catalytic rate constant		R_3OAR140	1/s	4.26551759693818	NaN		R04566
+substrate catalytic rate constant		R_3OAR140	1/s	3.96741055037907	NaN		R04566
+product catalytic rate constant		R_EAR160y	1/s	2.08745482863002	NaN		
+product catalytic rate constant		R_3OAR160	1/s	3.19280138872202	NaN		R04543
+substrate catalytic rate constant		R_3OAR160	1/s	3.96741055037907	NaN		R04543
+product catalytic rate constant		R_3HAD181	1/s	2.40749402726052	NaN		
+product catalytic rate constant		R_EAR100y	1/s	2.33507712266043	NaN		
+product catalytic rate constant		R_3OAR141	1/s	3.76323216049135	NaN		
+product catalytic rate constant		R_3OAR161	1/s	3.76323216049135	NaN		
+product catalytic rate constant		R_3HAD141	1/s	2.40749402726052	NaN		
+product catalytic rate constant		R_EAR121x	1/s	1.49190406602306	NaN		
+product catalytic rate constant		R_ACONTa	1/s	64.3449622458679	NaN		R01325
+substrate catalytic rate constant		R_ACONTa	1/s	8.0304739370086	NaN		R01325
+product catalytic rate constant		R_3HAD40	1/s	2.40749402726052	NaN		
+product catalytic rate constant		R_3OAS60	1/s	2.63598512051591	NaN		
+product catalytic rate constant		R_3OAS160	1/s	2.63598512051591	NaN		
+product catalytic rate constant		R_3OAR60	1/s	8.24337196264866	NaN		R04953
+substrate catalytic rate constant		R_3OAR60	1/s	3.96741055037907	NaN		R04953
+product catalytic rate constant		R_3OAR80	1/s	8.24337196264866	NaN		R04536
+substrate catalytic rate constant		R_3OAR80	1/s	3.96741055037907	NaN		R04536
+product catalytic rate constant		R_EAR100x	1/s	1.77608521380872	NaN		
+product catalytic rate constant		R_EAR120x	1/s	1.77608521380872	NaN		
+product catalytic rate constant		R_EAR160x	1/s	1.26576123437941	NaN		
+product catalytic rate constant		R_EAR140y	1/s	2.33507712266043	NaN		
+product catalytic rate constant		R_3OAS121	1/s	1.87647496051425	NaN		
+product catalytic rate constant		R_3OAS80	1/s	2.63598512051591	NaN		
+product catalytic rate constant		R_3OAS100	1/s	2.63598512051591	NaN		
+product catalytic rate constant		R_3OAS120	1/s	2.63598512051591	NaN		
+product catalytic rate constant		R_3OAR40	1/s	8.24337196264866	NaN		
+substrate catalytic rate constant		R_3OAR40	1/s	2.66088378223201	NaN		
+product catalytic rate constant		R_3OAR100	1/s	8.24329298955517	NaN		R04534
+substrate catalytic rate constant		R_3OAR100	1/s	3.96741055037907	NaN		R04534
+product catalytic rate constant		R_3HAD60	1/s	2.74511327309038	NaN		R04954
+product catalytic rate constant		R_3HAD100	1/s	2.40749402726052	NaN		R04535
+product catalytic rate constant		R_3HAD140	1/s	2.74511327309038	NaN		R04568
+product catalytic rate constant		R_3HAD160	1/s	2.74511327309038	NaN		R04544
+product catalytic rate constant		R_EAR40x	1/s	3.2680205804032	NaN		
+product catalytic rate constant		R_EAR60y	1/s	2.33507712266043	NaN		
+product catalytic rate constant		R_EAR60x	1/s	3.2680205804032	NaN		
+product catalytic rate constant		R_EAR80x	1/s	3.2680205804032	NaN		
+product catalytic rate constant		R_3OAR180	1/s	2.90388127751107	NaN		
+substrate catalytic rate constant		R_3OAR180	1/s	2.66088378223201	NaN		
+product catalytic rate constant		R_3OAS180	1/s	2.63598512051591	NaN		
+product catalytic rate constant		R_3HAD180	1/s	2.40749402726052	NaN		R07764
+product catalytic rate constant		R_NADH16pp	1/s	106.732246466263	NaN		
+product catalytic rate constant		R_FA160ACPHi	1/s	55.6587897707477	NaN		
+product catalytic rate constant		R_FA120ACPHi	1/s	55.6587897707477	NaN		
+product catalytic rate constant		R_FA80ACPHi	1/s	55.6587897707477	NaN		
+product catalytic rate constant		R_FA140ACPHi	1/s	55.6587897707477	NaN		
+product catalytic rate constant		R_FA100ACPHi	1/s	55.6587897707477	NaN		
+product catalytic rate constant		R_ACPPAT161	1/s	2.08746447485199	NaN		
+product catalytic rate constant		R_ACPPAT180	1/s	2.41053067716955	NaN		
+product catalytic rate constant		R_RNTR1c2	1/s	2.2182892784837	NaN		
+product catalytic rate constant		R_RNTR2c2	1/s	2.26040510479337	NaN		
+product catalytic rate constant		R_FLDR2	1/s	9.03862378351853	NaN		
+product catalytic rate constant		R_VPAMTr	1/s	4.40765064319785	NaN		R01215
+substrate catalytic rate constant		R_VPAMTr	1/s	49.2529379595513	NaN		R01215
+product catalytic rate constant		R_ACPPAT181	1/s	1.99057549415215	NaN		
+product catalytic rate constant		R_APH161	1/s	3.12568016786544	NaN		
+product catalytic rate constant		R_APH180	1/s	3.12568016786544	NaN		
+product catalytic rate constant		R_APH181	1/s	3.12568016786544	NaN		
