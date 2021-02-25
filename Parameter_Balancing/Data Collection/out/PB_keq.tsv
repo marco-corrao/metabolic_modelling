@@ -1,200 +1,201 @@
-"!QuantityType	"	!Compound	!Reaction	!Unit	!Mean	!Std	!Compound:Identifiers:kegg.compound	!Reaction:Identifiers:kegg.reaction
-equilibrium constant		R_NDPK5	dimentionless	0.4896827337784942	0.4760530005672332		R01857
-equilibrium constant		R_SHK3Dr	dimentionless	13.931140581959356	7.361756418865171		R02413
-equilibrium constant		R_NDPK6	dimentionless	1.868717034854128	0.9648881825789769		R02331
-equilibrium constant		R_NDPK8	dimentionless	0.3813268388722317	0.2261195857774024		R01137
-equilibrium constant		R_DHORTS	dimentionless	18.929127928325055	12.904488180261936		R01993
-equilibrium constant		R_OMPDC	dimentionless	9479.796342332538	32924.988506447415		R00965
-equilibrium constant		R_G5SD	dimentionless	21.62435203664045	14.131282896070001		R03313
-equilibrium constant		R_CS	dimentionless	6170786.314703466	1095258.5633196954		R00351
-equilibrium constant		R_ICDHyr	dimentionless	0.11277827169204775	0.14512411726407112		R00267
-equilibrium constant		R_ACALD	dimentionless	4196.782405320829	2031.5203252864035		R00228
-equilibrium constant		R_PPA	dimentionless	764.922179463574	58.62654864787377		R00004
-equilibrium constant		R_PPCK	dimentionless	0.013732096683788395	0.01728283245398136		R00341
-equilibrium constant		R_ME1	dimentionless	0.007589417749306976	0.009551828712318583		R00214
-equilibrium constant		R_ALATA_L	dimentionless	0.9374965941091664	0.20043291443237524		R00258
-equilibrium constant		R_XYLK	dimentionless	22026.465794806718	18037.001034069235		R01639
-equilibrium constant		R_RBK	dimentionless	136947.0642488712	112695.44617494848		
-equilibrium constant		R_GLYK	dimentionless	825.8539240196266	692.9310859059392		R00847
-equilibrium constant		R_ASPTA	dimentionless	0.31802565124093646	0.06927545448572235		R00355
-equilibrium constant		R_FBP	dimentionless	118.16542132064947	32.88993171087056		
-equilibrium constant		R_PYK	dimentionless	24265.55735652065	4111.147272988574		R00200
-equilibrium constant		R_GTHOr	dimentionless	161.20786753556462	50.722927260080844		R00115
-equilibrium constant		R_ILETA	dimentionless	10.936366216702414	15.528845939004638		R02199
-equilibrium constant		R_DHORD5	dimentionless	1052.0027299478338	2130.3161372884733		
-equilibrium constant		R_VALTA	dimentionless	0.49965962792836244	0.6994025449420805		R01214
-equilibrium constant		R_IPPMIb	dimentionless	1.1703718286721245	0.9017386820345937		R03968
-equilibrium constant		R_ORPT	dimentionless	4.484401683432118	2.3697322328745765		R01870
-equilibrium constant		R_ACHBS	dimentionless	1606.8144163723853	3182.516653645991		R08648
-equilibrium constant		R_DHAD2	dimentionless	2949469.6777821598	1665694.8563513607		R05070
-equilibrium constant		R_ACLS	dimentionless	54152.32959726789	81479.70528350513		R00226
-equilibrium constant		R_TRPS2	dimentionless	753088587.3804883	340241717.57408106		R00674
-equilibrium constant		R_PSCVT	dimentionless	771.1183561641908	715.4385716731095		R03460
-equilibrium constant		R_PFL	dimentionless	2954.6203777234364	1775.8710620443405		R00212
-equilibrium constant		R_ANS	dimentionless	1.2872353602165164e+19	3.935959673433317e+19		R00986
-equilibrium constant		R_FRD2	dimentionless	1016819.7266169008	2157511.8039551824		
-equilibrium constant		R_ANPRT	dimentionless	100842866661.17178	147257433365.6482		R01073
-equilibrium constant		R_CHORM	dimentionless	336099060.90188444	629084164.0115949		R01715
-equilibrium constant		R_PTAr	dimentionless	0.030276665611410084	0.007450087141169887		R00230
-equilibrium constant		R_CHORS	dimentionless	95857989.51887922	148098467.0662797		R01714
-equilibrium constant		R_IGPS	dimentionless	4886152899215.351	11845816427706.438		R03508
-equilibrium constant		R_ACKr	dimentionless	0.0035407928831372765	0.0007855732495867295		R00315
-equilibrium constant		R_LEUTAi	dimentionless	1.1377860448028903	0.7251722270224149		R01090
-equilibrium constant		R_ENO	dimentionless	4.6501991394606375	0.5627510051787782		R00658
-equilibrium constant		R_FBA	dimentionless	8.762214412400911e-05	1.873325388694023e-05		R01068
-equilibrium constant		R_HCO3E	dimentionless	25.720211638012238	32.163233593319056		R10092
-equilibrium constant		R_IMPC	dimentionless	0.00036986222300409386	0.0008116379560880479		R01127
-equilibrium constant		R_IMPD	dimentionless	0.0012968177867977953	0.00208202290901784		R01130
-equilibrium constant		R_PPS	dimentionless	7.365249253351397	1.4855282882919316		R00199
-equilibrium constant		R_PGI	dimentionless	0.34474662827572916	0.05284538876352444		
-equilibrium constant		R_PGK	dimentionless	0.00037587855701477703	6.671503230597091e-05		R01512
-equilibrium constant		R_PGL	dimentionless	27945.15709379769	18712.771591651537		R02035
-equilibrium constant		R_RPE	dimentionless	3.9254731426796825	1.8210141646154234		R01529
-equilibrium constant		R_DHQTi	dimentionless	8.447959811117588	7.054165715616541		R03084
-equilibrium constant		R_IPMD	dimentionless	0.0018272161898066207	0.0007297071512337856		R04426
-equilibrium constant		R_AIRC3	dimentionless	241863.17937098592	588315.841713209		R07405
-equilibrium constant		R_TALA	dimentionless	1.4610935399193894	0.8310374712732307		R01827
-equilibrium constant		R_ADSL2r	dimentionless	6.553563623683203e-05	7.745841636705036e-05		R04559
-equilibrium constant		R_TKT1	dimentionless	1.8314036498802508	1.7508780355853952		
-equilibrium constant		R_RNDR1	dimentionless	30362573.060747396	45807189.69229337		R02017
-equilibrium constant		R_ALCD2x	dimentionless	0.0006856140873572264	8.850202015099332e-05		R00754
-equilibrium constant		R_RNDR3	dimentionless	8836068.196463412	10479241.83041647		R02024
-equilibrium constant		R_RNDR4	dimentionless	20202136.232239977	19639833.932915833		R02018
-equilibrium constant		R_TMDS	dimentionless	85620012.84575082	101542088.65127367		R02101
-equilibrium constant		R_DHAD1	dimentionless	2949469.6777821598	1665694.8563513607		R04441
-equilibrium constant		R_IPPMIa	dimentionless	4.448368116075085	3.4093987174435902		R04001
-equilibrium constant		R_MDH	dimentionless	2.277620352963036e-05	2.7562973210524844e-06		R00342
-equilibrium constant		R_FUM	dimentionless	3.973266465868919	0.4487755588718425		R01082
-equilibrium constant		R_KARA1	dimentionless	0.0018346018555586974	0.0007474577951247617		R04439
-equilibrium constant		R_KARA2	dimentionless	545.0773948418724	222.0767118960432		
-equilibrium constant		R_ARGSS	dimentionless	0.001103578434390859	0.002007720346552148		R01954
-equilibrium constant		R_AGPR	dimentionless	0.16411624116414142	0.10724820923191171		R03443
-equilibrium constant		R_ICL	dimentionless	0.021315389873817432	0.011607816187839265		R00479
-equilibrium constant		R_GLYCL	dimentionless	0.0005536424211247781	0.0009089651690108297		R01221
-equilibrium constant		R_XYLI1	dimentionless	0.2275385374527663	0.05323612413174846		R01432
-equilibrium constant		R_PPC	dimentionless	11346880.390307868	14235093.995101841		R00345
-equilibrium constant		R_G3PT	dimentionless	188.67314672393232	158.30582702129053		R00841
-equilibrium constant		R_SADT2	dimentionless	0.00037739787005555	0.00027250592472748467		
-equilibrium constant		R_GHMT2r	dimentionless	59.04249045107384	59.78081929495576		R00945
-equilibrium constant		R_DHORD2	dimentionless	8.413009037790529e+21	2.148218927358372e+22		
-equilibrium constant		R_SDPDS	dimentionless	0.03935329885417178	0.0593712536162172		R02734
-equilibrium constant		R_UMPK	dimentionless	1.2687081692600208	1.6325853408388327		R00158
-equilibrium constant		R_CTPS2	dimentionless	4698.610879059521	4984.811057654916		R00573
-equilibrium constant		R_NDPK7	dimentionless	0.19441559671760558	0.189004271113122		R02326
-equilibrium constant		R_TRPS3	dimentionless	0.0004363827982976514	0.0005157731339298583		R02340
-equilibrium constant		R_ADK1	dimentionless	0.8753616245356812	0.05649772485910004		R00127
-equilibrium constant		R_NDPK2	dimentionless	1.184621310715739	0.6021068380402708		R00156
-equilibrium constant		R_NDPK4	dimentionless	0.956597337590802	1.0110064640935463		R02093
-equilibrium constant		R_ACODA	dimentionless	17.817722828266966	25.156123396101		R00669
-equilibrium constant		R_ADSS	dimentionless	1.2585137030857818	1.0813369050313495		R01135
-equilibrium constant		R_ASNS2	dimentionless	31413.149166982195	45111.258989292706		R00483
-equilibrium constant		R_ASPCT	dimentionless	8639.835010694193	10211.664615302132		R01397
-equilibrium constant		R_DAPE	dimentionless	1.9456399850371089	2.299606759241117		R02735
-equilibrium constant		R_DHDPRy	dimentionless	4971.597873779915	7901.611788097162		
-equilibrium constant		R_HSK	dimentionless	8020724.644005761	14527250.363689337		R01771
-equilibrium constant		R_SDPTA	dimentionless	1.4493531972377505	1.713031411015171		R04475
-equilibrium constant		R_THRS	dimentionless	139737.2511799142	158395.18992156468		R01466
-equilibrium constant		R_HSST	dimentionless	175861.24544146197	386625.1664606567		R01777
-equilibrium constant		R_PPNDH	dimentionless	218780595120.64636	999030389982.1367		R01373
-equilibrium constant		R_DTMPK	dimentionless	1.9535043235229008	2.3089018426470753		R02094
-equilibrium constant		R_NDPK1	dimentionless	2.935997315610298	1.5751821015577636		R00330
-equilibrium constant		R_TRDR	dimentionless	22.696862618945683	13.458809217365935		R02016
-equilibrium constant		R_DDPA	dimentionless	10600605422420.037	10048980533556.71		R01826
-equilibrium constant		R_MALS	dimentionless	5902957.759487097	4952864.921231611		R00472
-equilibrium constant		R_NADTRHD	dimentionless	1.0	0.1371520774505849		R00112
-equilibrium constant		R_G3PD2	dimentionless	0.00010850862232308298	3.545461237664269e-05		R00844
-equilibrium constant		R_GMPS2	dimentionless	1.7802051024394953e+58	4.858542372228513e+62		R01231
-equilibrium constant		R_P5CR	dimentionless	461.98781838321685	1123.754152824041		R01251
-equilibrium constant		R_G5SADs	dimentionless	2688130.6796948705	5421804.517335358		R03314
-equilibrium constant		R_AKGDH	dimentionless	87517.0179041143	136977.01874464037		R08549
-equilibrium constant		R_ATPPRT	dimentionless	0.0	0.0		R01071
-equilibrium constant		R_HISTD	dimentionless	1035.164313162946	935.3642845845096		R01158
-equilibrium constant		R_DHDPS	dimentionless	2.879247347337883e+22	7.224251109496422e+22		
-equilibrium constant		R_IGPDH	dimentionless	17401120.862722054	13687852.231669225		R03457
-equilibrium constant		R_PRPPS	dimentionless	1.5335599093461432	1.2496131572727749		
-equilibrium constant		R_PRATPP	dimentionless	inf	inf		R04035
-equilibrium constant		R_GLUN	dimentionless	326.5635093238336	113.28947882956712		R00256
-equilibrium constant		R_PRMICI	dimentionless	51.68353035788446	28.145528835475606		R04640
-equilibrium constant		R_GLUPRT	dimentionless	170369316680.21457	186932045732.22412		R01072
-equilibrium constant		R_SERAT	dimentionless	13.219409467225603	15.624392795066969		R00586
-equilibrium constant		R_CYSS	dimentionless	963189168.6207789	2035946447.5888994		R00897
-equilibrium constant		R_BPNT	dimentionless	22.064930918530614	27.859311728519895		R00188
-equilibrium constant		R_PAPSR	dimentionless	31358387.57839042	79313065.79931743		R02021
-equilibrium constant		R_ASPK	dimentionless	0.00014863187918376594	0.00017567220895862615		R00480
-equilibrium constant		R_ASAD	dimentionless	17431.508682227697	11883.52144936055		R02291
-equilibrium constant		R_DAPDC	dimentionless	517.2298155597164	778.2441355537483		R00451
-equilibrium constant		R_OCBT	dimentionless	204169.19498506567	241313.3284817436		R01398
-equilibrium constant		R_GARFT	dimentionless	0.45722776598962483	1.0328662725058084		R04325
-equilibrium constant		R_PHETA1	dimentionless	1.0327974350411842	0.8624004399093389		R00694
-equilibrium constant		R_PPND	dimentionless	77.36447006456888	352.3375825046319		R01728
-equilibrium constant		R_PRAMPC	dimentionless	inf	inf		R04037
-equilibrium constant		R_GLYCK2	dimentionless	80.54906311194495	23.069719568164945		R08572
-equilibrium constant		R_ACOTA	dimentionless	3.665302432925048	4.98268221014821		R02283
-equilibrium constant		R_SULR	dimentionless	1.6530096126236006e+19	3.1273154833419477e+19		R00858
-equilibrium constant		R_PRAGSr	dimentionless	58939.56347121826	55159.25262332648		R04144
-equilibrium constant		R_PRFGS	dimentionless	7.6026712551321495e-06	0.1478435877359952		
-equilibrium constant		R_PSERT	dimentionless	81.20154285630365	12.447190917868248		R04173
-equilibrium constant		R_AIRC2	dimentionless	7536634367.925205	18180344300.19876		
-equilibrium constant		R_GAPD	dimentionless	0.6262969763977583	0.10358279964626094		R01061
-equilibrium constant		R_GND	dimentionless	0.01562418797269849	0.020042322611206618		R01528
-equilibrium constant		R_G6PDH2r	dimentionless	15.659994169952844	8.338520493883726		R00835
-equilibrium constant		R_ME2	dimentionless	0.007558864579103085	0.009574358522946223		R00216
-equilibrium constant		R_ARGSL	dimentionless	48.64898278409976	95.96350375726011		R01086
-equilibrium constant		R_CBPS	dimentionless	431.36840150326634	461.1239467461298		R00575
-equilibrium constant		R_GLU5K	dimentionless	8.790921253380026e-06	8.156159291155329e-06		R00239
-equilibrium constant		R_IPPS	dimentionless	43552.67929328161	23717.675290814917		R01213
-equilibrium constant		R_PSP_L	dimentionless	65.57131718124633	7.4061996009475495		R00582
-equilibrium constant		R_ADSK	dimentionless	1122.1403219576216	2693.3178360822303		R00509
-equilibrium constant		R_HSDy	dimentionless	0.00039293289061563796	0.0002694578112329909		R01775
-equilibrium constant		R_CYSTL	dimentionless	0.8075131934042561	0.8827594812930754		R01286
-equilibrium constant		R_SHSL1	dimentionless	200201411436.0976	449827293948.7954		R03260
-equilibrium constant		R_THD2pp	dimentionless	1.0	0.1371520774505849		
-equilibrium constant		R_TKT2	dimentionless	63.74566424143374	49.37138981184057		R01830
-equilibrium constant		R_ATPS4rpp	dimentionless	6.417807265799288e-06	7.766608228074975e-07		
-equilibrium constant		R_GK1	dimentionless	0.9839939419304334	0.4763181647101735		R00332
-equilibrium constant		R_CYTBDpp	dimentionless	2.458774656641694e+16	6.347784510894248e+16		
-equilibrium constant		R_CYTBD2pp	dimentionless	1.9742634734063218e+35	4.07754295435271e+35		
-equilibrium constant		R_METS	dimentionless	0.9412859850561309	1.9288958467467305		R00946
-equilibrium constant		R_PRASCSi	dimentionless	37018409775017.6	77799885005180.2		R04591
-equilibrium constant		R_MTHFC	dimentionless	8.725031224253252	3.238010781086322		R01655
-equilibrium constant		R_MTHFD	dimentionless	0.07149265594537602	0.032876816368587594		R01220
-equilibrium constant		R_ACGK	dimentionless	4.7651646023100434e-05	5.920414269913244e-05		R02649
-equilibrium constant		R_GNK	dimentionless	154.83434270110953	200.49142398973845		R01737
-equilibrium constant		R_GLUDy	dimentionless	1.3969176370167497e-06	2.0849516970399247e-07		R00248
-equilibrium constant		R_HSTPT	dimentionless	0.02838427089167908	0.03354817011400553		R03243
-equilibrium constant		R_THDPS	dimentionless	2.7642176720896083e-05	5.798278295629674e-05		R04365
-equilibrium constant		R_ATPM	dimentionless	155816.4585790904	18856.3685251017		R00086
-equilibrium constant		R_THRD_L	dimentionless	16408.03482096516	27534.257706823344		R00996
-equilibrium constant		R_RNDR2	dimentionless	6689264.741705848	8203051.559009995		R02019
-equilibrium constant		R_DHFR	dimentionless	1981.8199642150357	1910.669509670809		R00939
-equilibrium constant		R_PRAIi	dimentionless	51.892436825679624	28.259293955089756		R03509
-equilibrium constant		R_TYRTA	dimentionless	0.8578829454855874	0.7163443715833666		R00734
-equilibrium constant		R_SHKK	dimentionless	39216.21162778329	44927.003236347125		R02412
-equilibrium constant		R_GLUSy	dimentionless	232833228.36815497	88286903.85884053		R00114
-equilibrium constant		R_OMCDC	dimentionless	279.02543561249655	487.36592827838246		R01652
-equilibrium constant		R_IG3PS	dimentionless	1.214841065680643e-41	2.936864309776149e-37		R04558
-equilibrium constant		R_PDH	dimentionless	992504.7640369381	1289175.207825309		R00209
-equilibrium constant		R_MTHFR2	dimentionless	12300261.757951844	20740255.80808338		R07168
-equilibrium constant		R_DUTPDP	dimentionless	24321167.115870245	25115848.251967657		R02100
-equilibrium constant		R_NTP5	dimentionless	173046.40013473947	161947.41763315673		R00569
-equilibrium constant		R_GLNS	dimentionless	479.06844817762004	160.39806857096596		R00253
-equilibrium constant		R_ACGS	dimentionless	32053.166963269785	43702.986823659485		R00259
-equilibrium constant		R_SUCOAS	dimentionless	1.6292178293238835	0.8740862093589209		R00405
-equilibrium constant		R_PRAIS	dimentionless	0.6442338969673789	12527.945438191015		
-equilibrium constant		R_HISTP	dimentionless	3585.8539162570155	3153.3527783139552		R03013
-equilibrium constant		R_LDH_D	dimentionless	0.0002431325005330756	0.0002030190706347182		R00704
-equilibrium constant		R_DHQS	dimentionless	2.168802644344677e+26	5.4766859837021687e+26		R03083
-equilibrium constant		R_PGCD	dimentionless	3.955117682975256e-06	8.934513523461652e-07		R01513
-equilibrium constant		R_ADSL1r	dimentionless	0.00144021787994977	0.0008017348424085045		R01083
-equilibrium constant		R_AICART	dimentionless	0.005838958106982409	0.008832631263083516		R04560
-equilibrium constant		R_PFK	dimentionless	1318.6299074436697	356.3864614712621		
-equilibrium constant		R_PGM	dimentionless	6.068712234010759	0.881297460364612		R01518
-equilibrium constant		R_CYTBO3_4pp	dimentionless	2.458774656641694e+16	6.347784510894248e+16		
-equilibrium constant		R_TPI	dimentionless	0.10361810947344918	0.022989092460829794		R01015
-equilibrium constant		R_RPI	dimentionless	0.16477960421252477	0.11100521945740878		
-equilibrium constant		R_ACONTb	dimentionless	1.922236419881444	0.876211034476011		R01900
-equilibrium constant		R_SUCDi	dimentionless	7864851475697.402	20685289076864.484		
-equilibrium constant		R_ASNS1	dimentionless	10258388.230882766	15104121.43716099		R00578
-equilibrium constant		R_ACONTa	dimentionless	0.03282055502201512	0.014960559570341703		R01325
-equilibrium constant		R_NADH16pp	dimentionless	1.2104676322359465e+23	3.032272689062214e+23		
-equilibrium constant		R_VPAMTr	dimentionless	1.8838543929570506	2.652138697628119		R01215
+!!SBtab TableID='ParameterEq' TableType='Quantity' TableName='ParameterEq' SBtabVersion='1.0' StandardConcentration='M'
+!QuantityType	!Compound	!Reaction	!Unit	!Mean	!Std	!Compound:Identifiers:kegg.compound	!Reaction:Identifiers:kegg.reaction
+equilibrium constant		R_NDPK5	dimensionless	0.4896827337784942	0.4760530005672332		R01857
+equilibrium constant		R_SHK3Dr	dimensionless	13.931140581959356	7.361756418865171		R02413
+equilibrium constant		R_NDPK6	dimensionless	1.868717034854128	0.9648881825789769		R02331
+equilibrium constant		R_NDPK8	dimensionless	0.3813268388722317	0.2261195857774024		R01137
+equilibrium constant		R_DHORTS	dimensionless	18.929127928325055	12.904488180261936		R01993
+equilibrium constant		R_OMPDC	dimensionless	9479.796342332538	32924.988506447415		R00965
+equilibrium constant		R_G5SD	dimensionless	21.62435203664045	14.131282896070001		R03313
+equilibrium constant		R_CS	dimensionless	6170786.314703466	1095258.5633196954		R00351
+equilibrium constant		R_ICDHyr	dimensionless	0.11277827169204775	0.14512411726407112		R00267
+equilibrium constant		R_ACALD	dimensionless	4196.782405320829	2031.5203252864035		R00228
+equilibrium constant		R_PPA	dimensionless	764.922179463574	58.62654864787377		R00004
+equilibrium constant		R_PPCK	dimensionless	0.013732096683788395	0.01728283245398136		R00341
+equilibrium constant		R_ME1	dimensionless	0.007589417749306976	0.009551828712318583		R00214
+equilibrium constant		R_ALATA_L	dimensionless	0.9374965941091664	0.20043291443237524		R00258
+equilibrium constant		R_XYLK	dimensionless	22026.465794806718	18037.001034069235		R01639
+equilibrium constant		R_RBK	dimensionless	136947.0642488712	112695.44617494848		
+equilibrium constant		R_GLYK	dimensionless	825.8539240196266	692.9310859059392		R00847
+equilibrium constant		R_ASPTA	dimensionless	0.31802565124093646	0.06927545448572235		R00355
+equilibrium constant		R_FBP	dimensionless	118.16542132064947	32.88993171087056		
+equilibrium constant		R_PYK	dimensionless	24265.55735652065	4111.147272988574		R00200
+equilibrium constant		R_GTHOr	dimensionless	161.20786753556462	50.722927260080844		R00115
+equilibrium constant		R_ILETA	dimensionless	10.936366216702414	15.528845939004638		R02199
+equilibrium constant		R_DHORD5	dimensionless	1052.0027299478338	2130.3161372884733		
+equilibrium constant		R_VALTA	dimensionless	0.49965962792836244	0.6994025449420805		R01214
+equilibrium constant		R_IPPMIb	dimensionless	1.1703718286721245	0.9017386820345937		R03968
+equilibrium constant		R_ORPT	dimensionless	4.484401683432118	2.3697322328745765		R01870
+equilibrium constant		R_ACHBS	dimensionless	1606.8144163723853	3182.516653645991		R08648
+equilibrium constant		R_DHAD2	dimensionless	2949469.6777821598	1665694.8563513607		R05070
+equilibrium constant		R_ACLS	dimensionless	54152.32959726789	81479.70528350513		R00226
+equilibrium constant		R_TRPS2	dimensionless	753088587.3804883	340241717.57408106		R00674
+equilibrium constant		R_PSCVT	dimensionless	771.1183561641908	715.4385716731095		R03460
+equilibrium constant		R_PFL	dimensionless	2954.6203777234364	1775.8710620443405		R00212
+equilibrium constant		R_ANS	dimensionless	1.2872353602165164e+19	3.935959673433317e+19		R00986
+equilibrium constant		R_FRD2	dimensionless	1016819.7266169008	2157511.8039551824		
+equilibrium constant		R_ANPRT	dimensionless	100842866661.17178	147257433365.6482		R01073
+equilibrium constant		R_CHORM	dimensionless	336099060.90188444	629084164.0115949		R01715
+equilibrium constant		R_PTAr	dimensionless	0.030276665611410084	0.007450087141169887		R00230
+equilibrium constant		R_CHORS	dimensionless	95857989.51887922	148098467.0662797		R01714
+equilibrium constant		R_IGPS	dimensionless	4886152899215.351	11845816427706.438		R03508
+equilibrium constant		R_ACKr	dimensionless	0.0035407928831372765	0.0007855732495867295		R00315
+equilibrium constant		R_LEUTAi	dimensionless	1.1377860448028903	0.7251722270224149		R01090
+equilibrium constant		R_ENO	dimensionless	4.6501991394606375	0.5627510051787782		R00658
+equilibrium constant		R_FBA	dimensionless	8.762214412400911e-05	1.873325388694023e-05		R01068
+equilibrium constant		R_HCO3E	dimensionless	25.720211638012238	32.163233593319056		R10092
+equilibrium constant		R_IMPC	dimensionless	0.00036986222300409386	0.0008116379560880479		R01127
+equilibrium constant		R_IMPD	dimensionless	0.0012968177867977953	0.00208202290901784		R01130
+equilibrium constant		R_PPS	dimensionless	7.365249253351397	1.4855282882919316		R00199
+equilibrium constant		R_PGI	dimensionless	0.34474662827572916	0.05284538876352444		
+equilibrium constant		R_PGK	dimensionless	0.00037587855701477703	6.671503230597091e-05		R01512
+equilibrium constant		R_PGL	dimensionless	27945.15709379769	18712.771591651537		R02035
+equilibrium constant		R_RPE	dimensionless	3.9254731426796825	1.8210141646154234		R01529
+equilibrium constant		R_DHQTi	dimensionless	8.447959811117588	7.054165715616541		R03084
+equilibrium constant		R_IPMD	dimensionless	0.0018272161898066207	0.0007297071512337856		R04426
+equilibrium constant		R_AIRC3	dimensionless	241863.17937098592	588315.841713209		R07405
+equilibrium constant		R_TALA	dimensionless	1.4610935399193894	0.8310374712732307		R01827
+equilibrium constant		R_ADSL2r	dimensionless	6.553563623683203e-05	7.745841636705036e-05		R04559
+equilibrium constant		R_TKT1	dimensionless	1.8314036498802508	1.7508780355853952		
+equilibrium constant		R_RNDR1	dimensionless	30362573.060747396	45807189.69229337		R02017
+equilibrium constant		R_ALCD2x	dimensionless	0.0006856140873572264	8.850202015099332e-05		R00754
+equilibrium constant		R_RNDR3	dimensionless	8836068.196463412	10479241.83041647		R02024
+equilibrium constant		R_RNDR4	dimensionless	20202136.232239977	19639833.932915833		R02018
+equilibrium constant		R_TMDS	dimensionless	85620012.84575082	101542088.65127367		R02101
+equilibrium constant		R_DHAD1	dimensionless	2949469.6777821598	1665694.8563513607		R04441
+equilibrium constant		R_IPPMIa	dimensionless	4.448368116075085	3.4093987174435902		R04001
+equilibrium constant		R_MDH	dimensionless	2.277620352963036e-05	2.7562973210524844e-06		R00342
+equilibrium constant		R_FUM	dimensionless	3.973266465868919	0.4487755588718425		R01082
+equilibrium constant		R_KARA1	dimensionless	0.0018346018555586974	0.0007474577951247617		R04439
+equilibrium constant		R_KARA2	dimensionless	545.0773948418724	222.0767118960432		
+equilibrium constant		R_ARGSS	dimensionless	0.001103578434390859	0.002007720346552148		R01954
+equilibrium constant		R_AGPR	dimensionless	0.16411624116414142	0.10724820923191171		R03443
+equilibrium constant		R_ICL	dimensionless	0.021315389873817432	0.011607816187839265		R00479
+equilibrium constant		R_GLYCL	dimensionless	0.0005536424211247781	0.0009089651690108297		R01221
+equilibrium constant		R_XYLI1	dimensionless	0.2275385374527663	0.05323612413174846		R01432
+equilibrium constant		R_PPC	dimensionless	11346880.390307868	14235093.995101841		R00345
+equilibrium constant		R_G3PT	dimensionless	188.67314672393232	158.30582702129053		R00841
+equilibrium constant		R_SADT2	dimensionless	0.00037739787005555	0.00027250592472748467		
+equilibrium constant		R_GHMT2r	dimensionless	59.04249045107384	59.78081929495576		R00945
+equilibrium constant		R_DHORD2	dimensionless	8.413009037790529e+21	2.148218927358372e+22		
+equilibrium constant		R_SDPDS	dimensionless	0.03935329885417178	0.0593712536162172		R02734
+equilibrium constant		R_UMPK	dimensionless	1.2687081692600208	1.6325853408388327		R00158
+equilibrium constant		R_CTPS2	dimensionless	4698.610879059521	4984.811057654916		R00573
+equilibrium constant		R_NDPK7	dimensionless	0.19441559671760558	0.189004271113122		R02326
+equilibrium constant		R_TRPS3	dimensionless	0.0004363827982976514	0.0005157731339298583		R02340
+equilibrium constant		R_ADK1	dimensionless	0.8753616245356812	0.05649772485910004		R00127
+equilibrium constant		R_NDPK2	dimensionless	1.184621310715739	0.6021068380402708		R00156
+equilibrium constant		R_NDPK4	dimensionless	0.956597337590802	1.0110064640935463		R02093
+equilibrium constant		R_ACODA	dimensionless	17.817722828266966	25.156123396101		R00669
+equilibrium constant		R_ADSS	dimensionless	1.2585137030857818	1.0813369050313495		R01135
+equilibrium constant		R_ASNS2	dimensionless	31413.149166982195	45111.258989292706		R00483
+equilibrium constant		R_ASPCT	dimensionless	8639.835010694193	10211.664615302132		R01397
+equilibrium constant		R_DAPE	dimensionless	1.9456399850371089	2.299606759241117		R02735
+equilibrium constant		R_DHDPRy	dimensionless	4971.597873779915	7901.611788097162		
+equilibrium constant		R_HSK	dimensionless	8020724.644005761	14527250.363689337		R01771
+equilibrium constant		R_SDPTA	dimensionless	1.4493531972377505	1.713031411015171		R04475
+equilibrium constant		R_THRS	dimensionless	139737.2511799142	158395.18992156468		R01466
+equilibrium constant		R_HSST	dimensionless	175861.24544146197	386625.1664606567		R01777
+equilibrium constant		R_PPNDH	dimensionless	218780595120.64636	999030389982.1367		R01373
+equilibrium constant		R_DTMPK	dimensionless	1.9535043235229008	2.3089018426470753		R02094
+equilibrium constant		R_NDPK1	dimensionless	2.935997315610298	1.5751821015577636		R00330
+equilibrium constant		R_TRDR	dimensionless	22.696862618945683	13.458809217365935		R02016
+equilibrium constant		R_DDPA	dimensionless	10600605422420.037	10048980533556.71		R01826
+equilibrium constant		R_MALS	dimensionless	5902957.759487097	4952864.921231611		R00472
+equilibrium constant		R_NADTRHD	dimensionless	1.0	0.1371520774505849		R00112
+equilibrium constant		R_G3PD2	dimensionless	0.00010850862232308298	3.545461237664269e-05		R00844
+equilibrium constant		R_GMPS2	dimensionless	1.7802051024394953e+58	4.858542372228513e+62		R01231
+equilibrium constant		R_P5CR	dimensionless	461.98781838321685	1123.754152824041		R01251
+equilibrium constant		R_G5SADs	dimensionless	2688130.6796948705	5421804.517335358		R03314
+equilibrium constant		R_AKGDH	dimensionless	87517.0179041143	136977.01874464037		R08549
+equilibrium constant		R_ATPPRT	dimensionless	0.0	0.0		R01071
+equilibrium constant		R_HISTD	dimensionless	1035.164313162946	935.3642845845096		R01158
+equilibrium constant		R_DHDPS	dimensionless	2.879247347337883e+22	7.224251109496422e+22		
+equilibrium constant		R_IGPDH	dimensionless	17401120.862722054	13687852.231669225		R03457
+equilibrium constant		R_PRPPS	dimensionless	1.5335599093461432	1.2496131572727749		
+equilibrium constant		R_PRATPP	dimensionless	inf	inf		R04035
+equilibrium constant		R_GLUN	dimensionless	326.5635093238336	113.28947882956712		R00256
+equilibrium constant		R_PRMICI	dimensionless	51.68353035788446	28.145528835475606		R04640
+equilibrium constant		R_GLUPRT	dimensionless	170369316680.21457	186932045732.22412		R01072
+equilibrium constant		R_SERAT	dimensionless	13.219409467225603	15.624392795066969		R00586
+equilibrium constant		R_CYSS	dimensionless	963189168.6207789	2035946447.5888994		R00897
+equilibrium constant		R_BPNT	dimensionless	22.064930918530614	27.859311728519895		R00188
+equilibrium constant		R_PAPSR	dimensionless	31358387.57839042	79313065.79931743		R02021
+equilibrium constant		R_ASPK	dimensionless	0.00014863187918376594	0.00017567220895862615		R00480
+equilibrium constant		R_ASAD	dimensionless	17431.508682227697	11883.52144936055		R02291
+equilibrium constant		R_DAPDC	dimensionless	517.2298155597164	778.2441355537483		R00451
+equilibrium constant		R_OCBT	dimensionless	204169.19498506567	241313.3284817436		R01398
+equilibrium constant		R_GARFT	dimensionless	0.45722776598962483	1.0328662725058084		R04325
+equilibrium constant		R_PHETA1	dimensionless	1.0327974350411842	0.8624004399093389		R00694
+equilibrium constant		R_PPND	dimensionless	77.36447006456888	352.3375825046319		R01728
+equilibrium constant		R_PRAMPC	dimensionless	inf	inf		R04037
+equilibrium constant		R_GLYCK2	dimensionless	80.54906311194495	23.069719568164945		R08572
+equilibrium constant		R_ACOTA	dimensionless	3.665302432925048	4.98268221014821		R02283
+equilibrium constant		R_SULR	dimensionless	1.6530096126236006e+19	3.1273154833419477e+19		R00858
+equilibrium constant		R_PRAGSr	dimensionless	58939.56347121826	55159.25262332648		R04144
+equilibrium constant		R_PRFGS	dimensionless	7.6026712551321495e-06	0.1478435877359952		
+equilibrium constant		R_PSERT	dimensionless	81.20154285630365	12.447190917868248		R04173
+equilibrium constant		R_AIRC2	dimensionless	7536634367.925205	18180344300.19876		
+equilibrium constant		R_GAPD	dimensionless	0.6262969763977583	0.10358279964626094		R01061
+equilibrium constant		R_GND	dimensionless	0.01562418797269849	0.020042322611206618		R01528
+equilibrium constant		R_G6PDH2r	dimensionless	15.659994169952844	8.338520493883726		R00835
+equilibrium constant		R_ME2	dimensionless	0.007558864579103085	0.009574358522946223		R00216
+equilibrium constant		R_ARGSL	dimensionless	48.64898278409976	95.96350375726011		R01086
+equilibrium constant		R_CBPS	dimensionless	431.36840150326634	461.1239467461298		R00575
+equilibrium constant		R_GLU5K	dimensionless	8.790921253380026e-06	8.156159291155329e-06		R00239
+equilibrium constant		R_IPPS	dimensionless	43552.67929328161	23717.675290814917		R01213
+equilibrium constant		R_PSP_L	dimensionless	65.57131718124633	7.4061996009475495		R00582
+equilibrium constant		R_ADSK	dimensionless	1122.1403219576216	2693.3178360822303		R00509
+equilibrium constant		R_HSDy	dimensionless	0.00039293289061563796	0.0002694578112329909		R01775
+equilibrium constant		R_CYSTL	dimensionless	0.8075131934042561	0.8827594812930754		R01286
+equilibrium constant		R_SHSL1	dimensionless	200201411436.0976	449827293948.7954		R03260
+equilibrium constant		R_THD2pp	dimensionless	1.0	0.1371520774505849		
+equilibrium constant		R_TKT2	dimensionless	63.74566424143374	49.37138981184057		R01830
+equilibrium constant		R_ATPS4rpp	dimensionless	6.417807265799288e-06	7.766608228074975e-07		
+equilibrium constant		R_GK1	dimensionless	0.9839939419304334	0.4763181647101735		R00332
+equilibrium constant		R_CYTBDpp	dimensionless	2.458774656641694e+16	6.347784510894248e+16		
+equilibrium constant		R_CYTBD2pp	dimensionless	1.9742634734063218e+35	4.07754295435271e+35		
+equilibrium constant		R_METS	dimensionless	0.9412859850561309	1.9288958467467305		R00946
+equilibrium constant		R_PRASCSi	dimensionless	37018409775017.6	77799885005180.2		R04591
+equilibrium constant		R_MTHFC	dimensionless	8.725031224253252	3.238010781086322		R01655
+equilibrium constant		R_MTHFD	dimensionless	0.07149265594537602	0.032876816368587594		R01220
+equilibrium constant		R_ACGK	dimensionless	4.7651646023100434e-05	5.920414269913244e-05		R02649
+equilibrium constant		R_GNK	dimensionless	154.83434270110953	200.49142398973845		R01737
+equilibrium constant		R_GLUDy	dimensionless	1.3969176370167497e-06	2.0849516970399247e-07		R00248
+equilibrium constant		R_HSTPT	dimensionless	0.02838427089167908	0.03354817011400553		R03243
+equilibrium constant		R_THDPS	dimensionless	2.7642176720896083e-05	5.798278295629674e-05		R04365
+equilibrium constant		R_ATPM	dimensionless	155816.4585790904	18856.3685251017		R00086
+equilibrium constant		R_THRD_L	dimensionless	16408.03482096516	27534.257706823344		R00996
+equilibrium constant		R_RNDR2	dimensionless	6689264.741705848	8203051.559009995		R02019
+equilibrium constant		R_DHFR	dimensionless	1981.8199642150357	1910.669509670809		R00939
+equilibrium constant		R_PRAIi	dimensionless	51.892436825679624	28.259293955089756		R03509
+equilibrium constant		R_TYRTA	dimensionless	0.8578829454855874	0.7163443715833666		R00734
+equilibrium constant		R_SHKK	dimensionless	39216.21162778329	44927.003236347125		R02412
+equilibrium constant		R_GLUSy	dimensionless	232833228.36815497	88286903.85884053		R00114
+equilibrium constant		R_OMCDC	dimensionless	279.02543561249655	487.36592827838246		R01652
+equilibrium constant		R_IG3PS	dimensionless	1.214841065680643e-41	2.936864309776149e-37		R04558
+equilibrium constant		R_PDH	dimensionless	992504.7640369381	1289175.207825309		R00209
+equilibrium constant		R_MTHFR2	dimensionless	12300261.757951844	20740255.80808338		R07168
+equilibrium constant		R_DUTPDP	dimensionless	24321167.115870245	25115848.251967657		R02100
+equilibrium constant		R_NTP5	dimensionless	173046.40013473947	161947.41763315673		R00569
+equilibrium constant		R_GLNS	dimensionless	479.06844817762004	160.39806857096596		R00253
+equilibrium constant		R_ACGS	dimensionless	32053.166963269785	43702.986823659485		R00259
+equilibrium constant		R_SUCOAS	dimensionless	1.6292178293238835	0.8740862093589209		R00405
+equilibrium constant		R_PRAIS	dimensionless	0.6442338969673789	12527.945438191015		
+equilibrium constant		R_HISTP	dimensionless	3585.8539162570155	3153.3527783139552		R03013
+equilibrium constant		R_LDH_D	dimensionless	0.0002431325005330756	0.0002030190706347182		R00704
+equilibrium constant		R_DHQS	dimensionless	2.168802644344677e+26	5.4766859837021687e+26		R03083
+equilibrium constant		R_PGCD	dimensionless	3.955117682975256e-06	8.934513523461652e-07		R01513
+equilibrium constant		R_ADSL1r	dimensionless	0.00144021787994977	0.0008017348424085045		R01083
+equilibrium constant		R_AICART	dimensionless	0.005838958106982409	0.008832631263083516		R04560
+equilibrium constant		R_PFK	dimensionless	1318.6299074436697	356.3864614712621		
+equilibrium constant		R_PGM	dimensionless	6.068712234010759	0.881297460364612		R01518
+equilibrium constant		R_CYTBO3_4pp	dimensionless	2.458774656641694e+16	6.347784510894248e+16		
+equilibrium constant		R_TPI	dimensionless	0.10361810947344918	0.022989092460829794		R01015
+equilibrium constant		R_RPI	dimensionless	0.16477960421252477	0.11100521945740878		
+equilibrium constant		R_ACONTb	dimensionless	1.922236419881444	0.876211034476011		R01900
+equilibrium constant		R_SUCDi	dimensionless	7864851475697.402	20685289076864.484		
+equilibrium constant		R_ASNS1	dimensionless	10258388.230882766	15104121.43716099		R00578
+equilibrium constant		R_ACONTa	dimensionless	0.03282055502201512	0.014960559570341703		R01325
+equilibrium constant		R_NADH16pp	dimensionless	1.2104676322359465e+23	3.032272689062214e+23		
+equilibrium constant		R_VPAMTr	dimensionless	1.8838543929570506	2.652138697628119		R01215

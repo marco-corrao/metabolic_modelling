@@ -12,6 +12,7 @@ import os
 import cobra
 import copy
 import math
+from sbtab import SBtab
 #%% Miscellaneous function
 def reaction_list(model):
     #obtain a list of reaction IDs from the COBRA model
@@ -58,8 +59,9 @@ def kegg2bigg(kegg_id,id_type,model):
     if id_type=='m':
         for met in model.metabolites:
             if ('kegg_compound' in met.annotation):
-                if met.annotation['kegg_compound'][0]==kegg_id:
-                    met_id.append(met.id)
+                for kegg_annotation in met.annotation['kegg_compound']:
+                    if kegg_annotation==kegg_id:
+                        met_id.append(met.id)
         return met_id
     #=======================================
     if id_type=='r':
@@ -68,6 +70,22 @@ def kegg2bigg(kegg_id,id_type,model):
                 if r.annotation['kegg_reaction'][0]==kegg_id:
                     return r.id
         return ''
+    
+def bigg2kegg(bigg_id,id_type,model):
+    if id_type=='m':
+        met=model.metabolites.get_by_id(bigg_id)
+        if 'kegg_compound' in met.annotation:
+            return met.annotation['kegg_compound'][0]
+        else:
+            return '' 
+    if id_type=='r':
+        r=model.reactions.get_by_id(bigg_id)
+        if 'kegg_reaction' in r.annotation:
+            return r.annotation['kegg_reaction'][0]
+        else:
+            return ''         
+        
+    
 def find_km_metabolite(entry,r_id,model):
     #Tries Find the bigg ID of a reaction-metabolite pair from the Brenda Km entry. 
     #Returns '' if the metabolite could not be found
@@ -103,7 +121,7 @@ kcat_data=pd.read_excel(data_path+'\Data from Heckman et al.xls', sheet_name='Da
 keq_data=pd.read_csv(data_path+'\Equilibrator_data.csv',index_col='reaction_id')
 #%% 
 #Create kcat data frame for parameter balancing
-template={'!QuantityType	':[],
+template={'!QuantityType':[],
           '!Compound':[]	,
           '!Reaction':[]	,
           '!Unit':[]	,
@@ -130,15 +148,13 @@ for r_id in r_list:
         #kappmax value for the forward reaction
         mean=kcat_data.loc[r_id][kcat_type]
         #get reaction kegg id, if available
-        r_kegg_id=''
-        if 'kegg_reaction' in model.reactions.get_by_id(r_id).annotation:
-            r_kegg_id=model.reactions.get_by_id(r_id).annotation['kegg_reaction'][0]
+        r_kegg_id=bigg2kegg(r_id, 'r', model)
         #create new row for the dataframe
-        new_row={'!QuantityType	':'product catalytic rate constant',
+        new_row={'!QuantityType':'product catalytic rate constant',
           '!Compound':['']	,
           '!Reaction':['R_'+r_id	],
           '!Unit':['1/s'	],
-          '!Mean':[mean],
+          '!Mean':[str(mean)],
           '!Std':['NaN'],
           '!Compound:Identifiers:kegg.compound':[''],
           '!Reaction:Identifiers:kegg.reaction':[r_kegg_id]
@@ -158,11 +174,11 @@ for r_id in r_list:
         if 'kegg_reaction' in model.reactions.get_by_id(r_id).annotation:
             r_kegg_id=model.reactions.get_by_id(r_id).annotation['kegg_reaction'][0]
         #create new row for the dataframe
-        new_row={'!QuantityType	':'substrate catalytic rate constant',
+        new_row={'!QuantityType':'substrate catalytic rate constant',
           '!Compound':['']	,
           '!Reaction':['R_'+r_id	],
           '!Unit':['1/s'	],
-          '!Mean':[mean],
+          '!Mean':[str(mean)],
           '!Std':['NaN'],
           '!Compound:Identifiers:kegg.compound':[''],
           '!Reaction:Identifiers:kegg.reaction':[r_kegg_id]
@@ -171,12 +187,13 @@ for r_id in r_list:
         kcat_df=kcat_df.append(pd.DataFrame(data=new_row),ignore_index='True')
     else:
         backward_not_found.append(r_id)    
-#Export tsv   
-kcat_df.to_csv(path_or_buf=export_path+'\PB_kcat.tsv',sep='\t',index=False)
+#Create table
+kcat_sbtable=SBtab.SBtabTable.from_data_frame(kcat_df,table_id='ParameterKcat',table_type='Quantity')  
+kcat_sbtable.write(export_path+'\PB_kcat.tsv')
 #=========================================================================
 #%% 
 #Create Km data frame for parameter balancing
-template={'!QuantityType	':[],
+template={'!QuantityType':[],
           '!Compound':[]	,
           '!Reaction':[]	,
           '!Unit':[]	,
@@ -225,29 +242,31 @@ for r_id in r_list:
             #avoiding the -999 values
                 if float(cur_entry['KM_Value'])>0:
                     #Create new entry for the Parameter Balancing table
-                    r_kegg_id=''
-                    if 'kegg_reaction' in model.reactions.get_by_id(r_id).annotation:
-                        r_kegg_id=model.reactions.get_by_id(r_id).annotation['kegg_reaction'][0]
                     bigg_metabolite=find_km_metabolite(cur_entry,r_id,model)
-                    if bigg_metabolite!='':                        
-                        new_row={'!QuantityType	':'Michaelis constant',
+
+                    
+                    if bigg_metabolite!='':
+                        r_kegg_id=bigg2kegg(r_id, 'r', model)
+                        m_kegg_id=bigg2kegg(bigg_metabolite,'m',model)                        
+                        new_row={'!QuantityType':'Michaelis constant',
                         '!Compound':['M_'+bigg_metabolite],
                         '!Reaction':['R_'+r_id],
                         '!Unit':['mM'],
-                        '!Mean':[cur_entry['KM_Value']],
+                        '!Mean':[str(cur_entry['KM_Value'])],
                         '!Std':['NaN'],
-                        '!Compound:Identifiers:kegg.compound':[cur_entry['KEGG_ID']],
+                        '!Compound:Identifiers:kegg.compound':[m_kegg_id],
                         '!Reaction:Identifiers:kegg.reaction':[r_kegg_id],
-                        '!Km_entry_key':[cur_entry['ï»¿entry_ID']],
-                        '!Km_commentary':[cur_entry['Commentary']],
-                        '!Km_literature':[cur_entry['Literature']],  
+                        '!Km_entry_key':[str(cur_entry['ï»¿entry_ID'])],
+                        '!Km_commentary':[str(cur_entry['Commentary'])],
+                        '!Km_literature':[str(cur_entry['Literature'])],  
           }
                         km_df=km_df.append(pd.DataFrame(data=new_row),ignore_index='True')
-                    
-km_df.to_csv(path_or_buf=export_path+'\PB_km.tsv',sep='\t',index=False)
+#Create table
+km_sbtable=SBtab.SBtabTable.from_data_frame(km_df,table_id='ParameterKM',table_type='Quantity')  
+km_sbtable.write(export_path+'\PB_km.tsv')
 #%%
 #Create keq data frame for parameter balancing
-template={'!QuantityType	':[],
+template={'!QuantityType':[],
           '!Compound':[]	,
           '!Reaction':[]	,
           '!Unit':[]	,
@@ -267,17 +286,52 @@ for i in range(len(keq_data)):
     sigma_keq=(1/RT)*sigma_dg*keq #error propagation
     
     r_id=cur_entry.index[0][2:]
-    r_kegg_id=''
-    if 'kegg_reaction' in model.reactions.get_by_id(r_id).annotation:
-        r_kegg_id=model.reactions.get_by_id(r_id).annotation['kegg_reaction'][0]
-    new_row={'!QuantityType	':'equilibrium constant',
+    r_kegg_id=bigg2kegg(r_id, 'r', model)
+    new_row={'!QuantityType':'equilibrium constant',
               '!Compound':[''],
               '!Reaction':[cur_entry.index[0]],
-              '!Unit':['dimentionless'],
-              '!Mean':[keq],
-              '!Std':[sigma_keq],
+              '!Unit':['dimensionless'],
+              '!Mean':[str(keq)],
+              '!Std':[str(sigma_keq)],
               '!Compound:Identifiers:kegg.compound':[''],
               '!Reaction:Identifiers:kegg.reaction':[r_kegg_id],
 }
     keq_df=keq_df.append(pd.DataFrame(data=new_row),ignore_index='True')
-keq_df.to_csv(path_or_buf=export_path+'\PB_keq.tsv',sep='\t',index=False)
+keq_sbtable=SBtab.SBtabTable.from_data_frame(keq_df,table_id='ParameterEq',table_type='Quantity')  
+keq_sbtable.header_row+=" StandardConcentration='M'"
+keq_sbtable.write(export_path+'\PB_Keq.tsv')    
+
+#%%
+#Create DGr data frame for parameter balancing
+template={'!QuantityType':[],
+          '!Compound':[]	,
+          '!Reaction':[]	,
+          '!Unit':[]	,
+          '!Mean':[]	,
+          '!Std':[],
+          '!Compound:Identifiers:kegg.compound':[],
+          '!Reaction:Identifiers:kegg.reaction':[]
+    }
+dg_df = pd.DataFrame(data=template)
+#%% FREE ENERGIES OF REACTIONS
+
+for i in range(len(keq_data)):
+    cur_entry=keq_data.iloc[[i]]
+    dg=float(cur_entry['standard_dg_prime_in_kJ_per_mol'])
+    sigma_dg=float(cur_entry['dg_sigma_in_kJ_per_mol'])
+    
+    r_id=cur_entry.index[0][2:]
+    r_kegg_id=bigg2kegg(r_id, 'r', model)
+    new_row={'!QuantityType':'standard Gibbs energy of reaction',
+              '!Compound':[''],
+              '!Reaction':[cur_entry.index[0]],
+              '!Unit':['kJ/mol'],
+              '!Mean':[str(dg)],
+              '!Std':[str(sigma_dg)],
+              '!Compound:Identifiers:kegg.compound':[''],
+              '!Reaction:Identifiers:kegg.reaction':[r_kegg_id],
+}
+    dg_df=dg_df.append(pd.DataFrame(data=new_row),ignore_index='True')
+dg_sbtable=SBtab.SBtabTable.from_data_frame(dg_df,table_id='ParameterEq',table_type='Quantity')  
+dg_sbtable.header_row+=" StandardConcentration='M'"
+dg_sbtable.write(export_path+'\PB_dg.tsv')    
