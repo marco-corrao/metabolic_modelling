@@ -111,9 +111,9 @@ parent_3=os.path.dirname(parent_2)
 #----------------
 data_path=parent+ '\Data Sources'
 export_path=parent+'\out'
-model_path=parent_3+'\model'
+model_path=parent_3+'\Model\model_wo_kegg_duplicates'
 #%% Load model and data sources in pandas
-model=cobra.io.load_json_model(model_path+'\Escherichia_coli_iCH360.json')
+model=cobra.io.load_json_model(model_path+'\Escherichia_coli_iCH360_wo_kegg_duplicates.json')
 km_data_full=pd.read_csv(data_path+'\km.csv',encoding='ISO-8859-1',index_col='EC_number')
 km_data_ecoli=pd.read_csv(data_path+'\km_ecoli.csv',encoding='ISO-8859-1',index_col='EC_number')
 #km_data_ecoli.rename(columns={"ï»¿entry_ID": "entry_ID"})

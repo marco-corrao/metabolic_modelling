@@ -480,19 +480,19 @@ Michaelis constant	M_atp_c	R_XYLK	mM	8.2	NaN	C00002	R01639	64403	mutant D233A	67
 Michaelis constant	M_atp_c	R_XYLK	mM	8.2	NaN	C00002	R01639	64403	mutant D233A	675423
 Michaelis constant	M_atp_c	R_XYLK	mM	8.2	NaN	C00002	R01639	64403	mutant D233A	675423
 Michaelis constant	M_atp_c	R_XYLK	mM	8.2	NaN	C00002	R01639	64403	mutant D233A	675423
-Michaelis constant	M_rib__D_c	R_RBK	mM	0.11	NaN	C21057		64354	37°C, pH 7.4, 20 mM phosphate	641005
-Michaelis constant	M_rib__D_c	R_RBK	mM	0.18	NaN	C21057		64355	37°C, pH 7.4	641005
-Michaelis constant	M_rib__D_c	R_RBK	mM	0.21	NaN	C21057		64357	37°C, pH 6.2, 20 mM phosphate	641005
-Michaelis constant	M_rib__D_c	R_RBK	mM	0.22	NaN	C21057		64358	37°C, pH 6.2, 20 mM arsenate	641005
-Michaelis constant	M_rib__D_c	R_RBK	mM	0.23	NaN	C21057		64359	37°C, pH 6.2, 5 mM phosphate	641005
-Michaelis constant	M_rib__D_c	R_RBK	mM	0.26	NaN	C21057		64360	37°C, pH 6.2, 5 mM arsenate	641005
-Michaelis constant	M_rib__D_c	R_RBK	mM	0.27	NaN	C21057		64361	37°C, pH 6.2, 1 mM phosphate	641005
-Michaelis constant	M_rib__D_c	R_RBK	mM	0.32	NaN	C21057		64363	37°C, pH 6.2, 1 mM arsenate	641005
-Michaelis constant	M_rib__D_c	R_RBK	mM	0.33	NaN	C21057		64364	37°C, pH 6.2, 20 mM vanadate	641005
-Michaelis constant	M_rib__D_c	R_RBK	mM	0.43	NaN	C21057		64365	37°C, pH 6.2, 0.5 mM phosphate or 5 mM vanadate	641005
-Michaelis constant	M_rib__D_c	R_RBK	mM	0.46	NaN	C21057		64366	37°C, pH 6.2, 1 mM vanadate	641005
-Michaelis constant	M_rib__D_c	R_RBK	mM	0.48	NaN	C21057		64367	37°C, pH 6.2, 0.5 mM arsenate	641005
-Michaelis constant	M_rib__D_c	R_RBK	mM	0.65	NaN	C21057		64369	37°C, pH 6.2	641005
+Michaelis constant	M_rib__D_c	R_RBK	mM	0.11	NaN	C00121		64354	37°C, pH 7.4, 20 mM phosphate	641005
+Michaelis constant	M_rib__D_c	R_RBK	mM	0.18	NaN	C00121		64355	37°C, pH 7.4	641005
+Michaelis constant	M_rib__D_c	R_RBK	mM	0.21	NaN	C00121		64357	37°C, pH 6.2, 20 mM phosphate	641005
+Michaelis constant	M_rib__D_c	R_RBK	mM	0.22	NaN	C00121		64358	37°C, pH 6.2, 20 mM arsenate	641005
+Michaelis constant	M_rib__D_c	R_RBK	mM	0.23	NaN	C00121		64359	37°C, pH 6.2, 5 mM phosphate	641005
+Michaelis constant	M_rib__D_c	R_RBK	mM	0.26	NaN	C00121		64360	37°C, pH 6.2, 5 mM arsenate	641005
+Michaelis constant	M_rib__D_c	R_RBK	mM	0.27	NaN	C00121		64361	37°C, pH 6.2, 1 mM phosphate	641005
+Michaelis constant	M_rib__D_c	R_RBK	mM	0.32	NaN	C00121		64363	37°C, pH 6.2, 1 mM arsenate	641005
+Michaelis constant	M_rib__D_c	R_RBK	mM	0.33	NaN	C00121		64364	37°C, pH 6.2, 20 mM vanadate	641005
+Michaelis constant	M_rib__D_c	R_RBK	mM	0.43	NaN	C00121		64365	37°C, pH 6.2, 0.5 mM phosphate or 5 mM vanadate	641005
+Michaelis constant	M_rib__D_c	R_RBK	mM	0.46	NaN	C00121		64366	37°C, pH 6.2, 1 mM vanadate	641005
+Michaelis constant	M_rib__D_c	R_RBK	mM	0.48	NaN	C00121		64367	37°C, pH 6.2, 0.5 mM arsenate	641005
+Michaelis constant	M_rib__D_c	R_RBK	mM	0.65	NaN	C00121		64369	37°C, pH 6.2	641005
 Michaelis constant	M_atp_c	R_GLYK	mM	0.006	NaN	C00002	R00847	65167	mutant enzyme V61L, at pH 7.0 and 25°C	722712
 Michaelis constant	M_atp_c	R_GLYK	mM	0.006	NaN	C00002	R00847	65167	mutant enzyme V61L, at pH 7.0 and 25°C	722712
 Michaelis constant	M_atp_c	R_GLYK	mM	0.006	NaN	C00002	R00847	65167	mutant enzyme V61L, at pH 7.0 and 25°C	722712
@@ -635,16 +635,16 @@ Michaelis constant	M_akg_c	R_VALTA	mM	1.7	NaN	C00026	R01214	62522	pH 8.0, 25°C,
 Michaelis constant	M_akg_c	R_VALTA	mM	1.7	NaN	C00026	R01214	62522	pH 8.0, 25°C, substrate L-valine	640012, 640030
 Michaelis constant	M_akg_c	R_VALTA	mM	2.4	NaN	C00026	R01214	62535	pH 8.0, 25°C, substrate L-isoleucine	640012, 640030
 Michaelis constant	M_akg_c	R_VALTA	mM	2.4	NaN	C00026	R01214	62535	pH 8.0, 25°C, substrate L-isoleucine	640012, 640030
-Michaelis constant	M_val__L_c	R_VALTA	mM	2.7	NaN	C16436	R01214	62544	pH 8.0, 25°C	640012
-Michaelis constant	M_val__L_c	R_VALTA	mM	2.7	NaN	C16436	R01214	62544	pH 8.0, 25°C	640012
-Michaelis constant	M_val__L_c	R_VALTA	mM	2.7	NaN	C16436	R01214	62544	pH 8.0, 25°C	640012
-Michaelis constant	M_val__L_c	R_VALTA	mM	2.7	NaN	C16436	R01214	62544	pH 8.0, 25°C	640012
-Michaelis constant	M_val__L_c	R_VALTA	mM	2.7	NaN	C16436	R01214	62544	pH 8.0, 25°C	640012
-Michaelis constant	M_val__L_c	R_VALTA	mM	3.13	NaN	C16436	R01214	62553	pH 8.0, 37°C	640005
-Michaelis constant	M_val__L_c	R_VALTA	mM	3.13	NaN	C16436	R01214	62553	pH 8.0, 37°C	640005
-Michaelis constant	M_val__L_c	R_VALTA	mM	3.13	NaN	C16436	R01214	62553	pH 8.0, 37°C	640005
-Michaelis constant	M_val__L_c	R_VALTA	mM	3.13	NaN	C16436	R01214	62553	pH 8.0, 37°C	640005
-Michaelis constant	M_val__L_c	R_VALTA	mM	3.13	NaN	C16436	R01214	62553	pH 8.0, 37°C	640005
+Michaelis constant	M_val__L_c	R_VALTA	mM	2.7	NaN	C00183	R01214	62544	pH 8.0, 25°C	640012
+Michaelis constant	M_val__L_c	R_VALTA	mM	2.7	NaN	C00183	R01214	62544	pH 8.0, 25°C	640012
+Michaelis constant	M_val__L_c	R_VALTA	mM	2.7	NaN	C00183	R01214	62544	pH 8.0, 25°C	640012
+Michaelis constant	M_val__L_c	R_VALTA	mM	2.7	NaN	C00183	R01214	62544	pH 8.0, 25°C	640012
+Michaelis constant	M_val__L_c	R_VALTA	mM	2.7	NaN	C00183	R01214	62544	pH 8.0, 25°C	640012
+Michaelis constant	M_val__L_c	R_VALTA	mM	3.13	NaN	C00183	R01214	62553	pH 8.0, 37°C	640005
+Michaelis constant	M_val__L_c	R_VALTA	mM	3.13	NaN	C00183	R01214	62553	pH 8.0, 37°C	640005
+Michaelis constant	M_val__L_c	R_VALTA	mM	3.13	NaN	C00183	R01214	62553	pH 8.0, 37°C	640005
+Michaelis constant	M_val__L_c	R_VALTA	mM	3.13	NaN	C00183	R01214	62553	pH 8.0, 37°C	640005
+Michaelis constant	M_val__L_c	R_VALTA	mM	3.13	NaN	C00183	R01214	62553	pH 8.0, 37°C	640005
 Michaelis constant	M_akg_c	R_VALTA	mM	6.6	NaN	C00026	R01214	62584	pH 8.0, 25°C, substrate L-leucine	640012, 640030
 Michaelis constant	M_akg_c	R_VALTA	mM	6.6	NaN	C00026	R01214	62584	pH 8.0, 25°C, substrate L-leucine	640012, 640030
 Michaelis constant	M_orot5p_c	R_ORPT	mM	0.0031	NaN	C01103	R01870	56598	wild-type	489719
@@ -1135,11 +1135,11 @@ Michaelis constant	M_4mop_c	R_LEUTAi	mM	0.42	NaN	C00233	R01090	62444	pH 8.0, 37�
 Michaelis constant	M_akg_c	R_LEUTAi	mM	0.56	NaN	C00026	R01090	62450	pH 8.0, 25°C, substrate L-tryptophan	640012, 640030
 Michaelis constant	M_akg_c	R_LEUTAi	mM	0.56	NaN	C00026	R01090	62450	pH 8.0, 25°C, substrate L-tryptophan	640012, 640030
 Michaelis constant	M_4mop_c	R_LEUTAi	mM	0.56	NaN	C00233	R01090	62451	pH 8.0, 37°C	640005
-Michaelis constant	M_leu__L_c	R_LEUTAi	mM	0.58	NaN	C16439	R01090	62460	pH 8.0, 37°C	640005
-Michaelis constant	M_leu__L_c	R_LEUTAi	mM	0.58	NaN	C16439	R01090	62460	pH 8.0, 37°C	640005
-Michaelis constant	M_leu__L_c	R_LEUTAi	mM	0.58	NaN	C16439	R01090	62460	pH 8.0, 37°C	640005
-Michaelis constant	M_leu__L_c	R_LEUTAi	mM	0.58	NaN	C16439	R01090	62460	pH 8.0, 37°C	640005
-Michaelis constant	M_leu__L_c	R_LEUTAi	mM	0.58	NaN	C16439	R01090	62460	pH 8.0, 37°C	640005
+Michaelis constant	M_leu__L_c	R_LEUTAi	mM	0.58	NaN	C00123	R01090	62460	pH 8.0, 37°C	640005
+Michaelis constant	M_leu__L_c	R_LEUTAi	mM	0.58	NaN	C00123	R01090	62460	pH 8.0, 37°C	640005
+Michaelis constant	M_leu__L_c	R_LEUTAi	mM	0.58	NaN	C00123	R01090	62460	pH 8.0, 37°C	640005
+Michaelis constant	M_leu__L_c	R_LEUTAi	mM	0.58	NaN	C00123	R01090	62460	pH 8.0, 37°C	640005
+Michaelis constant	M_leu__L_c	R_LEUTAi	mM	0.58	NaN	C00123	R01090	62460	pH 8.0, 37°C	640005
 Michaelis constant	M_akg_c	R_LEUTAi	mM	1.0	NaN	C00026	R01090	62491	pH 8.0, 25°C, substrate L-methionine	640012
 Michaelis constant	M_akg_c	R_LEUTAi	mM	1.0	NaN	C00026	R01090	62491	pH 8.0, 25°C, substrate L-methionine	640012
 Michaelis constant	M_akg_c	R_LEUTAi	mM	1.0	NaN	C00026	R01090	62494	pH 8.0, 25°C, substrate L-methionine	640030
@@ -1148,16 +1148,16 @@ Michaelis constant	M_akg_c	R_LEUTAi	mM	1.28	NaN	C00026	R01090	62505	pH 8.0, 37°
 Michaelis constant	M_akg_c	R_LEUTAi	mM	1.28	NaN	C00026	R01090	62505	pH 8.0, 37°C	640005
 Michaelis constant	M_akg_c	R_LEUTAi	mM	1.7	NaN	C00026	R01090	62522	pH 8.0, 25°C, substrate L-valine	640012, 640030
 Michaelis constant	M_akg_c	R_LEUTAi	mM	1.7	NaN	C00026	R01090	62522	pH 8.0, 25°C, substrate L-valine	640012, 640030
-Michaelis constant	M_leu__L_c	R_LEUTAi	mM	2.2	NaN	C16439	R01090	62532	pH 8.0, 25°C	640012
-Michaelis constant	M_leu__L_c	R_LEUTAi	mM	2.2	NaN	C16439	R01090	62532	pH 8.0, 25°C	640012
-Michaelis constant	M_leu__L_c	R_LEUTAi	mM	2.2	NaN	C16439	R01090	62532	pH 8.0, 25°C	640012
-Michaelis constant	M_leu__L_c	R_LEUTAi	mM	2.2	NaN	C16439	R01090	62532	pH 8.0, 25°C	640012
-Michaelis constant	M_leu__L_c	R_LEUTAi	mM	2.2	NaN	C16439	R01090	62532	pH 8.0, 25°C	640012
-Michaelis constant	M_leu__L_c	R_LEUTAi	mM	2.2	NaN	C16439	R01090	62533	pH 8.0, 25°C, 2-oxoglutarate as amino group acceptor	640030
-Michaelis constant	M_leu__L_c	R_LEUTAi	mM	2.2	NaN	C16439	R01090	62533	pH 8.0, 25°C, 2-oxoglutarate as amino group acceptor	640030
-Michaelis constant	M_leu__L_c	R_LEUTAi	mM	2.2	NaN	C16439	R01090	62533	pH 8.0, 25°C, 2-oxoglutarate as amino group acceptor	640030
-Michaelis constant	M_leu__L_c	R_LEUTAi	mM	2.2	NaN	C16439	R01090	62533	pH 8.0, 25°C, 2-oxoglutarate as amino group acceptor	640030
-Michaelis constant	M_leu__L_c	R_LEUTAi	mM	2.2	NaN	C16439	R01090	62533	pH 8.0, 25°C, 2-oxoglutarate as amino group acceptor	640030
+Michaelis constant	M_leu__L_c	R_LEUTAi	mM	2.2	NaN	C00123	R01090	62532	pH 8.0, 25°C	640012
+Michaelis constant	M_leu__L_c	R_LEUTAi	mM	2.2	NaN	C00123	R01090	62532	pH 8.0, 25°C	640012
+Michaelis constant	M_leu__L_c	R_LEUTAi	mM	2.2	NaN	C00123	R01090	62532	pH 8.0, 25°C	640012
+Michaelis constant	M_leu__L_c	R_LEUTAi	mM	2.2	NaN	C00123	R01090	62532	pH 8.0, 25°C	640012
+Michaelis constant	M_leu__L_c	R_LEUTAi	mM	2.2	NaN	C00123	R01090	62532	pH 8.0, 25°C	640012
+Michaelis constant	M_leu__L_c	R_LEUTAi	mM	2.2	NaN	C00123	R01090	62533	pH 8.0, 25°C, 2-oxoglutarate as amino group acceptor	640030
+Michaelis constant	M_leu__L_c	R_LEUTAi	mM	2.2	NaN	C00123	R01090	62533	pH 8.0, 25°C, 2-oxoglutarate as amino group acceptor	640030
+Michaelis constant	M_leu__L_c	R_LEUTAi	mM	2.2	NaN	C00123	R01090	62533	pH 8.0, 25°C, 2-oxoglutarate as amino group acceptor	640030
+Michaelis constant	M_leu__L_c	R_LEUTAi	mM	2.2	NaN	C00123	R01090	62533	pH 8.0, 25°C, 2-oxoglutarate as amino group acceptor	640030
+Michaelis constant	M_leu__L_c	R_LEUTAi	mM	2.2	NaN	C00123	R01090	62533	pH 8.0, 25°C, 2-oxoglutarate as amino group acceptor	640030
 Michaelis constant	M_akg_c	R_LEUTAi	mM	2.4	NaN	C00026	R01090	62535	pH 8.0, 25°C, substrate L-isoleucine	640012, 640030
 Michaelis constant	M_akg_c	R_LEUTAi	mM	2.4	NaN	C00026	R01090	62535	pH 8.0, 25°C, substrate L-isoleucine	640012, 640030
 Michaelis constant	M_akg_c	R_LEUTAi	mM	6.6	NaN	C00026	R01090	62584	pH 8.0, 25°C, substrate L-leucine	640012, 640030
@@ -1222,7 +1222,7 @@ Michaelis constant	M_nad_c	R_IPMD	mM	0.321	NaN	C00003	R04426	6661	pH 7.6, 40°C	
 Michaelis constant	M_nad_c	R_IPMD	mM	0.321	NaN	C00003	R04426	6661	pH 7.6, 40°C	639164
 Michaelis constant	M_nad_c	R_IPMD	mM	0.321	NaN	C00003	R04426	6661	pH 7.6, 40°C	639164
 Michaelis constant	M_5aizc_c	R_AIRC3	mM	0.0226	NaN	C04751	R07405	130083	wild-type, pH 7.5, 23°C	678260
-Michaelis constant	M_g3p_c	R_TALA	mM	0.038	NaN	C00661	R01827	44724	nan	486041
+Michaelis constant	M_g3p_c	R_TALA	mM	0.038	NaN	C00118	R01827	44724	nan	486041
 Michaelis constant	M_e4p_c	R_TALA	mM	0.078	NaN	C00279	R01827	44727	T156A	486044
 Michaelis constant	M_e4p_c	R_TALA	mM	0.09	NaN	C00279	R01827	44728	nan	486041
 Michaelis constant	M_e4p_c	R_TALA	mM	0.1	NaN	C00279	R01827	44730	wild-type, N35A	486044
@@ -1247,13 +1247,13 @@ Michaelis constant	M_f6p_c	R_TALA	mM	1.2	NaN	C05345	R01827	44762	R300E	486043
 Michaelis constant	M_f6p_c	R_TALA	mM	1.2	NaN	C05345	R01827	44763	wild-type	486044
 Michaelis constant	M_f6p_c	R_TALA	mM	1.35	NaN	C05345	R01827	44764	R300A	486043
 Michaelis constant	M_f6p_c	R_TALA	mM	1.5	NaN	C05345	R01827	44765	mutant F189Y, reaction: fructose 6-phosphate cleavage into dihydroxyacetone and glyceraldehyde 3-phosphate	687768
-Michaelis constant	M_g3p_c	R_TALA	mM	1.9	NaN	C00661	R01827	44767	wild-type, pH 8.5, 30°C	719298
-Michaelis constant	M_g3p_c	R_TALA	mM	2.4	NaN	C00661	R01827	44769	mutant F178, pH 8.5, 30°C	719298
+Michaelis constant	M_g3p_c	R_TALA	mM	1.9	NaN	C00118	R01827	44767	wild-type, pH 8.5, 30°C	719298
+Michaelis constant	M_g3p_c	R_TALA	mM	2.4	NaN	C00118	R01827	44769	mutant F178, pH 8.5, 30°C	719298
 Michaelis constant	M_f6p_c	R_TALA	mM	4.9	NaN	C05345	R01827	44770	S176A	486044
 Michaelis constant	M_f6p_c	R_TALA	mM	22.0	NaN	C05345	R01827	44772	mutant F189Y, reaction: sedoheptulose 7-phosphate and D-glyceraldehyde 3-phosphate formation from erythrose 4-phosphate + D-fructose 6-phosphate	687768
 Michaelis constant	M_xu5p__D_c	R_TKT1	mM	0.16	NaN	C00231		44624	nan	486023, 486026
 Michaelis constant	M_xu5p__D_c	R_TKT1	mM	0.16	NaN	C00231		44624	nan	486023, 486026
-Michaelis constant	M_g3p_c	R_TKT1	mM	2.1	NaN	C00661		44682	nan	486023, 486026
+Michaelis constant	M_g3p_c	R_TKT1	mM	2.1	NaN	C00118		44682	nan	486023, 486026
 Michaelis constant	M_s7p_c	R_TKT1	mM	4.0	NaN	C05382		44688	nan	486023
 Michaelis constant	M_dudp_c	R_RNDR4	mM	0.22	NaN	C01346	R02018	40525	nan	437939
 Michaelis constant	M_dudp_c	R_RNDR4	mM	0.22	NaN	C01346	R02018	40525	nan	437939
@@ -1942,25 +1942,25 @@ Michaelis constant	M_mlthf_c	R_GHMT2r	mM	0.019	NaN	C00143	R00945	44037	mutant en
 Michaelis constant	M_mlthf_c	R_GHMT2r	mM	0.02	NaN	C00143	R00945	44039	mutant enzyme P214A; mutant enzyme P214G; mutant enzyme P216A	659237
 Michaelis constant	M_mlthf_c	R_GHMT2r	mM	0.08	NaN	C00143	R00945	44046	nan	441412
 Michaelis constant	M_mlthf_c	R_GHMT2r	mM	0.085	NaN	C00143	R00945	44047	mutant enzyme P216G	659237
-Michaelis constant	M_ser__L_c	R_GHMT2r	mM	0.13	NaN	C00716	R00945	44050	mutant enzyme P218A; mutant enzyme P218G	659237
-Michaelis constant	M_ser__L_c	R_GHMT2r	mM	0.14	NaN	C00716	R00945	44051	mutant enzyme P214A	659237
-Michaelis constant	M_ser__L_c	R_GHMT2r	mM	0.14	NaN	C00716	R00945	44052	apparent value, wild type enzyme, at 20°C in 50 mM Na-HEPES (pH 7.2), containing 0.2 mM dithiothreitol and 0.1 mM EDTA	703634
-Michaelis constant	M_ser__L_c	R_GHMT2r	mM	0.14	NaN	C00716	R00945	44052	apparent value, wild type enzyme, at 20°C in 50 mM Na-HEPES (pH 7.2), containing 0.2 mM dithiothreitol and 0.1 mM EDTA	703634
-Michaelis constant	M_ser__L_c	R_GHMT2r	mM	0.15	NaN	C00716	R00945	44054	apparent value, mutant enzyme L85A, at 20°C in 50 mM Na-HEPES (pH 7.2), containing 0.2 mM dithiothreitol and 0.1 mM EDTA	703634
-Michaelis constant	M_ser__L_c	R_GHMT2r	mM	0.15	NaN	C00716	R00945	44054	apparent value, mutant enzyme L85A, at 20°C in 50 mM Na-HEPES (pH 7.2), containing 0.2 mM dithiothreitol and 0.1 mM EDTA	703634
-Michaelis constant	M_ser__L_c	R_GHMT2r	mM	0.15	NaN	C00716	R00945	44059	nan	441412
-Michaelis constant	M_ser__L_c	R_GHMT2r	mM	0.15	NaN	C00716	R00945	44059	nan	441412
-Michaelis constant	M_ser__L_c	R_GHMT2r	mM	0.2	NaN	C00716	R00945	44067	apparent value, mutant enzyme L276A, at 20°C in 50 mM Na-HEPES (pH 7.2), containing 0.2 mM dithiothreitol and 0.1 mM EDTA; apparent value, mutant enzyme L85A/L276A, at 20°C in 50 mM Na-HEPES (pH 7.2), containing 0.2 mM dithiothreitol and 0.1 mM EDTA	703634
-Michaelis constant	M_ser__L_c	R_GHMT2r	mM	0.2	NaN	C00716	R00945	44067	apparent value, mutant enzyme L276A, at 20°C in 50 mM Na-HEPES (pH 7.2), containing 0.2 mM dithiothreitol and 0.1 mM EDTA; apparent value, mutant enzyme L85A/L276A, at 20°C in 50 mM Na-HEPES (pH 7.2), containing 0.2 mM dithiothreitol and 0.1 mM EDTA	703634
-Michaelis constant	M_ser__L_c	R_GHMT2r	mM	0.24	NaN	C00716	R00945	44071	mutant enzyme P214G	659237
-Michaelis constant	M_ser__L_c	R_GHMT2r	mM	0.25	NaN	C00716	R00945	44072	mutant enzyme P216A	659237
-Michaelis constant	M_ser__L_c	R_GHMT2r	mM	0.3	NaN	C00716	R00945	44078	wild-type enzyme	659237
-Michaelis constant	M_ser__L_c	R_GHMT2r	mM	0.3	NaN	C00716	R00945	44079	wild-type enzyme, pH and temperature not specified in the publication	718984
-Michaelis constant	M_ser__L_c	R_GHMT2r	mM	0.3	NaN	C00716	R00945	44079	wild-type enzyme, pH and temperature not specified in the publication	718984
-Michaelis constant	M_ser__L_c	R_GHMT2r	mM	0.33	NaN	C00716	R00945	44082	mutant enzyme P264A	659237
-Michaelis constant	M_ser__L_c	R_GHMT2r	mM	0.58	NaN	C00716	R00945	44085	mutant enzyme P216G	659237
-Michaelis constant	M_ser__L_c	R_GHMT2r	mM	1.33	NaN	C00716	R00945	44107	mutant enzyme P264G	659237
-Michaelis constant	M_ser__L_c	R_GHMT2r	mM	8.0	NaN	C00716	R00945	44120	mutant enzyme P258A	659237
+Michaelis constant	M_ser__L_c	R_GHMT2r	mM	0.13	NaN	C00065	R00945	44050	mutant enzyme P218A; mutant enzyme P218G	659237
+Michaelis constant	M_ser__L_c	R_GHMT2r	mM	0.14	NaN	C00065	R00945	44051	mutant enzyme P214A	659237
+Michaelis constant	M_ser__L_c	R_GHMT2r	mM	0.14	NaN	C00065	R00945	44052	apparent value, wild type enzyme, at 20°C in 50 mM Na-HEPES (pH 7.2), containing 0.2 mM dithiothreitol and 0.1 mM EDTA	703634
+Michaelis constant	M_ser__L_c	R_GHMT2r	mM	0.14	NaN	C00065	R00945	44052	apparent value, wild type enzyme, at 20°C in 50 mM Na-HEPES (pH 7.2), containing 0.2 mM dithiothreitol and 0.1 mM EDTA	703634
+Michaelis constant	M_ser__L_c	R_GHMT2r	mM	0.15	NaN	C00065	R00945	44054	apparent value, mutant enzyme L85A, at 20°C in 50 mM Na-HEPES (pH 7.2), containing 0.2 mM dithiothreitol and 0.1 mM EDTA	703634
+Michaelis constant	M_ser__L_c	R_GHMT2r	mM	0.15	NaN	C00065	R00945	44054	apparent value, mutant enzyme L85A, at 20°C in 50 mM Na-HEPES (pH 7.2), containing 0.2 mM dithiothreitol and 0.1 mM EDTA	703634
+Michaelis constant	M_ser__L_c	R_GHMT2r	mM	0.15	NaN	C00065	R00945	44059	nan	441412
+Michaelis constant	M_ser__L_c	R_GHMT2r	mM	0.15	NaN	C00065	R00945	44059	nan	441412
+Michaelis constant	M_ser__L_c	R_GHMT2r	mM	0.2	NaN	C00065	R00945	44067	apparent value, mutant enzyme L276A, at 20°C in 50 mM Na-HEPES (pH 7.2), containing 0.2 mM dithiothreitol and 0.1 mM EDTA; apparent value, mutant enzyme L85A/L276A, at 20°C in 50 mM Na-HEPES (pH 7.2), containing 0.2 mM dithiothreitol and 0.1 mM EDTA	703634
+Michaelis constant	M_ser__L_c	R_GHMT2r	mM	0.2	NaN	C00065	R00945	44067	apparent value, mutant enzyme L276A, at 20°C in 50 mM Na-HEPES (pH 7.2), containing 0.2 mM dithiothreitol and 0.1 mM EDTA; apparent value, mutant enzyme L85A/L276A, at 20°C in 50 mM Na-HEPES (pH 7.2), containing 0.2 mM dithiothreitol and 0.1 mM EDTA	703634
+Michaelis constant	M_ser__L_c	R_GHMT2r	mM	0.24	NaN	C00065	R00945	44071	mutant enzyme P214G	659237
+Michaelis constant	M_ser__L_c	R_GHMT2r	mM	0.25	NaN	C00065	R00945	44072	mutant enzyme P216A	659237
+Michaelis constant	M_ser__L_c	R_GHMT2r	mM	0.3	NaN	C00065	R00945	44078	wild-type enzyme	659237
+Michaelis constant	M_ser__L_c	R_GHMT2r	mM	0.3	NaN	C00065	R00945	44079	wild-type enzyme, pH and temperature not specified in the publication	718984
+Michaelis constant	M_ser__L_c	R_GHMT2r	mM	0.3	NaN	C00065	R00945	44079	wild-type enzyme, pH and temperature not specified in the publication	718984
+Michaelis constant	M_ser__L_c	R_GHMT2r	mM	0.33	NaN	C00065	R00945	44082	mutant enzyme P264A	659237
+Michaelis constant	M_ser__L_c	R_GHMT2r	mM	0.58	NaN	C00065	R00945	44085	mutant enzyme P216G	659237
+Michaelis constant	M_ser__L_c	R_GHMT2r	mM	1.33	NaN	C00065	R00945	44107	mutant enzyme P264G	659237
+Michaelis constant	M_ser__L_c	R_GHMT2r	mM	8.0	NaN	C00065	R00945	44120	mutant enzyme P258A	659237
 Michaelis constant	M_sl26da_c	R_SDPDS	mM	1.3	NaN	C04421	R02734	108751	37°C, pH 8.1	246563
 Michaelis constant	M_sl26da_c	R_SDPDS	mM	1.5	NaN	C04421	R02734	108754	37°C, pH 8.1, in the presence of Co2+	246563
 Michaelis constant	M_utp_c	R_CTPS2	mM	0.027000000000000003	NaN	C00075	R00573	135699	pH 8.0, 25°C, without GTP	648997
@@ -2616,17 +2616,6 @@ Michaelis constant	M_amp_c	R_PRPPS	mM	0.132	NaN	C00020		70779	pH 8.0, 37ºC	6427
 Michaelis constant	M_amp_c	R_PRPPS	mM	0.132	NaN	C00020		70779	pH 8.0, 37ºC	642724
 Michaelis constant	M_amp_c	R_PRPPS	mM	0.132	NaN	C00020		70779	pH 8.0, 37ºC	642724
 Michaelis constant	M_amp_c	R_PRPPS	mM	0.132	NaN	C00020		70779	pH 8.0, 37ºC	642724
-Michaelis constant	M_nh4_c	R_GLUN	mM	0.09	NaN	C00014	R00256	136625	40°C, pH 8.0, His-ATPP/DD	676993
-Michaelis constant	M_nh4_c	R_GLUN	mM	0.09	NaN	C00014	R00256	136625	40°C, pH 8.0, His-ATPP/DD	676993
-Michaelis constant	M_nh4_c	R_GLUN	mM	0.09	NaN	C00014	R00256	136625	40°C, pH 8.0, His-ATPP/DD	676993
-Michaelis constant	M_nh4_c	R_GLUN	mM	0.10300000000000001	NaN	C00014	R00256	136627	40°C, pH 8.0, wild-type enzyme	676993
-Michaelis constant	M_nh4_c	R_GLUN	mM	0.10300000000000001	NaN	C00014	R00256	136627	40°C, pH 8.0, wild-type enzyme	676993
-Michaelis constant	M_nh4_c	R_GLUN	mM	0.10300000000000001	NaN	C00014	R00256	136627	40°C, pH 8.0, wild-type enzyme	676993
-Michaelis constant	M_nh4_c	R_GLUN	mM	0.127	NaN	C00014	R00256	136632	40°C, pH 8.0, NF-ATPP/DD	676993
-Michaelis constant	M_nh4_c	R_GLUN	mM	0.127	NaN	C00014	R00256	136632	40°C, pH 8.0, NF-ATPP/DD	676993
-Michaelis constant	M_nh4_c	R_GLUN	mM	0.127	NaN	C00014	R00256	136632	40°C, pH 8.0, NF-ATPP/DD	676993
-Michaelis constant	M_nh4_c	R_GLUN	mM	1.0	NaN	C00014	R00256	136653	Gln	1360
-Michaelis constant	M_nh4_c	R_GLUN	mM	1.0	NaN	C00014	R00256	136654	Gln	1382
 Michaelis constant	M_prfp_c	R_PRMICI	mM	1.6	NaN	C04896	R04640	128729	25°C, pH 7.5	648892
 Michaelis constant	M_prfp_c	R_PRMICI	mM	1.8	NaN	C04896	R04640	128730	37°C, pH 7.5	648892
 Michaelis constant	M_prpp_c	R_GLUPRT	mM	0.031	NaN	C00119	R01072	56716	P410W mutant enzyme	489766
@@ -2682,8 +2671,8 @@ Michaelis constant	M_gln__L_c	R_GLUPRT	mM	193.0	NaN	C00064	R01072	56772	5-phosph
 Michaelis constant	M_gln__L_c	R_GLUPRT	mM	236.0	NaN	C00064	R01072	56773	D127A mutant enzyme, 5-phospho-alpha-D-ribose 1-diphosphate-dependent glutaminase activity	489767
 Michaelis constant	M_gln__L_c	R_GLUPRT	mM	236.0	NaN	C00064	R01072	56773	D127A mutant enzyme, 5-phospho-alpha-D-ribose 1-diphosphate-dependent glutaminase activity	489767
 Michaelis constant	M_gln__L_c	R_GLUPRT	mM	236.0	NaN	C00064	R01072	56773	D127A mutant enzyme, 5-phospho-alpha-D-ribose 1-diphosphate-dependent glutaminase activity	489767
-Michaelis constant	M_ser__L_c	R_SERAT	mM	0.11	NaN	C00716	R00586	46551	nan	486752
-Michaelis constant	M_ser__L_c	R_SERAT	mM	0.11	NaN	C00716	R00586	46551	nan	486752
+Michaelis constant	M_ser__L_c	R_SERAT	mM	0.11	NaN	C00065	R00586	46551	nan	486752
+Michaelis constant	M_ser__L_c	R_SERAT	mM	0.11	NaN	C00065	R00586	46551	nan	486752
 Michaelis constant	M_accoa_c	R_SERAT	mM	0.56	NaN	C00024	R00586	46571	nan	486752
 Michaelis constant	M_accoa_c	R_SERAT	mM	0.56	NaN	C00024	R00586	46571	nan	486752
 Michaelis constant	M_accoa_c	R_SERAT	mM	0.56	NaN	C00024	R00586	46571	nan	486752
@@ -2914,22 +2903,22 @@ Michaelis constant	M_nad_c	R_GAPD	mM	0.19	NaN	C00003	R01061	16488	mutant N313T a
 Michaelis constant	M_nad_c	R_GAPD	mM	0.19	NaN	C00003	R01061	16488	mutant N313T and Y317G	287927
 Michaelis constant	M_nad_c	R_GAPD	mM	0.19	NaN	C00003	R01061	16488	mutant N313T and Y317G	287927
 Michaelis constant	M_nad_c	R_GAPD	mM	0.19	NaN	C00003	R01061	16488	mutant N313T and Y317G	287927
-Michaelis constant	M_g3p_c	R_GAPD	mM	0.29	NaN	C00661	R01061	16507	mutant N313T/Y317G	287927
-Michaelis constant	M_g3p_c	R_GAPD	mM	0.29	NaN	C00661	R01061	16507	mutant N313T/Y317G	287927
-Michaelis constant	M_g3p_c	R_GAPD	mM	0.42	NaN	C00661	R01061	16526	mutant N313T	287927
-Michaelis constant	M_g3p_c	R_GAPD	mM	0.42	NaN	C00661	R01061	16526	mutant N313T	287927
+Michaelis constant	M_g3p_c	R_GAPD	mM	0.29	NaN	C00118	R01061	16507	mutant N313T/Y317G	287927
+Michaelis constant	M_g3p_c	R_GAPD	mM	0.29	NaN	C00118	R01061	16507	mutant N313T/Y317G	287927
+Michaelis constant	M_g3p_c	R_GAPD	mM	0.42	NaN	C00118	R01061	16526	mutant N313T	287927
+Michaelis constant	M_g3p_c	R_GAPD	mM	0.42	NaN	C00118	R01061	16526	mutant N313T	287927
 Michaelis constant	M_pi_c	R_GAPD	mM	0.53	NaN	C00009	R01061	16538	wild-type enzyme	287927
 Michaelis constant	M_pi_c	R_GAPD	mM	0.53	NaN	C00009	R01061	16538	wild-type enzyme	287927
 Michaelis constant	M_pi_c	R_GAPD	mM	0.53	NaN	C00009	R01061	16538	wild-type enzyme	287927
 Michaelis constant	M_pi_c	R_GAPD	mM	0.53	NaN	C00009	R01061	16538	wild-type enzyme	287927
 Michaelis constant	M_pi_c	R_GAPD	mM	0.53	NaN	C00009	R01061	16538	wild-type enzyme	287927
 Michaelis constant	M_pi_c	R_GAPD	mM	0.53	NaN	C00009	R01061	16538	wild-type enzyme	287927
-Michaelis constant	M_g3p_c	R_GAPD	mM	0.88	NaN	C00661	R01061	16553	mutant Y317A	287927
-Michaelis constant	M_g3p_c	R_GAPD	mM	0.88	NaN	C00661	R01061	16553	mutant Y317A	287927
-Michaelis constant	M_g3p_c	R_GAPD	mM	0.89	NaN	C00661	R01061	16554	wild-type enzyme	287927
-Michaelis constant	M_g3p_c	R_GAPD	mM	0.89	NaN	C00661	R01061	16554	wild-type enzyme	287927
-Michaelis constant	M_g3p_c	R_GAPD	mM	2.05	NaN	C00661	R01061	16568	mutant Y317G	287927
-Michaelis constant	M_g3p_c	R_GAPD	mM	2.05	NaN	C00661	R01061	16568	mutant Y317G	287927
+Michaelis constant	M_g3p_c	R_GAPD	mM	0.88	NaN	C00118	R01061	16553	mutant Y317A	287927
+Michaelis constant	M_g3p_c	R_GAPD	mM	0.88	NaN	C00118	R01061	16553	mutant Y317A	287927
+Michaelis constant	M_g3p_c	R_GAPD	mM	0.89	NaN	C00118	R01061	16554	wild-type enzyme	287927
+Michaelis constant	M_g3p_c	R_GAPD	mM	0.89	NaN	C00118	R01061	16554	wild-type enzyme	287927
+Michaelis constant	M_g3p_c	R_GAPD	mM	2.05	NaN	C00118	R01061	16568	mutant Y317G	287927
+Michaelis constant	M_g3p_c	R_GAPD	mM	2.05	NaN	C00118	R01061	16568	mutant Y317G	287927
 Michaelis constant	M_pi_c	R_GAPD	mM	4.8	NaN	C00009	R01061	16579	mutant enzyme Y317A	287927
 Michaelis constant	M_pi_c	R_GAPD	mM	4.8	NaN	C00009	R01061	16579	mutant enzyme Y317A	287927
 Michaelis constant	M_pi_c	R_GAPD	mM	4.8	NaN	C00009	R01061	16579	mutant enzyme Y317A	287927
@@ -3421,7 +3410,7 @@ Michaelis constant	M_atp_c	R_CBPS	mM	0.53	NaN	C00002	R00575	136941	deletion muta
 Michaelis constant	M_atp_c	R_CBPS	mM	0.53	NaN	C00002	R00575	136941	deletion mutant, in comparison to the presence of effectors	651901
 Michaelis constant	M_atp_c	R_CBPS	mM	0.53	NaN	C00002	R00575	136941	deletion mutant, in comparison to the presence of effectors	651901
 Michaelis constant	M_atp_c	R_CBPS	mM	0.53	NaN	C00002	R00575	136941	deletion mutant, in comparison to the presence of effectors	651901
-Michaelis constant	M_hco3_c	R_CBPS	mM	0.64	NaN	C01353	R00575	136943	pH 8.0, 37°C, mutant enzyme P360L	662650
+Michaelis constant	M_hco3_c	R_CBPS	mM	0.64	NaN	C00288	R00575	136943	pH 8.0, 37°C, mutant enzyme P360L	662650
 Michaelis constant	M_atp_c	R_CBPS	mM	0.69	NaN	C00002	R00575	136944	mutant M174E, Gln-dependent ATPase activity, pH 7.6, temperature not specified in the publication	715279
 Michaelis constant	M_atp_c	R_CBPS	mM	0.69	NaN	C00002	R00575	136944	mutant M174E, Gln-dependent ATPase activity, pH 7.6, temperature not specified in the publication	715279
 Michaelis constant	M_atp_c	R_CBPS	mM	0.69	NaN	C00002	R00575	136944	mutant M174E, Gln-dependent ATPase activity, pH 7.6, temperature not specified in the publication	715279
@@ -3440,7 +3429,7 @@ Michaelis constant	M_atp_c	R_CBPS	mM	0.76	NaN	C00002	R00575	136946	pH 8.0, 37°C
 Michaelis constant	M_atp_c	R_CBPS	mM	0.76	NaN	C00002	R00575	136946	pH 8.0, 37°C, mutant enzyme R675L	662650
 Michaelis constant	M_atp_c	R_CBPS	mM	0.76	NaN	C00002	R00575	136946	pH 8.0, 37°C, mutant enzyme R675L	662650
 Michaelis constant	M_atp_c	R_CBPS	mM	0.76	NaN	C00002	R00575	136946	pH 8.0, 37°C, mutant enzyme R675L	662650
-Michaelis constant	M_hco3_c	R_CBPS	mM	0.76	NaN	C01353	R00575	136947	pH 8.0, 25°C, mutant enzyme Q262P	662650
+Michaelis constant	M_hco3_c	R_CBPS	mM	0.76	NaN	C00288	R00575	136947	pH 8.0, 25°C, mutant enzyme Q262P	662650
 Michaelis constant	M_atp_c	R_CBPS	mM	0.87	NaN	C00002	R00575	136948	pH 8.0, 37°C, mutant enzyme A126M	662650
 Michaelis constant	M_atp_c	R_CBPS	mM	0.87	NaN	C00002	R00575	136948	pH 8.0, 37°C, mutant enzyme A126M	662650
 Michaelis constant	M_atp_c	R_CBPS	mM	0.87	NaN	C00002	R00575	136948	pH 8.0, 37°C, mutant enzyme A126M	662650
@@ -3474,14 +3463,14 @@ Michaelis constant	M_atp_c	R_CBPS	mM	1.2	NaN	C00002	R00575	136955	mutant L648E, 
 Michaelis constant	M_atp_c	R_CBPS	mM	1.2	NaN	C00002	R00575	136955	mutant L648E, Gln-dependent ATPase activity, pH 7.6, temperature not specified in the publication	715279
 Michaelis constant	M_atp_c	R_CBPS	mM	1.2	NaN	C00002	R00575	136955	mutant L648E, Gln-dependent ATPase activity, pH 7.6, temperature not specified in the publication	715279
 Michaelis constant	M_atp_c	R_CBPS	mM	1.2	NaN	C00002	R00575	136955	mutant L648E, Gln-dependent ATPase activity, pH 7.6, temperature not specified in the publication	715279
-Michaelis constant	M_hco3_c	R_CBPS	mM	1.2	NaN	C01353	R00575	136957	pH 7.5, 37°C, value of wild-type enzyme in comparison to values of mutant enzymes	652788
+Michaelis constant	M_hco3_c	R_CBPS	mM	1.2	NaN	C00288	R00575	136957	pH 7.5, 37°C, value of wild-type enzyme in comparison to values of mutant enzymes	652788
 Michaelis constant	M_atp_c	R_CBPS	mM	1.28	NaN	C00002	R00575	136958	mutant enzyme W71T, at 25°C in 50 mM HEPES buffer, pH 7.5	672238
 Michaelis constant	M_atp_c	R_CBPS	mM	1.28	NaN	C00002	R00575	136958	mutant enzyme W71T, at 25°C in 50 mM HEPES buffer, pH 7.5	672238
 Michaelis constant	M_atp_c	R_CBPS	mM	1.28	NaN	C00002	R00575	136958	mutant enzyme W71T, at 25°C in 50 mM HEPES buffer, pH 7.5	672238
 Michaelis constant	M_atp_c	R_CBPS	mM	1.28	NaN	C00002	R00575	136958	mutant enzyme W71T, at 25°C in 50 mM HEPES buffer, pH 7.5	672238
 Michaelis constant	M_atp_c	R_CBPS	mM	1.28	NaN	C00002	R00575	136958	mutant enzyme W71T, at 25°C in 50 mM HEPES buffer, pH 7.5	672238
 Michaelis constant	M_atp_c	R_CBPS	mM	1.28	NaN	C00002	R00575	136958	mutant enzyme W71T, at 25°C in 50 mM HEPES buffer, pH 7.5	672238
-Michaelis constant	M_hco3_c	R_CBPS	mM	1.33	NaN	C01353	R00575	136959	pH 8.0, 25°C, wild-type enzyme	662650
+Michaelis constant	M_hco3_c	R_CBPS	mM	1.33	NaN	C00288	R00575	136959	pH 8.0, 25°C, wild-type enzyme	662650
 Michaelis constant	M_atp_c	R_CBPS	mM	1.34	NaN	C00002	R00575	136960	mutant enzyme W461T, at 25°C in 50 mM HEPES buffer, pH 7.5	672238
 Michaelis constant	M_atp_c	R_CBPS	mM	1.34	NaN	C00002	R00575	136960	mutant enzyme W461T, at 25°C in 50 mM HEPES buffer, pH 7.5	672238
 Michaelis constant	M_atp_c	R_CBPS	mM	1.34	NaN	C00002	R00575	136960	mutant enzyme W461T, at 25°C in 50 mM HEPES buffer, pH 7.5	672238
@@ -3518,7 +3507,7 @@ Michaelis constant	M_atp_c	R_CBPS	mM	1.7	NaN	C00002	R00575	136966	mutant L720E, 
 Michaelis constant	M_gln__L_c	R_CBPS	mM	1.86	NaN	C00064	R00575	136970	chimeric enzyme, in absence of ornithine and presence of UMP	652334
 Michaelis constant	M_gln__L_c	R_CBPS	mM	1.86	NaN	C00064	R00575	136970	chimeric enzyme, in absence of ornithine and presence of UMP	652334
 Michaelis constant	M_gln__L_c	R_CBPS	mM	1.86	NaN	C00064	R00575	136970	chimeric enzyme, in absence of ornithine and presence of UMP	652334
-Michaelis constant	M_hco3_c	R_CBPS	mM	1.9	NaN	C01353	R00575	136971	pH 8.0, 37°C, wild-type enzyme	662650
+Michaelis constant	M_hco3_c	R_CBPS	mM	1.9	NaN	C00288	R00575	136971	pH 8.0, 37°C, wild-type enzyme	662650
 Michaelis constant	M_atp_c	R_CBPS	mM	1.94	NaN	C00002	R00575	136972	mutant enzyme W175T, at 25°C in 50 mM HEPES buffer, pH 7.5	672238
 Michaelis constant	M_atp_c	R_CBPS	mM	1.94	NaN	C00002	R00575	136972	mutant enzyme W175T, at 25°C in 50 mM HEPES buffer, pH 7.5	672238
 Michaelis constant	M_atp_c	R_CBPS	mM	1.94	NaN	C00002	R00575	136972	mutant enzyme W175T, at 25°C in 50 mM HEPES buffer, pH 7.5	672238
@@ -3537,8 +3526,8 @@ Michaelis constant	M_atp_c	R_CBPS	mM	3.02	NaN	C00002	R00575	136978	pH 8.0, 37°C
 Michaelis constant	M_gln__L_c	R_CBPS	mM	3.45	NaN	C00064	R00575	136979	pH 7.6, 25°C, mutant N311A, L-glutamine hydrolysis	695002
 Michaelis constant	M_gln__L_c	R_CBPS	mM	3.45	NaN	C00064	R00575	136979	pH 7.6, 25°C, mutant N311A, L-glutamine hydrolysis	695002
 Michaelis constant	M_gln__L_c	R_CBPS	mM	3.45	NaN	C00064	R00575	136979	pH 7.6, 25°C, mutant N311A, L-glutamine hydrolysis	695002
-Michaelis constant	M_hco3_c	R_CBPS	mM	3.65	NaN	C01353	R00575	136980	pH 8.0, 37°C, mutant enzyme V640R	662650
-Michaelis constant	M_hco3_c	R_CBPS	mM	4.46	NaN	C01353	R00575	136981	pH 8.0, 37°C, mutant enzyme R675L	662650
+Michaelis constant	M_hco3_c	R_CBPS	mM	3.65	NaN	C00288	R00575	136980	pH 8.0, 37°C, mutant enzyme V640R	662650
+Michaelis constant	M_hco3_c	R_CBPS	mM	4.46	NaN	C00288	R00575	136981	pH 8.0, 37°C, mutant enzyme R675L	662650
 Michaelis constant	M_gln__L_c	R_CBPS	mM	4.7	NaN	C00064	R00575	136982	pH 7.6, mutant betaQ262A/betaR265A	661134
 Michaelis constant	M_gln__L_c	R_CBPS	mM	7.6	NaN	C00064	R00575	136983	pH 7.6, mutant betaR265A	661134
 Michaelis constant	M_gln__L_c	R_CBPS	mM	7.8	NaN	C00064	R00575	136984	pH 7.6, mutant alphaD362A/betaR265A	661134
@@ -3554,13 +3543,13 @@ Michaelis constant	M_atp_c	R_CBPS	mM	8.36	NaN	C00002	R00575	136986	pH 8.0, 37°C
 Michaelis constant	M_atp_c	R_CBPS	mM	8.36	NaN	C00002	R00575	136986	pH 8.0, 37°C, mutant enzyme P360L	662650
 Michaelis constant	M_atp_c	R_CBPS	mM	8.36	NaN	C00002	R00575	136986	pH 8.0, 37°C, mutant enzyme P360L	662650
 Michaelis constant	M_atp_c	R_CBPS	mM	8.36	NaN	C00002	R00575	136986	pH 8.0, 37°C, mutant enzyme P360L	662650
-Michaelis constant	M_hco3_c	R_CBPS	mM	12.6	NaN	C01353	R00575	136990	pH 8.0, 37°C, mutant enzyme R169H	662650
+Michaelis constant	M_hco3_c	R_CBPS	mM	12.6	NaN	C00288	R00575	136990	pH 8.0, 37°C, mutant enzyme R169H	662650
 Michaelis constant	M_gln__L_c	R_CBPS	mM	14.9	NaN	C00064	R00575	136991	pH 7.6, mutant betaQ262A/betaR265A/betaN266A	661134
 Michaelis constant	M_gln__L_c	R_CBPS	mM	18.87	NaN	C00064	R00575	136994	pH 7.6, 25°C, mutant D334A, L-glutamine hydrolysis	695002
 Michaelis constant	M_gln__L_c	R_CBPS	mM	18.87	NaN	C00064	R00575	136994	pH 7.6, 25°C, mutant D334A, L-glutamine hydrolysis	695002
 Michaelis constant	M_gln__L_c	R_CBPS	mM	18.87	NaN	C00064	R00575	136994	pH 7.6, 25°C, mutant D334A, L-glutamine hydrolysis	695002
-Michaelis constant	M_hco3_c	R_CBPS	mM	23.8	NaN	C01353	R00575	136997	pH 8.0, 37°C, mutant enzyme S789P	662650
-Michaelis constant	M_hco3_c	R_CBPS	mM	32.5	NaN	C01353	R00575	137001	pH 8.0, 37°C, mutant enzyme A126M	662650
+Michaelis constant	M_hco3_c	R_CBPS	mM	23.8	NaN	C00288	R00575	136997	pH 8.0, 37°C, mutant enzyme S789P	662650
+Michaelis constant	M_hco3_c	R_CBPS	mM	32.5	NaN	C00288	R00575	137001	pH 8.0, 37°C, mutant enzyme A126M	662650
 Michaelis constant	M_atp_c	R_GLU5K	mM	0.4	NaN	C00002	R00239	68998	pH 7.0, 37°C, gamma-glutamyl kinase DHPr	642200
 Michaelis constant	M_atp_c	R_GLU5K	mM	0.4	NaN	C00002	R00239	68998	pH 7.0, 37°C, gamma-glutamyl kinase DHPr	642200
 Michaelis constant	M_atp_c	R_GLU5K	mM	0.4	NaN	C00002	R00239	68998	pH 7.0, 37°C, gamma-glutamyl kinase DHPr	642200
@@ -3726,40 +3715,40 @@ Michaelis constant	M_cyst__L_c	R_CYSTL	mM	2.1	NaN	C02291	R01286	125374	pH 8.5, 2
 Michaelis constant	M_cyst__L_c	R_CYSTL	mM	3.8	NaN	C02291	R01286	125376	pH 8.5, 25°C, recombinant chimeric mutant enzyme eCGS-sC-eCBL	729293
 Michaelis constant	M_cyst__L_c	R_CYSTL	mM	5.1	NaN	C02291	R01286	125379	mutant enzyme R58A, at 25°C	710499
 Michaelis constant	M_cyst__L_c	R_CYSTL	mM	15.0	NaN	C02291	R01286	125382	mutant enzyme R372K, at 25°C	710499
-Michaelis constant	M_cys__L_c	R_SHSL1	mM	0.1	NaN	C00736	R03260	60193	pH 7.8, 25°C, replacement reaction, ordered mechanism	657952
-Michaelis constant	M_cys__L_c	R_SHSL1	mM	0.1	NaN	C00736	R03260	60193	pH 7.8, 25°C, replacement reaction, ordered mechanism	657952
+Michaelis constant	M_cys__L_c	R_SHSL1	mM	0.1	NaN	C00097	R03260	60193	pH 7.8, 25°C, replacement reaction, ordered mechanism	657952
+Michaelis constant	M_cys__L_c	R_SHSL1	mM	0.1	NaN	C00097	R03260	60193	pH 7.8, 25°C, replacement reaction, ordered mechanism	657952
 Michaelis constant	M_cyst__L_c	R_SHSL1	mM	0.11	NaN	C02291	R03260	60194	wild-type, 25°C, pH 7.8	702106
-Michaelis constant	M_cys__L_c	R_SHSL1	mM	0.11	NaN	C00736	R03260	60195	pH 7.8, 25°C, replacement reaction, modified ping-pong mechanism	657952
-Michaelis constant	M_cys__L_c	R_SHSL1	mM	0.11	NaN	C00736	R03260	60195	pH 7.8, 25°C, replacement reaction, modified ping-pong mechanism	657952
-Michaelis constant	M_cys__L_c	R_SHSL1	mM	0.12	NaN	C00736	R03260	60196	mutant R49A, pH 7.8, 25°C	723726
-Michaelis constant	M_cys__L_c	R_SHSL1	mM	0.12	NaN	C00736	R03260	60196	mutant R49A, pH 7.8, 25°C	723726
-Michaelis constant	M_cys__L_c	R_SHSL1	mM	0.15	NaN	C00736	R03260	60198	mutant Y101F, pH 7.8, 25°C	723726
-Michaelis constant	M_cys__L_c	R_SHSL1	mM	0.15	NaN	C00736	R03260	60198	mutant Y101F, pH 7.8, 25°C	723726
-Michaelis constant	M_cys__L_c	R_SHSL1	mM	0.17	NaN	C00736	R03260	60199	mutant E325A, pH 7.8, 25°C	723726
-Michaelis constant	M_cys__L_c	R_SHSL1	mM	0.17	NaN	C00736	R03260	60199	mutant E325A, pH 7.8, 25°C	723726
-Michaelis constant	M_cys__L_c	R_SHSL1	mM	0.2	NaN	C00736	R03260	60201	mutant S326A, pH 7.8, 25°C	723726
-Michaelis constant	M_cys__L_c	R_SHSL1	mM	0.2	NaN	C00736	R03260	60201	mutant S326A, pH 7.8, 25°C	723726
-Michaelis constant	M_cys__L_c	R_SHSL1	mM	0.22	NaN	C00736	R03260	60202	mutant R361K, pH 7.8, 25°C; mutant R48K, pH 7.8, 25°C	723726
-Michaelis constant	M_cys__L_c	R_SHSL1	mM	0.22	NaN	C00736	R03260	60202	mutant R361K, pH 7.8, 25°C; mutant R48K, pH 7.8, 25°C	723726
-Michaelis constant	M_cys__L_c	R_SHSL1	mM	0.24	NaN	C00736	R03260	60204	wild-type, pH 7.8, 25°C	723726
-Michaelis constant	M_cys__L_c	R_SHSL1	mM	0.24	NaN	C00736	R03260	60204	wild-type, pH 7.8, 25°C	723726
+Michaelis constant	M_cys__L_c	R_SHSL1	mM	0.11	NaN	C00097	R03260	60195	pH 7.8, 25°C, replacement reaction, modified ping-pong mechanism	657952
+Michaelis constant	M_cys__L_c	R_SHSL1	mM	0.11	NaN	C00097	R03260	60195	pH 7.8, 25°C, replacement reaction, modified ping-pong mechanism	657952
+Michaelis constant	M_cys__L_c	R_SHSL1	mM	0.12	NaN	C00097	R03260	60196	mutant R49A, pH 7.8, 25°C	723726
+Michaelis constant	M_cys__L_c	R_SHSL1	mM	0.12	NaN	C00097	R03260	60196	mutant R49A, pH 7.8, 25°C	723726
+Michaelis constant	M_cys__L_c	R_SHSL1	mM	0.15	NaN	C00097	R03260	60198	mutant Y101F, pH 7.8, 25°C	723726
+Michaelis constant	M_cys__L_c	R_SHSL1	mM	0.15	NaN	C00097	R03260	60198	mutant Y101F, pH 7.8, 25°C	723726
+Michaelis constant	M_cys__L_c	R_SHSL1	mM	0.17	NaN	C00097	R03260	60199	mutant E325A, pH 7.8, 25°C	723726
+Michaelis constant	M_cys__L_c	R_SHSL1	mM	0.17	NaN	C00097	R03260	60199	mutant E325A, pH 7.8, 25°C	723726
+Michaelis constant	M_cys__L_c	R_SHSL1	mM	0.2	NaN	C00097	R03260	60201	mutant S326A, pH 7.8, 25°C	723726
+Michaelis constant	M_cys__L_c	R_SHSL1	mM	0.2	NaN	C00097	R03260	60201	mutant S326A, pH 7.8, 25°C	723726
+Michaelis constant	M_cys__L_c	R_SHSL1	mM	0.22	NaN	C00097	R03260	60202	mutant R361K, pH 7.8, 25°C; mutant R48K, pH 7.8, 25°C	723726
+Michaelis constant	M_cys__L_c	R_SHSL1	mM	0.22	NaN	C00097	R03260	60202	mutant R361K, pH 7.8, 25°C; mutant R48K, pH 7.8, 25°C	723726
+Michaelis constant	M_cys__L_c	R_SHSL1	mM	0.24	NaN	C00097	R03260	60204	wild-type, pH 7.8, 25°C	723726
+Michaelis constant	M_cys__L_c	R_SHSL1	mM	0.24	NaN	C00097	R03260	60204	wild-type, pH 7.8, 25°C	723726
 Michaelis constant	M_cyst__L_c	R_SHSL1	mM	0.26	NaN	C02291	R03260	60205	mutant E325Y 25°C, pH 7.8	702106
-Michaelis constant	M_cys__L_c	R_SHSL1	mM	0.29	NaN	C00736	R03260	60206	mutant E325Q, pH 7.8, 25°C	723726
-Michaelis constant	M_cys__L_c	R_SHSL1	mM	0.29	NaN	C00736	R03260	60206	mutant E325Q, pH 7.8, 25°C	723726
-Michaelis constant	M_cys__L_c	R_SHSL1	mM	0.3	NaN	C00736	R03260	60207	mutant N227A, pH 7.8, 25°C	723726
-Michaelis constant	M_cys__L_c	R_SHSL1	mM	0.3	NaN	C00736	R03260	60207	mutant N227A, pH 7.8, 25°C	723726
+Michaelis constant	M_cys__L_c	R_SHSL1	mM	0.29	NaN	C00097	R03260	60206	mutant E325Q, pH 7.8, 25°C	723726
+Michaelis constant	M_cys__L_c	R_SHSL1	mM	0.29	NaN	C00097	R03260	60206	mutant E325Q, pH 7.8, 25°C	723726
+Michaelis constant	M_cys__L_c	R_SHSL1	mM	0.3	NaN	C00097	R03260	60207	mutant N227A, pH 7.8, 25°C	723726
+Michaelis constant	M_cys__L_c	R_SHSL1	mM	0.3	NaN	C00097	R03260	60207	mutant N227A, pH 7.8, 25°C	723726
 Michaelis constant	M_suchms_c	R_SHSL1	mM	0.33	NaN	C01118	R03260	60210	pH 8.2, 25°C, gamma-elimination reaction	637444
-Michaelis constant	M_cys__L_c	R_SHSL1	mM	0.36	NaN	C00736	R03260	60211	mutant R49K, pH 7.8, 25°C	723726
-Michaelis constant	M_cys__L_c	R_SHSL1	mM	0.36	NaN	C00736	R03260	60211	mutant R49K, pH 7.8, 25°C	723726
-Michaelis constant	M_cys__L_c	R_SHSL1	mM	0.6	NaN	C00736	R03260	60214	mutant Y46F, pH 7.8, 25°C	723726
-Michaelis constant	M_cys__L_c	R_SHSL1	mM	0.6	NaN	C00736	R03260	60214	mutant Y46F, pH 7.8, 25°C	723726
-Michaelis constant	M_cys__L_c	R_SHSL1	mM	0.65	NaN	C00736	R03260	60216	mutant R106K, pH 7.8, 25°C	723726
-Michaelis constant	M_cys__L_c	R_SHSL1	mM	0.65	NaN	C00736	R03260	60216	mutant R106K, pH 7.8, 25°C	723726
+Michaelis constant	M_cys__L_c	R_SHSL1	mM	0.36	NaN	C00097	R03260	60211	mutant R49K, pH 7.8, 25°C	723726
+Michaelis constant	M_cys__L_c	R_SHSL1	mM	0.36	NaN	C00097	R03260	60211	mutant R49K, pH 7.8, 25°C	723726
+Michaelis constant	M_cys__L_c	R_SHSL1	mM	0.6	NaN	C00097	R03260	60214	mutant Y46F, pH 7.8, 25°C	723726
+Michaelis constant	M_cys__L_c	R_SHSL1	mM	0.6	NaN	C00097	R03260	60214	mutant Y46F, pH 7.8, 25°C	723726
+Michaelis constant	M_cys__L_c	R_SHSL1	mM	0.65	NaN	C00097	R03260	60216	mutant R106K, pH 7.8, 25°C	723726
+Michaelis constant	M_cys__L_c	R_SHSL1	mM	0.65	NaN	C00097	R03260	60216	mutant R106K, pH 7.8, 25°C	723726
 Michaelis constant	M_suchms_c	R_SHSL1	mM	0.7	NaN	C01118	R03260	60217	mutant E325A, pH 7.8, 25°C	723726
-Michaelis constant	M_cys__L_c	R_SHSL1	mM	0.8	NaN	C00736	R03260	60219	mutant D45A, pH 7.8, 25°C	723726
-Michaelis constant	M_cys__L_c	R_SHSL1	mM	0.8	NaN	C00736	R03260	60219	mutant D45A, pH 7.8, 25°C	723726
-Michaelis constant	M_cys__L_c	R_SHSL1	mM	0.9	NaN	C00736	R03260	60221	mutant D45N, pH 7.8, 25°C	723726
-Michaelis constant	M_cys__L_c	R_SHSL1	mM	0.9	NaN	C00736	R03260	60221	mutant D45N, pH 7.8, 25°C	723726
+Michaelis constant	M_cys__L_c	R_SHSL1	mM	0.8	NaN	C00097	R03260	60219	mutant D45A, pH 7.8, 25°C	723726
+Michaelis constant	M_cys__L_c	R_SHSL1	mM	0.8	NaN	C00097	R03260	60219	mutant D45A, pH 7.8, 25°C	723726
+Michaelis constant	M_cys__L_c	R_SHSL1	mM	0.9	NaN	C00097	R03260	60221	mutant D45N, pH 7.8, 25°C	723726
+Michaelis constant	M_cys__L_c	R_SHSL1	mM	0.9	NaN	C00097	R03260	60221	mutant D45N, pH 7.8, 25°C	723726
 Michaelis constant	M_suchms_c	R_SHSL1	mM	1.1	NaN	C01118	R03260	60222	mutant E325Q, pH 7.8, 25°C	723726
 Michaelis constant	M_suchms_c	R_SHSL1	mM	1.2	NaN	C01118	R03260	60223	pH 7.8, 25°C, replacement reaction, ordered mechanism	657952
 Michaelis constant	M_suchms_c	R_SHSL1	mM	1.3	NaN	C01118	R03260	60225	pH 7.8, 25°C, elimination reaction, modified ping-pong mechanism	657952
@@ -3773,8 +3762,8 @@ Michaelis constant	M_suchms_c	R_SHSL1	mM	2.1	NaN	C01118	R03260	60233	mutant E325
 Michaelis constant	M_cyst__L_c	R_SHSL1	mM	2.4	NaN	C02291	R03260	60234	mutant D45F, 25°C, pH 7.8	702106
 Michaelis constant	M_suchms_c	R_SHSL1	mM	2.5	NaN	C01118	R03260	60235	pH 7.8, 25°C, replacement reaction, modified ping-pong mechanism	657952
 Michaelis constant	M_suchms_c	R_SHSL1	mM	2.5	NaN	C01118	R03260	60236	wild-type, gamma-replacement, 25°C, pH 7.8	702106
-Michaelis constant	M_cys__L_c	R_SHSL1	mM	3.0	NaN	C00736	R03260	60240	mutant R106A, pH 7.8, 25°C	723726
-Michaelis constant	M_cys__L_c	R_SHSL1	mM	3.0	NaN	C00736	R03260	60240	mutant R106A, pH 7.8, 25°C	723726
+Michaelis constant	M_cys__L_c	R_SHSL1	mM	3.0	NaN	C00097	R03260	60240	mutant R106A, pH 7.8, 25°C	723726
+Michaelis constant	M_cys__L_c	R_SHSL1	mM	3.0	NaN	C00097	R03260	60240	mutant R106A, pH 7.8, 25°C	723726
 Michaelis constant	M_suchms_c	R_SHSL1	mM	4.4	NaN	C01118	R03260	60245	wild-type, pH 7.8, 25°C	723726
 Michaelis constant	M_suchms_c	R_SHSL1	mM	5.4	NaN	C01118	R03260	60246	mutant D45F, gamma-replacement, 25°C, pH 7.8	702106
 Michaelis constant	M_suchms_c	R_SHSL1	mM	8.0	NaN	C01118	R03260	60248	mutant N227A, pH 7.8, 25°C; mutant R49K, pH 7.8, 25°C	723726
@@ -3797,7 +3786,7 @@ Michaelis constant	M_e4p_c	R_TKT2	mM	0.09	NaN	C00279	R01830	44613	nan	486023, 48
 Michaelis constant	M_xu5p__D_c	R_TKT2	mM	0.16	NaN	C00231	R01830	44624	nan	486023, 486026
 Michaelis constant	M_xu5p__D_c	R_TKT2	mM	0.16	NaN	C00231	R01830	44624	nan	486023, 486026
 Michaelis constant	M_f6p_c	R_TKT2	mM	1.1	NaN	C05345	R01830	44676	nan	486023, 486026
-Michaelis constant	M_g3p_c	R_TKT2	mM	2.1	NaN	C00661	R01830	44682	nan	486023, 486026
+Michaelis constant	M_g3p_c	R_TKT2	mM	2.1	NaN	C00118	R01830	44682	nan	486023, 486026
 Michaelis constant	M_adp_c	R_ATPS4rpp	mM	0.025	NaN	C00008		115058	recombinant subunit epsilon mutant EF1Fo, pH 7.5-8.8, temperature not specified in the publication	712371
 Michaelis constant	M_adp_c	R_ATPS4rpp	mM	0.025	NaN	C00008		115058	recombinant subunit epsilon mutant EF1Fo, pH 7.5-8.8, temperature not specified in the publication	712371
 Michaelis constant	M_adp_c	R_ATPS4rpp	mM	0.025	NaN	C00008		115058	recombinant subunit epsilon mutant EF1Fo, pH 7.5-8.8, temperature not specified in the publication	712371
@@ -3852,10 +3841,10 @@ Michaelis constant	M_pi_c	R_ATPS4rpp	mM	4.2	NaN	C00009		115090	recombinant wild-
 Michaelis constant	M_pi_c	R_ATPS4rpp	mM	4.2	NaN	C00009		115090	recombinant wild-type F1Fo, pH 7.5-8.8, temperature not specified in the publication	712371
 Michaelis constant	M_pi_c	R_ATPS4rpp	mM	4.2	NaN	C00009		115090	recombinant wild-type F1Fo, pH 7.5-8.8, temperature not specified in the publication	712371
 Michaelis constant	M_pi_c	R_ATPS4rpp	mM	4.2	NaN	C00009		115090	recombinant wild-type F1Fo, pH 7.5-8.8, temperature not specified in the publication	712371
-Michaelis constant	M_hcys__L_c	R_METS	mM	0.016	NaN	C05330	R00946	41832	nan	441183, 441188
-Michaelis constant	M_hcys__L_c	R_METS	mM	0.016	NaN	C05330	R00946	41832	nan	441183, 441188
-Michaelis constant	M_hcys__L_c	R_METS	mM	0.069	NaN	C05330	R00946	41842	nan	441217
-Michaelis constant	M_hcys__L_c	R_METS	mM	0.069	NaN	C05330	R00946	41842	nan	441217
+Michaelis constant	M_hcys__L_c	R_METS	mM	0.016	NaN	C00155	R00946	41832	nan	441183, 441188
+Michaelis constant	M_hcys__L_c	R_METS	mM	0.016	NaN	C00155	R00946	41832	nan	441183, 441188
+Michaelis constant	M_hcys__L_c	R_METS	mM	0.069	NaN	C00155	R00946	41842	nan	441217
+Michaelis constant	M_hcys__L_c	R_METS	mM	0.069	NaN	C00155	R00946	41842	nan	441217
 Michaelis constant	M_asp__L_c	R_PRASCSi	mM	0.036000000000000004	NaN	C00049	R04591	134923	nan	1268
 Michaelis constant	M_5aizc_c	R_PRASCSi	mM	1.3	NaN	C04751	R04591	134925	nan	1268
 Michaelis constant	M_acglu_c	R_ACGK	mM	0.2	NaN	C00624	R02649	68904	wild-type, pH 7.0, 25°C	659704
@@ -4884,8 +4873,8 @@ Michaelis constant	M_nadh_c	R_EAR181x	mM	0.4	NaN	C00004		18953	25°C, pH 8.0, M1
 Michaelis constant	M_nadh_c	R_EAR181x	mM	0.4	NaN	C00004		18953	25°C, pH 8.0, M159T mutant	654701
 Michaelis constant	M_nadh_c	R_EAR181x	mM	0.4	NaN	C00004		18953	25°C, pH 8.0, M159T mutant	654701
 Michaelis constant	M_nadh_c	R_EAR181x	mM	0.4	NaN	C00004		18953	25°C, pH 8.0, M159T mutant	654701
-Michaelis constant	M_g3p_c	R_TPI	mM	1.03	NaN	C00661	R01015	127828	pH 7.6, wild-type enzyme	2586
-Michaelis constant	M_g3p_c	R_TPI	mM	1.03	NaN	C00661	R01015	127828	pH 7.6, wild-type enzyme	2586
+Michaelis constant	M_g3p_c	R_TPI	mM	1.03	NaN	C00118	R01015	127828	pH 7.6, wild-type enzyme	2586
+Michaelis constant	M_g3p_c	R_TPI	mM	1.03	NaN	C00118	R01015	127828	pH 7.6, wild-type enzyme	2586
 Michaelis constant	M_nadh_c	R_EAR180x	mM	0.01	NaN	C00004		18910	25°C, pH 8.0, G93V mutant	654701
 Michaelis constant	M_nadh_c	R_EAR180x	mM	0.01	NaN	C00004		18910	25°C, pH 8.0, G93V mutant	654701
 Michaelis constant	M_nadh_c	R_EAR180x	mM	0.01	NaN	C00004		18910	25°C, pH 8.0, G93V mutant	654701
