@@ -4,31 +4,42 @@
 from equilibrator_api import ComponentContribution, Q_
 from equilibrator_pathway import ThermodynamicModel
 import numpy as np
-from tqdm import tqdm
-import pandas as pd
-import scipy
+import scipy.io
+import sbtab
 
 # %%
 cc = ComponentContribution()
 
 
 # %%
-#Compute Standard Free energies
+# Compute Standard Free energies
 pp = ThermodynamicModel.from_sbtab("MDF_model_noFA_noEX.tsv", comp_contrib=cc)
-pp.dg_sigma = pp.dg_sigma.real
-pp.update_standard_dgs()
+mu, sigma = cc.standard_dg_prime_multi(
+    pp.reactions, uncertainty_representation="fullrank", minimize_norm=True
+)
 
+standard_dg_prime_in_kJ_per_mol = mu.m_as("kJ/mol").round(2)
+sigma = sigma.m_as("kJ/mol")
+dg_cov = sigma @ sigma.T
+dg_sigma_in_kJ_per_mol = np.sqrt(np.diag(dg_cov)).round(2)
 
 # %%
-#Run MDF and store results
+# Run MDF and store results
 sol = pp.mdf_analysis()
 
 reaction_df = sol.reaction_df[["reaction_id", "reaction_formula"]].copy()
-reaction_df["standard_dg_prime_in_kJ_per_mol"] = pp.standard_dg_primes.m_as("kJ/mol").round(2)
-reaction_df["dg_sigma_in_kJ_per_mol"] = np.sqrt(np.diag((pp.dg_sigma @ pp.dg_sigma.T).m_as("kJ**2/mol**2"))).round(2)
-reaction_df.to_csv('out1.csv')
+reaction_df["standard_dg_prime_in_kJ_per_mol"] = standard_dg_prime_in_kJ_per_mol
+reaction_df["dg_sigma_in_kJ_per_mol"] = dg_sigma_in_kJ_per_mol
+
+sbtabdoc = sbtab.SBtab.SBtabDocument()
+sbtabdoc.add_sbtab(
+    sbtab.SBtab.SBtabTable.from_data_frame(
+        reaction_df.applymap(str), table_id="Thermodynamics", table_type="Quantity"
+    )
+)
+sbtabdoc.write("out1.tsv")
+
 #%%
-#Save the Covariance matrix as a mat file
-cov_mat=(pp.dg_sigma @ pp.dg_sigma.T).m_as("kJ**2/mol**2")
-mdic = {'dg_cov': cov_mat,'rxn_id':reaction_df['reaction_id'].to_list()}
-scipy.io.savemat('dg_covariance.mat',mdic)
+# Save the Covariance matrix as a mat file
+mdic = {"dg_cov": dg_cov, "rxn_id": reaction_df["reaction_id"].to_list()}
+scipy.io.savemat("dg_covariance.mat", mdic)
