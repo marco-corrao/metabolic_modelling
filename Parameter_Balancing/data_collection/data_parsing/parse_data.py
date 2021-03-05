@@ -109,7 +109,7 @@ parent = os.path.dirname(path) #parent directory
 parent_2=os.path.dirname(parent)
 parent_3=os.path.dirname(parent_2)
 #----------------
-data_path=parent+ '\Data Sources'
+data_path=parent+ '\data_sources'
 export_path=parent+'\out'
 model_path=parent_3+'\Model\model_wo_kegg_duplicates'
 #%% Load model and data sources in pandas
@@ -118,7 +118,7 @@ km_data_full=pd.read_csv(data_path+'\km.csv',encoding='ISO-8859-1',index_col='EC
 km_data_ecoli=pd.read_csv(data_path+'\km_ecoli.csv',encoding='ISO-8859-1',index_col='EC_number')
 #km_data_ecoli.rename(columns={"ï»¿entry_ID": "entry_ID"})
 kcat_data=pd.read_excel(data_path+'\Data from Heckman et al.xls', sheet_name='Dataset_S1C_turnover_n',index_col='react_id')
-keq_data=pd.read_csv(data_path+'\Equilibrator_data.csv',index_col='reaction_id')
+keq_data=pd.read_csv(data_path+'\Equilibrator_data.tsv',index_col='reaction_id',sep='\t')
 #%% 
 #Create kcat data frame for parameter balancing
 template={'!QuantityType':[],

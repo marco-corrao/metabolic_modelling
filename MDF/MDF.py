@@ -41,5 +41,5 @@ sbtabdoc.write("out1.tsv")
 
 #%%
 # Save the Covariance matrix as a mat file
-mdic = {"dg_cov": dg_cov, "rxn_id": reaction_df["reaction_id"].to_list()}
+mdic = {'dg_mu':standard_dg_prime_in_kJ_per_mol,"dg_cov": dg_cov, "rxn_id": reaction_df["reaction_id"].to_list()}
 scipy.io.savemat("dg_covariance.mat", mdic)

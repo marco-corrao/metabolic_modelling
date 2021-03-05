@@ -102,18 +102,18 @@ standard Gibbs energy of reaction		R_NDPK1	kJ/mol	-2.67	1.33		R00330
 standard Gibbs energy of reaction		R_TRDR	kJ/mol	-7.74	1.47		R02016
 standard Gibbs energy of reaction		R_DDPA	kJ/mol	-74.35	2.35		R01826
 standard Gibbs energy of reaction		R_MALS	kJ/mol	-38.65	2.08		R00472
-standard Gibbs energy of reaction		R_NADTRHD	kJ/mol	-0.0	0.34		R00112
+standard Gibbs energy of reaction		R_NADTRHD	kJ/mol	0.0	0.34		R00112
 standard Gibbs energy of reaction		R_G3PD2	kJ/mol	22.63	0.81		R00844
-standard Gibbs energy of reaction		R_GMPS2	kJ/mol	-332.5	67656.96		R01231
+standard Gibbs energy of reaction		R_GMPS2	kJ/mol	0.0	67656.96		R01231
 standard Gibbs energy of reaction		R_P5CR	kJ/mol	-15.21	6.03		R01251
 standard Gibbs energy of reaction		R_G5SADs	kJ/mol	-36.7	5.0		R03314
 standard Gibbs energy of reaction		R_AKGDH	kJ/mol	-28.21	3.88		R08549
-standard Gibbs energy of reaction		R_ATPPRT	kJ/mol	4123.49	100000.0		R01071
+standard Gibbs energy of reaction		R_ATPPRT	kJ/mol	-42.16	100000.0		R01071
 standard Gibbs energy of reaction		R_HISTD	kJ/mol	-17.21	2.24		R01158
 standard Gibbs energy of reaction		R_DHDPS	kJ/mol	-128.2	6.22		
 standard Gibbs energy of reaction		R_IGPDH	kJ/mol	-41.33	1.95		R03457
 standard Gibbs energy of reaction		R_PRPPS	kJ/mol	-1.06	2.02		
-standard Gibbs energy of reaction		R_PRATPP	kJ/mol	-1818.88	141421.36		R04035
+standard Gibbs energy of reaction		R_PRATPP	kJ/mol	-42.16	141421.36		R04035
 standard Gibbs energy of reaction		R_GLUN	kJ/mol	-14.35	0.86		R00256
 standard Gibbs energy of reaction		R_PRMICI	kJ/mol	-9.78	1.35		R04640
 standard Gibbs energy of reaction		R_GLUPRT	kJ/mol	-64.11	2.72		R01072
@@ -128,12 +128,12 @@ standard Gibbs energy of reaction		R_OCBT	kJ/mol	-30.31	2.93		R01398
 standard Gibbs energy of reaction		R_GARFT	kJ/mol	1.94	5.6		R04325
 standard Gibbs energy of reaction		R_PHETA1	kJ/mol	-0.08	2.07		R00694
 standard Gibbs energy of reaction		R_PPND	kJ/mol	-10.78	11.29		R01728
-standard Gibbs energy of reaction		R_PRAMPC	kJ/mol	-2706.78	116582.8		R04037
+standard Gibbs energy of reaction		R_PRAMPC	kJ/mol	-42.16	116582.8		R04037
 standard Gibbs energy of reaction		R_GLYCK2	kJ/mol	-10.88	0.71		R08572
 standard Gibbs energy of reaction		R_ACOTA	kJ/mol	-3.22	3.37		R02283
 standard Gibbs energy of reaction		R_SULR	kJ/mol	-109.7	4.69		R00858
 standard Gibbs energy of reaction		R_PRAGSr	kJ/mol	-27.23	2.32		R04144
-standard Gibbs energy of reaction		R_PRFGS	kJ/mol	29.22	48207.3		
+standard Gibbs energy of reaction		R_PRFGS	kJ/mol	15.16	48207.3		
 standard Gibbs energy of reaction		R_PSERT	kJ/mol	-10.9	0.38		R04173
 standard Gibbs energy of reaction		R_AIRC2	kJ/mol	-56.38	5.98		
 standard Gibbs energy of reaction		R_GAPD	kJ/mol	1.16	0.41		R01061
@@ -173,7 +173,7 @@ standard Gibbs energy of reaction		R_TYRTA	kJ/mol	0.38	2.07		R00734
 standard Gibbs energy of reaction		R_SHKK	kJ/mol	-26.22	2.84		R02412
 standard Gibbs energy of reaction		R_GLUSy	kJ/mol	-47.76	0.94		R00114
 standard Gibbs energy of reaction		R_OMCDC	kJ/mol	-13.96	4.33		R01652
-standard Gibbs energy of reaction		R_IG3PS	kJ/mol	233.55	59929.54		R04558
+standard Gibbs energy of reaction		R_IG3PS	kJ/mol	-42.16	59929.54		R04558
 standard Gibbs energy of reaction		R_PDH	kJ/mol	-34.23	3.22		R00209
 standard Gibbs energy of reaction		R_MTHFR2	kJ/mol	-40.47	4.18		R07168
 standard Gibbs energy of reaction		R_DUTPDP	kJ/mol	-42.16	2.56		R02100
@@ -181,7 +181,7 @@ standard Gibbs energy of reaction		R_NTP5	kJ/mol	-29.9	2.32		R00569
 standard Gibbs energy of reaction		R_GLNS	kJ/mol	-15.3	0.83		R00253
 standard Gibbs energy of reaction		R_ACGS	kJ/mol	-25.72	3.38		R00259
 standard Gibbs energy of reaction		R_SUCOAS	kJ/mol	-1.21	1.33		R00405
-standard Gibbs energy of reaction		R_PRAIS	kJ/mol	1.09	48207.3		
+standard Gibbs energy of reaction		R_PRAIS	kJ/mol	15.16	48207.3		
 standard Gibbs energy of reaction		R_HISTP	kJ/mol	-20.29	2.18		R03013
 standard Gibbs energy of reaction		R_LDH_D	kJ/mol	20.63	2.07		R00704
 standard Gibbs energy of reaction		R_DHQS	kJ/mol	-150.33	6.26		R03083
