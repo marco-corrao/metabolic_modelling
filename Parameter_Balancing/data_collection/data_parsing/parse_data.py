@@ -13,6 +13,7 @@ import cobra
 import copy
 import math
 from sbtab import SBtab
+import copy
 #%% Miscellaneous function
 def reaction_list(model):
     #obtain a list of reaction IDs from the COBRA model
@@ -302,7 +303,7 @@ keq_sbtable.header_row+=" StandardConcentration='M'"
 keq_sbtable.write(export_path+'\PB_Keq.tsv')    
 
 #%%
-#Create DGr data frame for parameter balancing
+#Create DGr^o data frame for parameter balancing
 template={'!QuantityType':[],
           '!Compound':[]	,
           '!Reaction':[]	,
@@ -335,3 +336,82 @@ for i in range(len(keq_data)):
 dg_sbtable=SBtab.SBtabTable.from_data_frame(dg_df,table_id='ParameterEq',table_type='Quantity')  
 dg_sbtable.header_row+=" StandardConcentration='M'"
 dg_sbtable.write(export_path+'\PB_dg.tsv')    
+
+#%% BOUNDS ON FREE ENERGIES
+
+#Create DGr_bounds data frame for parameter balancing
+template={'!QuantityType':[],
+          '!Reaction':[]	,
+          '!Unit':[]	,
+          '!min':[]	,
+          '!max':[],
+          '!Reaction:Identifiers:kegg.reaction':[]
+    }
+dg_bounds_df = pd.DataFrame(data=template)
+#=====================================================
+for r in model.reactions:
+    r_lb=r.bounds[0]
+    r_ub=r.bounds[1]
+    #--------
+    new_row=copy.deepcopy(template)
+    new_row['!QuantityType']= ['Gibbs energy of reaction']
+    new_row['!Unit']=['kJ/mol']
+    new_row['!Reaction']=['R_'+ r.id]
+    new_row['!Reaction:Identifiers:kegg.reaction']=[bigg2kegg(r.id, 'r', model)]
+    if r_lb>=0: #If the reaction is irreversible in the forward direction       
+        new_row['!max']=[str(0)]
+        new_row['!min']=['']
+        dg_bounds_df=dg_bounds_df.append(pd.DataFrame(data=new_row),ignore_index='True')
+    elif r_ub<=0: #reaction is irreversible in the backward direction
+        new_row['!min']=[str(0)]
+        new_row['!max']=['']
+        dg_bounds_df=dg_bounds_df.append(pd.DataFrame(data=new_row),ignore_index='True')
+dg_bounds_sbtable=SBtab.SBtabTable.from_data_frame(dg_bounds_df,table_id='Gibbs_free_energy_constraints',table_type='Quantity')  
+dg_bounds_sbtable.header_row+=" StandardConcentration='M'"
+
+
+#%% BOUNDS ON  METABOLITE CONCENTRATIONS
+#Create a dictionare with the fixed conentrations of specific metabolites
+fixed_conc={
+ 'nadph_c': 0.11389157,
+ 'nadh': 0.02741513,
+ 'nadp_c':0.1,
+ 'nad_c': 1,
+ 'atp_c': 3.4491395,
+ 'adp_c': 0.60461237,
+ 'co2_c': 0.01,
+ 'glc__D_c':12,
+ 'q8h2_c': 1,
+ 'q8_c':0.1,
+ 'h2o_c':1,
+ 'pi_c':10,
+ 'coa_c':1,
+ }
+ 
+template={'!QuantityType':[],
+          '!Compound':[]	,
+          '!Unit':[]	,
+          '!min':[]	,
+          '!max':[],
+          '!Compound:Identifiers:kegg.compound':[]
+    }
+conc_bounds_df = pd.DataFrame(data=template)
+
+for m in fixed_conc.keys():
+    new_row=copy.deepcopy(template)
+    for met in model.metabolites:
+        if met.id==m:
+            new_row['!QuantityType']=['concentration']
+            new_row['!Unit']=['mM']
+            new_row['!Compound']=['M_'+m]
+            new_row['!min']=[str(fixed_conc[m])]
+            new_row['!max']=[str(fixed_conc[m])]
+            new_row['!Compound:Identifiers:kegg.compound']=[bigg2kegg(met.id,'m',model)]
+            conc_bounds_df=conc_bounds_df.append(pd.DataFrame(data=new_row),ignore_index='True')
+conc_bounds_sbtable=SBtab.SBtabTable.from_data_frame(conc_bounds_df,table_id='ConcentrationConstrains',table_type='Quantity')  
+
+#Create Bounds SDTABDoc
+bounds_sbtabdoc = SBtab.SBtabDocument("PB_Bounds")
+bounds_sbtabdoc.add_sbtab(dg_bounds_sbtable)
+bounds_sbtabdoc.add_sbtab(conc_bounds_sbtable)
+bounds_sbtabdoc.write(export_path+'\PB_bounds.tsv') 
