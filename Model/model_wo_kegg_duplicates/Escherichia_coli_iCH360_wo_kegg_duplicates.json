@@ -26821,12 +26821,12 @@
       "id": "CYTBDpp",
       "name": "Cytochrome oxidase bd (ubiquinol-8: 2 protons) (periplasm)",
       "metabolites": {
-        "h2o_c": 1,
-        "h_c": -2,
-        "h_p": 2,
-        "o2_c": -0.5,
-        "q8_c": 1,
-        "q8h2_c": -1
+        "h2o_c": 2,
+        "h_c": -4,
+        "h_p": 4,
+        "o2_c": -1,
+        "q8_c": 2,
+        "q8h2_c": -2
       },
       "lower_bound": 0,
       "upper_bound": 1000,
@@ -26856,12 +26856,12 @@
       "id": "CYTBD2pp",
       "name": "Cytochrome oxidase bd (menaquinol-8: 2 protons) (periplasm)",
       "metabolites": {
-        "h2o_c": 1,
-        "h_c": -2,
-        "h_p": 2,
-        "mql8_c": -1,
-        "mqn8_c": 1,
-        "o2_c": -0.5
+        "h2o_c": 2,
+        "h_c": -4,
+        "h_p": 4,
+        "mql8_c": -2,
+        "mqn8_c": 2,
+        "o2_c": -1
       },
       "lower_bound": 0,
       "upper_bound": 1000,
@@ -31103,12 +31103,12 @@
       "id": "CYTBO3_4pp",
       "name": "Cytochrome oxidase bo3 (ubiquinol-8: 4 protons) (periplasm)",
       "metabolites": {
-        "h2o_c": 1,
-        "h_c": -4,
-        "h_p": 4,
-        "o2_c": -0.5,
-        "q8_c": 1,
-        "q8h2_c": -1
+        "h2o_c": 2,
+        "h_c": -8,
+        "h_p": 8,
+        "o2_c": -1,
+        "q8_c": 2,
+        "q8h2_c": -2
       },
       "lower_bound": 0,
       "upper_bound": 1000,

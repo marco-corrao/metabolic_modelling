@@ -20555,14 +20555,14 @@
           </rdf:RDF>
         </annotation>
         <listOfReactants>
-          <speciesReference species="M_h_c" stoichiometry="2" constant="true"/>
-          <speciesReference species="M_o2_c" stoichiometry="0.5" constant="true"/>
-          <speciesReference species="M_q8h2_c" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_h_c" stoichiometry="4" constant="true"/>
+          <speciesReference species="M_o2_c" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_q8h2_c" stoichiometry="2" constant="true"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference species="M_h2o_c" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_h_p" stoichiometry="2" constant="true"/>
-          <speciesReference species="M_q8_c" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_h2o_c" stoichiometry="2" constant="true"/>
+          <speciesReference species="M_h_p" stoichiometry="4" constant="true"/>
+          <speciesReference species="M_q8_c" stoichiometry="2" constant="true"/>
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:or>
@@ -20599,14 +20599,14 @@
           </rdf:RDF>
         </annotation>
         <listOfReactants>
-          <speciesReference species="M_h_c" stoichiometry="2" constant="true"/>
-          <speciesReference species="M_mql8_c" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_o2_c" stoichiometry="0.5" constant="true"/>
+          <speciesReference species="M_h_c" stoichiometry="4" constant="true"/>
+          <speciesReference species="M_mql8_c" stoichiometry="2" constant="true"/>
+          <speciesReference species="M_o2_c" stoichiometry="1" constant="true"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference species="M_h2o_c" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_h_p" stoichiometry="2" constant="true"/>
-          <speciesReference species="M_mqn8_c" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_h2o_c" stoichiometry="2" constant="true"/>
+          <speciesReference species="M_h_p" stoichiometry="4" constant="true"/>
+          <speciesReference species="M_mqn8_c" stoichiometry="2" constant="true"/>
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:and>
@@ -24616,14 +24616,14 @@
           </rdf:RDF>
         </annotation>
         <listOfReactants>
-          <speciesReference species="M_h_c" stoichiometry="4" constant="true"/>
-          <speciesReference species="M_o2_c" stoichiometry="0.5" constant="true"/>
-          <speciesReference species="M_q8h2_c" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_h_c" stoichiometry="8" constant="true"/>
+          <speciesReference species="M_o2_c" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_q8h2_c" stoichiometry="2" constant="true"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference species="M_h2o_c" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_h_p" stoichiometry="4" constant="true"/>
-          <speciesReference species="M_q8_c" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_h2o_c" stoichiometry="2" constant="true"/>
+          <speciesReference species="M_h_p" stoichiometry="8" constant="true"/>
+          <speciesReference species="M_q8_c" stoichiometry="2" constant="true"/>
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:and>
