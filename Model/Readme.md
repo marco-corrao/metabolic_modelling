@@ -1,9 +1,3 @@
-Escherichia Coli iCH360 metabolic model in the following formats:
-- COBRA (.json and .mat)
-- SBML (.xml)
-- SBTab (.tsv)     
-- ObjTables (.tsv)
-
-Notes:
-- sbtab file was generated from xml file using sbtab_sbml2sbtab.py
-- objtables file was generated from sbtab file using sbtab_sbml2sbtab.py
+iCH360 metabolic model in COBRA (.json) and SBML (.xml) format.
+- The original COBRA annotation was modified to remove duplicate KEGG annotation
+- The stoichiometry of cytochromic reactions was changed from the original COBRA version to avoid having non-integer (0.5) stoichiometric coefficients for oxygen.

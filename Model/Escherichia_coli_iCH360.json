@@ -665,8 +665,7 @@
           "ZDXPYRJPNDTMRX-VKHMYHEASA-N"
         ],
         "kegg_compound": [
-          "C00064",
-          "C00303"
+          "C00064"
         ],
         "kegg_drug": [
           "D00015"
@@ -1223,7 +1222,6 @@
           "HMFHBZSHGGEWLO-SOOFDHNKSA-N"
         ],
         "kegg_compound": [
-          "C21057",
           "C00121"
         ],
         "metanetx_chemical": [
@@ -1684,8 +1682,7 @@
           "XLYOFNOQVPJJNP-UHFFFAOYSA-N"
         ],
         "kegg_compound": [
-          "C00001",
-          "C01328"
+          "C00001"
         ],
         "kegg_drug": [
           "D00001",
@@ -1875,7 +1872,6 @@
           "MTCFGRXMJLQNBG-REOHCLBHSA-N"
         ],
         "kegg_compound": [
-          "C00716",
           "C00065"
         ],
         "kegg_drug": [
@@ -2436,7 +2432,6 @@
           "ODKSFYDXXFIFQN-BYPYZUCNSA-O"
         ],
         "kegg_compound": [
-          "C02385",
           "C00062"
         ],
         "kegg_drug": [
@@ -2563,8 +2558,7 @@
           "CKLJMWTZIZZHCS-REOHCLBHSA-M"
         ],
         "kegg_compound": [
-          "C00049",
-          "C16433"
+          "C00049"
         ],
         "kegg_drug": [
           "D00013"
@@ -3133,10 +3127,7 @@
           "RFSUNEUAIZKAJO-VRPWFDPXSA-N"
         ],
         "kegg_compound": [
-          "C01496",
-          "C05003",
-          "C00095",
-          "C10906"
+          "C00095"
         ],
         "kegg_drug": [
           "D00114"
@@ -3625,7 +3616,6 @@
           "LXJXRIRHZLFYRP-VKHMYHEASA-L"
         ],
         "kegg_compound": [
-          "C00661",
           "C00118"
         ],
         "metanetx_chemical": [
@@ -3758,8 +3748,7 @@
           "LSNNMFCWUKXFEE-UHFFFAOYSA-L"
         ],
         "kegg_compound": [
-          "C00094",
-          "C11481"
+          "C00094"
         ],
         "metanetx_chemical": [
           "MNXM105630"
@@ -3819,7 +3808,6 @@
           "FFEARJCKVFRZRR-BYPYZUCNSA-N"
         ],
         "kegg_compound": [
-          "C01733",
           "C00073"
         ],
         "kegg_drug": [
@@ -4334,7 +4322,6 @@
           "QGZKDVFQNNGYKY-UHFFFAOYSA-O"
         ],
         "kegg_compound": [
-          "C00014",
           "C01342"
         ],
         "kegg_drug": [
@@ -4603,7 +4590,6 @@
           "QGZKDVFQNNGYKY-UHFFFAOYSA-O"
         ],
         "kegg_compound": [
-          "C00014",
           "C01342"
         ],
         "kegg_drug": [
@@ -4905,8 +4891,7 @@
           "OUYCCCASQSFEME-QMMMGPOBSA-N"
         ],
         "kegg_compound": [
-          "C00082",
-          "C01536"
+          "C00082"
         ],
         "kegg_drug": [
           "D00022"
@@ -4983,7 +4968,6 @@
           "XUJNEKJLAYXESH-REOHCLBHSA-N"
         ],
         "kegg_compound": [
-          "C00736",
           "C00097"
         ],
         "kegg_drug": [
@@ -5221,7 +5205,6 @@
           "QIVBCDIJIAJPQS-VIFPVBQESA-N"
         ],
         "kegg_compound": [
-          "C00806",
           "C00078"
         ],
         "kegg_drug": [
@@ -5340,8 +5323,7 @@
           "KDXKERNSBIXSRK-YFKPBYRVSA-O"
         ],
         "kegg_compound": [
-          "C00047",
-          "C16440"
+          "C00047"
         ],
         "kegg_drug": [
           "D02304"
@@ -5831,8 +5813,7 @@
           "ZDXPYRJPNDTMRX-VKHMYHEASA-N"
         ],
         "kegg_compound": [
-          "C00064",
-          "C00303"
+          "C00064"
         ],
         "kegg_drug": [
           "D00015"
@@ -7365,8 +7346,7 @@
           "WHUUTDBJXJRKMK-VKHMYHEASA-M"
         ],
         "kegg_compound": [
-          "C00025",
-          "C00302"
+          "C00025"
         ],
         "kegg_drug": [
           "D00007",
@@ -7907,8 +7887,7 @@
           "WHUUTDBJXJRKMK-VKHMYHEASA-M"
         ],
         "kegg_compound": [
-          "C00025",
-          "C00302"
+          "C00025"
         ],
         "kegg_drug": [
           "D00007",
@@ -8190,8 +8169,7 @@
           "ZDXPYRJPNDTMRX-VKHMYHEASA-N"
         ],
         "kegg_compound": [
-          "C00064",
-          "C00303"
+          "C00064"
         ],
         "kegg_drug": [
           "D00015"
@@ -8491,7 +8469,6 @@
           "HMFHBZSHGGEWLO-SOOFDHNKSA-N"
         ],
         "kegg_compound": [
-          "C21057",
           "C00121"
         ],
         "metanetx_chemical": [
@@ -8748,7 +8725,6 @@
           "QNAYBMKLOCPYGJ-REOHCLBHSA-N"
         ],
         "kegg_compound": [
-          "C01401",
           "C00041"
         ],
         "kegg_drug": [
@@ -8822,7 +8798,6 @@
           "BVKZGUZCCUSVTD-UHFFFAOYSA-M"
         ],
         "kegg_compound": [
-          "C01353",
           "C00288"
         ],
         "metanetx_chemical": [
@@ -8891,8 +8866,7 @@
           "COLNVLDHVKWLRT-QMMMGPOBSA-N"
         ],
         "kegg_compound": [
-          "C00079",
-          "C02057"
+          "C00079"
         ],
         "kegg_drug": [
           "D00021"
@@ -9040,8 +9014,7 @@
           "DWAKNKKXGALPNW-UHFFFAOYSA-M"
         ],
         "kegg_compound": [
-          "C03912",
-          "C04322"
+          "C03912"
         ],
         "metanetx_chemical": [
           "MNXM1617"
@@ -9583,8 +9556,7 @@
           "XLYOFNOQVPJJNP-UHFFFAOYSA-N"
         ],
         "kegg_compound": [
-          "C00001",
-          "C01328"
+          "C00001"
         ],
         "kegg_drug": [
           "D00001",
@@ -9900,10 +9872,7 @@
           "RFSUNEUAIZKAJO-VRPWFDPXSA-N"
         ],
         "kegg_compound": [
-          "C01496",
-          "C05003",
-          "C00095",
-          "C10906"
+          "C00095"
         ],
         "kegg_drug": [
           "D00114"
@@ -10126,7 +10095,6 @@
           "QGZKDVFQNNGYKY-UHFFFAOYSA-O"
         ],
         "kegg_compound": [
-          "C00014",
           "C01342"
         ],
         "kegg_drug": [
@@ -11189,8 +11157,7 @@
           "AHLPHDHHMVZTML-BYPYZUCNSA-O"
         ],
         "kegg_compound": [
-          "C00077",
-          "C01602"
+          "C00077"
         ],
         "kegg_drug": [
           "D08302"
@@ -11873,7 +11840,6 @@
           "HNDVDQJCIGZPNO-YFKPBYRVSA-N"
         ],
         "kegg_compound": [
-          "C00768",
           "C00135"
         ],
         "kegg_drug": [
@@ -12831,7 +12797,6 @@
           "KZSNJWFQEVHDMF-BYPYZUCNSA-N"
         ],
         "kegg_compound": [
-          "C16436",
           "C00183"
         ],
         "kegg_drug": [
@@ -12901,8 +12866,7 @@
           "ONIBWKKTOPOVIA-BYPYZUCNSA-N"
         ],
         "kegg_compound": [
-          "C00148",
-          "C16435"
+          "C00148"
         ],
         "kegg_drug": [
           "D00035"
@@ -13217,8 +13181,7 @@
           "WHUUTDBJXJRKMK-VKHMYHEASA-M"
         ],
         "kegg_compound": [
-          "C00025",
-          "C00302"
+          "C00025"
         ],
         "kegg_drug": [
           "D00007",
@@ -14316,7 +14279,6 @@
           "DCXYFEDJOCDNAF-REOHCLBHSA-N"
         ],
         "kegg_compound": [
-          "C16438",
           "C00152"
         ],
         "metanetx_chemical": [
@@ -14436,7 +14398,6 @@
           "ROHFNLRQFUQHCH-YFKPBYRVSA-N"
         ],
         "kegg_compound": [
-          "C16439",
           "C00123"
         ],
         "kegg_drug": [
@@ -14797,7 +14758,6 @@
           "FFFHZYDWPBMWHY-UHFFFAOYSA-N"
         ],
         "kegg_compound": [
-          "C05330",
           "C00155"
         ],
         "metanetx_chemical": [
@@ -15608,8 +15568,7 @@
           "XLYOFNOQVPJJNP-UHFFFAOYSA-N"
         ],
         "kegg_compound": [
-          "C00001",
-          "C01328"
+          "C00001"
         ],
         "kegg_drug": [
           "D00001",
@@ -15826,7 +15785,6 @@
           "HMFHBZSHGGEWLO-SOOFDHNKSA-N"
         ],
         "kegg_compound": [
-          "C21057",
           "C00121"
         ],
         "metanetx_chemical": [
@@ -19292,8 +19250,7 @@
           "4.2.1.1"
         ],
         "kegg_reaction": [
-          "R10092",
-          "R00132"
+          "R10092"
         ],
         "metanetx_reaction": [
           "MNXR100482"
@@ -26864,12 +26821,12 @@
       "id": "CYTBDpp",
       "name": "Cytochrome oxidase bd (ubiquinol-8: 2 protons) (periplasm)",
       "metabolites": {
-        "h2o_c": 1,
-        "h_c": -2,
-        "h_p": 2,
-        "o2_c": -0.5,
-        "q8_c": 1,
-        "q8h2_c": -1
+        "h2o_c": 2,
+        "h_c": -4,
+        "h_p": 4,
+        "o2_c": -1,
+        "q8_c": 2,
+        "q8h2_c": -2
       },
       "lower_bound": 0,
       "upper_bound": 1000,
@@ -26899,12 +26856,12 @@
       "id": "CYTBD2pp",
       "name": "Cytochrome oxidase bd (menaquinol-8: 2 protons) (periplasm)",
       "metabolites": {
-        "h2o_c": 1,
-        "h_c": -2,
-        "h_p": 2,
-        "mql8_c": -1,
-        "mqn8_c": 1,
-        "o2_c": -0.5
+        "h2o_c": 2,
+        "h_c": -4,
+        "h_p": 4,
+        "mql8_c": -2,
+        "mqn8_c": 2,
+        "o2_c": -1
       },
       "lower_bound": 0,
       "upper_bound": 1000,
@@ -31146,12 +31103,12 @@
       "id": "CYTBO3_4pp",
       "name": "Cytochrome oxidase bo3 (ubiquinol-8: 4 protons) (periplasm)",
       "metabolites": {
-        "h2o_c": 1,
-        "h_c": -4,
-        "h_p": 4,
-        "o2_c": -0.5,
-        "q8_c": 1,
-        "q8h2_c": -1
+        "h2o_c": 2,
+        "h_c": -8,
+        "h_p": 8,
+        "o2_c": -1,
+        "q8_c": 2,
+        "q8h2_c": -2
       },
       "lower_bound": 0,
       "upper_bound": 1000,
