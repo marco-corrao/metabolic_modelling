@@ -1,4 +1,4 @@
-!!!SBtab DocumentName='None' SBtabVersion='1.0' Date='2021-3-4'
+!!!SBtab DocumentName='None' SBtabVersion='1.0' Date='2021-3-8'
 !!SBtab TableID='Thermodynamics' TableType='Quantity' TableName='Thermodynamics' SBtabVersion='1.0'
 reaction_id	reaction_formula	standard_dg_prime_in_kJ_per_mol	dg_sigma_in_kJ_per_mol
 R_NDPK5	M_atp_c + M_dgdp_c <=> M_adp_c + M_dgtp_c	1.77	2.41
