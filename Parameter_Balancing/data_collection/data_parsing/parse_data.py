@@ -14,7 +14,7 @@ import copy
 import math
 from sbtab import SBtab
 import copy
-#%% Miscellaneous function
+#%Miscellaneous function
 def reaction_list(model):
     #obtain a list of reaction IDs from the COBRA model
     reaction_list=[]
@@ -104,7 +104,7 @@ def find_km_metabolite(entry,r_id,model):
                  return cur
     return ''
          
-#%% #Get data directories
+#%#Get data directories
 path = os.getcwd() #current path
 parent = os.path.dirname(path) #parent directory
 parent_2=os.path.dirname(parent)
@@ -113,7 +113,7 @@ parent_3=os.path.dirname(parent_2)
 data_path=parent+ '\data_sources'
 export_path=parent+'\out'
 model_path=parent_3+'\Model'
-#%% Load model and data sources in pandas
+#%Load model and data sources in pandas
 model=cobra.io.load_json_model(model_path+'\Escherichia_coli_iCH360.json')
 km_data_full=pd.read_csv(data_path+'\km.csv',encoding='ISO-8859-1',index_col='EC_number')
 km_data_ecoli=pd.read_csv(data_path+'\km_ecoli.csv',encoding='ISO-8859-1',index_col='EC_number')
