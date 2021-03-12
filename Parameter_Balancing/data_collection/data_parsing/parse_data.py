@@ -112,9 +112,9 @@ parent_3=os.path.dirname(parent_2)
 #----------------
 data_path=parent+ '\data_sources'
 export_path=parent+'\out'
-model_path=parent_3+'\Model\model_wo_kegg_duplicates'
+model_path=parent_3+'\Model'
 #%% Load model and data sources in pandas
-model=cobra.io.load_json_model(model_path+'\Escherichia_coli_iCH360_wo_kegg_duplicates.json')
+model=cobra.io.load_json_model(model_path+'\Escherichia_coli_iCH360.json')
 km_data_full=pd.read_csv(data_path+'\km.csv',encoding='ISO-8859-1',index_col='EC_number')
 km_data_ecoli=pd.read_csv(data_path+'\km_ecoli.csv',encoding='ISO-8859-1',index_col='EC_number')
 #km_data_ecoli.rename(columns={"ï»¿entry_ID": "entry_ID"})
@@ -204,7 +204,7 @@ template={'!QuantityType':[],
           '!Reaction:Identifiers:kegg.reaction':[],
           '!Km_entry_key':[],
           '!Km_commentary':[],
-          '!Km_literature':[],  
+          '!Provenance:BrendaReferenceID':[],  
     }
 km_df = pd.DataFrame(data=template)
 
@@ -259,7 +259,7 @@ for r_id in r_list:
                         '!Reaction:Identifiers:kegg.reaction':[r_kegg_id],
                         '!Km_entry_key':[str(cur_entry['ï»¿entry_ID'])],
                         '!Km_commentary':[str(cur_entry['Commentary'])],
-                        '!Km_literature':[str(cur_entry['Literature'])],  
+                        '!Provenance:BrendaReferenceID':[str(cur_entry['Literature'])],  
           }
                         km_df=km_df.append(pd.DataFrame(data=new_row),ignore_index='True')
 #Create table
@@ -368,7 +368,7 @@ for r in model.reactions:
         dg_bounds_df=dg_bounds_df.append(pd.DataFrame(data=new_row),ignore_index='True')
 dg_bounds_sbtable=SBtab.SBtabTable.from_data_frame(dg_bounds_df,table_id='Gibbs_free_energy_constraints',table_type='Quantity')  
 dg_bounds_sbtable.header_row+=" StandardConcentration='M'"
-
+dg_bounds_sbtable.write(export_path+'\dg_bounds.tsv')    
 
 #%% BOUNDS ON  METABOLITE CONCENTRATIONS
 #Create a dictionare with the fixed conentrations of specific metabolites
@@ -409,9 +409,5 @@ for m in fixed_conc.keys():
             new_row['!Compound:Identifiers:kegg.compound']=[bigg2kegg(met.id,'m',model)]
             conc_bounds_df=conc_bounds_df.append(pd.DataFrame(data=new_row),ignore_index='True')
 conc_bounds_sbtable=SBtab.SBtabTable.from_data_frame(conc_bounds_df,table_id='ConcentrationConstrains',table_type='Quantity')  
-
-#Create Bounds SDTABDoc
-bounds_sbtabdoc = SBtab.SBtabDocument("PB_Bounds")
-bounds_sbtabdoc.add_sbtab(dg_bounds_sbtable)
-bounds_sbtabdoc.add_sbtab(conc_bounds_sbtable)
-bounds_sbtabdoc.write(export_path+'\PB_bounds.tsv') 
+conc_bounds_sbtable.write(export_path+'\conc_bounds.tsv')    
+#Save The tables

@@ -1,0 +1,13 @@
+!!SBtab TableID='ConcentrationConstrains' TableType='Quantity' TableName='ConcentrationConstrains' SBtabVersion='1.0'
+!QuantityType	!Compound	!Unit	!min	!max	!Compound:Identifiers:kegg.compound
+concentration	M_nadph_c	mM	0.11389157	0.11389157	C00005
+concentration	M_nadp_c	mM	0.1	0.1	C00006
+concentration	M_nad_c	mM	1	1	C00003
+concentration	M_atp_c	mM	3.4491395	3.4491395	C00002
+concentration	M_adp_c	mM	0.60461237	0.60461237	C00008
+concentration	M_co2_c	mM	0.01	0.01	C00011
+concentration	M_q8h2_c	mM	1	1	
+concentration	M_q8_c	mM	0.1	0.1	C17569
+concentration	M_h2o_c	mM	1	1	C00001
+concentration	M_pi_c	mM	10	10	C00009
+concentration	M_coa_c	mM	1	1	C00010

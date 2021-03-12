@@ -1,0 +1,229 @@
+!!SBtab TableID='Gibbs_free_energy_constraints' TableType='Quantity' TableName='Gibbs_free_energy_constraints' SBtabVersion='1.0' StandardConcentration='M'
+!QuantityType	!Reaction	!Unit	!min	!max	!Reaction:Identifiers:kegg.reaction
+Gibbs energy of reaction	R_OMPDC	kJ/mol		0	R00965
+Gibbs energy of reaction	R_G5SD	kJ/mol		0	R03313
+Gibbs energy of reaction	R_CS	kJ/mol		0	R00351
+Gibbs energy of reaction	R_PPA	kJ/mol		0	R00004
+Gibbs energy of reaction	R_PPCK	kJ/mol		0	R00341
+Gibbs energy of reaction	R_ME1	kJ/mol		0	R00214
+Gibbs energy of reaction	R_XYLK	kJ/mol		0	R01639
+Gibbs energy of reaction	R_RBK	kJ/mol		0	
+Gibbs energy of reaction	R_GLYK	kJ/mol		0	R00847
+Gibbs energy of reaction	R_FBP	kJ/mol		0	
+Gibbs energy of reaction	R_PYK	kJ/mol		0	R00200
+Gibbs energy of reaction	R_DHORD5	kJ/mol		0	
+Gibbs energy of reaction	R_ACHBS	kJ/mol		0	R08648
+Gibbs energy of reaction	R_DHAD2	kJ/mol		0	R05070
+Gibbs energy of reaction	R_ACLS	kJ/mol		0	R00226
+Gibbs energy of reaction	R_TRPS2	kJ/mol		0	R00674
+Gibbs energy of reaction	R_PFL	kJ/mol		0	R00212
+Gibbs energy of reaction	R_ANS	kJ/mol		0	R00986
+Gibbs energy of reaction	R_FRD2	kJ/mol		0	
+Gibbs energy of reaction	R_ANPRT	kJ/mol		0	R01073
+Gibbs energy of reaction	R_CHORM	kJ/mol		0	R01715
+Gibbs energy of reaction	R_CHORS	kJ/mol		0	R01714
+Gibbs energy of reaction	R_IGPS	kJ/mol		0	R03508
+Gibbs energy of reaction	R_LEUTAi	kJ/mol		0	R01090
+Gibbs energy of reaction	R_EX_glcn_e	kJ/mol		0	
+Gibbs energy of reaction	R_EX_gln__L_e	kJ/mol		0	
+Gibbs energy of reaction	R_EX_glyc_e	kJ/mol		0	
+Gibbs energy of reaction	R_EX_ac_e	kJ/mol		0	
+Gibbs energy of reaction	R_EX_akg_e	kJ/mol		0	
+Gibbs energy of reaction	R_EX_pyr_e	kJ/mol		0	
+Gibbs energy of reaction	R_EX_succ_e	kJ/mol		0	
+Gibbs energy of reaction	R_EX_rib__D_e	kJ/mol		0	
+Gibbs energy of reaction	R_EX_fum_e	kJ/mol		0	
+Gibbs energy of reaction	R_EX_glu__L_e	kJ/mol		0	
+Gibbs energy of reaction	R_IMPD	kJ/mol		0	R01130
+Gibbs energy of reaction	R_PPS	kJ/mol		0	R00199
+Gibbs energy of reaction	R_PGL	kJ/mol		0	R02035
+Gibbs energy of reaction	R_DHQTi	kJ/mol		0	R03084
+Gibbs energy of reaction	R_IPMD	kJ/mol		0	R04426
+Gibbs energy of reaction	R_RNDR1	kJ/mol		0	R02017
+Gibbs energy of reaction	R_RNDR3	kJ/mol		0	R02024
+Gibbs energy of reaction	R_RNDR4	kJ/mol		0	R02018
+Gibbs energy of reaction	R_TMDS	kJ/mol		0	R02101
+Gibbs energy of reaction	R_DHAD1	kJ/mol		0	R04441
+Gibbs energy of reaction	R_EX_fru_e	kJ/mol		0	
+Gibbs energy of reaction	R_EX_xyl__D_e	kJ/mol		0	
+Gibbs energy of reaction	R_EX_for_e	kJ/mol		0	
+Gibbs energy of reaction	R_ACCOAC	kJ/mol		0	R00742
+Gibbs energy of reaction	R_KAS14	kJ/mol		0	R04355
+Gibbs energy of reaction	R_ARGSS	kJ/mol		0	R01954
+Gibbs energy of reaction	R_ICL	kJ/mol		0	R00479
+Gibbs energy of reaction	R_EX_acald_e	kJ/mol		0	
+Gibbs energy of reaction	R_GLYCL	kJ/mol		0	R01221
+Gibbs energy of reaction	R_PPC	kJ/mol		0	R00345
+Gibbs energy of reaction	R_G3PT	kJ/mol		0	R00841
+Gibbs energy of reaction	R_SADT2	kJ/mol		0	
+Gibbs energy of reaction	R_AACPS1	kJ/mol		0	
+Gibbs energy of reaction	R_DHORD2	kJ/mol		0	
+Gibbs energy of reaction	R_SDPDS	kJ/mol		0	R02734
+Gibbs energy of reaction	R_EX_lac__D_e	kJ/mol		0	
+Gibbs energy of reaction	R_CTPS2	kJ/mol		0	R00573
+Gibbs energy of reaction	R_TRPS3	kJ/mol		0	R02340
+Gibbs energy of reaction	R_ACODA	kJ/mol		0	R00669
+Gibbs energy of reaction	R_ADSS	kJ/mol		0	R01135
+Gibbs energy of reaction	R_ASNS2	kJ/mol		0	R00483
+Gibbs energy of reaction	R_ASPCT	kJ/mol		0	R01397
+Gibbs energy of reaction	R_DHDPRy	kJ/mol		0	
+Gibbs energy of reaction	R_HSK	kJ/mol		0	R01771
+Gibbs energy of reaction	R_THRS	kJ/mol		0	R01466
+Gibbs energy of reaction	R_HSST	kJ/mol		0	R01777
+Gibbs energy of reaction	R_PPNDH	kJ/mol		0	R01373
+Gibbs energy of reaction	R_TRDR	kJ/mol		0	R02016
+Gibbs energy of reaction	R_DDPA	kJ/mol		0	R01826
+Gibbs energy of reaction	R_MALS	kJ/mol		0	R00472
+Gibbs energy of reaction	R_NADTRHD	kJ/mol		0	R00112
+Gibbs energy of reaction	R_GMPS2	kJ/mol		0	R01231
+Gibbs energy of reaction	R_AACPS3	kJ/mol		0	
+Gibbs energy of reaction	R_P5CR	kJ/mol		0	R01251
+Gibbs energy of reaction	R_G5SADs	kJ/mol		0	R03314
+Gibbs energy of reaction	R_AKGDH	kJ/mol		0	R08549
+Gibbs energy of reaction	R_ATPPRT	kJ/mol		0	R01071
+Gibbs energy of reaction	R_HISTD	kJ/mol		0	R01158
+Gibbs energy of reaction	R_DHDPS	kJ/mol		0	
+Gibbs energy of reaction	R_IGPDH	kJ/mol		0	R03457
+Gibbs energy of reaction	R_PRATPP	kJ/mol		0	R04035
+Gibbs energy of reaction	R_GLUN	kJ/mol		0	R00256
+Gibbs energy of reaction	R_GLUPRT	kJ/mol		0	R01072
+Gibbs energy of reaction	R_CYSS	kJ/mol		0	R00897
+Gibbs energy of reaction	R_BPNT	kJ/mol		0	R00188
+Gibbs energy of reaction	R_PAPSR	kJ/mol		0	R02021
+Gibbs energy of reaction	R_DAPDC	kJ/mol		0	R00451
+Gibbs energy of reaction	R_PPND	kJ/mol		0	R01728
+Gibbs energy of reaction	R_PRAMPC	kJ/mol		0	R04037
+Gibbs energy of reaction	R_GLYCK2	kJ/mol		0	R08572
+Gibbs energy of reaction	R_SULR	kJ/mol		0	R00858
+Gibbs energy of reaction	R_PRFGS	kJ/mol		0	
+Gibbs energy of reaction	R_PSERT	kJ/mol		0	R04173
+Gibbs energy of reaction	R_AIRC2	kJ/mol		0	
+Gibbs energy of reaction	R_GND	kJ/mol		0	R01528
+Gibbs energy of reaction	R_ME2	kJ/mol		0	R00216
+Gibbs energy of reaction	R_CBPS	kJ/mol		0	R00575
+Gibbs energy of reaction	R_GLU5K	kJ/mol		0	R00239
+Gibbs energy of reaction	R_IPPS	kJ/mol		0	R01213
+Gibbs energy of reaction	R_PSP_L	kJ/mol		0	R00582
+Gibbs energy of reaction	R_ADSK	kJ/mol		0	R00509
+Gibbs energy of reaction	R_SUCCt2_2pp	kJ/mol		0	
+Gibbs energy of reaction	R_HSDy	kJ/mol	0		R01775
+Gibbs energy of reaction	R_CYSTL	kJ/mol		0	R01286
+Gibbs energy of reaction	R_SHSL1	kJ/mol		0	R03260
+Gibbs energy of reaction	R_SULabcpp	kJ/mol		0	
+Gibbs energy of reaction	R_XYLt2pp	kJ/mol		0	
+Gibbs energy of reaction	R_THD2pp	kJ/mol		0	
+Gibbs energy of reaction	R_GLCtex_copy1	kJ/mol		0	
+Gibbs energy of reaction	R_FUMt2_2pp	kJ/mol		0	
+Gibbs energy of reaction	R_CYTBDpp	kJ/mol		0	
+Gibbs energy of reaction	R_CYTBD2pp	kJ/mol		0	
+Gibbs energy of reaction	R_METS	kJ/mol		0	R00946
+Gibbs energy of reaction	R_EX_glyc__R_e	kJ/mol		0	
+Gibbs energy of reaction	R_PRASCSi	kJ/mol		0	R04591
+Gibbs energy of reaction	R_FORtppi	kJ/mol		0	
+Gibbs energy of reaction	R_GRXR	kJ/mol		0	
+Gibbs energy of reaction	R_RNDR1b	kJ/mol		0	
+Gibbs energy of reaction	R_RNDR2b	kJ/mol		0	
+Gibbs energy of reaction	R_MALt2_2pp	kJ/mol		0	
+Gibbs energy of reaction	R_RIBabcpp	kJ/mol		0	
+Gibbs energy of reaction	R_GLNabcpp	kJ/mol		0	
+Gibbs energy of reaction	R_ACGK	kJ/mol		0	R02649
+Gibbs energy of reaction	R_GNK	kJ/mol		0	R01737
+Gibbs energy of reaction	R_GLCptspp	kJ/mol		0	
+Gibbs energy of reaction	R_HSTPT	kJ/mol		0	R03243
+Gibbs energy of reaction	R_THDPS	kJ/mol		0	R04365
+Gibbs energy of reaction	R_ATPM	kJ/mol		0	R00086
+Gibbs energy of reaction	R_THRD_L	kJ/mol		0	R00996
+Gibbs energy of reaction	R_RNDR2	kJ/mol		0	R02019
+Gibbs energy of reaction	R_PRAIi	kJ/mol		0	R03509
+Gibbs energy of reaction	R_EX_mal__L_e	kJ/mol		0	
+Gibbs energy of reaction	R_SHKK	kJ/mol		0	R02412
+Gibbs energy of reaction	R_GLUSy	kJ/mol		0	R00114
+Gibbs energy of reaction	R_OMCDC	kJ/mol		0	R01652
+Gibbs energy of reaction	R_IG3PS	kJ/mol		0	R04558
+Gibbs energy of reaction	R_PDH	kJ/mol		0	R00209
+Gibbs energy of reaction	R_MTHFR2	kJ/mol		0	R07168
+Gibbs energy of reaction	R_DUTPDP	kJ/mol		0	R02100
+Gibbs energy of reaction	R_NTP5	kJ/mol		0	R00569
+Gibbs energy of reaction	R_FORt2pp	kJ/mol		0	
+Gibbs energy of reaction	R_EX_etoh_e	kJ/mol		0	
+Gibbs energy of reaction	R_GLNS	kJ/mol		0	R00253
+Gibbs energy of reaction	R_ACGS	kJ/mol		0	R00259
+Gibbs energy of reaction	R_PRAIS	kJ/mol		0	
+Gibbs energy of reaction	R_AACPS8	kJ/mol		0	
+Gibbs energy of reaction	R_AACPS9	kJ/mol		0	
+Gibbs energy of reaction	R_AACPS6	kJ/mol		0	
+Gibbs energy of reaction	R_AACPS7	kJ/mol		0	
+Gibbs energy of reaction	R_HISTP	kJ/mol		0	R03013
+Gibbs energy of reaction	R_KAS15	kJ/mol		0	R10707
+Gibbs energy of reaction	R_3OAS161	kJ/mol		0	
+Gibbs energy of reaction	R_DHQS	kJ/mol		0	R03083
+Gibbs energy of reaction	R_EAR161x	kJ/mol		0	
+Gibbs energy of reaction	R_PGCD	kJ/mol		0	R01513
+Gibbs energy of reaction	R_3OAS141	kJ/mol		0	
+Gibbs energy of reaction	R_3OAR121	kJ/mol		0	
+Gibbs energy of reaction	R_FRUpts2pp	kJ/mol		0	
+Gibbs energy of reaction	R_PFK	kJ/mol		0	
+Gibbs energy of reaction	R_CYTBO3_4pp	kJ/mol		0	
+Gibbs energy of reaction	R_EAR141x	kJ/mol		0	
+Gibbs energy of reaction	R_EAR181x	kJ/mol		0	
+Gibbs energy of reaction	R_3HAD80	kJ/mol		0	R04537
+Gibbs energy of reaction	R_3HAD120	kJ/mol		0	R04965
+Gibbs energy of reaction	R_EAR180x	kJ/mol		0	
+Gibbs energy of reaction	R_SO4t2pp	kJ/mol		0	
+Gibbs energy of reaction	R_EAR180y	kJ/mol		0	
+Gibbs energy of reaction	R_3HAD161	kJ/mol		0	
+Gibbs energy of reaction	R_SUCDi	kJ/mol		0	
+Gibbs energy of reaction	R_ASNS1	kJ/mol		0	R00578
+Gibbs energy of reaction	R_EAR80y	kJ/mol		0	
+Gibbs energy of reaction	R_EAR120y	kJ/mol		0	
+Gibbs energy of reaction	R_3OAR181	kJ/mol		0	
+Gibbs energy of reaction	R_3HAD121	kJ/mol		0	
+Gibbs energy of reaction	R_EAR140x	kJ/mol		0	
+Gibbs energy of reaction	R_3OAS181	kJ/mol		0	
+Gibbs energy of reaction	R_3OAS140	kJ/mol		0	
+Gibbs energy of reaction	R_EAR160y	kJ/mol		0	
+Gibbs energy of reaction	R_3HAD181	kJ/mol		0	
+Gibbs energy of reaction	R_EAR100y	kJ/mol		0	
+Gibbs energy of reaction	R_3OAR141	kJ/mol		0	
+Gibbs energy of reaction	R_3OAR161	kJ/mol		0	
+Gibbs energy of reaction	R_3HAD141	kJ/mol		0	
+Gibbs energy of reaction	R_EAR121x	kJ/mol		0	
+Gibbs energy of reaction	R_3HAD40	kJ/mol		0	
+Gibbs energy of reaction	R_3OAS60	kJ/mol		0	
+Gibbs energy of reaction	R_3OAS160	kJ/mol		0	
+Gibbs energy of reaction	R_EAR100x	kJ/mol		0	
+Gibbs energy of reaction	R_EAR120x	kJ/mol		0	
+Gibbs energy of reaction	R_EAR160x	kJ/mol		0	
+Gibbs energy of reaction	R_EAR140y	kJ/mol		0	
+Gibbs energy of reaction	R_3OAS121	kJ/mol		0	
+Gibbs energy of reaction	R_3OAS80	kJ/mol		0	
+Gibbs energy of reaction	R_3OAS100	kJ/mol		0	
+Gibbs energy of reaction	R_3OAS120	kJ/mol		0	
+Gibbs energy of reaction	R_3HAD60	kJ/mol		0	R04954
+Gibbs energy of reaction	R_3HAD100	kJ/mol		0	R04535
+Gibbs energy of reaction	R_3HAD140	kJ/mol		0	R04568
+Gibbs energy of reaction	R_3HAD160	kJ/mol		0	R04544
+Gibbs energy of reaction	R_EAR40x	kJ/mol		0	
+Gibbs energy of reaction	R_EAR60y	kJ/mol		0	
+Gibbs energy of reaction	R_EAR60x	kJ/mol		0	
+Gibbs energy of reaction	R_EAR80x	kJ/mol		0	
+Gibbs energy of reaction	R_3OAS180	kJ/mol		0	
+Gibbs energy of reaction	R_3HAD180	kJ/mol		0	R07764
+Gibbs energy of reaction	R_NADH16pp	kJ/mol		0	
+Gibbs energy of reaction	R_FA160ACPHi	kJ/mol		0	
+Gibbs energy of reaction	R_FA120ACPHi	kJ/mol		0	
+Gibbs energy of reaction	R_FA80ACPHi	kJ/mol		0	
+Gibbs energy of reaction	R_FA140ACPHi	kJ/mol		0	
+Gibbs energy of reaction	R_FA100ACPHi	kJ/mol		0	
+Gibbs energy of reaction	R_ACPPAT161	kJ/mol		0	
+Gibbs energy of reaction	R_ACPPAT180	kJ/mol		0	
+Gibbs energy of reaction	R_RNTR1c2	kJ/mol		0	
+Gibbs energy of reaction	R_RNTR2c2	kJ/mol		0	
+Gibbs energy of reaction	R_FLDR2	kJ/mol		0	
+Gibbs energy of reaction	R_ACPPAT181	kJ/mol		0	
+Gibbs energy of reaction	R_APH161	kJ/mol		0	
+Gibbs energy of reaction	R_APH180	kJ/mol		0	
+Gibbs energy of reaction	R_APH181	kJ/mol		0	
+Gibbs energy of reaction	R_PIt2rpp	kJ/mol		0	
+Gibbs energy of reaction	R_PItpp	kJ/mol		0	
+Gibbs energy of reaction	R_RBIO	kJ/mol		0	
