@@ -5,15 +5,15 @@ parameter_prior_file	/home/wolfram/projekte/enzyme_cost_minimization/marco-corra
 kinetics	cs
 parametrisation	all
 reaction_units	concentration per time
-conc_min_default	0.001
-conc_max_default	10
-conc_min	1E-5
-conc_max	100
+conc_min	0.001
+conc_max	10
 kcat_usage	use
 use_pseudo_values	True
 insert_pseudo_values	0
 use_bounds_from_prior_table	1
-include_metabolic	0
+use_deltaG0_data	1
+include_metabolic	1
+include_enzyme_conc	0
 enzymes_explicit	1
 enforce_flux_directions	0
 adjust_to_fluxes	0
@@ -21,7 +21,7 @@ ignore_all_constraints	0
 n_samples	0
 preferred_data_element_ids	id
 use_sbml_ids	0
-use_kegg_ids	1
+use_kegg_ids	0
 complete_std_by_DataGeomStd	1
 use_python_version_defaults	0
 write_log_file	0
@@ -47,3 +47,5 @@ default_inhibition	complete
 default_activation	complete
 model_name	outputname
 boundary_values	ignore
+dg_precision_file	/home/wolfram/projekte/enzyme_cost_minimization/marco-corrao/file_copies_from_marco/dg_prec.mat
+fix_irreversible_reactions	1
