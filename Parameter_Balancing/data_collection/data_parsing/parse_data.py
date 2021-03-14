@@ -343,8 +343,8 @@ dg_sbtable.write(export_path+'\PB_dg.tsv')
 template={'!QuantityType':[],
           '!Reaction':[]	,
           '!Unit':[]	,
-          '!min':[]	,
-          '!max':[],
+          '!Min':[]	,
+          '!Max':[],
           '!Reaction:Identifiers:kegg.reaction':[]
     }
 dg_bounds_df = pd.DataFrame(data=template)
@@ -359,12 +359,12 @@ for r in model.reactions:
     new_row['!Reaction']=['R_'+ r.id]
     new_row['!Reaction:Identifiers:kegg.reaction']=[bigg2kegg(r.id, 'r', model)]
     if r_lb>=0: #If the reaction is irreversible in the forward direction       
-        new_row['!max']=[str(0)]
-        new_row['!min']=['']
+        new_row['!Max']=[str(0)]
+        new_row['!Min']=['']
         dg_bounds_df=dg_bounds_df.append(pd.DataFrame(data=new_row),ignore_index='True')
     elif r_ub<=0: #reaction is irreversible in the backward direction
-        new_row['!min']=[str(0)]
-        new_row['!max']=['']
+        new_row['!Min']=[str(0)]
+        new_row['!Max']=['']
         dg_bounds_df=dg_bounds_df.append(pd.DataFrame(data=new_row),ignore_index='True')
 dg_bounds_sbtable=SBtab.SBtabTable.from_data_frame(dg_bounds_df,table_id='Gibbs_free_energy_constraints',table_type='Quantity')  
 dg_bounds_sbtable.header_row+=" StandardConcentration='M'"
@@ -391,8 +391,8 @@ fixed_conc={
 template={'!QuantityType':[],
           '!Compound':[]	,
           '!Unit':[]	,
-          '!min':[]	,
-          '!max':[],
+          '!Min':[]	,
+          '!Max':[],
           '!Compound:Identifiers:kegg.compound':[]
     }
 conc_bounds_df = pd.DataFrame(data=template)
@@ -404,8 +404,8 @@ for m in fixed_conc.keys():
             new_row['!QuantityType']=['concentration']
             new_row['!Unit']=['mM']
             new_row['!Compound']=['M_'+m]
-            new_row['!min']=[str(fixed_conc[m])]
-            new_row['!max']=[str(fixed_conc[m])]
+            new_row['!Min']=[str(fixed_conc[m])]
+            new_row['!Max']=[str(fixed_conc[m])]
             new_row['!Compound:Identifiers:kegg.compound']=[bigg2kegg(met.id,'m',model)]
             conc_bounds_df=conc_bounds_df.append(pd.DataFrame(data=new_row),ignore_index='True')
 conc_bounds_sbtable=SBtab.SBtabTable.from_data_frame(conc_bounds_df,table_id='ConcentrationConstrains',table_type='Quantity')  

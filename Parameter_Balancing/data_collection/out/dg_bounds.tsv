@@ -1,5 +1,5 @@
 !!SBtab TableID='Gibbs_free_energy_constraints' TableType='Quantity' TableName='Gibbs_free_energy_constraints' SBtabVersion='1.0' StandardConcentration='M'
-!QuantityType	!Reaction	!Unit	!min	!max	!Reaction:Identifiers:kegg.reaction
+!QuantityType	!Reaction	!Unit	!Min	!Max	!Reaction:Identifiers:kegg.reaction
 Gibbs energy of reaction	R_OMPDC	kJ/mol		0	R00965
 Gibbs energy of reaction	R_G5SD	kJ/mol		0	R03313
 Gibbs energy of reaction	R_CS	kJ/mol		0	R00351
