@@ -20,7 +20,7 @@ for r in m_flag.reactions:
         r.notes['exchange_reaction']='false'
 
 #Save the updated model
-cobra.io.save_matlab_model(m_flag, 'model_w_exchange_flagged/Escherichia_coli_iCH360_exchange_flagged.json')
+cobra.io.save_json_model(m_flag, 'model_w_exchange_flagged/Escherichia_coli_iCH360_exchange_flagged.json')
 cobra.io.write_sbml_model(m_flag, 'model_w_exchange_flagged/Escherichia_coli_iCH360_exchange_flagged.xml')
 
 #%% Remove Exchange reacions
@@ -28,5 +28,5 @@ for r in m_remove.reactions:
     if r.id[0:3]=='EX_':
         m_remove.remove_reactions([r])
 
-cobra.io.save_matlab_model(m_flag, 'model_wo_exchange/Escherichia_coli_iCH360_wo_exchange.json')
+cobra.io.save_json_model(m_flag, 'model_wo_exchange/Escherichia_coli_iCH360_wo_exchange.json')
 cobra.io.write_sbml_model(m_flag, 'model_wo_exchange/Escherichia_coli_iCH360_wo_exchange.xml')
