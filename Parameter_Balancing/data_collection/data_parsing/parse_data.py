@@ -323,7 +323,7 @@ for i in range(len(keq_data)):
     
     r_id=cur_entry.index[0][2:]
     r_kegg_id=bigg2kegg(r_id, 'r', model)
-    new_row={'!QuantityType':'standard Gibbs energy of reaction',
+    new_row={'!QuantityType':'standard Gibbs free energy of reaction',
               '!Compound':[''],
               '!Reaction':[cur_entry.index[0]],
               '!Unit':['kJ/mol'],
@@ -354,7 +354,7 @@ for r in model.reactions:
     r_ub=r.bounds[1]
     #--------
     new_row=copy.deepcopy(template)
-    new_row['!QuantityType']= ['Gibbs energy of reaction']
+    new_row['!QuantityType']= ['Gibbs free energy of reaction']
     new_row['!Unit']=['kJ/mol']
     new_row['!Reaction']=['R_'+ r.id]
     new_row['!Reaction:Identifiers:kegg.reaction']=[bigg2kegg(r.id, 'r', model)]
