@@ -89,7 +89,7 @@
 "inchikey":[
 "RKNHJBVBFHDXGR-KEOHHSTQSA-H"
 ],
-"kegg_compound":[
+"kegg.compound":[
 "C02739"
 ],
 "metanetx.chemical":[
@@ -419,7 +419,7 @@
 "inchikey":[
 "RTQMRTSPTLIIHM-KEOHHSTQSA-J"
 ],
-"kegg_compound":[
+"kegg.compound":[
 "C02741"
 ],
 "metanetx.chemical":[
@@ -779,7 +779,7 @@
 "inchikey":[
 "KTVPXOYAKDPRHY-AIHAYLRMSA-L"
 ],
-"kegg_compound":[
+"kegg.compound":[
 "C03736"
 ],
 "metanetx.chemical":[
@@ -922,7 +922,7 @@
 "1278"
 ],
 "sbo":"SBO:0000247",
-"seed_compound":[
+"seed.compound":[
 "cpd00029"
 ],
 "slm":[
@@ -1326,7 +1326,7 @@
 "metanetx.chemical":[
 "MNXM1223"
 ],
-"sabiork":[
+"sabiork.compound":[
 "8104"
 ],
 "sbo":"SBO:0000247",
@@ -2296,7 +2296,7 @@
 "MNXM24502"
 ],
 "sbo":"SBO:0000247",
-"seed_compound":[
+"seed.compound":[
 "cpd11473"
 ]
 }
@@ -3455,7 +3455,7 @@
 "20032"
 ],
 "sbo":"SBO:0000247",
-"seed_compound":[
+"seed.compound":[
 "cpd01080"
 ],
 "slm":[
@@ -3998,7 +3998,7 @@
 "1278"
 ],
 "sbo":"SBO:0000247",
-"seed_compound":[
+"seed.compound":[
 "cpd00029"
 ],
 "slm":[
@@ -4798,7 +4798,7 @@
 "MNXM191"
 ],
 "sbo":"SBO:0000247",
-"seed_compound":[
+"seed.compound":[
 "cpd29608",
 "cpd15561"
 ]
@@ -5592,7 +5592,7 @@
 "kegg.compound":[
 "C00680"
 ],
-"metanetx_chemical":[
+"metanetx.chemical":[
 "MNXM529"
 ],
 "sbo":"SBO:0000247",
@@ -5923,7 +5923,7 @@
 "inchikey":[
 "JHLXDWGVSYMXPL-XVFCMESISA-K"
 ],
-"kegg_compound":[
+"kegg.compound":[
 "C15667"
 ],
 "metanetx.chemical":[
@@ -6203,7 +6203,7 @@
 "kegg.compound":[
 "C00343"
 ],
-"metanetx_chemical":[
+"metanetx.chemical":[
 "MNXM148"
 ],
 "reactome":[
@@ -6248,7 +6248,7 @@
 "kegg.compound":[
 "C03506"
 ],
-"metanetx_chemical":[
+"metanetx.chemical":[
 "MNXM866"
 ],
 "sbo":"SBO:0000247",
@@ -6575,7 +6575,7 @@
 "kegg.compound":[
 "C04302"
 ],
-"metanetx_chemical":[
+"metanetx.chemical":[
 "MNXM1489"
 ],
 "sbo":"SBO:0000247",
@@ -6923,10 +6923,10 @@
 "kegg.compound":[
 "C00354"
 ],
-"metanetx_chemical":[
+"metanetx.chemical":[
 "MNXM417"
 ],
-"sabiork":[
+"sabiork.compound":[
 "1465"
 ],
 "sbo":"SBO:0000247",
@@ -7765,7 +7765,7 @@
 "inchikey":[
 "CWNDERHTHMWBSI-YFKPBYRVSA-M"
 ],
-"kegg_compound":[
+"kegg.compound":[
 "C01100"
 ],
 "metanetx.chemical":[
@@ -8048,7 +8048,7 @@
 "inchikey":[
 "GNISQJGXJIDKDJ-YFKPBYRVSA-M"
 ],
-"kegg_compound":[
+"kegg.compound":[
 "C01118"
 ],
 "metanetx.chemical":[
@@ -8094,7 +8094,7 @@
 "MNXM29072"
 ],
 "sbo":"SBO:0000247",
-"seed_compound":[
+"seed.compound":[
 "cpd11477"
 ]
 }
@@ -8425,7 +8425,7 @@
 "kegg.compound":[
 "C01302"
 ],
-"metanetx_chemical":[
+"metanetx.chemical":[
 "MNXM1455"
 ],
 "sbo":"SBO:0000247",
@@ -10252,7 +10252,7 @@
 "inchikey":[
 "BLKFNHOCHNCLII-GHVQHMAVSA-J"
 ],
-"kegg_compound":[
+"kegg.compound":[
 "C04916"
 ],
 "metanetx.chemical":[
@@ -10352,7 +10352,7 @@
 "inchikey":[
 "QOUSHGMTBIIAHR-KEOHHSTQSA-J"
 ],
-"kegg_compound":[
+"kegg.compound":[
 "C04896"
 ],
 "metanetx.chemical":[
@@ -10395,7 +10395,7 @@
 "MNXM24297"
 ],
 "sbo":"SBO:0000247",
-"seed_compound":[
+"seed.compound":[
 "cpd11467"
 ]
 }
@@ -10713,7 +10713,7 @@
 "kegg.compound":[
 "C00342"
 ],
-"metanetx_chemical":[
+"metanetx.chemical":[
 "MNXM96993"
 ],
 "reactome":[
@@ -11096,7 +11096,7 @@
 "inchikey":[
 "ICFIZJQGJAJRSU-SGHXUWJISA-N"
 ],
-"kegg_compound":[
+"kegg.compound":[
 "C17569"
 ],
 "lipidmaps":[
@@ -11334,7 +11334,7 @@
 "1990"
 ],
 "sbo":"SBO:0000247",
-"seed_compound":[
+"seed.compound":[
 "cpd00214"
 ],
 "slm":[
@@ -11783,7 +11783,7 @@
 "1278"
 ],
 "sbo":"SBO:0000247",
-"seed_compound":[
+"seed.compound":[
 "cpd00029"
 ],
 "slm":[
@@ -12061,7 +12061,7 @@
 "inchikey":[
 "SDVXSCSNVVZWDD-LURJTMIESA-K"
 ],
-"kegg_compound":[
+"kegg.compound":[
 "C04462"
 ],
 "metanetx.chemical":[
@@ -12393,7 +12393,7 @@
 "inchikey":[
 "ZWIADYZPOWUWEW-XVFCMESISA-K"
 ],
-"kegg_compound":[
+"kegg.compound":[
 "C00112"
 ],
 "metanetx.chemical":[
@@ -13054,7 +13054,7 @@
 "metanetx.chemical":[
 "MNXM184"
 ],
-"sabiork":[
+"sabiork.compound":[
 "5446"
 ],
 "sbo":"SBO:0000247",
@@ -13625,7 +13625,7 @@
 "inchikey":[
 "ODBLHEXUDAPZAU-UHFFFAOYSA-K"
 ],
-"kegg_compound":[
+"kegg.compound":[
 "C00311"
 ],
 "metanetx.chemical":[
@@ -14706,7 +14706,7 @@
 "inchikey":[
 "HIIZAGQWABAMRR-BYPYZUCNSA-L"
 ],
-"kegg_compound":[
+"kegg.compound":[
 "C04236"
 ],
 "metanetx.chemical":[
@@ -15295,7 +15295,7 @@
 "metanetx.chemical":[
 "MNXM5861"
 ],
-"reactome_compound":[
+"reactome":[
 "8862371"
 ],
 "sbo":"SBO:0000247",
@@ -15904,7 +15904,7 @@
 "metanetx.chemical":[
 "MNXM925"
 ],
-"sabiork":[
+"sabiork.compound":[
 "2186"
 ],
 "sbo":"SBO:0000247",
@@ -16122,7 +16122,6 @@
 "gene_reaction_rule":"b0474 or b2518",
 "subsystem":"Nucleotide Salvage Pathway",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "NDPK5"
 ]
@@ -16137,7 +16136,7 @@
 "ec-code":[
 "2.7.4.6"
 ],
-"kegg_reaction":[
+"kegg.reaction":[
 "R01857"
 ],
 "metanetx.reaction":[
@@ -16173,7 +16172,6 @@
 "gene_reaction_rule":"b3281 or b1692",
 "subsystem":"Tyrosine, Tryptophan, and Phenylalanine Metabolism",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "SHK3Dr"
 ]
@@ -16227,7 +16225,6 @@
 "gene_reaction_rule":"b0474 or b2518",
 "subsystem":"Nucleotide Salvage Pathway",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "NDPK6"
 ]
@@ -16242,7 +16239,7 @@
 "ec-code":[
 "2.7.4.6"
 ],
-"kegg_reaction":[
+"kegg.reaction":[
 "R02331"
 ],
 "metanetx.reaction":[
@@ -16277,7 +16274,6 @@
 "gene_reaction_rule":"b0474 or b2518",
 "subsystem":"Nucleotide Salvage Pathway",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "NDPK8"
 ]
@@ -16295,7 +16291,7 @@
 "kegg.reaction":[
 "R01137"
 ],
-"metanetx_reaction":[
+"metanetx.reaction":[
 "MNXR101940"
 ],
 "rhea":[
@@ -16324,7 +16320,6 @@
 "gene_reaction_rule":"b1062",
 "subsystem":"Purine and Pyrimidine Biosynthesis",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "DHORTS"
 ]
@@ -16395,7 +16390,6 @@
 "gene_reaction_rule":"b1281",
 "subsystem":"Purine and Pyrimidine Biosynthesis",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "OMPDC"
 ]
@@ -16468,7 +16462,6 @@
 "gene_reaction_rule":"b0243",
 "subsystem":"Arginine and Proline Metabolism",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "G5SD"
 ]
@@ -16483,7 +16476,7 @@
 "ec-code":[
 "1.2.1.41"
 ],
-"kegg_reaction":[
+"kegg.reaction":[
 "R03313"
 ],
 "metanetx.reaction":[
@@ -16520,7 +16513,6 @@
 "gene_reaction_rule":"b0720",
 "subsystem":"Citric Acid Cycle",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "CS"
 ]
@@ -16594,7 +16586,6 @@
 "gene_reaction_rule":"b1136",
 "subsystem":"Citric Acid Cycle",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "ICDHyr"
 ]
@@ -16609,7 +16600,7 @@
 "kegg.reaction":[
 "R00267"
 ],
-"metanetx_reaction":[
+"metanetx.reaction":[
 "MNXR100781"
 ],
 "rhea":[
@@ -16643,7 +16634,6 @@
 "gene_reaction_rule":"b0351 or b1241",
 "subsystem":"Pyruvate Metabolism",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "ACALD"
 ]
@@ -16658,7 +16648,7 @@
 "ec-code":[
 "1.2.1.10"
 ],
-"kegg_reaction":[
+"kegg.reaction":[
 "R00228"
 ],
 "metanetx.reaction":[
@@ -16693,7 +16683,6 @@
 "gene_reaction_rule":"b2744 or b2502 or b4226",
 "subsystem":"Anaplerotic Reactions",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "PPA"
 ]
@@ -16794,7 +16783,6 @@
 "gene_reaction_rule":"b3403",
 "subsystem":"Anaplerotic Reactions",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "PPCK"
 ]
@@ -16809,7 +16797,7 @@
 "ec-code":[
 "4.1.1.49"
 ],
-"kegg_reaction":[
+"kegg.reaction":[
 "R00341"
 ],
 "metanetx.reaction":[
@@ -16845,7 +16833,6 @@
 "gene_reaction_rule":"b1479",
 "subsystem":"Anaplerotic Reactions",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "ME1"
 ]
@@ -16861,7 +16848,7 @@
 "1.1.1.38",
 "1.1.1.39"
 ],
-"kegg_reaction":[
+"kegg.reaction":[
 "R00214"
 ],
 "metanetx.reaction":[
@@ -16896,7 +16883,6 @@
 "gene_reaction_rule":"b2290 or b2379",
 "subsystem":"Alanine and Aspartate Metabolism",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "ALATA_L"
 ]
@@ -17014,7 +17000,6 @@
 "gene_reaction_rule":"b0063 or b3564",
 "subsystem":"Alternate Carbon Metabolism",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "XYLK"
 ]
@@ -17029,7 +17014,7 @@
 "ec-code":[
 "2.7.1.17"
 ],
-"kegg_reaction":[
+"kegg.reaction":[
 "R01639"
 ],
 "metanetx.reaction":[
@@ -17080,7 +17065,6 @@
 "gene_reaction_rule":"b3752",
 "subsystem":"Alternate Carbon Metabolism",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "RBK"
 ]
@@ -17092,7 +17076,7 @@
 "ec-code":[
 "2.7.1.15"
 ],
-"metanetx_reaction":[
+"metanetx.reaction":[
 "MNXR103431"
 ],
 "sbo":"SBO:0000176"
@@ -17113,7 +17097,6 @@
 "gene_reaction_rule":"b3926",
 "subsystem":"Alternate Carbon Metabolism",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "GLYK"
 ]
@@ -17182,7 +17165,6 @@
 "gene_reaction_rule":"b0928 or b4054",
 "subsystem":"Alanine and Aspartate Metabolism",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "ASPTA"
 ]
@@ -17305,7 +17287,6 @@
 "gene_reaction_rule":"b4232 or b3925 or b2930 or b3697",
 "subsystem":"Glycolysis/Gluconeogenesis",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "FBP"
 ]
@@ -17333,50 +17314,6 @@
 }
 },
 {
-"id":"EX_pi_e",
-"name":"Phosphate exchange",
-"metabolites":{
-"pi_e":-1
-},
-"lower_bound":-1000.0,
-"upper_bound":1000.0,
-"gene_reaction_rule":"",
-"subsystem":"Extracellular exchange",
-"notes":{
-"exchange_reaction":"true",
-"original_bigg_ids":[
-"EX_pi_e"
-]
-},
-"annotation":{
-"bigg.reaction":[
-"EX_pi_e"
-],
-"biocyc":[
-"META:TRANS-RXN0-470"
-],
-"metanetx.reaction":[
-"MNXR102871"
-],
-"rhea":[
-"32824",
-"32826",
-"32825",
-"32823"
-],
-"sabiork.reaction":[
-"10985"
-],
-"sbo":"SBO:0000627",
-"seed.reaction":[
-"rxn10838",
-"rxn09722",
-"rxn09121",
-"rxn13178"
-]
-}
-},
-{
 "id":"PYK",
 "name":"Pyruvate kinase",
 "metabolites":{
@@ -17391,7 +17328,6 @@
 "gene_reaction_rule":"b1854 or b1676",
 "subsystem":"Glycolysis/Gluconeogenesis",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "PYK"
 ]
@@ -17449,101 +17385,6 @@
 }
 },
 {
-"id":"EX_co2_e",
-"name":"CO2 exchange",
-"metabolites":{
-"co2_e":-1
-},
-"lower_bound":-1000.0,
-"upper_bound":1000.0,
-"gene_reaction_rule":"",
-"subsystem":"Extracellular exchange",
-"notes":{
-"exchange_reaction":"true",
-"original_bigg_ids":[
-"EX_co2_e"
-]
-},
-"annotation":{
-"bigg.reaction":[
-"EX_co2_e"
-],
-"biocyc":[
-"META:TRANS-RXN0-545"
-],
-"metanetx.reaction":[
-"MNXR96810"
-],
-"reactome":[
-"R-DDI-1247645",
-"R-CFA-1237069",
-"R-TGU-1247649",
-"R-CFA-1237042",
-"R-CEL-1247645",
-"R-XTR-1237069",
-"R-HSA-1247645",
-"R-OSA-1237042",
-"R-GGA-1237042",
-"R-BTA-1247645",
-"R-GGA-1247649",
-"R-RNO-1247645",
-"R-XTR-1247645",
-"R-TGU-1237042",
-"R-SCE-1247649",
-"R-MMU-1247649",
-"R-CFA-1247649",
-"R-GGA-1247645",
-"R-SSC-1247645",
-"R-BTA-1237069",
-"R-RNO-1237069",
-"R-SCE-1237042",
-"R-DDI-1247649",
-"R-SSC-1237042",
-"R-DRE-1247649",
-"R-DRE-1237042",
-"R-DDI-1237042",
-"R-DME-1237042",
-"R-MMU-1237042",
-"R-SSC-1247649",
-"R-TGU-1237069",
-"R-BTA-1247649",
-"R-CFA-1247645",
-"R-RNO-1247649",
-"R-HSA-1237069",
-"R-CEL-1237069",
-"R-DDI-1237069",
-"R-MMU-1237069",
-"R-DME-1247645",
-"R-ATH-1237042",
-"R-OSA-1247649",
-"R-HSA-1237042",
-"R-DRE-1247645",
-"R-HSA-1247649",
-"R-MMU-1247645",
-"R-DME-1237069",
-"R-RNO-1237042",
-"R-TGU-1247645",
-"R-BTA-1237042",
-"R-GGA-1237069",
-"R-DME-1247649",
-"R-SSC-1237069",
-"R-DRE-1237069",
-"R-ATH-1247649"
-],
-"sbo":"SBO:0000627",
-"seed.reaction":[
-"rxn05467",
-"rxn08237",
-"rxn09706",
-"rxn09821",
-"rxn09775",
-"rxn09876",
-"rxn08238",
-"rxn09860"
-]
-}
-},
-{
 "id":"GTHOr",
 "name":"Glutathione oxidoreductase",
 "metabolites":{
@@ -17558,7 +17399,6 @@
 "gene_reaction_rule":"b3500",
 "subsystem":"Cofactor and Prosthetic Group Biosynthesis",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "GTHOr"
 ]
@@ -17644,7 +17484,6 @@
 "gene_reaction_rule":"b3770",
 "subsystem":"Valine, Leucine, and Isoleucine Metabolism",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "ILETA"
 ]
@@ -17659,7 +17498,7 @@
 "ec-code":[
 "2.6.1.42"
 ],
-"kegg_reaction":[
+"kegg.reaction":[
 "R02199"
 ],
 "metanetx.reaction":[
@@ -17694,7 +17533,6 @@
 "gene_reaction_rule":"b0945",
 "subsystem":"Purine and Pyrimidine Biosynthesis",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "DHORD5"
 ]
@@ -17732,7 +17570,6 @@
 "gene_reaction_rule":"b3770",
 "subsystem":"Valine, Leucine, and Isoleucine Metabolism",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "VALTA"
 ]
@@ -17748,7 +17585,7 @@
 "2.6.1.42",
 "2.6.1.6"
 ],
-"kegg_reaction":[
+"kegg.reaction":[
 "R01214"
 ],
 "metanetx.reaction":[
@@ -17782,7 +17619,6 @@
 "gene_reaction_rule":"b0071 and b0072",
 "subsystem":"Valine, Leucine, and Isoleucine Metabolism",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "IPPMIb"
 ]
@@ -17800,7 +17636,7 @@
 "kegg.reaction":[
 "R03968"
 ],
-"metanetx_reaction":[
+"metanetx.reaction":[
 "MNXR100826"
 ],
 "rhea":[
@@ -17829,7 +17665,6 @@
 "gene_reaction_rule":"b3642",
 "subsystem":"Purine and Pyrimidine Biosynthesis",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "ORPT"
 ]
@@ -17901,7 +17736,6 @@
 "gene_reaction_rule":"(b3670 and b3671) or (b0077 and b0078)",
 "subsystem":"Valine, Leucine, and Isoleucine Metabolism",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "ACHBS"
 ]
@@ -17919,7 +17753,7 @@
 "kegg.reaction":[
 "R08648"
 ],
-"metanetx_reaction":[
+"metanetx.reaction":[
 "MNXR95260"
 ],
 "rhea":[
@@ -17947,7 +17781,6 @@
 "gene_reaction_rule":"b3771",
 "subsystem":"Valine, Leucine, and Isoleucine Metabolism",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "DHAD2"
 ]
@@ -17991,7 +17824,6 @@
 "gene_reaction_rule":"(b0077 and b0078) or (b3670 and b3671)",
 "subsystem":"Valine, Leucine, and Isoleucine Metabolism",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "ACLS"
 ]
@@ -18009,7 +17841,7 @@
 "kegg.reaction":[
 "R00226"
 ],
-"metanetx_reaction":[
+"metanetx.reaction":[
 "MNXR95271"
 ],
 "rhea":[
@@ -18038,7 +17870,6 @@
 "gene_reaction_rule":"b1260 and b1261",
 "subsystem":"Tyrosine, Tryptophan, and Phenylalanine Metabolism",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "TRPS2"
 ]
@@ -18054,7 +17885,7 @@
 "4.2.1.122",
 "4.2.1.20"
 ],
-"kegg_reaction":[
+"kegg.reaction":[
 "R00674"
 ],
 "metanetx.reaction":[
@@ -18089,7 +17920,6 @@
 "gene_reaction_rule":"b0908",
 "subsystem":"Tyrosine, Tryptophan, and Phenylalanine Metabolism",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "PSCVT"
 ]
@@ -18142,7 +17972,6 @@
 "gene_reaction_rule":"(b0902 and b0903) or (b0902 and b3114) or (b3951 and b3952) or ((b0902 and b0903) and b2579)",
 "subsystem":"Pyruvate Metabolism",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "PFL"
 ]
@@ -18157,7 +17986,7 @@
 "ec-code":[
 "2.3.1.54"
 ],
-"kegg_reaction":[
+"kegg.reaction":[
 "R00212"
 ],
 "metanetx.reaction":[
@@ -18194,7 +18023,6 @@
 "gene_reaction_rule":"b1263 and b1264",
 "subsystem":"Tyrosine, Tryptophan, and Phenylalanine Metabolism",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "ANS"
 ]
@@ -18209,7 +18037,7 @@
 "ec-code":[
 "4.1.3.27"
 ],
-"kegg_reaction":[
+"kegg.reaction":[
 "R00986"
 ],
 "metanetx.reaction":[
@@ -18244,7 +18072,6 @@
 "gene_reaction_rule":"b4152 and b4151 and b4153 and b4154",
 "subsystem":"Citric Acid Cycle",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "FRD2"
 ]
@@ -18282,7 +18109,6 @@
 "gene_reaction_rule":"b1263",
 "subsystem":"Tyrosine, Tryptophan, and Phenylalanine Metabolism",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "ANPRT"
 ]
@@ -18300,7 +18126,7 @@
 "kegg.reaction":[
 "R01073"
 ],
-"metanetx_reaction":[
+"metanetx.reaction":[
 "MNXR95842"
 ],
 "rhea":[
@@ -18327,7 +18153,6 @@
 "gene_reaction_rule":"b2599 or b2600",
 "subsystem":"Tyrosine, Tryptophan, and Phenylalanine Metabolism",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "CHORM"
 ]
@@ -18342,7 +18167,7 @@
 "ec-code":[
 "5.4.99.5"
 ],
-"kegg_reaction":[
+"kegg.reaction":[
 "R01715"
 ],
 "metanetx.reaction":[
@@ -18377,7 +18202,6 @@
 "gene_reaction_rule":"b2297 or b2458",
 "subsystem":"Pyruvate Metabolism",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "PTAr"
 ]
@@ -18392,7 +18216,7 @@
 "ec-code":[
 "2.3.1.8"
 ],
-"kegg_reaction":[
+"kegg.reaction":[
 "R00230"
 ],
 "metanetx.reaction":[
@@ -18426,7 +18250,6 @@
 "gene_reaction_rule":"b2329",
 "subsystem":"Tyrosine, Tryptophan, and Phenylalanine Metabolism",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "CHORS"
 ]
@@ -18441,7 +18264,7 @@
 "ec-code":[
 "4.2.3.5"
 ],
-"kegg_reaction":[
+"kegg.reaction":[
 "R01714"
 ],
 "metanetx.reaction":[
@@ -18477,7 +18300,6 @@
 "gene_reaction_rule":"b1262",
 "subsystem":"Tyrosine, Tryptophan, and Phenylalanine Metabolism",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "IGPS"
 ]
@@ -18495,7 +18317,7 @@
 "kegg.reaction":[
 "R03508"
 ],
-"metanetx_reaction":[
+"metanetx.reaction":[
 "MNXR100814"
 ],
 "rhea":[
@@ -18524,7 +18346,6 @@
 "gene_reaction_rule":"b2296 or b1849 or b3115",
 "subsystem":"Pyruvate Metabolism",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "ACKr"
 ]
@@ -18540,7 +18361,7 @@
 "2.7.2.15",
 "2.7.2.1"
 ],
-"kegg_reaction":[
+"kegg.reaction":[
 "R00315"
 ],
 "metanetx.reaction":[
@@ -18575,7 +18396,6 @@
 "gene_reaction_rule":"b3770 or b4054",
 "subsystem":"Valine, Leucine, and Isoleucine Metabolism",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "LEUTAi"
 ]
@@ -18592,7 +18412,7 @@
 "2.6.1.6",
 "2.6.1.67"
 ],
-"kegg_reaction":[
+"kegg.reaction":[
 "R01090"
 ],
 "metanetx.reaction":[
@@ -18614,534 +18434,6 @@
 }
 },
 {
-"id":"EX_glcn_e",
-"name":"D-Gluconate exchange",
-"metabolites":{
-"glcn_e":-1
-},
-"lower_bound":0.0,
-"upper_bound":1000.0,
-"gene_reaction_rule":"",
-"subsystem":"Extracellular exchange",
-"notes":{
-"exchange_reaction":"true",
-"original_bigg_ids":[
-"EX_glcn_e"
-]
-},
-"annotation":{
-"bigg.reaction":[
-"EX_glcn_e"
-],
-"metanetx.reaction":[
-"MNXR100210"
-],
-"sabiork.reaction":[
-"13786"
-],
-"sbo":"SBO:0000627",
-"seed.reaction":[
-"rxn12424",
-"rxn08610"
-]
-}
-},
-{
-"id":"EX_h_e",
-"name":"H+ exchange",
-"metabolites":{
-"h_e":-1
-},
-"lower_bound":-1000.0,
-"upper_bound":1000.0,
-"gene_reaction_rule":"",
-"subsystem":"Extracellular exchange",
-"notes":{
-"exchange_reaction":"true",
-"original_bigg_ids":[
-"EX_h_e"
-]
-},
-"annotation":{
-"bigg.reaction":[
-"EX_h_e"
-],
-"biocyc":[
-"META:RXN-14452"
-],
-"metanetx.reaction":[
-"MNXR100765"
-],
-"reactome":[
-"R-HSA-2534378",
-"R-DDI-74723",
-"R-BTA-170026",
-"R-CFA-170026",
-"R-SCE-74723",
-"R-DRE-74723",
-"R-HSA-170026",
-"R-TGU-2534378",
-"R-HSA-74723",
-"R-CFA-2534378",
-"R-TGU-74723",
-"R-OSA-170026",
-"R-RNO-2534378",
-"R-GGA-2534378",
-"R-MMU-2534378",
-"R-BTA-2534378",
-"R-SSC-2534378",
-"R-DRE-170026",
-"R-TGU-170026",
-"R-GGA-170026",
-"R-SCE-170026",
-"R-DRE-2534378",
-"R-BTA-74723",
-"R-SPO-74723",
-"R-XTR-74723",
-"R-RNO-74723",
-"R-XTR-2534378",
-"R-MMU-74723",
-"R-CFA-74723",
-"R-GGA-74723",
-"R-CEL-170026",
-"R-MMU-170026",
-"R-ATH-74723",
-"R-DME-74723",
-"R-PFA-74723",
-"R-SSC-74723",
-"R-XTR-170026",
-"R-SSC-170026",
-"R-CEL-74723",
-"R-ATH-170026",
-"R-RNO-170026",
-"R-DME-170026"
-],
-"rhea":[
-"34980",
-"34981",
-"34982",
-"34979"
-],
-"sbo":"SBO:0000627",
-"seed.reaction":[
-"rxn11009",
-"rxn08730"
-]
-}
-},
-{
-"id":"EX_gln__L_e",
-"name":"L-Glutamine exchange",
-"metabolites":{
-"gln__L_e":-1
-},
-"lower_bound":0.0,
-"upper_bound":1000.0,
-"gene_reaction_rule":"",
-"subsystem":"Extracellular exchange",
-"notes":{
-"exchange_reaction":"true",
-"original_bigg_ids":[
-"EX_gln__L_e"
-]
-},
-"annotation":{
-"bigg.reaction":[
-"EX_gln__L_e"
-],
-"biocyc":[
-"META:TRANS-RXN-233"
-],
-"metanetx.reaction":[
-"MNXR100259"
-],
-"reactome":[
-"R-HSA-212651",
-"R-BTA-212614",
-"R-RNO-212614",
-"R-SSC-212614",
-"R-MMU-212614",
-"R-HSA-212614",
-"R-GGA-212614",
-"R-CFA-212614",
-"R-TGU-212614",
-"R-SCE-212614"
-],
-"sabiork.reaction":[
-"13421"
-],
-"sbo":"SBO:0000627",
-"seed_reaction":[
-"rxn08625",
-"rxn10928"
-]
-}
-},
-{
-"id":"EX_glyc_e",
-"name":"Glycerol exchange",
-"metabolites":{
-"glyc_e":-1
-},
-"lower_bound":0.0,
-"upper_bound":1000.0,
-"gene_reaction_rule":"",
-"subsystem":"Extracellular exchange",
-"notes":{
-"exchange_reaction":"true",
-"original_bigg_ids":[
-"EX_glyc_e"
-]
-},
-"annotation":{
-"bigg.reaction":[
-"EX_glyc_e"
-],
-"biocyc":[
-"META:TRANS-RXN-131"
-],
-"metanetx.reaction":[
-"MNXR100343"
-],
-"reactome":[
-"R-RNO-507871",
-"R-SCE-507871",
-"R-MMU-432049",
-"R-GGA-507869",
-"R-SCE-432049",
-"R-MMU-507869",
-"R-CEL-507869",
-"R-SPO-432049",
-"R-TGU-432049",
-"R-HSA-507871",
-"R-PFA-432074",
-"R-GGA-432049",
-"R-PFA-432049",
-"R-BTA-432049",
-"R-MMU-507871",
-"R-CEL-507871",
-"R-XTR-507871",
-"R-HSA-507869",
-"R-SCE-507869",
-"R-DRE-507869",
-"R-PFA-507869",
-"R-TGU-507869",
-"R-RNO-507869",
-"R-MMU-432074",
-"R-SPO-432074",
-"R-BTA-432074",
-"R-CFA-432074",
-"R-CEL-432074",
-"R-PFA-507871",
-"R-SSC-432074",
-"R-CFA-507871",
-"R-SPO-507871",
-"R-BTA-507871",
-"R-XTR-432049",
-"R-HSA-432049",
-"R-DRE-432074",
-"R-CFA-432049",
-"R-SPO-507869",
-"R-GGA-432074",
-"R-HSA-432074",
-"R-RNO-432074",
-"R-SCE-432074",
-"R-TGU-507871",
-"R-GGA-507871",
-"R-DRE-432049",
-"R-BTA-507869",
-"R-SSC-507871",
-"R-XTR-432074",
-"R-XTR-507869",
-"R-CFA-507869",
-"R-RNO-432049",
-"R-SSC-507869",
-"R-SSC-432049",
-"R-TGU-432074",
-"R-CEL-432049",
-"R-DRE-507871"
-],
-"rhea":[
-"29676",
-"29678",
-"29677",
-"29675"
-],
-"sbo":"SBO:0000627",
-"seed.reaction":[
-"rxn05581",
-"rxn08654",
-"rxn08658"
-]
-}
-},
-{
-"id":"EX_ac_e",
-"name":"Acetate exchange",
-"metabolites":{
-"ac_e":-1
-},
-"lower_bound":0.0,
-"upper_bound":1000.0,
-"gene_reaction_rule":"",
-"subsystem":"Extracellular exchange",
-"notes":{
-"exchange_reaction":"true",
-"original_bigg_ids":[
-"EX_ac_e"
-]
-},
-"annotation":{
-"bigg.reaction":[
-"EX_ac_e"
-],
-"biocyc":[
-"META:RXN0-1981",
-"META:TRANS-RXN0-567"
-],
-"metanetx.reaction":[
-"MNXR95431"
-],
-"rhea":[
-"27817",
-"27814",
-"27816",
-"27815"
-],
-"sabiork.reaction":[
-"12184"
-],
-"sbo":"SBO:0000627",
-"seed.reaction":[
-"rxn09787",
-"rxn09866",
-"rxn10904",
-"rxn08063"
-]
-}
-},
-{
-"id":"EX_akg_e",
-"name":"2-Oxoglutarate exchange",
-"metabolites":{
-"akg_e":-1
-},
-"lower_bound":0.0,
-"upper_bound":1000.0,
-"gene_reaction_rule":"",
-"subsystem":"Extracellular exchange",
-"notes":{
-"exchange_reaction":"true",
-"original_bigg_ids":[
-"EX_akg_e"
-]
-},
-"annotation":{
-"bigg.reaction":[
-"EX_akg_e"
-],
-"metanetx.reaction":[
-"MNXR95663"
-],
-"sabiork.reaction":[
-"13794"
-],
-"sbo":"SBO:0000627",
-"seed.reaction":[
-"rxn10923",
-"rxn08096",
-"rxn13220"
-]
-}
-},
-{
-"id":"EX_pyr_e",
-"name":"Pyruvate exchange",
-"metabolites":{
-"pyr_e":-1
-},
-"lower_bound":0.0,
-"upper_bound":1000.0,
-"gene_reaction_rule":"",
-"subsystem":"Extracellular exchange",
-"notes":{
-"exchange_reaction":"true",
-"original_bigg_ids":[
-"EX_pyr_e"
-]
-},
-"annotation":{
-"bigg.reaction":[
-"EX_pyr_e"
-],
-"biocyc":[
-"META:TRANS-RXN0-506",
-"META:TRANS-RXN0-570"
-],
-"metanetx.reaction":[
-"MNXR103384"
-],
-"sabiork.reaction":[
-"12168"
-],
-"sbo":"SBO:0000627",
-"seed.reaction":[
-"rxn10929",
-"rxn09218"
-]
-}
-},
-{
-"id":"EX_succ_e",
-"name":"Succinate exchange",
-"metabolites":{
-"succ_e":-1
-},
-"lower_bound":0.0,
-"upper_bound":1000.0,
-"gene_reaction_rule":"",
-"subsystem":"Extracellular exchange",
-"notes":{
-"exchange_reaction":"true",
-"original_bigg_ids":[
-"EX_succ_e"
-]
-},
-"annotation":{
-"bigg.reaction":[
-"EX_succ_e"
-],
-"biocyc":[
-"META:TRANS-RXN0-552"
-],
-"metanetx.reaction":[
-"MNXR104619"
-],
-"sbo":"SBO:0000627",
-"seed.reaction":[
-"rxn10952",
-"rxn09271"
-]
-}
-},
-{
-"id":"EX_rib__D_e",
-"name":"D-Ribose exchange",
-"metabolites":{
-"rib__D_e":-1
-},
-"lower_bound":0.0,
-"upper_bound":1000.0,
-"gene_reaction_rule":"",
-"subsystem":"Extracellular exchange",
-"notes":{
-"exchange_reaction":"true",
-"original_bigg_ids":[
-"EX_rib__D_e"
-]
-},
-"annotation":{
-"bigg.reaction":[
-"EX_rib__D_e"
-],
-"metanetx.reaction":[
-"MNXR104036"
-],
-"sbo":"SBO:0000627",
-"seed.reaction":[
-"rxn09228"
-]
-}
-},
-{
-"id":"EX_fum_e",
-"name":"Fumarate exchange",
-"metabolites":{
-"fum_e":-1
-},
-"lower_bound":0.0,
-"upper_bound":1000.0,
-"gene_reaction_rule":"",
-"subsystem":"Extracellular exchange",
-"notes":{
-"exchange_reaction":"true",
-"original_bigg_ids":[
-"EX_fum_e"
-]
-},
-"annotation":{
-"bigg.reaction":[
-"EX_fum_e"
-],
-"biocyc":[
-"META:TRANS-RXN0-553"
-],
-"metanetx.reaction":[
-"MNXR99715"
-],
-"sbo":"SBO:0000627",
-"seed.reaction":[
-"rxn08544",
-"rxn11013"
-]
-}
-},
-{
-"id":"EX_glu__L_e",
-"name":"L-Glutamate exchange",
-"metabolites":{
-"glu__L_e":-1
-},
-"lower_bound":0.0,
-"upper_bound":1000.0,
-"gene_reaction_rule":"",
-"subsystem":"Extracellular exchange",
-"notes":{
-"exchange_reaction":"true",
-"original_bigg_ids":[
-"EX_glu__L_e"
-]
-},
-"annotation":{
-"bigg.reaction":[
-"EX_glu__L_e"
-],
-"biocyc":[
-"META:TRANS-RXN-234",
-"META:TRANS-RXN-232"
-],
-"metanetx.reaction":[
-"MNXR100301"
-],
-"reactome":[
-"R-HSA-212658",
-"R-TGU-210439",
-"R-GGA-210439",
-"R-XTR-210439",
-"R-RNO-210439",
-"R-CFA-210439",
-"R-CEL-210439",
-"R-DME-210439",
-"R-SSC-210439",
-"R-HSA-210439",
-"R-DRE-210439",
-"R-MMU-210439",
-"R-BTA-210439"
-],
-"sabiork.reaction":[
-"12283"
-],
-"sbo":"SBO:0000627",
-"seed_reaction":[
-"rxn08633",
-"rxn09750",
-"rxn13304",
-"rxn13120",
-"rxn10917"
-]
-}
-},
-{
 "id":"ENO",
 "name":"Enolase",
 "metabolites":{
@@ -19154,7 +18446,6 @@
 "gene_reaction_rule":"b2779",
 "subsystem":"Glycolysis/Gluconeogenesis",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "ENO"
 ]
@@ -19243,7 +18534,6 @@
 "gene_reaction_rule":"b2925 or b2097",
 "subsystem":"Glycolysis/Gluconeogenesis",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "FBA"
 ]
@@ -19258,7 +18548,7 @@
 "kegg.reaction":[
 "R01068"
 ],
-"metanetx_reaction":[
+"metanetx.reaction":[
 "MNXR99459"
 ],
 "rhea":[
@@ -19290,7 +18580,6 @@
 "gene_reaction_rule":"b0126 or b0339",
 "subsystem":"Unassigned",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "HCO3E"
 ]
@@ -19502,7 +18791,6 @@
 "gene_reaction_rule":"b4006",
 "subsystem":"Purine and Pyrimidine Biosynthesis",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "IMPC"
 ]
@@ -19574,7 +18862,6 @@
 "gene_reaction_rule":"b2508",
 "subsystem":"Purine and Pyrimidine Biosynthesis",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "IMPD"
 ]
@@ -19647,7 +18934,6 @@
 "gene_reaction_rule":"b1702",
 "subsystem":"Glycolysis/Gluconeogenesis",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "PPS"
 ]
@@ -19662,7 +18948,7 @@
 "ec-code":[
 "2.7.9.2"
 ],
-"kegg_reaction":[
+"kegg.reaction":[
 "R00199"
 ],
 "metanetx.reaction":[
@@ -19695,7 +18981,6 @@
 "gene_reaction_rule":"b4025",
 "subsystem":"Glycolysis/Gluconeogenesis",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "PGI"
 ]
@@ -19730,7 +19015,6 @@
 "gene_reaction_rule":"b2926",
 "subsystem":"Glycolysis/Gluconeogenesis",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "PGK"
 ]
@@ -19820,7 +19104,6 @@
 "gene_reaction_rule":"b0767",
 "subsystem":"Pentose Phosphate Pathway",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "PGL"
 ]
@@ -19886,7 +19169,6 @@
 "gene_reaction_rule":"b3386",
 "subsystem":"Pentose Phosphate Pathway",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "RPE"
 ]
@@ -19973,7 +19255,6 @@
 "gene_reaction_rule":"b1693",
 "subsystem":"Tyrosine, Tryptophan, and Phenylalanine Metabolism",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "DHQTi"
 ]
@@ -19988,7 +19269,7 @@
 "ec-code":[
 "4.2.1.10"
 ],
-"kegg_reaction":[
+"kegg.reaction":[
 "R03084"
 ],
 "metanetx.reaction":[
@@ -20024,7 +19305,6 @@
 "gene_reaction_rule":"b0073 or b1800",
 "subsystem":"Valine, Leucine, and Isoleucine Metabolism",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "IPMD"
 ]
@@ -20042,7 +19322,7 @@
 "kegg.reaction":[
 "R04426"
 ],
-"metanetx_reaction":[
+"metanetx.reaction":[
 "MNXR100878"
 ],
 "rhea":[
@@ -20069,7 +19349,6 @@
 "gene_reaction_rule":"b0523",
 "subsystem":"Purine and Pyrimidine Biosynthesis",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "AIRC3"
 ]
@@ -20087,7 +19366,7 @@
 "kegg.reaction":[
 "R07405"
 ],
-"metanetx_reaction":[
+"metanetx.reaction":[
 "MNXR95645"
 ],
 "rhea":[
@@ -20116,7 +19395,6 @@
 "gene_reaction_rule":"b0008 or b2464",
 "subsystem":"Pentose Phosphate Pathway",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "TALA"
 ]
@@ -20159,7 +19437,6 @@
 "gene_reaction_rule":"b1131",
 "subsystem":"Purine and Pyrimidine Biosynthesis",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "ADSL2r"
 ]
@@ -20174,7 +19451,7 @@
 "ec-code":[
 "4.3.2.2"
 ],
-"kegg_reaction":[
+"kegg.reaction":[
 "R04559"
 ],
 "metanetx.reaction":[
@@ -20226,7 +19503,6 @@
 "gene_reaction_rule":"b2935 or b2465",
 "subsystem":"Pentose Phosphate Pathway",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "TKT1"
 ]
@@ -20238,7 +19514,7 @@
 "ec-code":[
 "2.2.1.1"
 ],
-"metanetx_reaction":[
+"metanetx.reaction":[
 "MNXR104868"
 ],
 "sbo":"SBO:0000176"
@@ -20259,7 +19535,6 @@
 "gene_reaction_rule":"(b2582 and (b2234 and b2235)) or (b3781 and (b2234 and b2235))",
 "subsystem":"Nucleotide Salvage Pathway",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "RNDR1"
 ]
@@ -20281,7 +19556,7 @@
 "MNXR104060"
 ],
 "sbo":"SBO:0000176",
-"seed_reaction":[
+"seed.reaction":[
 "rxn05231"
 ]
 }
@@ -20301,7 +19576,6 @@
 "gene_reaction_rule":"b1241 or b1478",
 "subsystem":"Pyruvate Metabolism",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "ALCD2x"
 ]
@@ -20372,7 +19646,6 @@
 "gene_reaction_rule":"(b3781 and (b2234 and b2235)) or (b2582 and (b2234 and b2235))",
 "subsystem":"Nucleotide Salvage Pathway",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "RNDR3"
 ]
@@ -20394,7 +19667,7 @@
 "MNXR104064"
 ],
 "sbo":"SBO:0000176",
-"seed_reaction":[
+"seed.reaction":[
 "rxn06076"
 ]
 }
@@ -20414,7 +19687,6 @@
 "gene_reaction_rule":"(b3781 and (b2234 and b2235)) or ((b2234 and b2235) and b2582)",
 "subsystem":"Nucleotide Salvage Pathway",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "RNDR4"
 ]
@@ -20436,7 +19708,7 @@
 "MNXR104066"
 ],
 "sbo":"SBO:0000176",
-"seed_reaction":[
+"seed.reaction":[
 "rxn06075"
 ]
 }
@@ -20455,7 +19727,6 @@
 "gene_reaction_rule":"b2827",
 "subsystem":"Nucleotide Salvage Pathway",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "TMDS"
 ]
@@ -20483,44 +19754,6 @@
 }
 },
 {
-"id":"EX_glc__D_e",
-"name":"D-Glucose exchange",
-"metabolites":{
-"glc__D_e":-1
-},
-"lower_bound":-10.0,
-"upper_bound":1000.0,
-"gene_reaction_rule":"",
-"subsystem":"Extracellular exchange",
-"notes":{
-"exchange_reaction":"true",
-"original_bigg_ids":[
-"EX_glc__D_e"
-]
-},
-"annotation":{
-"bigg.reaction":[
-"EX_glc__D_e"
-],
-"biocyc":[
-"META:TRANS-RXN0-574"
-],
-"metanetx.reaction":[
-"MNXR100188"
-],
-"sabiork.reaction":[
-"7002",
-"601"
-],
-"sbo":"SBO:0000627",
-"seed.reaction":[
-"rxn09875",
-"rxn09679",
-"rxn08617"
-]
-}
-},
-{
 "id":"DHAD1",
 "name":"Dihydroxy-acid dehydratase (2,3-dihydroxy-3-methylbutanoate)",
 "metabolites":{
@@ -20533,7 +19766,6 @@
 "gene_reaction_rule":"b3771",
 "subsystem":"Valine, Leucine, and Isoleucine Metabolism",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "DHAD1"
 ]
@@ -20576,7 +19808,6 @@
 "gene_reaction_rule":"b0071 and b0072",
 "subsystem":"Valine, Leucine, and Isoleucine Metabolism",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "IPPMIa"
 ]
@@ -20591,7 +19822,7 @@
 "ec-code":[
 "4.2.1.33"
 ],
-"kegg_reaction":[
+"kegg.reaction":[
 "R04001"
 ],
 "metanetx.reaction":[
@@ -20627,7 +19858,6 @@
 "gene_reaction_rule":"b3236",
 "subsystem":"Citric Acid Cycle",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "MDH"
 ]
@@ -20727,7 +19957,6 @@
 "gene_reaction_rule":"b1612 or b4122 or b1611",
 "subsystem":"Citric Acid Cycle",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "FUM"
 ]
@@ -20802,86 +20031,6 @@
 }
 },
 {
-"id":"EX_fru_e",
-"name":"D-Fructose exchange",
-"metabolites":{
-"fru_e":-1
-},
-"lower_bound":0.0,
-"upper_bound":1000.0,
-"gene_reaction_rule":"",
-"subsystem":"Extracellular exchange",
-"notes":{
-"exchange_reaction":"true",
-"original_bigg_ids":[
-"EX_fru_e"
-]
-},
-"annotation":{
-"bigg.reaction":[
-"EX_fru_e"
-],
-"metanetx.reaction":[
-"MNXR99663"
-],
-"reactome":[
-"R-OSA-189222",
-"R-XTR-189222",
-"R-SCE-189222",
-"R-ATH-189222",
-"R-RNO-189222",
-"R-DME-189222",
-"R-TGU-189222",
-"R-SSC-189222",
-"R-CFA-189222",
-"R-DRE-189222",
-"R-HSA-189222",
-"R-GGA-189222",
-"R-BTA-189222",
-"R-MMU-189222",
-"R-DDI-189222"
-],
-"sabiork.reaction":[
-"13415"
-],
-"sbo":"SBO:0000627",
-"seed.reaction":[
-"rxn12996",
-"rxn08537"
-]
-}
-},
-{
-"id":"EX_xyl__D_e",
-"name":"D-Xylose exchange",
-"metabolites":{
-"xyl__D_e":-1
-},
-"lower_bound":0.0,
-"upper_bound":1000.0,
-"gene_reaction_rule":"",
-"subsystem":"Extracellular exchange",
-"notes":{
-"exchange_reaction":"true",
-"original_bigg_ids":[
-"EX_xyl__D_e"
-]
-},
-"annotation":{
-"bigg.reaction":[
-"EX_xyl__D_e"
-],
-"metanetx.reaction":[
-"MNXR105270"
-],
-"sbo":"SBO:0000627",
-"seed.reaction":[
-"rxn09385",
-"rxn09650"
-]
-}
-},
-{
 "id":"KARA1",
 "name":"Ketol-acid reductoisomerase (2,3-dihydroxy-3-methylbutanoate)",
 "metabolites":{
@@ -20896,7 +20045,6 @@
 "gene_reaction_rule":"b3774",
 "subsystem":"Valine, Leucine, and Isoleucine Metabolism",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "KARA1"
 ]
@@ -20942,7 +20090,6 @@
 "gene_reaction_rule":"b3774",
 "subsystem":"Valine, Leucine, and Isoleucine Metabolism",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "KARA2"
 ]
@@ -20970,53 +20117,6 @@
 }
 },
 {
-"id":"EX_for_e",
-"name":"Formate exchange",
-"metabolites":{
-"for_e":-1
-},
-"lower_bound":0.0,
-"upper_bound":1000.0,
-"gene_reaction_rule":"",
-"subsystem":"Extracellular exchange",
-"notes":{
-"exchange_reaction":"true",
-"original_bigg_ids":[
-"EX_for_e"
-]
-},
-"annotation":{
-"bigg.reaction":[
-"EX_for_e"
-],
-"biocyc":[
-"META:TRANS-RXN-1"
-],
-"metanetx.reaction":[
-"MNXR99620"
-],
-"reactome":[
-"R-HSA-6803255"
-],
-"rhea":[
-"29681",
-"29680",
-"29682",
-"29679"
-],
-"sabiork":[
-"12483"
-],
-"sbo":"SBO:0000627",
-"seed.reaction":[
-"rxn09754",
-"rxn08525",
-"rxn09682",
-"rxn08526"
-]
-}
-},
-{
 "id":"ACCOAC",
 "name":"Acetyl-CoA carboxylase",
 "metabolites":{
@@ -21033,7 +20133,6 @@
 "gene_reaction_rule":"b2316 and b3255 and b3256 and b0185",
 "subsystem":"Membrane Lipid Metabolism",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "ACCOAC"
 ]
@@ -21138,7 +20237,6 @@
 "gene_reaction_rule":"b2323 or b1095",
 "subsystem":"Membrane Lipid Metabolism",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "KAS14"
 ]
@@ -21165,7 +20263,7 @@
 "MNXR100912"
 ],
 "sbo":"SBO:0000176",
-"seed_reaction":[
+"seed.reaction":[
 "rxn05347"
 ]
 }
@@ -21187,7 +20285,6 @@
 "gene_reaction_rule":"b3172",
 "subsystem":"Arginine and Proline Metabolism",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "ARGSS"
 ]
@@ -21250,7 +20347,6 @@
 "gene_reaction_rule":"b3958",
 "subsystem":"Arginine and Proline Metabolism",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "AGPR"
 ]
@@ -21268,7 +20364,7 @@
 "kegg.reaction":[
 "R03443"
 ],
-"metanetx_reaction":[
+"metanetx.reaction":[
 "MNXR95530"
 ],
 "rhea":[
@@ -21296,7 +20392,6 @@
 "gene_reaction_rule":"b4015",
 "subsystem":"Anaplerotic Reactions",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "ICL"
 ]
@@ -21311,7 +20406,7 @@
 "kegg.reaction":[
 "R00479"
 ],
-"metanetx_reaction":[
+"metanetx.reaction":[
 "MNXR100789"
 ],
 "rhea":[
@@ -21326,41 +20421,6 @@
 "sbo":"SBO:0000176",
 "seed.reaction":[
 "rxn00336"
-]
-}
-},
-{
-"id":"EX_acald_e",
-"name":"Acetaldehyde exchange",
-"metabolites":{
-"acald_e":-1
-},
-"lower_bound":0.0,
-"upper_bound":1000.0,
-"gene_reaction_rule":"",
-"subsystem":"Extracellular exchange",
-"notes":{
-"exchange_reaction":"true",
-"original_bigg_ids":[
-"EX_acald_e"
-]
-},
-"annotation":{
-"bigg.reaction":[
-"EX_acald_e"
-],
-"metanetx.reaction":[
-"MNXR95212"
-],
-"reactome":[
-"R-HSA-449872"
-],
-"sbo":"SBO:0000627",
-"seed.reaction":[
-"rxn09700",
-"rxn08033",
-"rxn13212",
-"rxn08032"
 ]
 }
 },
@@ -21381,7 +20441,6 @@
 "gene_reaction_rule":"b2904 and b2903 and b0116 and b2905",
 "subsystem":"Folate Metabolism",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "GLYCL"
 ]
@@ -21422,7 +20481,6 @@
 "gene_reaction_rule":"b3565",
 "subsystem":"Alternate Carbon Metabolism",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "XYLI1"
 ]
@@ -21440,7 +20498,7 @@
 "kegg.reaction":[
 "R01432"
 ],
-"metanetx_reaction":[
+"metanetx.reaction":[
 "MNXR105253"
 ],
 "rhea":[
@@ -21471,7 +20529,6 @@
 "gene_reaction_rule":"b3956",
 "subsystem":"Anaplerotic Reactions",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "PPC"
 ]
@@ -21486,7 +20543,7 @@
 "kegg.reaction":[
 "R00345"
 ],
-"metanetx_reaction":[
+"metanetx.reaction":[
 "MNXR103096"
 ],
 "rhea":[
@@ -21518,7 +20575,6 @@
 "gene_reaction_rule":"b0822 or b0675",
 "subsystem":"Alternate Carbon Metabolism",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "G3PT"
 ]
@@ -21537,10 +20593,10 @@
 "kegg.reaction":[
 "R00841"
 ],
-"metanetx_reaction":[
+"metanetx.reaction":[
 "MNXR99894"
 ],
-"sabiork":[
+"sabiork.reaction":[
 "1182"
 ],
 "sbo":"SBO:0000176",
@@ -21567,7 +20623,6 @@
 "gene_reaction_rule":"b2752 and b2751",
 "subsystem":"Cysteine Metabolism",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "SADT2"
 ]
@@ -21605,7 +20660,6 @@
 "gene_reaction_rule":"b1094 and b2836",
 "subsystem":"Cell Envelope Biosynthesis",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "AACPS1"
 ]
@@ -21617,7 +20671,7 @@
 "ec-code":[
 "6.2.1.20"
 ],
-"metanetx_reaction":[
+"metanetx.reaction":[
 "MNXR95138"
 ],
 "sbo":"SBO:0000176"
@@ -21638,7 +20692,6 @@
 "gene_reaction_rule":"b2551",
 "subsystem":"Glycine and Serine Metabolism",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "GHMT2r"
 ]
@@ -21679,7 +20732,6 @@
 "gene_reaction_rule":"b0945",
 "subsystem":"Purine and Pyrimidine Biosynthesis",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "DHORD2"
 ]
@@ -21717,7 +20769,6 @@
 "gene_reaction_rule":"b2472",
 "subsystem":"Threonine and Lysine Metabolism",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "SDPDS"
 ]
@@ -21732,7 +20783,7 @@
 "ec-code":[
 "3.5.1.18"
 ],
-"kegg_reaction":[
+"kegg.reaction":[
 "R02734"
 ],
 "metanetx.reaction":[
@@ -21754,38 +20805,6 @@
 }
 },
 {
-"id":"EX_lac__D_e",
-"name":"D-lactate exchange",
-"metabolites":{
-"lac__D_e":-1
-},
-"lower_bound":0.0,
-"upper_bound":1000.0,
-"gene_reaction_rule":"",
-"subsystem":"Extracellular exchange",
-"notes":{
-"exchange_reaction":"true",
-"original_bigg_ids":[
-"EX_lac__D_e"
-]
-},
-"annotation":{
-"bigg.reaction":[
-"EX_lac__D_e"
-],
-"metanetx.reaction":[
-"MNXR97840"
-],
-"sabiork.reaction":[
-"12471"
-],
-"sbo":"SBO:0000627",
-"seed.reaction":[
-"rxn08351"
-]
-}
-},
-{
 "id":"UMPK",
 "name":"UMP kinase",
 "metabolites":{
@@ -21799,7 +20818,6 @@
 "gene_reaction_rule":"b0910 or b0171",
 "subsystem":"Nucleotide Salvage Pathway",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "UMPK"
 ]
@@ -21816,7 +20834,7 @@
 "2.7.4.22",
 "2.7.4.14"
 ],
-"kegg_reaction":[
+"kegg.reaction":[
 "R00158"
 ],
 "metanetx.reaction":[
@@ -21856,7 +20874,6 @@
 "gene_reaction_rule":"b2780",
 "subsystem":"Purine and Pyrimidine Biosynthesis",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "CTPS2"
 ]
@@ -21942,7 +20959,6 @@
 "gene_reaction_rule":"b0474 or b2518",
 "subsystem":"Nucleotide Salvage Pathway",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "NDPK7"
 ]
@@ -21957,7 +20973,7 @@
 "ec-code":[
 "2.7.4.6"
 ],
-"kegg_reaction":[
+"kegg.reaction":[
 "R02326"
 ],
 "metanetx.reaction":[
@@ -21991,7 +21007,6 @@
 "gene_reaction_rule":"b1260 and b1261",
 "subsystem":"Tyrosine, Tryptophan, and Phenylalanine Metabolism",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "TRPS3"
 ]
@@ -22010,7 +21025,7 @@
 "kegg.reaction":[
 "R02340"
 ],
-"metanetx_reaction":[
+"metanetx.reaction":[
 "MNXR99889"
 ],
 "rhea":[
@@ -22038,7 +21053,6 @@
 "gene_reaction_rule":"b0474",
 "subsystem":"Nucleotide Salvage Pathway",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "ADK1"
 ]
@@ -22126,7 +21140,6 @@
 "gene_reaction_rule":"b0474 or b2518",
 "subsystem":"Nucleotide Salvage Pathway",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "NDPK2"
 ]
@@ -22141,7 +21154,7 @@
 "ec-code":[
 "2.7.4.6"
 ],
-"kegg_reaction":[
+"kegg.reaction":[
 "R00156"
 ],
 "metanetx.reaction":[
@@ -22176,7 +21189,6 @@
 "gene_reaction_rule":"b0474 or b2518",
 "subsystem":"Nucleotide Salvage Pathway",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "NDPK4"
 ]
@@ -22191,7 +21203,7 @@
 "ec-code":[
 "2.7.4.6"
 ],
-"kegg_reaction":[
+"kegg.reaction":[
 "R02093"
 ],
 "metanetx.reaction":[
@@ -22226,7 +21238,6 @@
 "gene_reaction_rule":"b3957",
 "subsystem":"Arginine and Proline Metabolism",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "ACODA"
 ]
@@ -22242,7 +21253,7 @@
 "3.5.1.16",
 "3.5.1.14"
 ],
-"kegg_reaction":[
+"kegg.reaction":[
 "R00669"
 ],
 "metanetx.reaction":[
@@ -22280,7 +21291,6 @@
 "gene_reaction_rule":"b4177",
 "subsystem":"Purine and Pyrimidine Biosynthesis",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "ADSS"
 ]
@@ -22355,7 +21365,6 @@
 "gene_reaction_rule":"b3744 or b0674",
 "subsystem":"Alanine and Aspartate Metabolism",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "ASNS2"
 ]
@@ -22374,7 +21383,7 @@
 "kegg.reaction":[
 "R00483"
 ],
-"metanetx_reaction":[
+"metanetx.reaction":[
 "MNXR96060"
 ],
 "rhea":[
@@ -22404,7 +21413,6 @@
 "gene_reaction_rule":"(b4244 and b4245) or b4245",
 "subsystem":"Purine and Pyrimidine Biosynthesis",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "ASPCT"
 ]
@@ -22475,7 +21483,6 @@
 "gene_reaction_rule":"b1094 and b1092",
 "subsystem":"Membrane Lipid Metabolism",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "MCOATA"
 ]
@@ -22501,7 +21508,7 @@
 "MNXR101421"
 ],
 "sbo":"SBO:0000176",
-"seed_reaction":[
+"seed.reaction":[
 "rxn05465"
 ]
 }
@@ -22518,7 +21525,6 @@
 "gene_reaction_rule":"b3809",
 "subsystem":"Threonine and Lysine Metabolism",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "DAPE"
 ]
@@ -22536,7 +21542,7 @@
 "kegg.reaction":[
 "R02735"
 ],
-"metanetx_reaction":[
+"metanetx.reaction":[
 "MNXR97143"
 ],
 "rhea":[
@@ -22566,7 +21572,6 @@
 "gene_reaction_rule":"b0031",
 "subsystem":"Threonine and Lysine Metabolism",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "DHDPRy"
 ]
@@ -22602,7 +21607,6 @@
 "gene_reaction_rule":"b0003",
 "subsystem":"Threonine and Lysine Metabolism",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "HSK"
 ]
@@ -22617,7 +21621,7 @@
 "ec-code":[
 "2.7.1.39"
 ],
-"kegg_reaction":[
+"kegg.reaction":[
 "R01771"
 ],
 "metanetx.reaction":[
@@ -22652,7 +21656,6 @@
 "gene_reaction_rule":"b3359 or b1302 or b1748 or b2662 or b0907",
 "subsystem":"Threonine and Lysine Metabolism",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "SDPTA"
 ]
@@ -22670,7 +21673,7 @@
 "kegg.reaction":[
 "R04475"
 ],
-"metanetx_reaction":[
+"metanetx.reaction":[
 "MNXR104301"
 ],
 "rhea":[
@@ -22699,7 +21702,6 @@
 "gene_reaction_rule":"b0004",
 "subsystem":"Threonine and Lysine Metabolism",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "THRS"
 ]
@@ -22717,7 +21719,7 @@
 "kegg.reaction":[
 "R01466"
 ],
-"metanetx_reaction":[
+"metanetx.reaction":[
 "MNXR104846"
 ],
 "rhea":[
@@ -22746,7 +21748,6 @@
 "gene_reaction_rule":"b4013",
 "subsystem":"Methionine Metabolism",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "HSST"
 ]
@@ -22764,7 +21765,7 @@
 "kegg.reaction":[
 "R01777"
 ],
-"metanetx_reaction":[
+"metanetx.reaction":[
 "MNXR100741"
 ],
 "rhea":[
@@ -22794,7 +21795,6 @@
 "gene_reaction_rule":"b2599",
 "subsystem":"Tyrosine, Tryptophan, and Phenylalanine Metabolism",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "PPNDH"
 ]
@@ -22810,7 +21810,7 @@
 "4.2.1.91",
 "4.2.1.51"
 ],
-"kegg_reaction":[
+"kegg.reaction":[
 "R01373"
 ],
 "metanetx.reaction":[
@@ -22845,7 +21845,6 @@
 "gene_reaction_rule":"b1098",
 "subsystem":"Nucleotide Salvage Pathway",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "DTMPK"
 ]
@@ -22865,7 +21864,7 @@
 "kegg.reaction":[
 "R02094"
 ],
-"metanetx_reaction":[
+"metanetx.reaction":[
 "MNXR97804"
 ],
 "rhea":[
@@ -22894,7 +21893,6 @@
 "gene_reaction_rule":"b0474 or b2518",
 "subsystem":"Nucleotide Salvage Pathway",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "NDPK1"
 ]
@@ -22909,7 +21907,7 @@
 "ec-code":[
 "2.7.4.6"
 ],
-"kegg_reaction":[
+"kegg.reaction":[
 "R00330"
 ],
 "metanetx.reaction":[
@@ -22945,7 +21943,6 @@
 "gene_reaction_rule":"(b0888 and b3781) or (b2582 and b0888)",
 "subsystem":"Oxidative Phosphorylation",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "TRDR"
 ]
@@ -22964,10 +21961,10 @@
 "kegg.reaction":[
 "R02016"
 ],
-"metanetx_reaction":[
+"metanetx.reaction":[
 "MNXR104766"
 ],
-"sabiork":[
+"sabiork.reaction":[
 "489"
 ],
 "sbo":"SBO:0000176",
@@ -22991,7 +21988,6 @@
 "gene_reaction_rule":"b2601 or b0754 or b1704",
 "subsystem":"Tyrosine, Tryptophan, and Phenylalanine Metabolism",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "DDPA"
 ]
@@ -23046,7 +22042,6 @@
 "gene_reaction_rule":"b4014 or b2976",
 "subsystem":"Anaplerotic Reactions",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "MALS"
 ]
@@ -23064,7 +22059,7 @@
 "kegg.reaction":[
 "R00472"
 ],
-"metanetx_reaction":[
+"metanetx.reaction":[
 "MNXR101347"
 ],
 "rhea":[
@@ -23093,7 +22088,6 @@
 "gene_reaction_rule":"b3962",
 "subsystem":"Oxidative Phosphorylation",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "NADTRHD"
 ]
@@ -23113,7 +22107,7 @@
 "kegg.reaction":[
 "R00112"
 ],
-"metanetx_reaction":[
+"metanetx.reaction":[
 "MNXR101898"
 ],
 "rhea":[
@@ -23143,7 +22137,6 @@
 "gene_reaction_rule":"b3608",
 "subsystem":"Alternate Carbon Metabolism",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "G3PD2"
 ]
@@ -23158,7 +22151,7 @@
 "kegg.reaction":[
 "R00844"
 ],
-"metanetx_reaction":[
+"metanetx.reaction":[
 "MNXR99877"
 ],
 "rhea":[
@@ -23195,7 +22188,6 @@
 "gene_reaction_rule":"b2507",
 "subsystem":"Purine and Pyrimidine Biosynthesis",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "GMPS2"
 ]
@@ -23210,7 +22202,7 @@
 "ec-code":[
 "6.3.5.2"
 ],
-"kegg_reaction":[
+"kegg.reaction":[
 "R01231"
 ],
 "metanetx.reaction":[
@@ -23247,7 +22239,6 @@
 "gene_reaction_rule":"b1094 and b2836",
 "subsystem":"Cell Envelope Biosynthesis",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "AACPS3"
 ]
@@ -23259,7 +22250,7 @@
 "ec-code":[
 "6.2.1.20"
 ],
-"metanetx_reaction":[
+"metanetx.reaction":[
 "MNXR95142"
 ],
 "sbo":"SBO:0000176"
@@ -23280,7 +22271,6 @@
 "gene_reaction_rule":"b0386",
 "subsystem":"Arginine and Proline Metabolism",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "P5CR"
 ]
@@ -23292,7 +22282,7 @@
 "ec-code":[
 "1.5.1.2"
 ],
-"kegg_reaction":[
+"kegg.reaction":[
 "R01251"
 ],
 "metanetx.reaction":[
@@ -23345,7 +22335,6 @@
 "gene_reaction_rule":"s0001",
 "subsystem":"Arginine and Proline Metabolism",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "G5SADs"
 ]
@@ -23363,7 +22352,7 @@
 "metanetx.reaction":[
 "MNXR99897"
 ],
-"reactome_reaction":[
+"reactome":[
 "R-HSA-70655",
 "R-HSA-70667"
 ],
@@ -23396,7 +22385,6 @@
 "gene_reaction_rule":"b0727 and b0116 and b0726",
 "subsystem":"Citric Acid Cycle",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "AKGDH"
 ]
@@ -23470,7 +22458,6 @@
 "gene_reaction_rule":"b2019",
 "subsystem":"Histidine Metabolism",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "ATPPRT"
 ]
@@ -23488,7 +22475,7 @@
 "kegg.reaction":[
 "R01071"
 ],
-"metanetx_reaction":[
+"metanetx.reaction":[
 "MNXR96132"
 ],
 "rhea":[
@@ -23519,7 +22506,6 @@
 "gene_reaction_rule":"b2020",
 "subsystem":"Histidine Metabolism",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "HISTD"
 ]
@@ -23534,7 +22520,7 @@
 "ec-code":[
 "1.1.1.23"
 ],
-"kegg_reaction":[
+"kegg.reaction":[
 "R01158"
 ],
 "metanetx.reaction":[
@@ -23570,7 +22556,6 @@
 "gene_reaction_rule":"b2478",
 "subsystem":"Threonine and Lysine Metabolism",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "DHDPS"
 ]
@@ -23610,7 +22595,6 @@
 "gene_reaction_rule":"b2022",
 "subsystem":"Histidine Metabolism",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "IGPDH"
 ]
@@ -23628,7 +22612,7 @@
 "kegg.reaction":[
 "R03457"
 ],
-"metanetx_reaction":[
+"metanetx.reaction":[
 "MNXR100813"
 ],
 "rhea":[
@@ -23658,7 +22642,6 @@
 "gene_reaction_rule":"b1207",
 "subsystem":"Histidine Metabolism",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "PRPPS"
 ]
@@ -23670,7 +22653,7 @@
 "ec-code":[
 "2.7.6.1"
 ],
-"metanetx_reaction":[
+"metanetx.reaction":[
 "MNXR103215"
 ],
 "sbo":"SBO:0000176"
@@ -23691,7 +22674,6 @@
 "gene_reaction_rule":"b2026",
 "subsystem":"Histidine Metabolism",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "PRATPP"
 ]
@@ -23709,7 +22691,7 @@
 "kegg.reaction":[
 "R04035"
 ],
-"metanetx_reaction":[
+"metanetx.reaction":[
 "MNXR103155"
 ],
 "rhea":[
@@ -23738,7 +22720,6 @@
 "gene_reaction_rule":"b0485 or b1524",
 "subsystem":"Glutamate Metabolism",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "GLUN"
 ]
@@ -23809,7 +22790,6 @@
 "gene_reaction_rule":"b2024",
 "subsystem":"Histidine Metabolism",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "PRMICI"
 ]
@@ -23827,7 +22807,7 @@
 "kegg.reaction":[
 "R04640"
 ],
-"metanetx_reaction":[
+"metanetx.reaction":[
 "MNXR103169"
 ],
 "rhea":[
@@ -23858,7 +22838,6 @@
 "gene_reaction_rule":"b2312",
 "subsystem":"Purine and Pyrimidine Biosynthesis",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "GLUPRT"
 ]
@@ -23928,7 +22907,6 @@
 "gene_reaction_rule":"b3607",
 "subsystem":"Cysteine Metabolism",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "SERAT"
 ]
@@ -23982,7 +22960,6 @@
 "gene_reaction_rule":"b2421 or b2414",
 "subsystem":"Cysteine Metabolism",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "CYSS"
 ]
@@ -23998,7 +22975,7 @@
 "2.5.1.47",
 "2.5.1.65"
 ],
-"kegg_reaction":[
+"kegg.reaction":[
 "R00897"
 ],
 "metanetx.reaction":[
@@ -24033,7 +23010,6 @@
 "gene_reaction_rule":"b4214",
 "subsystem":"Cysteine Metabolism",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "BPNT"
 ]
@@ -24102,7 +23078,6 @@
 "gene_reaction_rule":"(b2582 and b2762) or (b3781 and b2762)",
 "subsystem":"Cysteine Metabolism",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "PAPSR"
 ]
@@ -24124,7 +23099,7 @@
 "MNXR102376"
 ],
 "sbo":"SBO:0000176",
-"seed_reaction":[
+"seed.reaction":[
 "rxn05239"
 ]
 }
@@ -24143,7 +23118,6 @@
 "gene_reaction_rule":"b0002 or b3940 or b4024",
 "subsystem":"Threonine and Lysine Metabolism",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "ASPK"
 ]
@@ -24158,7 +23132,7 @@
 "ec-code":[
 "2.7.2.4"
 ],
-"kegg_reaction":[
+"kegg.reaction":[
 "R00480"
 ],
 "metanetx.reaction":[
@@ -24195,7 +23169,6 @@
 "gene_reaction_rule":"b3433",
 "subsystem":"Threonine and Lysine Metabolism",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "ASAD"
 ]
@@ -24210,7 +23183,7 @@
 "ec-code":[
 "1.2.1.11"
 ],
-"kegg_reaction":[
+"kegg.reaction":[
 "R02291"
 ],
 "metanetx.reaction":[
@@ -24245,7 +23218,6 @@
 "gene_reaction_rule":"b2838",
 "subsystem":"Threonine and Lysine Metabolism",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "DAPDC"
 ]
@@ -24263,7 +23235,7 @@
 "kegg.reaction":[
 "R00451"
 ],
-"metanetx_reaction":[
+"metanetx.reaction":[
 "MNXR97141"
 ],
 "rhea":[
@@ -24293,7 +23265,6 @@
 "gene_reaction_rule":"b4254 or b0273",
 "subsystem":"Arginine and Proline Metabolism",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "OCBT"
 ]
@@ -24362,7 +23333,6 @@
 "gene_reaction_rule":"b2500",
 "subsystem":"Purine and Pyrimidine Biosynthesis",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "GARFT"
 ]
@@ -24403,7 +23373,6 @@
 "gene_reaction_rule":"b4054 or b0928 or b3770",
 "subsystem":"Tyrosine, Tryptophan, and Phenylalanine Metabolism",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "PHETA1"
 ]
@@ -24422,7 +23391,7 @@
 "2.6.1.9",
 "2.6.1.1"
 ],
-"kegg_reaction":[
+"kegg.reaction":[
 "R00694"
 ],
 "metanetx.reaction":[
@@ -24458,7 +23427,6 @@
 "gene_reaction_rule":"b2600",
 "subsystem":"Tyrosine, Tryptophan, and Phenylalanine Metabolism",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "PPND"
 ]
@@ -24473,7 +23441,7 @@
 "ec-code":[
 "1.3.1.12"
 ],
-"kegg_reaction":[
+"kegg.reaction":[
 "R01728"
 ],
 "metanetx.reaction":[
@@ -24507,7 +23475,6 @@
 "gene_reaction_rule":"b2026",
 "subsystem":"Histidine Metabolism",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "PRAMPC"
 ]
@@ -24525,7 +23492,7 @@
 "kegg.reaction":[
 "R04037"
 ],
-"metanetx_reaction":[
+"metanetx.reaction":[
 "MNXR103154"
 ],
 "rhea":[
@@ -24555,7 +23522,6 @@
 "gene_reaction_rule":"b3124",
 "subsystem":"Glycine and Serine Metabolism",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "GLYCK2"
 ]
@@ -24571,7 +23537,7 @@
 "2.7.1.31",
 "2.7.1.165"
 ],
-"kegg_reaction":[
+"kegg.reaction":[
 "R08572"
 ],
 "metanetx.reaction":[
@@ -24606,7 +23572,6 @@
 "gene_reaction_rule":"b1748 or b3359 or b2662 or b1302",
 "subsystem":"Arginine and Proline Metabolism",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "ACOTA"
 ]
@@ -24621,7 +23586,7 @@
 "ec-code":[
 "2.6.1.11"
 ],
-"kegg_reaction":[
+"kegg.reaction":[
 "R02283"
 ],
 "metanetx.reaction":[
@@ -24658,7 +23623,6 @@
 "gene_reaction_rule":"b2764 and b2763",
 "subsystem":"Cysteine Metabolism",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "SULR"
 ]
@@ -24676,7 +23640,7 @@
 "kegg.reaction":[
 "R00858"
 ],
-"metanetx_reaction":[
+"metanetx.reaction":[
 "MNXR104650"
 ],
 "rhea":[
@@ -24708,7 +23672,6 @@
 "gene_reaction_rule":"b4005",
 "subsystem":"Purine and Pyrimidine Biosynthesis",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "PRAGSr"
 ]
@@ -24730,7 +23693,7 @@
 "MNXR103139"
 ],
 "sbo":"SBO:0000176",
-"seed_reaction":[
+"seed.reaction":[
 "rxn02895"
 ]
 }
@@ -24754,7 +23717,6 @@
 "gene_reaction_rule":"b2557",
 "subsystem":"Purine and Pyrimidine Biosynthesis",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "PRFGS"
 ]
@@ -24811,7 +23773,6 @@
 "gene_reaction_rule":"b0907",
 "subsystem":"Glycine and Serine Metabolism",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "PSERT"
 ]
@@ -24883,7 +23844,6 @@
 "gene_reaction_rule":"b0522",
 "subsystem":"Purine and Pyrimidine Biosynthesis",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "AIRC2"
 ]
@@ -24923,7 +23883,6 @@
 "gene_reaction_rule":"b1779",
 "subsystem":"Glycolysis/Gluconeogenesis",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "GAPD"
 ]
@@ -25015,7 +23974,6 @@
 "gene_reaction_rule":"b2029",
 "subsystem":"Pentose Phosphate Pathway",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "GND"
 ]
@@ -25086,7 +24044,6 @@
 "gene_reaction_rule":"b1852",
 "subsystem":"Pentose Phosphate Pathway",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "G6PDH2r"
 ]
@@ -25102,7 +24059,7 @@
 "1.1.1.363",
 "1.1.1.49"
 ],
-"kegg_reaction":[
+"kegg.reaction":[
 "R00835"
 ],
 "metanetx.reaction":[
@@ -25139,7 +24096,6 @@
 "gene_reaction_rule":"b2463",
 "subsystem":"Anaplerotic Reactions",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "ME2"
 ]
@@ -25154,7 +24110,7 @@
 "ec-code":[
 "1.1.1.40"
 ],
-"kegg_reaction":[
+"kegg.reaction":[
 "R00216"
 ],
 "metanetx.reaction":[
@@ -25188,7 +24144,6 @@
 "gene_reaction_rule":"b3960",
 "subsystem":"Arginine and Proline Metabolism",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "ARGSL"
 ]
@@ -25257,7 +24212,6 @@
 "gene_reaction_rule":"b0032 and b0033",
 "subsystem":"Arginine and Proline Metabolism",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "CBPS"
 ]
@@ -25328,7 +24282,6 @@
 "gene_reaction_rule":"b0242",
 "subsystem":"Arginine and Proline Metabolism",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "GLU5K"
 ]
@@ -25343,7 +24296,7 @@
 "ec-code":[
 "2.7.2.11"
 ],
-"kegg_reaction":[
+"kegg.reaction":[
 "R00239"
 ],
 "metanetx.reaction":[
@@ -25380,7 +24333,6 @@
 "gene_reaction_rule":"b0074",
 "subsystem":"Valine, Leucine, and Isoleucine Metabolism",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "IPPS"
 ]
@@ -25398,7 +24350,7 @@
 "kegg.reaction":[
 "R01213"
 ],
-"metanetx_reaction":[
+"metanetx.reaction":[
 "MNXR100879"
 ],
 "rhea":[
@@ -25427,7 +24379,6 @@
 "gene_reaction_rule":"b1094 and b1091",
 "subsystem":"Membrane Lipid Metabolism",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "ACOATA"
 ]
@@ -25455,7 +24406,7 @@
 "MNXR95376"
 ],
 "sbo":"SBO:0000176",
-"seed_reaction":[
+"seed.reaction":[
 "rxn05349"
 ]
 }
@@ -25472,7 +24423,6 @@
 "gene_reaction_rule":"b0241 or b0929 or b1377 or b2215",
 "subsystem":"Transport, Outer Membrane Porin",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "ACtex"
 ]
@@ -25518,7 +24468,6 @@
 "gene_reaction_rule":"b0241 or b0929 or b1377 or b2215",
 "subsystem":"Transport, Outer Membrane Porin",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "ACALDtex"
 ]
@@ -25556,7 +24505,6 @@
 "gene_reaction_rule":"b4388",
 "subsystem":"Glycine and Serine Metabolism",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "PSP_L"
 ]
@@ -25627,7 +24575,6 @@
 "gene_reaction_rule":"b2750",
 "subsystem":"Cysteine Metabolism",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "ADSK"
 ]
@@ -25695,7 +24642,6 @@
 "gene_reaction_rule":"b3528 or b0010",
 "subsystem":"Transport, Inner Membrane",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "SUCCt2_2pp"
 ]
@@ -25738,7 +24684,6 @@
 "gene_reaction_rule":"b3940 or b0002",
 "subsystem":"Threonine and Lysine Metabolism",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "HSDy"
 ]
@@ -25753,7 +24698,7 @@
 "kegg.reaction":[
 "R01775"
 ],
-"metanetx_reaction":[
+"metanetx.reaction":[
 "MNXR100734"
 ],
 "rhea":[
@@ -25786,7 +24731,6 @@
 "gene_reaction_rule":"b3008 or b1622",
 "subsystem":"Methionine Metabolism",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "CYSTL"
 ]
@@ -25810,7 +24754,7 @@
 "13968",
 "13966"
 ],
-"sabiork":[
+"sabiork.reaction":[
 "1501"
 ],
 "sbo":"SBO:0000176"
@@ -25831,7 +24775,6 @@
 "gene_reaction_rule":"b3939",
 "subsystem":"Methionine Metabolism",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "SHSL1"
 ]
@@ -25849,7 +24792,7 @@
 "kegg.reaction":[
 "R03260"
 ],
-"metanetx_reaction":[
+"metanetx.reaction":[
 "MNXR104380"
 ],
 "rhea":[
@@ -25881,7 +24824,6 @@
 "gene_reaction_rule":"(b2423 and b2424 and b2422 and b2425) or (b0764 and b0765 and b0763) or (b2422 and b2423 and b2424 and b3917)",
 "subsystem":"Inorganic Ion Transport and Metabolism",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "SULabcpp"
 ]
@@ -25925,7 +24867,6 @@
 "gene_reaction_rule":"b0241 or b0929 or b1377 or b2215",
 "subsystem":"Transport, Outer Membrane Porin",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "GLUtex"
 ]
@@ -25960,7 +24901,7 @@
 "12283"
 ],
 "sbo":"SBO:0000185",
-"seed_reaction":[
+"seed.reaction":[
 "rxn08633",
 "rxn09750",
 "rxn13304",
@@ -25983,7 +24924,6 @@
 "gene_reaction_rule":"b2587",
 "subsystem":"Transport, Inner Membrane",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "AKGt2rpp"
 ]
@@ -26026,7 +24966,6 @@
 "gene_reaction_rule":"b4031",
 "subsystem":"Transport, Inner Membrane",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "XYLt2pp"
 ]
@@ -26063,7 +25002,6 @@
 "gene_reaction_rule":"b0241 or b0929 or b1377 or b2215",
 "subsystem":"Transport, Outer Membrane Porin",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "GLYCtex"
 ]
@@ -26162,7 +25100,6 @@
 "gene_reaction_rule":"b0241 or b0929 or b1377 or b2215",
 "subsystem":"Transport, Outer Membrane Porin",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "Htex"
 ]
@@ -26246,7 +25183,6 @@
 "gene_reaction_rule":"b3875 or s0001 or b1319 or b0957 or b2215 or b0241 or b1377 or b0929",
 "subsystem":"Transport, Outer Membrane Porin",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "H2Otex"
 ]
@@ -26401,7 +25337,6 @@
 "gene_reaction_rule":"s0001",
 "subsystem":"Inorganic Ion Transport and Metabolism",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "O2tpp"
 ]
@@ -26440,7 +25375,6 @@
 "gene_reaction_rule":"",
 "subsystem":"Transport, Inner Membrane",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "PYRt2rpp"
 ]
@@ -26482,7 +25416,6 @@
 "gene_reaction_rule":"b1602 and b1603",
 "subsystem":"Oxidative Phosphorylation",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "THD2pp"
 ]
@@ -26518,7 +25451,6 @@
 "gene_reaction_rule":"b2935 or b2465",
 "subsystem":"Pentose Phosphate Pathway",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "TKT2"
 ]
@@ -26564,7 +25496,6 @@
 "gene_reaction_rule":"(b3739 and (b3731 and b3733 and b3735 and b3734 and b3732) and (b3738 and b3736 and b3737)) or ((b3731 and b3733 and b3735 and b3734 and b3732) and (b3738 and b3736 and b3737))",
 "subsystem":"Oxidative Phosphorylation",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "ATPS4rpp"
 ]
@@ -26601,7 +25532,6 @@
 "gene_reaction_rule":"s0001",
 "subsystem":"Transport, Inner Membrane",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "CO2tpp"
 ]
@@ -26699,7 +25629,6 @@
 "gene_reaction_rule":"b3648",
 "subsystem":"Nucleotide Salvage Pathway",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "GK1"
 ]
@@ -26714,7 +25643,7 @@
 "ec-code":[
 "2.7.4.8"
 ],
-"kegg_reaction":[
+"kegg.reaction":[
 "R00332"
 ],
 "metanetx.reaction":[
@@ -26747,7 +25676,6 @@
 "gene_reaction_rule":"b0241 or b0929 or b1377 or b2215",
 "subsystem":"Transport, Outer Membrane Porin",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "GLCNtex"
 ]
@@ -26781,7 +25709,6 @@
 "gene_reaction_rule":"b0929 or b1377 or b2215 or b0241",
 "subsystem":"Transport, Outer Membrane Porin",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "GLNtex"
 ]
@@ -26812,7 +25739,7 @@
 "13421"
 ],
 "sbo":"SBO:0000185",
-"seed_reaction":[
+"seed.reaction":[
 "rxn08625",
 "rxn10928"
 ]
@@ -26830,7 +25757,6 @@
 "gene_reaction_rule":"b0241 or b0929 or b1377 or b2215",
 "subsystem":"Transport, Outer Membrane Porin",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "O2tex"
 ]
@@ -26867,7 +25793,6 @@
 "gene_reaction_rule":"b0241 or b0929 or b1377 or b2215",
 "subsystem":"Transport, Outer Membrane Porin",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "D_LACtex"
 ]
@@ -26900,7 +25825,6 @@
 "gene_reaction_rule":"b4036",
 "subsystem":"Transport, Outer Membrane",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "GLCtex_copy1",
 "GLCtex_copy2"
@@ -26942,7 +25866,6 @@
 "gene_reaction_rule":"b3528",
 "subsystem":"Transport, Inner Membrane",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "FUMt2_2pp"
 ]
@@ -26982,7 +25905,6 @@
 "gene_reaction_rule":"b0241 or b0929 or b1377 or b2215",
 "subsystem":"Transport, Outer Membrane Porin",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "PItex"
 ]
@@ -27031,7 +25953,6 @@
 "gene_reaction_rule":"(b0978 and b0979) or (b0734 and b0733 and b4515)",
 "subsystem":"Oxidative Phosphorylation",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "CYTBDpp"
 ]
@@ -27067,7 +25988,6 @@
 "gene_reaction_rule":"b0978 and b0979",
 "subsystem":"Oxidative Phosphorylation",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "CYTBD2pp"
 ]
@@ -27098,7 +26018,6 @@
 "gene_reaction_rule":"s0001",
 "subsystem":"Transport, Inner Membrane",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "ACALDtpp"
 ]
@@ -27136,7 +26055,6 @@
 "gene_reaction_rule":"b0010",
 "subsystem":"Transport, Inner Membrane",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "ACt2rpp"
 ]
@@ -27173,7 +26091,6 @@
 "gene_reaction_rule":"b4019 or b3829",
 "subsystem":"Methionine Metabolism",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "METS"
 ]
@@ -27197,42 +26114,10 @@
 "11174",
 "11172"
 ],
-"sabiork":[
+"sabiork.reaction":[
 "1260"
 ],
 "sbo":"SBO:0000176"
-}
-},
-{
-"id":"EX_glyc__R_e",
-"name":"(R)-Glycerate exchange",
-"metabolites":{
-"glyc__R_e":-1
-},
-"lower_bound":0.0,
-"upper_bound":1000.0,
-"gene_reaction_rule":"",
-"subsystem":"Extracellular exchange",
-"notes":{
-"exchange_reaction":"true",
-"original_bigg_ids":[
-"EX_glyc__R_e"
-]
-},
-"annotation":{
-"bigg.reaction":[
-"EX_glyc__R_e"
-],
-"biocyc":[
-"META:TRANS-RXN0-523"
-],
-"metanetx.reaction":[
-"MNXR100323"
-],
-"sbo":"SBO:0000627",
-"seed.reaction":[
-"rxn08645"
-]
 }
 },
 {
@@ -27247,7 +26132,6 @@
 "gene_reaction_rule":"b0241 or b0929 or b1377 or b2215",
 "subsystem":"Transport, Outer Membrane Porin",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "FRUtex"
 ]
@@ -27298,7 +26182,6 @@
 "gene_reaction_rule":"b0241 or b0929 or b1377 or b2215",
 "subsystem":"Transport, Outer Membrane Porin",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "FUMtex"
 ]
@@ -27337,7 +26220,6 @@
 "gene_reaction_rule":"b2476",
 "subsystem":"Purine and Pyrimidine Biosynthesis",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "PRASCSi"
 ]
@@ -27355,10 +26237,10 @@
 "kegg.reaction":[
 "R04591"
 ],
-"metanetx_reaction":[
+"metanetx.reaction":[
 "MNXR108987"
 ],
-"reactome_reaction":[
+"reactome":[
 "R-TGU-73805",
 "R-DME-73805",
 "R-GGA-419223",
@@ -27396,7 +26278,6 @@
 "gene_reaction_rule":"b0529",
 "subsystem":"Folate Metabolism",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "MTHFC"
 ]
@@ -27409,7 +26290,7 @@
 "3.5.4.9",
 "1.5.1.15"
 ],
-"kegg_reaction":[
+"kegg.reaction":[
 "R01655"
 ],
 "metanetx.reaction":[
@@ -27461,7 +26342,6 @@
 "gene_reaction_rule":"b0529",
 "subsystem":"Folate Metabolism",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "MTHFD"
 ]
@@ -27500,7 +26380,6 @@
 "gene_reaction_rule":"b0241 or b0929 or b1377 or b2215",
 "subsystem":"Transport, Outer Membrane Porin",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "XYLtex"
 ]
@@ -27531,7 +26410,6 @@
 "gene_reaction_rule":"b0904 or b2492",
 "subsystem":"Transport, Inner Membrane",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "FORtppi"
 ]
@@ -27555,7 +26433,7 @@
 "29682",
 "29679"
 ],
-"sabiork":[
+"sabiork.reaction":[
 "12483"
 ],
 "sbo":"SBO:0000185",
@@ -27579,7 +26457,6 @@
 "gene_reaction_rule":"b0241 or b0929 or b1377 or b2215",
 "subsystem":"Transport, Outer Membrane Porin",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "PYRtex"
 ]
@@ -27617,7 +26494,6 @@
 "gene_reaction_rule":"b0241 or b0929 or b1377 or b2215",
 "subsystem":"Transport, Outer Membrane Porin",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "SO4tex"
 ]
@@ -27672,7 +26548,6 @@
 "gene_reaction_rule":"b0241 or b0929 or b1377 or b2215",
 "subsystem":"Transport, Outer Membrane Porin",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "SUCCtex"
 ]
@@ -27708,7 +26583,6 @@
 "gene_reaction_rule":"b1064 or b3610 or b1654 or b0849",
 "subsystem":"Unassigned",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "GRXR"
 ]
@@ -27744,7 +26618,6 @@
 "gene_reaction_rule":"((b2675 and b2676) and b1064) or ((b2675 and b2676) and b3610) or (b0849 and (b2675 and b2676)) or ((b2675 and b2676) and b1654)",
 "subsystem":"Nucleotide Salvage Pathway",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "RNDR1b"
 ]
@@ -27777,7 +26650,6 @@
 "gene_reaction_rule":"(b0849 and (b2675 and b2676)) or ((b2675 and b2676) and b1064) or ((b2675 and b2676) and b1654) or ((b2675 and b2676) and b3610)",
 "subsystem":"Nucleotide Salvage Pathway",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "RNDR2b"
 ]
@@ -27809,7 +26681,6 @@
 "gene_reaction_rule":"b3528",
 "subsystem":"Transport, Inner Membrane",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "MALt2_2pp"
 ]
@@ -27849,7 +26720,6 @@
 "gene_reaction_rule":"s0001 or b0451",
 "subsystem":"Inorganic Ion Transport and Metabolism",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "NH4tpp"
 ]
@@ -27887,7 +26757,7 @@
 "28750",
 "28747"
 ],
-"sabiork":[
+"sabiork.reaction":[
 "11683"
 ],
 "sbo":"SBO:0000185",
@@ -27913,7 +26783,6 @@
 "gene_reaction_rule":"b1377 or b2215 or b0241 or b0929",
 "subsystem":"Transport, Outer Membrane Porin",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "NH4tex"
 ]
@@ -27951,7 +26820,7 @@
 "28750",
 "28747"
 ],
-"sabiork":[
+"sabiork.reaction":[
 "11683"
 ],
 "sbo":"SBO:0000185",
@@ -27982,7 +26851,6 @@
 "gene_reaction_rule":"(b4230 and b4227 and b4485 and b4231) or (b3750 and b3751 and b3749 and b3748) or (b4088 and b4086 and b4087)",
 "subsystem":"Transport, Inner Membrane",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "RIBabcpp"
 ]
@@ -28027,7 +26895,6 @@
 "gene_reaction_rule":"b3127 or b2789",
 "subsystem":"Transport, Inner Membrane",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "GLYCAt2rpp"
 ]
@@ -28058,7 +26925,6 @@
 "gene_reaction_rule":"b0241 or b0929 or b1377 or b2215",
 "subsystem":"Transport, Outer Membrane Porin",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "GLYCAtex"
 ]
@@ -28091,7 +26957,6 @@
 "gene_reaction_rule":"s0001 or b3927",
 "subsystem":"Transport, Inner Membrane",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "GLYCtpp"
 ]
@@ -28190,7 +27055,6 @@
 "gene_reaction_rule":"s0001 or b0875",
 "subsystem":"Transport, Inner Membrane",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "H2Otpp"
 ]
@@ -28350,7 +27214,6 @@
 "gene_reaction_rule":"b0811 and b0809 and b0810",
 "subsystem":"Transport, Inner Membrane",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "GLNabcpp"
 ]
@@ -28396,7 +27259,6 @@
 "gene_reaction_rule":"b0241 or b0929 or b1377 or b2215",
 "subsystem":"Transport, Outer Membrane Porin",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "CO2tex"
 ]
@@ -28494,7 +27356,6 @@
 "gene_reaction_rule":"b4077",
 "subsystem":"Transport, Inner Membrane",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "GLUt2rpp"
 ]
@@ -28546,7 +27407,6 @@
 "gene_reaction_rule":"b3959",
 "subsystem":"Arginine and Proline Metabolism",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "ACGK"
 ]
@@ -28561,7 +27421,7 @@
 "ec-code":[
 "2.7.2.8"
 ],
-"kegg_reaction":[
+"kegg.reaction":[
 "R02649"
 ],
 "metanetx.reaction":[
@@ -28597,7 +27457,6 @@
 "gene_reaction_rule":"b3437 or b4268",
 "subsystem":"Alternate Carbon Metabolism",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "GNK"
 ]
@@ -28612,7 +27471,7 @@
 "ec-code":[
 "2.7.1.12"
 ],
-"kegg_reaction":[
+"kegg.reaction":[
 "R01737"
 ],
 "metanetx.reaction":[
@@ -28650,7 +27509,6 @@
 "gene_reaction_rule":"b1761 or (b3213 and b3212)",
 "subsystem":"Glutamate Metabolism",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "GLUDy"
 ]
@@ -28667,7 +27525,7 @@
 "1.4.1.3",
 "1.4.1.4"
 ],
-"kegg_reaction":[
+"kegg.reaction":[
 "R00248"
 ],
 "metanetx.reaction":[
@@ -28702,7 +27560,6 @@
 "gene_reaction_rule":"b4321 or b4476 or b3415 or b4265",
 "subsystem":"Transport, Inner Membrane",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "GLCNt2rpp"
 ]
@@ -28744,7 +27601,6 @@
 "gene_reaction_rule":"(b1621 and b2415 and b2417 and b2416) or (b1101 and b2416 and b2415 and b2417) or (b1819 and b2415 and b1818 and b1817 and b2416)",
 "subsystem":"Transport, Inner Membrane",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "GLCptspp"
 ]
@@ -28764,160 +27620,6 @@
 }
 },
 {
-"id":"EX_h2o_e",
-"name":"H2O exchange",
-"metabolites":{
-"h2o_e":-1
-},
-"lower_bound":-1000.0,
-"upper_bound":1000.0,
-"gene_reaction_rule":"",
-"subsystem":"Extracellular exchange",
-"notes":{
-"exchange_reaction":"true",
-"original_bigg_ids":[
-"EX_h2o_e"
-]
-},
-"annotation":{
-"bigg.reaction":[
-"EX_h2o_e"
-],
-"biocyc":[
-"META:TRANS-RXN-145",
-"META:TRANS-RXN0-547"
-],
-"metanetx.reaction":[
-"MNXR98641"
-],
-"reactome":[
-"R-ATH-507868",
-"R-CFA-432054",
-"R-CFA-432010",
-"R-RNO-507868",
-"R-OSA-432065",
-"R-GGA-432010",
-"R-SPO-445714",
-"R-PFA-445714",
-"R-CFA-432065",
-"R-GGA-432067",
-"R-TGU-432054",
-"R-TGU-445714",
-"R-OSA-507868",
-"R-DRE-507868",
-"R-SPO-507868",
-"R-BTA-432054",
-"R-GGA-507870",
-"R-OSA-432010",
-"R-DME-432065",
-"R-DRE-432067",
-"R-PFA-507868",
-"R-SSC-432054",
-"R-HSA-432065",
-"R-OSA-507870",
-"R-HSA-432054",
-"R-SSC-432065",
-"R-CEL-507868",
-"R-XTR-507868",
-"R-ATH-507870",
-"R-SCE-432065",
-"R-BTA-507870",
-"R-DME-432010",
-"R-CFA-445714",
-"R-DRE-445714",
-"R-BTA-507868",
-"R-GGA-507868",
-"R-RNO-432054",
-"R-RNO-432010",
-"R-SSC-432067",
-"R-CEL-445714",
-"R-DDI-432065",
-"R-ATH-432010",
-"R-SCE-432054",
-"R-MMU-432065",
-"R-MMU-445714",
-"R-GGA-432065",
-"R-HSA-432067",
-"R-SSC-507870",
-"R-SCE-432067",
-"R-RNO-507870",
-"R-DME-432054",
-"R-ATH-432067",
-"R-BTA-445714",
-"R-DRE-507870",
-"R-DME-507868",
-"R-DME-507870",
-"R-DRE-432010",
-"R-MMU-432010",
-"R-HSA-445714",
-"R-OSA-432054",
-"R-RNO-432067",
-"R-TGU-432010",
-"R-TGU-507868",
-"R-DDI-432054",
-"R-PFA-507870",
-"R-HSA-507870",
-"R-XTR-432067",
-"R-HSA-432010",
-"R-SSC-507868",
-"R-SCE-507870",
-"R-CEL-507870",
-"R-DDI-507868",
-"R-DRE-432054",
-"R-XTR-507870",
-"R-DDI-432010",
-"R-BTA-432065",
-"R-CFA-432067",
-"R-OSA-432067",
-"R-ATH-432065",
-"R-GGA-445714",
-"R-SCE-507868",
-"R-TGU-432065",
-"R-MMU-432067",
-"R-TGU-507870",
-"R-CFA-507870",
-"R-RNO-432065",
-"R-MMU-432054",
-"R-MMU-507868",
-"R-SPO-507870",
-"R-SCE-432010",
-"R-MMU-507870",
-"R-SSC-445714",
-"R-HSA-507868",
-"R-DME-432067",
-"R-SSC-432010",
-"R-TGU-432067",
-"R-GGA-432054",
-"R-BTA-432010",
-"R-SCE-445714",
-"R-DDI-507870",
-"R-ATH-432054",
-"R-DDI-432067",
-"R-XTR-445714",
-"R-BTA-432067",
-"R-CFA-507868",
-"R-RNO-445714"
-],
-"rhea":[
-"29668",
-"29669",
-"29667",
-"29670"
-],
-"sbo":"SBO:0000627",
-"seed.reaction":[
-"rxn08687",
-"rxn08686",
-"rxn09745",
-"rxn09838",
-"rxn09874",
-"rxn09812",
-"rxn09643",
-"rxn05319"
-]
-}
-},
-{
 "id":"HSTPT",
 "name":"Histidinol-phosphate transaminase",
 "metabolites":{
@@ -28931,7 +27633,6 @@
 "gene_reaction_rule":"b2021",
 "subsystem":"Histidine Metabolism",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "HSTPT"
 ]
@@ -28946,7 +27647,7 @@
 "ec-code":[
 "2.6.1.9"
 ],
-"kegg_reaction":[
+"kegg.reaction":[
 "R03243"
 ],
 "metanetx.reaction":[
@@ -28982,7 +27683,6 @@
 "gene_reaction_rule":"b0166",
 "subsystem":"Threonine and Lysine Metabolism",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "THDPS"
 ]
@@ -29000,7 +27700,7 @@
 "kegg.reaction":[
 "R04365"
 ],
-"metanetx_reaction":[
+"metanetx.reaction":[
 "MNXR104806"
 ],
 "rhea":[
@@ -29030,7 +27730,6 @@
 "gene_reaction_rule":"",
 "subsystem":"Biomass and maintenance functions",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "ATPM"
 ]
@@ -29113,7 +27812,7 @@
 "3.6.3.41",
 "3.6.3.49"
 ],
-"kegg_reaction":[
+"kegg.reaction":[
 "R00086"
 ],
 "metanetx.reaction":[
@@ -29149,7 +27848,6 @@
 "gene_reaction_rule":"b3772 or b3117",
 "subsystem":"Valine, Leucine, and Isoleucine Metabolism",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "THRD_L"
 ]
@@ -29164,7 +27862,7 @@
 "ec-code":[
 "4.3.1.19"
 ],
-"kegg_reaction":[
+"kegg.reaction":[
 "R00996"
 ],
 "metanetx.reaction":[
@@ -29197,7 +27895,6 @@
 "gene_reaction_rule":"b0241 or b0929 or b1377 or b2215",
 "subsystem":"Transport, Outer Membrane Porin",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "ETOHtex"
 ]
@@ -29241,7 +27938,6 @@
 "gene_reaction_rule":"(b3781 and (b2234 and b2235)) or (b2582 and (b2234 and b2235))",
 "subsystem":"Nucleotide Salvage Pathway",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "RNDR2"
 ]
@@ -29263,7 +27959,7 @@
 "MNXR104062"
 ],
 "sbo":"SBO:0000176",
-"seed_reaction":[
+"seed.reaction":[
 "rxn05233"
 ]
 }
@@ -29283,7 +27979,6 @@
 "gene_reaction_rule":"b1606 or b0048",
 "subsystem":"Cofactor and Prosthetic Group Biosynthesis",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "DHFR"
 ]
@@ -29298,10 +27993,10 @@
 "kegg.reaction":[
 "R00939"
 ],
-"metanetx_reaction":[
+"metanetx.reaction":[
 "MNXR97401"
 ],
-"reactome_reaction":[
+"reactome":[
 "R-SCE-197972",
 "R-HSA-197972",
 "R-RNO-197972",
@@ -29342,7 +28037,6 @@
 "gene_reaction_rule":"b1262",
 "subsystem":"Tyrosine, Tryptophan, and Phenylalanine Metabolism",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "PRAIi"
 ]
@@ -29360,7 +28054,7 @@
 "kegg.reaction":[
 "R03509"
 ],
-"metanetx_reaction":[
+"metanetx.reaction":[
 "MNXR103156"
 ],
 "rhea":[
@@ -29372,43 +28066,6 @@
 "sbo":"SBO:0000176",
 "seed.reaction":[
 "rxn02508"
-]
-}
-},
-{
-"id":"EX_mal__L_e",
-"name":"L-Malate exchange",
-"metabolites":{
-"mal__L_e":-1
-},
-"lower_bound":0.0,
-"upper_bound":1000.0,
-"gene_reaction_rule":"",
-"subsystem":"Extracellular exchange",
-"notes":{
-"exchange_reaction":"true",
-"original_bigg_ids":[
-"EX_mal__L_e"
-]
-},
-"annotation":{
-"bigg.reaction":[
-"EX_mal__L_e"
-],
-"biocyc":[
-"META:TRANS-RXN-225",
-"META:TRANS-RXN-224"
-],
-"metanetx.reaction":[
-"MNXR101367"
-],
-"sabiork.reaction":[
-"13793"
-],
-"sbo":"SBO:0000627",
-"seed.reaction":[
-"rxn10967",
-"rxn08868"
 ]
 }
 },
@@ -29426,7 +28083,6 @@
 "gene_reaction_rule":"b4054 or b0928 or b3770",
 "subsystem":"Tyrosine, Tryptophan, and Phenylalanine Metabolism",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "TYRTA"
 ]
@@ -29514,7 +28170,6 @@
 "gene_reaction_rule":"b3390 or b0388",
 "subsystem":"Tyrosine, Tryptophan, and Phenylalanine Metabolism",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "SHKK"
 ]
@@ -29554,60 +28209,6 @@
 }
 },
 {
-"id":"EX_so4_e",
-"name":"Sulfate exchange",
-"metabolites":{
-"so4_e":-1
-},
-"lower_bound":-1000.0,
-"upper_bound":1000.0,
-"gene_reaction_rule":"",
-"subsystem":"Extracellular exchange",
-"notes":{
-"exchange_reaction":"true",
-"original_bigg_ids":[
-"EX_so4_e"
-]
-},
-"annotation":{
-"bigg.reaction":[
-"EX_so4_e"
-],
-"metanetx.reaction":[
-"MNXR104469"
-],
-"reactome":[
-"R-TGU-8875871",
-"R-DRE-8875871",
-"R-GGA-8875871",
-"R-BTA-8875871",
-"R-SCE-8875871",
-"R-HSA-8875871",
-"R-SPO-8875871",
-"R-XTR-8875871",
-"R-MMU-8875871",
-"R-RNO-8875871",
-"R-SSC-8875871",
-"R-PFA-8875871",
-"R-ATH-8875871",
-"R-CFA-8875871",
-"R-OSA-8875871",
-"R-DME-8875871"
-],
-"rhea":[
-"34983",
-"34984",
-"34986",
-"34985"
-],
-"sbo":"SBO:0000627",
-"seed.reaction":[
-"rxn09261",
-"rxn05238"
-]
-}
-},
-{
 "id":"GLUSy",
 "name":"Glutamate synthase (NADPH)",
 "metabolites":{
@@ -29623,7 +28224,6 @@
 "gene_reaction_rule":"b3213 and b3212",
 "subsystem":"Glutamate Metabolism",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "GLUSy"
 ]
@@ -29638,7 +28238,7 @@
 "ec-code":[
 "1.4.1.13"
 ],
-"kegg_reaction":[
+"kegg.reaction":[
 "R00114"
 ],
 "metanetx.reaction":[
@@ -29673,7 +28273,6 @@
 "gene_reaction_rule":"s0001",
 "subsystem":"Valine, Leucine, and Isoleucine Metabolism",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "OMCDC"
 ]
@@ -29691,7 +28290,7 @@
 "kegg.reaction":[
 "R01652"
 ],
-"metanetx_reaction":[
+"metanetx.reaction":[
 "MNXR102180"
 ],
 "rhea":[
@@ -29722,7 +28321,6 @@
 "gene_reaction_rule":"b2023 and b2025",
 "subsystem":"Histidine Metabolism",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "IG3PS"
 ]
@@ -29739,7 +28337,7 @@
 "4.3.2.M2",
 "2.4.2.-"
 ],
-"kegg_reaction":[
+"kegg.reaction":[
 "R04558"
 ],
 "metanetx.reaction":[
@@ -29776,7 +28374,6 @@
 "gene_reaction_rule":"b0115 and b0116 and b0114",
 "subsystem":"Glycolysis/Gluconeogenesis",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "PDH"
 ]
@@ -29851,7 +28448,6 @@
 "gene_reaction_rule":"b3941",
 "subsystem":"Folate Metabolism",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "MTHFR2"
 ]
@@ -29879,69 +28475,6 @@
 }
 },
 {
-"id":"EX_nh4_e",
-"name":"Ammonia exchange",
-"metabolites":{
-"nh4_e":-1
-},
-"lower_bound":-1000.0,
-"upper_bound":1000.0,
-"gene_reaction_rule":"",
-"subsystem":"Extracellular exchange",
-"notes":{
-"exchange_reaction":"true",
-"original_bigg_ids":[
-"EX_nh4_e"
-]
-},
-"annotation":{
-"bigg.reaction":[
-"EX_nh4_e"
-],
-"biocyc":[
-"META:TRANS-RXN0-206",
-"META:RXN-9615",
-"META:TRANS-RXN0-544"
-],
-"metanetx.reaction":[
-"MNXR101950"
-],
-"reactome":[
-"R-CEL-444416",
-"R-SSC-444416",
-"R-DDI-444416",
-"R-MMU-444416",
-"R-DRE-444416",
-"R-GGA-444416",
-"R-CFA-444416",
-"R-HSA-444416",
-"R-XTR-444416",
-"R-BTA-444416",
-"R-RNO-444416",
-"R-TGU-444416",
-"R-DME-444416"
-],
-"rhea":[
-"28749",
-"28748",
-"28750",
-"28747"
-],
-"sabiork":[
-"11683"
-],
-"sbo":"SBO:0000627",
-"seed.reaction":[
-"rxn13364",
-"rxn09835",
-"rxn05466",
-"rxn08987",
-"rxn08986",
-"rxn09736"
-]
-}
-},
-{
 "id":"DUTPDP",
 "name":"DUTP diphosphatase",
 "metabolites":{
@@ -29956,7 +28489,6 @@
 "gene_reaction_rule":"b3640 or b2251",
 "subsystem":"Nucleotide Salvage Pathway",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "DUTPDP"
 ]
@@ -30027,7 +28559,6 @@
 "gene_reaction_rule":"b4161",
 "subsystem":"Nucleotide Salvage Pathway",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "NTP5"
 ]
@@ -30046,7 +28577,7 @@
 "kegg.reaction":[
 "R00569"
 ],
-"metanetx_reaction":[
+"metanetx.reaction":[
 "MNXR102045"
 ],
 "rhea":[
@@ -30075,7 +28606,6 @@
 "gene_reaction_rule":"b0904 or b2492",
 "subsystem":"Transport, Inner Membrane",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "FORt2pp"
 ]
@@ -30091,46 +28621,6 @@
 "seed.reaction":[
 "rxn08524",
 "rxn05559"
-]
-}
-},
-{
-"id":"EX_etoh_e",
-"name":"Ethanol exchange",
-"metabolites":{
-"etoh_e":-1
-},
-"lower_bound":0.0,
-"upper_bound":1000.0,
-"gene_reaction_rule":"",
-"subsystem":"Extracellular exchange",
-"notes":{
-"exchange_reaction":"true",
-"original_bigg_ids":[
-"EX_etoh_e"
-]
-},
-"annotation":{
-"bigg.reaction":[
-"EX_etoh_e"
-],
-"biocyc":[
-"META:TRANS-RXN0-546"
-],
-"metanetx.reaction":[
-"MNXR97980"
-],
-"rhea":[
-"35269",
-"35267",
-"35270",
-"35268"
-],
-"sbo":"SBO:0000627",
-"seed.reaction":[
-"rxn09683",
-"rxn08428",
-"rxn09764"
 ]
 }
 },
@@ -30151,7 +28641,6 @@
 "gene_reaction_rule":"b3870",
 "subsystem":"Glutamate Metabolism",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "GLNS"
 ]
@@ -30220,7 +28709,6 @@
 "gene_reaction_rule":"b2818",
 "subsystem":"Arginine and Proline Metabolism",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "ACGS"
 ]
@@ -30285,7 +28773,6 @@
 "gene_reaction_rule":"b0729 and b0728",
 "subsystem":"Citric Acid Cycle",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "SUCOAS"
 ]
@@ -30357,7 +28844,6 @@
 "gene_reaction_rule":"b2499",
 "subsystem":"Purine and Pyrimidine Biosynthesis",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "PRAIS"
 ]
@@ -30397,7 +28883,6 @@
 "gene_reaction_rule":"b1094 and b2836",
 "subsystem":"Cell Envelope Biosynthesis",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "AACPS8"
 ]
@@ -30409,7 +28894,7 @@
 "ec-code":[
 "6.2.1.20"
 ],
-"metanetx_reaction":[
+"metanetx.reaction":[
 "MNXR95147"
 ],
 "sbo":"SBO:0000176"
@@ -30431,7 +28916,6 @@
 "gene_reaction_rule":"b1094 and b2836",
 "subsystem":"Cell Envelope Biosynthesis",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "AACPS9"
 ]
@@ -30443,7 +28927,7 @@
 "ec-code":[
 "6.2.1.l"
 ],
-"metanetx_reaction":[
+"metanetx.reaction":[
 "MNXR95148"
 ],
 "sbo":"SBO:0000176"
@@ -30465,7 +28949,6 @@
 "gene_reaction_rule":"b1094 and b2836",
 "subsystem":"Cell Envelope Biosynthesis",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "AACPS6"
 ]
@@ -30477,7 +28960,7 @@
 "ec-code":[
 "6.2.1.20"
 ],
-"metanetx_reaction":[
+"metanetx.reaction":[
 "MNXR95145"
 ],
 "sbo":"SBO:0000176"
@@ -30499,7 +28982,6 @@
 "gene_reaction_rule":"b1094 and b2836",
 "subsystem":"Cell Envelope Biosynthesis",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "AACPS7"
 ]
@@ -30511,7 +28993,7 @@
 "ec-code":[
 "6.2.1.l"
 ],
-"metanetx_reaction":[
+"metanetx.reaction":[
 "MNXR95146"
 ],
 "sbo":"SBO:0000176"
@@ -30531,7 +29013,6 @@
 "gene_reaction_rule":"b2022",
 "subsystem":"Histidine Metabolism",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "HISTP"
 ]
@@ -30549,7 +29030,7 @@
 "kegg.reaction":[
 "R03013"
 ],
-"metanetx_reaction":[
+"metanetx.reaction":[
 "MNXR100642"
 ],
 "rhea":[
@@ -30579,7 +29060,6 @@
 "gene_reaction_rule":"b1380",
 "subsystem":"Pyruvate Metabolism",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "LDH_D"
 ]
@@ -30594,7 +29074,7 @@
 "ec-code":[
 "1.1.1.28"
 ],
-"kegg_reaction":[
+"kegg.reaction":[
 "R00704"
 ],
 "metanetx.reaction":[
@@ -30631,7 +29111,6 @@
 "gene_reaction_rule":"b1091",
 "subsystem":"Membrane Lipid Metabolism",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "KAS15"
 ]
@@ -30653,7 +29132,7 @@
 "MNXR100913"
 ],
 "sbo":"SBO:0000176",
-"seed_reaction":[
+"seed.reaction":[
 "rxn08766"
 ]
 }
@@ -30670,7 +29149,6 @@
 "gene_reaction_rule":"b0954",
 "subsystem":"Cell Envelope Biosynthesis",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "T2DECAI"
 ]
@@ -30701,7 +29179,6 @@
 "gene_reaction_rule":"b2323",
 "subsystem":"Cell Envelope Biosynthesis",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "3OAS161"
 ]
@@ -30713,7 +29190,7 @@
 "ec-code":[
 "2.3.1.41"
 ],
-"metanetx_reaction":[
+"metanetx.reaction":[
 "MNXR94960"
 ],
 "sbo":"SBO:0000176"
@@ -30732,7 +29209,6 @@
 "gene_reaction_rule":"b3389",
 "subsystem":"Tyrosine, Tryptophan, and Phenylalanine Metabolism",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "DHQS"
 ]
@@ -30747,7 +29223,7 @@
 "ec-code":[
 "4.2.3.4"
 ],
-"kegg_reaction":[
+"kegg.reaction":[
 "R03083"
 ],
 "metanetx.reaction":[
@@ -30783,7 +29259,6 @@
 "gene_reaction_rule":"b1288",
 "subsystem":"Cell Envelope Biosynthesis",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "EAR161x"
 ]
@@ -30795,7 +29270,7 @@
 "ec-code":[
 "1.3.1.9"
 ],
-"metanetx_reaction":[
+"metanetx.reaction":[
 "MNXR97857"
 ],
 "sbo":"SBO:0000176"
@@ -30816,7 +29291,6 @@
 "gene_reaction_rule":"b2913",
 "subsystem":"Glycine and Serine Metabolism",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "PGCD"
 ]
@@ -30882,7 +29356,6 @@
 "gene_reaction_rule":"b0241 or b0929 or b1377 or b2215",
 "subsystem":"Transport, Outer Membrane Porin",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "MALtex"
 ]
@@ -30924,7 +29397,6 @@
 "gene_reaction_rule":"b2323",
 "subsystem":"Cell Envelope Biosynthesis",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "3OAS141"
 ]
@@ -30936,7 +29408,7 @@
 "ec-code":[
 "2.3.1.41"
 ],
-"metanetx_reaction":[
+"metanetx.reaction":[
 "MNXR94958"
 ],
 "sbo":"SBO:0000176"
@@ -30957,7 +29429,6 @@
 "gene_reaction_rule":"b1093",
 "subsystem":"Cell Envelope Biosynthesis",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "3OAR121"
 ]
@@ -30991,7 +29462,6 @@
 "gene_reaction_rule":"b1131",
 "subsystem":"Purine and Pyrimidine Biosynthesis",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "ADSL1r"
 ]
@@ -31061,7 +29531,6 @@
 "gene_reaction_rule":"b4006",
 "subsystem":"Purine and Pyrimidine Biosynthesis",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "AICART"
 ]
@@ -31076,10 +29545,10 @@
 "kegg.reaction":[
 "R04560"
 ],
-"metanetx_reaction":[
+"metanetx.reaction":[
 "MNXR95639"
 ],
-"reactome_reaction":[
+"reactome":[
 "R-BTA-73798",
 "R-CFA-73798",
 "R-DDI-73798",
@@ -31124,7 +29593,6 @@
 "gene_reaction_rule":"b3603 or b2975",
 "subsystem":"Transport, Inner Membrane",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "D_LACt2pp"
 ]
@@ -31159,7 +29627,6 @@
 "gene_reaction_rule":"b0241 or b0929 or b1377 or b2215",
 "subsystem":"Transport, Outer Membrane Porin",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "RIBtex"
 ]
@@ -31191,7 +29658,6 @@
 "gene_reaction_rule":"b1818 and b1817 and b2416 and b1819 and b2415",
 "subsystem":"Transport, Inner Membrane",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "FRUpts2pp"
 ]
@@ -31218,7 +29684,6 @@
 "gene_reaction_rule":"b0241 or b0929 or b1377 or b2215",
 "subsystem":"Transport, Outer Membrane Porin",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "FORtex"
 ]
@@ -31242,7 +29707,7 @@
 "29682",
 "29679"
 ],
-"sabiork":[
+"sabiork.reaction":[
 "12483"
 ],
 "sbo":"SBO:0000185",
@@ -31269,7 +29734,6 @@
 "gene_reaction_rule":"b3916 or b1723",
 "subsystem":"Glycolysis/Gluconeogenesis",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "PFK"
 ]
@@ -31305,7 +29769,6 @@
 "gene_reaction_rule":"b0755 or b3612",
 "subsystem":"Glycolysis/Gluconeogenesis",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "PGM"
 ]
@@ -31398,7 +29861,6 @@
 "gene_reaction_rule":"b0432 and b0431 and b0429 and b0430",
 "subsystem":"Oxidative Phosphorylation",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "CYTBO3_4pp"
 ]
@@ -31428,7 +29890,6 @@
 "gene_reaction_rule":"b1288",
 "subsystem":"Cell Envelope Biosynthesis",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "EAR141x"
 ]
@@ -31440,7 +29901,7 @@
 "ec-code":[
 "1.3.1.9"
 ],
-"metanetx_reaction":[
+"metanetx.reaction":[
 "MNXR97853"
 ],
 "sbo":"SBO:0000176"
@@ -31461,7 +29922,6 @@
 "gene_reaction_rule":"b1288",
 "subsystem":"Cell Envelope Biosynthesis",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "EAR181x"
 ]
@@ -31473,7 +29933,7 @@
 "ec-code":[
 "1.3.1.9"
 ],
-"metanetx_reaction":[
+"metanetx.reaction":[
 "MNXR97861"
 ],
 "sbo":"SBO:0000176"
@@ -31491,7 +29951,6 @@
 "gene_reaction_rule":"b3919",
 "subsystem":"Glycolysis/Gluconeogenesis",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "TPI"
 ]
@@ -31577,7 +30036,6 @@
 "gene_reaction_rule":"b2914 or b4090",
 "subsystem":"Pentose Phosphate Pathway",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "RPI"
 ]
@@ -31589,7 +30047,7 @@
 "ec-code":[
 "5.3.1.6"
 ],
-"metanetx_reaction":[
+"metanetx.reaction":[
 "MNXR104084"
 ],
 "sbo":"SBO:0000176"
@@ -31610,7 +30068,6 @@
 "gene_reaction_rule":"b1093",
 "subsystem":"Cell Envelope Biosynthesis",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "3OAR120"
 ]
@@ -31650,7 +30107,6 @@
 "gene_reaction_rule":"b0954 or b0180",
 "subsystem":"Cell Envelope Biosynthesis",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "3HAD80"
 ]
@@ -31677,7 +30133,7 @@
 "MNXR94888"
 ],
 "sbo":"SBO:0000176",
-"seed_reaction":[
+"seed.reaction":[
 "rxn05334"
 ]
 }
@@ -31695,7 +30151,6 @@
 "gene_reaction_rule":"b0180 or b0954",
 "subsystem":"Cell Envelope Biosynthesis",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "3HAD120"
 ]
@@ -31740,7 +30195,6 @@
 "gene_reaction_rule":"b1288",
 "subsystem":"Cell Envelope Biosynthesis",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "EAR180x"
 ]
@@ -31752,7 +30206,7 @@
 "ec-code":[
 "1.3.1.9"
 ],
-"metanetx_reaction":[
+"metanetx.reaction":[
 "MNXR97859"
 ],
 "sbo":"SBO:0000176"
@@ -31770,7 +30224,6 @@
 "gene_reaction_rule":"b0241 or b0929 or b1377 or b2215",
 "subsystem":"Transport, Outer Membrane Porin",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "AKGtex"
 ]
@@ -31807,7 +30260,6 @@
 "gene_reaction_rule":"b2413",
 "subsystem":"Inorganic Ion Transport and Metabolism",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "SO4t2pp"
 ]
@@ -31847,7 +30299,6 @@
 "gene_reaction_rule":"b1288",
 "subsystem":"Cell Envelope Biosynthesis",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "EAR180y"
 ]
@@ -31859,7 +30310,7 @@
 "ec-code":[
 "1.3.1.10"
 ],
-"metanetx_reaction":[
+"metanetx.reaction":[
 "MNXR97860"
 ],
 "sbo":"SBO:0000176"
@@ -31878,7 +30329,6 @@
 "gene_reaction_rule":"b0118 or b1276",
 "subsystem":"Citric Acid Cycle",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "ACONTb"
 ]
@@ -31903,7 +30353,7 @@
 "22147"
 ],
 "sbo":"SBO:0000176",
-"seed_reaction":[
+"seed.reaction":[
 "rxn01388"
 ]
 }
@@ -31921,7 +30371,6 @@
 "gene_reaction_rule":"b0954 or b0180",
 "subsystem":"Cell Envelope Biosynthesis",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "3HAD161"
 ]
@@ -31956,7 +30405,6 @@
 "gene_reaction_rule":"b0721 and b0722 and b0723 and b0724",
 "subsystem":"Oxidative Phosphorylation",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "SUCDi"
 ]
@@ -31999,7 +30447,6 @@
 "gene_reaction_rule":"b0674",
 "subsystem":"Alanine and Aspartate Metabolism",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "ASNS1"
 ]
@@ -32014,7 +30461,7 @@
 "ec-code":[
 "6.3.5.4"
 ],
-"kegg_reaction":[
+"kegg.reaction":[
 "R00578"
 ],
 "metanetx.reaction":[
@@ -32066,7 +30513,6 @@
 "gene_reaction_rule":"b1288",
 "subsystem":"Cell Envelope Biosynthesis",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "EAR80y"
 ]
@@ -32078,7 +30524,7 @@
 "ec-code":[
 "2.3.1.86"
 ],
-"metanetx_reaction":[
+"metanetx.reaction":[
 "MNXR97868"
 ],
 "sbo":"SBO:0000176"
@@ -32099,7 +30545,6 @@
 "gene_reaction_rule":"b1288",
 "subsystem":"Cell Envelope Biosynthesis",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "EAR120y"
 ]
@@ -32111,7 +30556,7 @@
 "ec-code":[
 "2.3.1.86"
 ],
-"metanetx_reaction":[
+"metanetx.reaction":[
 "MNXR97848"
 ],
 "sbo":"SBO:0000176"
@@ -32132,7 +30577,6 @@
 "gene_reaction_rule":"b1093",
 "subsystem":"Cell Envelope Biosynthesis",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "3OAR181"
 ]
@@ -32166,7 +30610,6 @@
 "gene_reaction_rule":"b0954 or b0180",
 "subsystem":"Cell Envelope Biosynthesis",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "3HAD121"
 ]
@@ -32188,42 +30631,6 @@
 }
 },
 {
-"id":"EX_o2_e",
-"name":"O2 exchange",
-"metabolites":{
-"o2_e":-1
-},
-"lower_bound":-1000.0,
-"upper_bound":1000.0,
-"gene_reaction_rule":"",
-"subsystem":"Extracellular exchange",
-"notes":{
-"exchange_reaction":"true",
-"original_bigg_ids":[
-"EX_o2_e"
-]
-},
-"annotation":{
-"bigg.reaction":[
-"EX_o2_e"
-],
-"biocyc":[
-"META:TRANS-RXN0-474"
-],
-"metanetx.reaction":[
-"MNXR102090"
-],
-"sbo":"SBO:0000627",
-"seed.reaction":[
-"rxn09641",
-"rxn05468",
-"rxn09031",
-"rxn09032",
-"rxn09734"
-]
-}
-},
-{
 "id":"EAR140x",
 "name":"Enoyl-[acyl-carrier-protein] reductase (NADH) (n-C14:0)",
 "metabolites":{
@@ -32238,7 +30645,6 @@
 "gene_reaction_rule":"b1288",
 "subsystem":"Cell Envelope Biosynthesis",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "EAR140x"
 ]
@@ -32250,7 +30656,7 @@
 "ec-code":[
 "2.3.1.-"
 ],
-"metanetx_reaction":[
+"metanetx.reaction":[
 "MNXR97851"
 ],
 "sbo":"SBO:0000176"
@@ -32272,7 +30678,6 @@
 "gene_reaction_rule":"b1095",
 "subsystem":"Cell Envelope Biosynthesis",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "3OAS181"
 ]
@@ -32284,7 +30689,7 @@
 "ec-code":[
 "2.3.1.179"
 ],
-"metanetx_reaction":[
+"metanetx.reaction":[
 "MNXR94962"
 ],
 "sbo":"SBO:0000176"
@@ -32306,7 +30711,6 @@
 "gene_reaction_rule":"b2323 or b1095",
 "subsystem":"Cell Envelope Biosynthesis",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "3OAS140"
 ]
@@ -32318,7 +30722,7 @@
 "ec-code":[
 "2.3.1.86"
 ],
-"metanetx_reaction":[
+"metanetx.reaction":[
 "MNXR94957"
 ],
 "sbo":"SBO:0000176"
@@ -32339,7 +30743,6 @@
 "gene_reaction_rule":"b1093",
 "subsystem":"Cell Envelope Biosynthesis",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "3OAR140"
 ]
@@ -32364,7 +30767,7 @@
 "MNXR94944"
 ],
 "sbo":"SBO:0000176",
-"seed_reaction":[
+"seed.reaction":[
 "rxn05342"
 ]
 }
@@ -32384,7 +30787,6 @@
 "gene_reaction_rule":"b1288",
 "subsystem":"Cell Envelope Biosynthesis",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "EAR160y"
 ]
@@ -32396,7 +30798,7 @@
 "ec-code":[
 "1.3.1.10"
 ],
-"metanetx_reaction":[
+"metanetx.reaction":[
 "MNXR97856"
 ],
 "sbo":"SBO:0000176"
@@ -32417,7 +30819,6 @@
 "gene_reaction_rule":"b1093",
 "subsystem":"Cell Envelope Biosynthesis",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "3OAR160"
 ]
@@ -32457,7 +30858,6 @@
 "gene_reaction_rule":"b0954 or b0180",
 "subsystem":"Cell Envelope Biosynthesis",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "3HAD181"
 ]
@@ -32493,7 +30893,6 @@
 "gene_reaction_rule":"b1288",
 "subsystem":"Cell Envelope Biosynthesis",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "EAR100y"
 ]
@@ -32505,7 +30904,7 @@
 "ec-code":[
 "2.3.1.86"
 ],
-"metanetx_reaction":[
+"metanetx.reaction":[
 "MNXR97846"
 ],
 "sbo":"SBO:0000176"
@@ -32526,7 +30925,6 @@
 "gene_reaction_rule":"b1093",
 "subsystem":"Cell Envelope Biosynthesis",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "3OAR141"
 ]
@@ -32562,7 +30960,6 @@
 "gene_reaction_rule":"b1093",
 "subsystem":"Cell Envelope Biosynthesis",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "3OAR161"
 ]
@@ -32596,7 +30993,6 @@
 "gene_reaction_rule":"b0954 or b0180",
 "subsystem":"Cell Envelope Biosynthesis",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "3HAD141"
 ]
@@ -32632,7 +31028,6 @@
 "gene_reaction_rule":"b1288",
 "subsystem":"Cell Envelope Biosynthesis",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "EAR121x"
 ]
@@ -32644,7 +31039,7 @@
 "ec-code":[
 "1.3.1.9"
 ],
-"metanetx_reaction":[
+"metanetx.reaction":[
 "MNXR97849"
 ],
 "sbo":"SBO:0000176"
@@ -32663,7 +31058,6 @@
 "gene_reaction_rule":"b0118 or b1276",
 "subsystem":"Citric Acid Cycle",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "ACONTa"
 ]
@@ -32678,7 +31072,7 @@
 "ec-code":[
 "4.2.1.3"
 ],
-"kegg_reaction":[
+"kegg.reaction":[
 "R01325"
 ],
 "metanetx.reaction":[
@@ -32712,7 +31106,6 @@
 "gene_reaction_rule":"b0954 or b0180",
 "subsystem":"Cell Envelope Biosynthesis",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "3HAD40"
 ]
@@ -32749,7 +31142,6 @@
 "gene_reaction_rule":"b1095 or b2323",
 "subsystem":"Cell Envelope Biosynthesis",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "3OAS60"
 ]
@@ -32761,7 +31153,7 @@
 "ec-code":[
 "2.3.1.86"
 ],
-"metanetx_reaction":[
+"metanetx.reaction":[
 "MNXR94963"
 ],
 "sbo":"SBO:0000176"
@@ -32783,7 +31175,6 @@
 "gene_reaction_rule":"b2323 or b1095",
 "subsystem":"Cell Envelope Biosynthesis",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "3OAS160"
 ]
@@ -32795,7 +31186,7 @@
 "ec-code":[
 "2.3.1.86"
 ],
-"metanetx_reaction":[
+"metanetx.reaction":[
 "MNXR94959"
 ],
 "sbo":"SBO:0000176"
@@ -32816,7 +31207,6 @@
 "gene_reaction_rule":"b1093",
 "subsystem":"Cell Envelope Biosynthesis",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "3OAR60"
 ]
@@ -32858,7 +31248,6 @@
 "gene_reaction_rule":"b1093",
 "subsystem":"Cell Envelope Biosynthesis",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "3OAR80"
 ]
@@ -32883,7 +31272,7 @@
 "MNXR94953"
 ],
 "sbo":"SBO:0000176",
-"seed_reaction":[
+"seed.reaction":[
 "rxn05341"
 ]
 }
@@ -32903,7 +31292,6 @@
 "gene_reaction_rule":"b1288",
 "subsystem":"Cell Envelope Biosynthesis",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "EAR100x"
 ]
@@ -32915,7 +31303,7 @@
 "ec-code":[
 "2.3.1.-"
 ],
-"metanetx_reaction":[
+"metanetx.reaction":[
 "MNXR97845"
 ],
 "sbo":"SBO:0000176"
@@ -32936,7 +31324,6 @@
 "gene_reaction_rule":"b1288",
 "subsystem":"Cell Envelope Biosynthesis",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "EAR120x"
 ]
@@ -32948,7 +31335,7 @@
 "ec-code":[
 "2.3.1.-"
 ],
-"metanetx_reaction":[
+"metanetx.reaction":[
 "MNXR97847"
 ],
 "sbo":"SBO:0000176"
@@ -32969,7 +31356,6 @@
 "gene_reaction_rule":"b1288",
 "subsystem":"Cell Envelope Biosynthesis",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "EAR160x"
 ]
@@ -32981,7 +31367,7 @@
 "ec-code":[
 "1.3.1.9"
 ],
-"metanetx_reaction":[
+"metanetx.reaction":[
 "MNXR97855"
 ],
 "sbo":"SBO:0000176"
@@ -33002,7 +31388,6 @@
 "gene_reaction_rule":"b1288",
 "subsystem":"Cell Envelope Biosynthesis",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "EAR140y"
 ]
@@ -33014,7 +31399,7 @@
 "ec-code":[
 "2.3.1.86"
 ],
-"metanetx_reaction":[
+"metanetx.reaction":[
 "MNXR97852"
 ],
 "sbo":"SBO:0000176"
@@ -33036,7 +31421,6 @@
 "gene_reaction_rule":"b2323",
 "subsystem":"Cell Envelope Biosynthesis",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "3OAS121"
 ]
@@ -33048,7 +31432,7 @@
 "ec-code":[
 "2.3.1.41"
 ],
-"metanetx_reaction":[
+"metanetx.reaction":[
 "MNXR94956"
 ],
 "sbo":"SBO:0000176"
@@ -33070,7 +31454,6 @@
 "gene_reaction_rule":"b2323 or b1095",
 "subsystem":"Cell Envelope Biosynthesis",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "3OAS80"
 ]
@@ -33082,7 +31465,7 @@
 "ec-code":[
 "2.3.1.86"
 ],
-"metanetx_reaction":[
+"metanetx.reaction":[
 "MNXR94964"
 ],
 "sbo":"SBO:0000176"
@@ -33104,7 +31487,6 @@
 "gene_reaction_rule":"b2323 or b1095",
 "subsystem":"Cell Envelope Biosynthesis",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "3OAS100"
 ]
@@ -33116,7 +31498,7 @@
 "ec-code":[
 "2.3.1.86"
 ],
-"metanetx_reaction":[
+"metanetx.reaction":[
 "MNXR94954"
 ],
 "sbo":"SBO:0000176"
@@ -33138,7 +31520,6 @@
 "gene_reaction_rule":"b1095 or b2323",
 "subsystem":"Cell Envelope Biosynthesis",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "3OAS120"
 ]
@@ -33150,7 +31531,7 @@
 "ec-code":[
 "2.3.1.86"
 ],
-"metanetx_reaction":[
+"metanetx.reaction":[
 "MNXR94955"
 ],
 "sbo":"SBO:0000176"
@@ -33171,7 +31552,6 @@
 "gene_reaction_rule":"b1093",
 "subsystem":"Cell Envelope Biosynthesis",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "3OAR40"
 ]
@@ -33207,7 +31587,6 @@
 "gene_reaction_rule":"b1093",
 "subsystem":"Cell Envelope Biosynthesis",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "3OAR100"
 ]
@@ -33232,7 +31611,7 @@
 "MNXR94941"
 ],
 "sbo":"SBO:0000176",
-"seed_reaction":[
+"seed.reaction":[
 "rxn05338"
 ]
 }
@@ -33250,7 +31629,6 @@
 "gene_reaction_rule":"b0954 or b0180",
 "subsystem":"Cell Envelope Biosynthesis",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "3HAD60"
 ]
@@ -33291,7 +31669,6 @@
 "gene_reaction_rule":"b0954 or b0180",
 "subsystem":"Cell Envelope Biosynthesis",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "3HAD100"
 ]
@@ -33334,7 +31711,6 @@
 "gene_reaction_rule":"b0954 or b0180",
 "subsystem":"Cell Envelope Biosynthesis",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "3HAD140"
 ]
@@ -33360,7 +31736,7 @@
 "MNXR94879"
 ],
 "sbo":"SBO:0000176",
-"seed_reaction":[
+"seed.reaction":[
 "rxn05335"
 ]
 }
@@ -33378,7 +31754,6 @@
 "gene_reaction_rule":"b0954 or b0180",
 "subsystem":"Cell Envelope Biosynthesis",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "3HAD160"
 ]
@@ -33421,7 +31796,6 @@
 "gene_reaction_rule":"b1288",
 "subsystem":"Cell Envelope Biosynthesis",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "EAR40x"
 ]
@@ -33433,7 +31807,7 @@
 "ec-code":[
 "2.3.1.-"
 ],
-"metanetx_reaction":[
+"metanetx.reaction":[
 "MNXR97863"
 ],
 "sbo":"SBO:0000176"
@@ -33454,7 +31828,6 @@
 "gene_reaction_rule":"b1288",
 "subsystem":"Cell Envelope Biosynthesis",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "EAR60y"
 ]
@@ -33466,7 +31839,7 @@
 "ec-code":[
 "2.3.1.86"
 ],
-"metanetx_reaction":[
+"metanetx.reaction":[
 "MNXR97866"
 ],
 "sbo":"SBO:0000176"
@@ -33487,7 +31860,6 @@
 "gene_reaction_rule":"b1288",
 "subsystem":"Cell Envelope Biosynthesis",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "EAR60x"
 ]
@@ -33499,7 +31871,7 @@
 "ec-code":[
 "2.3.1.-"
 ],
-"metanetx_reaction":[
+"metanetx.reaction":[
 "MNXR97865"
 ],
 "sbo":"SBO:0000176"
@@ -33520,7 +31892,6 @@
 "gene_reaction_rule":"b1288",
 "subsystem":"Cell Envelope Biosynthesis",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "EAR80x"
 ]
@@ -33532,7 +31903,7 @@
 "ec-code":[
 "2.3.1.-"
 ],
-"metanetx_reaction":[
+"metanetx.reaction":[
 "MNXR97867"
 ],
 "sbo":"SBO:0000176"
@@ -33553,7 +31924,6 @@
 "gene_reaction_rule":"b1093",
 "subsystem":"Cell Envelope Biosynthesis",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "3OAR180"
 ]
@@ -33590,7 +31960,6 @@
 "gene_reaction_rule":"b1095 or b2323",
 "subsystem":"Cell Envelope Biosynthesis",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "3OAS180"
 ]
@@ -33602,7 +31971,7 @@
 "ec-code":[
 "2.3.1.41"
 ],
-"metanetx_reaction":[
+"metanetx.reaction":[
 "MNXR94961"
 ],
 "sbo":"SBO:0000176"
@@ -33621,7 +31990,6 @@
 "gene_reaction_rule":"b0954 or b0180",
 "subsystem":"Cell Envelope Biosynthesis",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "3HAD180"
 ]
@@ -33663,7 +32031,6 @@
 "gene_reaction_rule":"b2279 and b2277 and b2284 and b2282 and b2278 and b2288 and b2276 and b2287 and b2283 and b2281 and b2286 and b2280 and b2285",
 "subsystem":"Oxidative Phosphorylation",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "NADH16pp"
 ]
@@ -33699,7 +32066,6 @@
 "gene_reaction_rule":"b0404",
 "subsystem":"Cell Envelope Biosynthesis",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "FA160ACPHi"
 ]
@@ -33711,7 +32077,7 @@
 "ec-code":[
 "3.1.2.14"
 ],
-"metanetx_reaction":[
+"metanetx.reaction":[
 "MNXR99097"
 ],
 "sbo":"SBO:0000176"
@@ -33732,7 +32098,6 @@
 "gene_reaction_rule":"b0404",
 "subsystem":"Cell Envelope Biosynthesis",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "FA120ACPHi"
 ]
@@ -33744,7 +32109,7 @@
 "ec-code":[
 "3.1.2.21"
 ],
-"metanetx_reaction":[
+"metanetx.reaction":[
 "MNXR99087"
 ],
 "sbo":"SBO:0000176"
@@ -33765,7 +32130,6 @@
 "gene_reaction_rule":"b0404",
 "subsystem":"Cell Envelope Biosynthesis",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "FA80ACPHi"
 ]
@@ -33777,7 +32141,7 @@
 "ec-code":[
 "3.1.2.21"
 ],
-"metanetx_reaction":[
+"metanetx.reaction":[
 "MNXR99125"
 ],
 "sbo":"SBO:0000176"
@@ -33798,7 +32162,6 @@
 "gene_reaction_rule":"b0404",
 "subsystem":"Cell Envelope Biosynthesis",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "FA140ACPHi"
 ]
@@ -33810,7 +32173,7 @@
 "ec-code":[
 "3.1.2.14"
 ],
-"metanetx_reaction":[
+"metanetx.reaction":[
 "MNXR99089"
 ],
 "sbo":"SBO:0000176"
@@ -33831,7 +32194,6 @@
 "gene_reaction_rule":"b0404",
 "subsystem":"Cell Envelope Biosynthesis",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "FA100ACPHi"
 ]
@@ -33843,7 +32205,7 @@
 "ec-code":[
 "3.1.2.21"
 ],
-"metanetx_reaction":[
+"metanetx.reaction":[
 "MNXR99086"
 ],
 "sbo":"SBO:0000176"
@@ -33861,7 +32223,6 @@
 "gene_reaction_rule":"s0001",
 "subsystem":"Transport, Inner Membrane",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "ETOHtrpp"
 ]
@@ -33905,7 +32266,6 @@
 "gene_reaction_rule":"b1094 and b1090",
 "subsystem":"Glycerophospholipid Metabolism",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "ACPPAT161"
 ]
@@ -33935,7 +32295,6 @@
 "gene_reaction_rule":"b1094 and b1090",
 "subsystem":"Glycerophospholipid Metabolism",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "ACPPAT180"
 ]
@@ -33966,7 +32325,6 @@
 "gene_reaction_rule":"(b3924 and b0684 and b4238 and b4237) or (b3924 and b2895 and b4238 and b4237) or (b0684 and b4238) or (b2895 and b4238)",
 "subsystem":"Nucleotide Salvage Pathway",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "RNTR1c2"
 ]
@@ -33997,7 +32355,6 @@
 "gene_reaction_rule":"(b3924 and b2895 and b4238 and b4237) or (b2895 and b4238) or (b3924 and b0684 and b4238 and b4237) or (b0684 and b4238)",
 "subsystem":"Nucleotide Salvage Pathway",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "RNTR2c2"
 ]
@@ -34027,7 +32384,6 @@
 "gene_reaction_rule":"(b3924 and b2895) or (b3924 and b0684)",
 "subsystem":"Unassigned",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "FLDR2"
 ]
@@ -34056,7 +32412,6 @@
 "gene_reaction_rule":"b3572",
 "subsystem":"Valine, Leucine, and Isoleucine Metabolism",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "VPAMTr"
 ]
@@ -34074,7 +32429,7 @@
 "kegg.reaction":[
 "R01215"
 ],
-"metanetx_reaction":[
+"metanetx.reaction":[
 "MNXR105217"
 ],
 "rhea":[
@@ -34104,7 +32459,6 @@
 "gene_reaction_rule":"b1094 and b1090",
 "subsystem":"Glycerophospholipid Metabolism",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "ACPPAT181"
 ]
@@ -34134,7 +32488,6 @@
 "gene_reaction_rule":"b0968",
 "subsystem":"Glycerophospholipid Metabolism",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "APH161"
 ]
@@ -34164,7 +32517,6 @@
 "gene_reaction_rule":"b0968",
 "subsystem":"Glycerophospholipid Metabolism",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "APH180"
 ]
@@ -34194,7 +32546,6 @@
 "gene_reaction_rule":"b0968",
 "subsystem":"Glycerophospholipid Metabolism",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "APH181"
 ]
@@ -34223,7 +32574,6 @@
 "gene_reaction_rule":"b3493 or b2987",
 "subsystem":"Inorganic Ion Transport and Metabolism",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "PIt2rpp"
 ]
@@ -34267,7 +32617,6 @@
 "gene_reaction_rule":"b4020",
 "subsystem":"Inorganic Ion Transport and Metabolism",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "PItpp"
 ]
@@ -34291,7 +32640,6 @@
 "gene_reaction_rule":"b1206",
 "subsystem":"Transport, Inner Membrane",
 "notes":{
-"exchange_reaction":"false",
 "original_bigg_ids":[
 "SUCCt1pp"
 ]
@@ -34374,10 +32722,7 @@
 "lower_bound":0.0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
-"objective_coefficient":1.0,
-"notes":{
-"exchange_reaction":"false"
-}
+"objective_coefficient":1.0
 }
 ],
 "genes":[
