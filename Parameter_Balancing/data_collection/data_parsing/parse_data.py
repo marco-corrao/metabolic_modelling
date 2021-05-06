@@ -59,30 +59,30 @@ def kegg2bigg(kegg_id,id_type,model):
     met_id=[]
     if id_type=='m':
         for met in model.metabolites:
-            if ('kegg_compound' in met.annotation):
-                for kegg_annotation in met.annotation['kegg_compound']:
+            if ('kegg.compound' in met.annotation):
+                for kegg_annotation in met.annotation['kegg.compound']:
                     if kegg_annotation==kegg_id:
                         met_id.append(met.id)
         return met_id
     #=======================================
     if id_type=='r':
         for r in model.reactions:
-            if ('kegg_reaction' in r.annotation):
-                if r.annotation['kegg_reaction'][0]==kegg_id:
+            if ('kegg.reaction' in r.annotation):
+                if r.annotation['kegg.reaction'][0]==kegg_id:
                     return r.id
         return ''
     
 def bigg2kegg(bigg_id,id_type,model):
     if id_type=='m':
         met=model.metabolites.get_by_id(bigg_id)
-        if 'kegg_compound' in met.annotation:
-            return met.annotation['kegg_compound'][0]
+        if 'kegg.compound' in met.annotation:
+            return met.annotation['kegg.compound'][0]
         else:
             return '' 
     if id_type=='r':
         r=model.reactions.get_by_id(bigg_id)
-        if 'kegg_reaction' in r.annotation:
-            return r.annotation['kegg_reaction'][0]
+        if 'kegg.reaction' in r.annotation:
+            return r.annotation['kegg.reaction'][0]
         else:
             return ''         
         
@@ -120,6 +120,7 @@ km_data_ecoli=pd.read_csv(data_path+'\km_ecoli.csv',encoding='ISO-8859-1',index_
 #km_data_ecoli.rename(columns={"ï»¿entry_ID": "entry_ID"})
 kcat_data=pd.read_excel(data_path+'\Data from Heckman et al.xls', sheet_name='Dataset_S1C_turnover_n',index_col='react_id')
 keq_data=pd.read_csv(data_path+'\Equilibrator_data.tsv',index_col='reaction_id',sep='\t')
+mdf_model=SBtab.read_csv(data_path+'\MDF_model_noFA_noEX.tsv','MDF_model')
 #%% 
 #Create kcat data frame for parameter balancing
 template={'!QuantityType':[],
@@ -338,7 +339,7 @@ dg_sbtable.header_row+=" StandardConcentration='M'"
 dg_sbtable.write(export_path+'\PB_dg.tsv')    
 
 #%% BOUNDS ON FREE ENERGIES
-
+RT=2.479 #Kj/mol
 #Create DGr_bounds data frame for parameter balancing
 template={'!QuantityType':[],
           '!Reaction':[]	,
@@ -348,24 +349,32 @@ template={'!QuantityType':[],
           '!Reaction:Identifiers:kegg.reaction':[]
     }
 dg_bounds_df = pd.DataFrame(data=template)
+fluxes=mdf_model.sbtabs[6].to_data_frame()
 #=====================================================
-for r in model.reactions:
-    r_lb=r.bounds[0]
-    r_ub=r.bounds[1]
+for i in range(len(fluxes)):
+    cur_r=fluxes.iloc[i,1]
+    cur_flux=float(fluxes.iloc[i,2])
+    #r_lb=r.bounds[0]
+    #r_ub=r.bounds[1]
     #--------
     new_row=copy.deepcopy(template)
     new_row['!QuantityType']= ['Gibbs free energy of reaction']
     new_row['!Unit']=['kJ/mol']
-    new_row['!Reaction']=['R_'+ r.id]
-    new_row['!Reaction:Identifiers:kegg.reaction']=[bigg2kegg(r.id, 'r', model)]
-    if r_lb>=0: #If the reaction is irreversible in the forward direction       
-        new_row['!Max']=[str(0)]
+    new_row['!Reaction']=[cur_r]
+    new_row['!Reaction:Identifiers:kegg.reaction']=[bigg2kegg(cur_r[2::], 'r', model)]
+    if cur_flux>0: #If the reaction carries flux in the forward direction       
+        new_row['!Max']=[str(-0.1*RT)]
         new_row['!Min']=['']
         dg_bounds_df=dg_bounds_df.append(pd.DataFrame(data=new_row),ignore_index='True')
-    elif r_ub<=0: #reaction is irreversible in the backward direction
-        new_row['!Min']=[str(0)]
+    elif cur_flux<0: #reaction carries flux in the backward direction
+        new_row['!Min']=[str(0.1*RT)]
         new_row['!Max']=['']
         dg_bounds_df=dg_bounds_df.append(pd.DataFrame(data=new_row),ignore_index='True')
+    else:
+        new_row['!Min']=['']
+        new_row['!Max']=['']
+        dg_bounds_df=dg_bounds_df.append(pd.DataFrame(data=new_row),ignore_index='True')
+        
 dg_bounds_sbtable=SBtab.SBtabTable.from_data_frame(dg_bounds_df,table_id='Gibbs_free_energy_constraints',table_type='Quantity')  
 dg_bounds_sbtable.header_row+=" StandardConcentration='M'"
 dg_bounds_sbtable.write(export_path+'\dg_bounds.tsv')    
@@ -404,8 +413,8 @@ for m in fixed_conc.keys():
             new_row['!QuantityType']=['concentration']
             new_row['!Unit']=['mM']
             new_row['!Compound']=['M_'+m]
-            new_row['!Min']=[str(fixed_conc[m])]
-            new_row['!Max']=[str(fixed_conc[m])]
+            new_row['!Min']=[str(fixed_conc[m]-0.1*fixed_conc[m])]
+            new_row['!Max']=[str(fixed_conc[m]+0.1*fixed_conc[m])]
             new_row['!Compound:Identifiers:kegg.compound']=[bigg2kegg(met.id,'m',model)]
             conc_bounds_df=conc_bounds_df.append(pd.DataFrame(data=new_row),ignore_index='True')
 conc_bounds_sbtable=SBtab.SBtabTable.from_data_frame(conc_bounds_df,table_id='ConcentrationConstrains',table_type='Quantity')  

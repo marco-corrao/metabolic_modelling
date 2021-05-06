@@ -11,7 +11,7 @@ import cobra
 input_name='Escherichia_coli_iCH360.json'
 
 #Name of the COBRA output file
-output_name='Escherichia_coli_iCH360_fix'
+output_name='Escherichia_coli_iCH360'
 
 correct_identifier_reaction={
     'kegg_compound':'kegg.compound',

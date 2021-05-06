@@ -8,10 +8,10 @@ Created on Tue Mar 30 14:47:15 2021
 #%%
 import cobra
 #Name of the COBRA input file
-input_name='Escherichia_coli_iCH360_exchange_flagged.json'
+input_name='Escherichia_coli_iCH360_exchange_diffusion_flagged.json'
 
 #Name of the COBRA output file
-output_name='Escherichia_coli_iCH360_exchange_flagged'
+output_name='Escherichia_coli_iCH360_exchange_diffusion_flagged'
 
 correct_identifier_reaction={
     'kegg_compound':'kegg.compound',
